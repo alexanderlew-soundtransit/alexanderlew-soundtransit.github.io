@@ -46,6 +46,9 @@ loadStopNameExceptionsCSV(stopNameExceptionsEndPoint);
 
 function loadData() {
 	console.log("loading data");
+	// loading data: 
+	document.getElementById("status").innerHTML = "Loading data...";
+	
 	
 	//clear data cache
 	revTripsData = new Array();
@@ -80,7 +83,7 @@ function loadData() {
 				if(loop < lastLoop){
 					loadCSV();
 				} else {
-					
+					document.getElementById("status").innerHTML = "";
 					loadDirectionMenu();	
 				}
 				
