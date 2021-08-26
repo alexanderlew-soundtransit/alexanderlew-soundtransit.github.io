@@ -1,0 +1,2172 @@
+service_id,route_id,trip_id,block_id,sch_arr_time,stop_name,stop_id,stop_seq,direction_name
+Saturday ,,   65032,   85009,15:07   ,,3NG100,          1,
+Saturday ,,   65032,   85009,15:09   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65227,   85013,15:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65227,   85013,15:11   ,,3NG100,          2,
+Saturday ,,   65225,   85012,14:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65225,   85012,14:51   ,,3NG100,          2,
+Saturday ,,   65021,   85013,13:08   ,,3NG100,          1,
+Saturday ,,   65021,   85013,13:09   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65223,   85016,14:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65223,   85016,14:31   ,,3NG100,          2,
+Saturday ,,   65041,   85014,16:37   ,,3NG100,          1,
+Saturday ,,   65041,   85014,16:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65030,   85011,14:47   ,,3NG100,          1,
+Saturday ,,   65030,   85011,14:49   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65224,   85011,14:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65224,   85011,14:41   ,,3NG100,          2,
+Saturday ,,   65031,   85012,14:57   ,,3NG100,          1,
+Saturday ,,   65031,   85012,14:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65193,   85013, 9:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65193,   85013, 9:57   ,Everett Station,evtst,          2,
+Saturday ,,   65202,   85013,10:57   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65202,   85013,11:27   ,Everett Station,evtst,          2,
+Saturday ,,   65195,   85014, 9:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65195,   85014, 9:50   ,,3NG100,          2,
+Saturday ,,   65019,   85016,12:38   ,,3NG100,          1,
+Saturday ,,   65019,   85016,12:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65249,   85020,20:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65249,   85020,20:30   ,,3NG100,          2,
+Saturday ,,   65199,   85011,10:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65199,   85011,10:57   ,Everett Station,evtst,          2,
+Saturday ,,   65212,   85010,12:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65212,   85010,12:55   ,Lynnwood Transit Center,lynntc,          2,
+Saturday ,,   65168,   85012,13:09   ,Lynnwood Transit Center,lynntc,          1,
+Saturday ,,   65168,   85012,13:42   ,Everett Station,evtst,          2,
+Saturday ,,   65027,   85020,14:17   ,,3NG100,          1,
+Saturday ,,   65027,   85020,14:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65208,   85011,11:57   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65208,   85011,12:00   ,,3NG100,          2,
+Saturday ,,   65133,   85020,17:43   ,Everett Station,evtst,          1,
+Saturday ,,   65133,   85020,18:19   ,,3NG100,          2,
+Saturday ,,   65033,   85013,15:17   ,,3NG100,          1,
+Saturday ,,   65033,   85013,15:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65232,   85018,15:57   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65232,   85018,16:01   ,,3NG100,          2,
+Saturday ,,   65221,   85020,14:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65221,   85020,14:11   ,,3NG100,          2,
+Saturday ,,   65220,   85015,13:57   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65220,   85015,14:00   ,,3NG100,          2,
+Saturday ,,   65020,   85009,12:58   ,,3NG100,          1,
+Saturday ,,   65020,   85009,12:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65018,   85011,12:18   ,,3NG100,          1,
+Saturday ,,   65018,   85011,12:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65211,   85013,12:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65211,   85013,12:30   ,,3NG100,          2,
+Saturday ,,   65011,   85014, 9:58   ,,3NG100,          1,
+Saturday ,,   65011,   85014, 9:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65017,   85014,11:58   ,,3NG100,          1,
+Saturday ,,   65017,   85014,11:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65207,   85014,11:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65207,   85014,11:50   ,,3NG100,          2,
+Saturday ,,   65222,   85014,14:17   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65222,   85014,14:21   ,,3NG100,          2,
+Saturday ,,   65235,   85014,16:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65235,   85014,16:31   ,,3NG100,          2,
+Saturday ,,   65028,   85014,14:27   ,,3NG100,          1,
+Saturday ,,   65028,   85014,14:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65167,   85015,12:06   ,Lynnwood Transit Center,lynntc,          1,
+Saturday ,,   65167,   85015,12:39   ,Everett Station,evtst,          2,
+Saturday ,,   65233,   85015,16:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65233,   85015,16:11   ,,3NG100,          2,
+Saturday ,,   65186,   85011, 8:17   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65186,   85011, 8:45   ,Everett Station,evtst,          2,
+Saturday ,,   65226,   85009,14:57   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65226,   85009,15:01   ,,3NG100,          2,
+Saturday ,,   65196,   85010, 9:57   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65196,   85010,10:00   ,,3NG100,          2,
+Saturday ,,   65013,   85010,10:38   ,,3NG100,          1,
+Saturday ,,   65013,   85010,10:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65039,   85015,16:17   ,,3NG100,          1,
+Saturday ,,   65039,   85015,16:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65026,   85015,14:07   ,,3NG100,          1,
+Saturday ,,   65026,   85015,14:09   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65209,   85016,12:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65209,   85016,12:10   ,,3NG100,          2,
+Saturday ,,   65029,   85016,14:37   ,,3NG100,          1,
+Saturday ,,   65029,   85016,14:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65237,   85016,16:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65237,   85016,16:51   ,,3NG100,          2,
+Saturday ,,   65043,   85016,16:57   ,,3NG100,          1,
+Saturday ,,   65043,   85016,16:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65038,   85018,16:07   ,,3NG100,          1,
+Saturday ,,   65038,   85018,16:09   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65229,   85019,15:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65229,   85019,15:31   ,,3NG100,          2,
+Saturday ,,   65236,   85020,16:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65236,   85020,16:41   ,,3NG100,          2,
+Saturday ,,   65035,   85019,15:37   ,,3NG100,          1,
+Saturday ,,   65035,   85019,15:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65042,   85020,16:47   ,,3NG100,          1,
+Saturday ,,   65042,   85020,16:49   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65051,   85020,18:27   ,,3NG100,          1,
+Saturday ,,   65051,   85020,18:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65064,   85020,20:38   ,,3NG100,          1,
+Saturday ,,   65064,   85020,20:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65228,   85021,15:17   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65228,   85021,15:21   ,,3NG100,          2,
+Saturday ,,   65034,   85021,15:27   ,,3NG100,          1,
+Saturday ,,   65034,   85021,15:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65241,   85021,17:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65241,   85021,17:51   ,,3NG100,          2,
+Saturday ,,   65062,   85021,20:18   ,,3NG100,          1,
+Saturday ,,   65062,   85021,20:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65230,   85022,15:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65230,   85022,15:41   ,,3NG100,          2,
+Saturday ,,   65049,   85021,18:07   ,,3NG100,          1,
+Saturday ,,   65049,   85021,18:09   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65248,   85021,20:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65248,   85021,20:10   ,,3NG100,          2,
+Saturday ,,   65036,   85022,15:47   ,,3NG100,          1,
+Saturday ,,   65036,   85022,15:49   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65128,   85022,16:43   ,Everett Station,evtst,          1,
+Saturday ,,   65128,   85022,17:19   ,,3NG100,          2,
+Saturday ,,   65048,   85022,17:57   ,,3NG100,          1,
+Saturday ,,   65048,   85022,17:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65138,   85022,18:53   ,Everett Station,evtst,          1,
+Saturday ,,   65138,   85022,19:27   ,,3NG100,          2,
+Saturday ,,   65057,   85022,19:28   ,,3NG100,          1,
+Saturday ,,   65057,   85022,19:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,  512,   75070,   85028,21:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75070,   85028,21:22   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75070,   85028,21:29   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75070,   85028,21:32   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75070,   85028,21:37   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75070,   85028,21:44   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75070,   85028,21:54   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75070,   85028,22:06   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75079,   85027,22:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75079,   85027,22:52   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75079,   85027,22:59   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75079,   85027,23:02   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75079,   85027,23:07   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75079,   85027,23:14   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75079,   85027,23:24   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75079,   85027,23:34   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75084,   85028,23:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75084,   85028,24:02   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75084,   85028,24:09   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75084,   85028,24:12   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75084,   85028,24:17   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75084,   85028,24:24   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75084,   85028,24:33   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75084,   85028,24:42   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75086,   85033,24:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75086,   85033,24:32   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75086,   85033,24:39   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75086,   85033,24:42   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75086,   85033,24:47   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75086,   85033,24:54   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75086,   85033,25:03   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75086,   85033,25:12   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75050,   85022,17:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75050,   85022,18:05   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75050,   85022,18:12   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75050,   85022,18:15   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75050,   85022,18:20   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75050,   85022,18:29   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75050,   85022,18:41   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75050,   85022,18:53   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75068,   85033,20:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75068,   85033,21:02   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75068,   85033,21:09   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75068,   85033,21:12   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75068,   85033,21:17   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75068,   85033,21:24   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75068,   85033,21:34   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75068,   85033,21:46   ,Everett Station,evtst,          8,North
+Saturday ,,   65185,   85001, 7:57   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65185,   85001, 8:01   ,,3NG100,          2,
+Saturday ,,   65173,   85002, 5:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65173,   85002, 6:05   ,Everett Station,evtst,          2,
+Saturday ,  512,   75055,   85028,18:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75055,   85028,18:54   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75055,   85028,19:01   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75055,   85028,19:04   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75055,   85028,19:09   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75055,   85028,19:18   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75055,   85028,19:30   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75055,   85028,19:42   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75048,   85029,17:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75048,   85029,17:45   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75048,   85029,17:52   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75048,   85029,17:55   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75048,   85029,18:00   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75048,   85029,18:09   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75048,   85029,18:21   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75048,   85029,18:33   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75049,   85031,17:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75049,   85031,17:55   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75049,   85031,18:02   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75049,   85031,18:05   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75049,   85031,18:10   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75049,   85031,18:19   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75049,   85031,18:31   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75049,   85031,18:43   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75057,   85029,19:09   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75057,   85029,19:13   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75057,   85029,19:20   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75057,   85029,19:23   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75057,   85029,19:28   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75057,   85029,19:37   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75057,   85029,19:49   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75057,   85029,20:01   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75060,   85024,19:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75060,   85024,19:43   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75060,   85024,19:50   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75060,   85024,19:53   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75060,   85024,19:58   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75060,   85024,20:06   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75060,   85024,20:16   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75060,   85024,20:28   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75062,   85031,19:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75062,   85031,20:03   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75062,   85031,20:10   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75062,   85031,20:13   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75062,   85031,20:18   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75062,   85031,20:26   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75062,   85031,20:36   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75062,   85031,20:48   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75069,   85022,21:09   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75069,   85022,21:12   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75069,   85022,21:19   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75069,   85022,21:22   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75069,   85022,21:27   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75069,   85022,21:34   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75069,   85022,21:44   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75069,   85022,21:56   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75071,   85030,21:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75071,   85030,21:32   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75071,   85030,21:39   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75071,   85030,21:42   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75071,   85030,21:47   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75071,   85030,21:54   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75071,   85030,22:04   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75071,   85030,22:16   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75072,   85029,21:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75072,   85029,21:42   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75072,   85029,21:49   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75072,   85029,21:52   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75072,   85029,21:57   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75072,   85029,22:04   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75072,   85029,22:14   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75072,   85029,22:26   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75061,   85030,19:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75061,   85030,19:53   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75061,   85030,20:00   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75061,   85030,20:03   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75061,   85030,20:08   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75061,   85030,20:16   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75061,   85030,20:26   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75061,   85030,20:38   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75066,   85020,20:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75066,   85020,20:42   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75066,   85020,20:49   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75066,   85020,20:52   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75066,   85020,20:57   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75066,   85020,21:04   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75066,   85020,21:14   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75066,   85020,21:26   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75067,   85027,20:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75067,   85027,20:52   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75067,   85027,20:59   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75067,   85027,21:02   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75067,   85027,21:07   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75067,   85027,21:14   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75067,   85027,21:24   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75067,   85027,21:36   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75078,   85028,22:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75078,   85028,22:42   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75078,   85028,22:49   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75078,   85028,22:52   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75078,   85028,22:57   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75078,   85028,23:04   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75078,   85028,23:14   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75078,   85028,23:24   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75053,   85020,18:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75053,   85020,18:34   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75053,   85020,18:41   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75053,   85020,18:44   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75053,   85020,18:49   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75053,   85020,18:58   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75053,   85020,19:10   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75053,   85020,19:22   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75052,   85030,18:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75052,   85030,18:25   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75052,   85030,18:32   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75052,   85030,18:35   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75052,   85030,18:40   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75052,   85030,18:49   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75052,   85030,19:01   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75052,   85030,19:13   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75075,   85032,22:09   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75075,   85032,22:12   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75075,   85032,22:19   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75075,   85032,22:22   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75075,   85032,22:27   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75075,   85032,22:34   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75075,   85032,22:44   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75075,   85032,22:55   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75081,   85033,23:14   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75081,   85033,23:17   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75081,   85033,23:24   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75081,   85033,23:27   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75081,   85033,23:32   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75081,   85033,23:39   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75081,   85033,23:48   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75081,   85033,23:57   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75063,   85032,20:09   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75063,   85032,20:13   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75063,   85032,20:20   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75063,   85032,20:23   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75063,   85032,20:28   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75063,   85032,20:36   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75063,   85032,20:46   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75063,   85032,20:58   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75082,   85032,23:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75082,   85032,23:32   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75082,   85032,23:39   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75082,   85032,23:42   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75082,   85032,23:47   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75082,   85032,23:54   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75082,   85032,24:03   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75082,   85032,24:12   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75064,   85021,20:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75064,   85021,20:23   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75064,   85021,20:30   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75064,   85021,20:33   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75064,   85021,20:38   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75064,   85021,20:46   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75064,   85021,20:56   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75064,   85021,21:08   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75074,   85024,21:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75074,   85024,22:02   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75074,   85024,22:09   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75074,   85024,22:12   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75074,   85024,22:17   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75074,   85024,22:24   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75074,   85024,22:34   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75074,   85024,22:46   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75059,   85022,19:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75059,   85022,19:33   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75059,   85022,19:40   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75059,   85022,19:43   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75059,   85022,19:48   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75059,   85022,19:57   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75059,   85022,20:08   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75059,   85022,20:20   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75073,   85026,21:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75073,   85026,21:52   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75073,   85026,21:59   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75073,   85026,22:02   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75073,   85026,22:07   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75073,   85026,22:14   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75073,   85026,22:24   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75073,   85026,22:36   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75065,   85026,20:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75065,   85026,20:32   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75065,   85026,20:39   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75065,   85026,20:42   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75065,   85026,20:47   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75065,   85026,20:55   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75065,   85026,21:05   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75065,   85026,21:17   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75051,   85021,18:09   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75051,   85021,18:15   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75051,   85021,18:22   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75051,   85021,18:25   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75051,   85021,18:30   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75051,   85021,18:39   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75051,   85021,18:51   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75051,   85021,19:03   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75077,   85022,22:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75077,   85022,22:32   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75077,   85022,22:39   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75077,   85022,22:42   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75077,   85022,22:47   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75077,   85022,22:54   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75077,   85022,23:04   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75077,   85022,23:14   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75080,   85029,22:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75080,   85029,23:02   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75080,   85029,23:09   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75080,   85029,23:12   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75080,   85029,23:17   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75080,   85029,23:24   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75080,   85029,23:34   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75080,   85029,23:44   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75056,   85026,18:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75056,   85026,19:03   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75056,   85026,19:10   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75056,   85026,19:13   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75056,   85026,19:18   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75056,   85026,19:27   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75056,   85026,19:39   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75056,   85026,19:51   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75054,   85032,18:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75054,   85032,18:44   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75054,   85032,18:51   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75054,   85032,18:54   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75054,   85032,18:59   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75054,   85032,19:08   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75054,   85032,19:20   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75054,   85032,19:32   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75058,   85027,19:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75058,   85027,19:23   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75058,   85027,19:30   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75058,   85027,19:33   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75058,   85027,19:38   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75058,   85027,19:47   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75058,   85027,19:59   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75058,   85027,20:11   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75076,   85031,22:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75076,   85031,22:22   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75076,   85031,22:29   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75076,   85031,22:32   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75076,   85031,22:37   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75076,   85031,22:44   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75076,   85031,22:54   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75076,   85031,23:04   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75083,   85030,23:44   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75083,   85030,23:47   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75083,   85030,23:54   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75083,   85030,23:57   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75083,   85030,24:02   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75083,   85030,24:09   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75083,   85030,24:18   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75083,   85030,24:27   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75085,   85031,24:14   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75085,   85031,24:17   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75085,   85031,24:24   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75085,   85031,24:27   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75085,   85031,24:32   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75085,   85031,24:39   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75085,   85031,24:48   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75085,   85031,24:57   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75087,   85032,24:48   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75087,   85032,24:51   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75087,   85032,24:58   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75087,   85032,25:01   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75087,   85032,25:06   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75087,   85032,25:13   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75087,   85032,25:22   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75087,   85032,25:31   ,Everett Station,evtst,          8,North
+Saturday ,,   65172,   85001, 5:13   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65172,   85001, 5:41   ,Everett Station,evtst,          2,
+Saturday ,,   65178,   85001, 6:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65178,   85001, 7:05   ,Everett Station,evtst,          2,
+Saturday ,,   65007,   85001, 8:33   ,,3NG100,          1,
+Saturday ,,   65007,   85001, 8:35   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65180,   85002, 7:01   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65180,   85002, 7:29   ,Everett Station,evtst,          2,
+Saturday ,,   65201,   85002,10:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65201,   85002,10:50   ,,3NG100,          2,
+Saturday ,,   65204,   85003,11:17   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65204,   85003,11:20   ,,3NG100,          2,
+Saturday ,,   65014,   85002,10:58   ,,3NG100,          1,
+Saturday ,,   65014,   85002,10:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65192,   85003, 9:17   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65192,   85003, 9:47   ,Everett Station,evtst,          2,
+Saturday ,,   65016,   85003,11:38   ,,3NG100,          1,
+Saturday ,,   65016,   85003,11:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65184,   85003, 7:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65184,   85003, 8:15   ,Everett Station,evtst,          2,
+Saturday ,,   65002,   85003, 5:58   ,,3NG100,          1,
+Saturday ,,   65002,   85003, 5:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65190,   85004, 8:57   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65190,   85004, 9:25   ,Everett Station,evtst,          2,
+Saturday ,,   65182,   85004, 7:25   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65182,   85004, 7:53   ,Everett Station,evtst,          2,
+Saturday ,,   65198,   85004,10:17   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65198,   85004,10:47   ,Everett Station,evtst,          2,
+Saturday ,,   65210,   85004,12:17   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65210,   85004,12:38   ,Everett Station,evtst,          2,
+Saturday ,,   65176,   85005, 6:13   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65176,   85005, 6:41   ,Everett Station,evtst,          2,
+Saturday ,,   65183,   85005, 7:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65183,   85005, 7:41   ,,3NG100,          2,
+Saturday ,,   65174,   85003, 5:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65174,   85003, 5:52   ,,3NG100,          2,
+Saturday ,,   65218,   85004,13:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65218,   85004,13:40   ,,3NG100,          2,
+Saturday ,,   65024,   85004,13:48   ,,3NG100,          1,
+Saturday ,,   65024,   85004,13:49   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65006,   85005, 7:45   ,,3NG100,          1,
+Saturday ,,   65006,   85005, 7:47   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65175,   85004, 6:01   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65175,   85004, 6:29   ,Everett Station,evtst,          2,
+Saturday ,,   65023,   85006,13:38   ,,3NG100,          1,
+Saturday ,,   65023,   85006,13:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65177,   85006, 6:25   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65177,   85006, 6:28   ,,3NG100,          2,
+Saturday ,,   65206,   85006,11:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65206,   85006,12:07   ,Everett Station,evtst,          2,
+Saturday ,,   65194,   85005, 9:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65194,   85005, 9:40   ,,3NG100,          2,
+Saturday ,,   65009,   85007, 9:18   ,,3NG100,          1,
+Saturday ,,   65009,   85007, 9:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65015,   85007,11:18   ,,3NG100,          1,
+Saturday ,,   65015,   85007,11:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65181,   85008, 7:13   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65181,   85008, 7:17   ,,3NG100,          2,
+Saturday ,,   65191,   85008, 9:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65191,   85008, 9:10   ,,3NG100,          2,
+Saturday ,,   65179,   85007, 6:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65179,   85007, 6:53   ,,3NG100,          2,
+Saturday ,,   65205,   85008,11:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65205,   85008,11:57   ,Everett Station,evtst,          2,
+Saturday ,,   65012,   85005,10:18   ,,3NG100,          1,
+Saturday ,,   65012,   85005,10:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65215,   85006,13:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65215,   85006,13:10   ,,3NG100,          2,
+Saturday ,,   65203,   85007,11:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65203,   85007,11:10   ,,3NG100,          2,
+Saturday ,,   65166,   85009,11:06   ,Lynnwood Transit Center,lynntc,          1,
+Saturday ,,   65166,   85009,11:29   ,,3NG100,          2,
+Saturday ,,   65010,   85008, 9:38   ,,3NG100,          1,
+Saturday ,,   65010,   85008, 9:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65189,   85006, 8:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65189,   85006, 9:15   ,Everett Station,evtst,          2,
+Saturday ,,   65022,   85008,13:18   ,,3NG100,          1,
+Saturday ,,   65022,   85008,13:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65214,   85008,12:57   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65214,   85008,13:00   ,,3NG100,          2,
+Saturday ,,   65188,   85007, 8:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65188,   85007, 8:41   ,,3NG100,          2,
+Saturday ,,   65003,   85006, 6:33   ,,3NG100,          1,
+Saturday ,,   65003,   85006, 6:35   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65005,   85008, 7:21   ,,3NG100,          1,
+Saturday ,,   65005,   85008, 7:23   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65197,   85006,10:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65197,   85006,10:37   ,Everett Station,evtst,          2,
+Saturday ,,   65004,   85007, 6:57   ,,3NG100,          1,
+Saturday ,,   65004,   85007, 6:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,  512,   75097,   85008, 6:28   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75097,   85008, 6:36   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75097,   85008, 6:44   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75097,   85008, 6:51   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75097,   85008, 6:55   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75097,   85008, 6:59   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75097,   85008, 7:07   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75097,   85008, 7:13   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  535,   75192,   85012, 8:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75192,   85012, 8:22   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75192,   85012, 8:29   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75192,   85012, 8:35   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75192,   85012, 8:45   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75192,   85012, 8:48   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75192,   85012, 8:59   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75192,   85012, 9:06   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  512,   75106,   85006, 8:00   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75106,   85006, 8:08   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75106,   85006, 8:16   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75106,   85006, 8:23   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75106,   85006, 8:27   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75106,   85006, 8:31   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75106,   85006, 8:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75106,   85006, 8:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  535,   75188,   85023,20:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75188,   85023,20:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75188,   85023,20:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75188,   85023,20:33   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75188,   85023,20:39   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75188,   85023,20:43   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75188,   85023,20:47   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75188,   85023,20:56   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75188,   85023,21:04   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  512,   75096,   85002, 6:18   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75096,   85002, 6:26   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75096,   85002, 6:34   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75096,   85002, 6:41   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75096,   85002, 6:45   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75096,   85002, 6:49   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75096,   85002, 6:57   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75096,   85002, 7:01   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75113,   85010, 9:09   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75113,   85010, 9:17   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75113,   85010, 9:26   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75113,   85010, 9:33   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75113,   85010, 9:37   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75113,   85010, 9:41   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75113,   85010, 9:49   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75113,   85010, 9:57   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75091,   85004, 5:18   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75091,   85004, 5:26   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75091,   85004, 5:34   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75091,   85004, 5:41   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75091,   85004, 5:45   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75091,   85004, 5:49   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75091,   85004, 5:57   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75091,   85004, 6:01   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75104,   85002, 7:40   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75104,   85002, 7:48   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75104,   85002, 7:56   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75104,   85002, 8:03   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75104,   85002, 8:07   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75104,   85002, 8:11   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75104,   85002, 8:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75104,   85002, 8:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75117,   85001, 9:49   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75117,   85001, 9:57   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75117,   85001,10:06   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75117,   85001,10:13   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75117,   85001,10:17   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75117,   85001,10:21   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75117,   85001,10:29   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75117,   85001,10:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  535,   75183,   85023,15:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75183,   85023,15:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75183,   85023,15:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75183,   85023,15:34   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75183,   85023,15:40   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75183,   85023,15:45   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75183,   85023,15:49   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75183,   85023,16:00   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75183,   85023,16:09   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  512,   75088,   85001, 4:30   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75088,   85001, 4:38   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75088,   85001, 4:46   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75088,   85001, 4:53   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75088,   85001, 4:57   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75088,   85001, 5:01   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75088,   85001, 5:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75088,   85001, 5:13   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75089,   85002, 4:54   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75089,   85002, 5:02   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75089,   85002, 5:10   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75089,   85002, 5:17   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75089,   85002, 5:21   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75089,   85002, 5:25   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75089,   85002, 5:33   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75089,   85002, 5:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75103,   85011, 7:30   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75103,   85011, 7:38   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75103,   85011, 7:46   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75103,   85011, 7:53   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75103,   85011, 7:57   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75103,   85011, 8:01   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75103,   85011, 8:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75103,   85011, 8:17   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75095,   85007, 6:06   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75095,   85007, 6:14   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75095,   85007, 6:22   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75095,   85007, 6:29   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75095,   85007, 6:33   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75095,   85007, 6:37   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75095,   85007, 6:45   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75095,   85007, 6:49   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75110,   85013, 8:39   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75110,   85013, 8:47   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75110,   85013, 8:56   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75110,   85013, 9:03   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75110,   85013, 9:07   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75110,   85013, 9:11   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75110,   85013, 9:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75110,   85013, 9:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75112,   85014, 8:59   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75112,   85014, 9:07   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75112,   85014, 9:16   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75112,   85014, 9:23   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75112,   85014, 9:27   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75112,   85014, 9:31   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75112,   85014, 9:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75112,   85014, 9:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  535,   75181,   85017,13:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75181,   85017,13:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75181,   85017,13:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75181,   85017,13:34   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75181,   85017,13:40   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75181,   85017,13:45   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75181,   85017,13:49   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75181,   85017,14:00   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75181,   85017,14:10   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  535,   75191,   85009, 7:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75191,   85009, 7:22   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75191,   85009, 7:29   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75191,   85009, 7:35   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75191,   85009, 7:43   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75191,   85009, 7:46   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75191,   85009, 7:57   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75191,   85009, 8:04   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  512,   75093,   85006, 5:42   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75093,   85006, 5:50   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75093,   85006, 5:58   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75093,   85006, 6:05   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75093,   85006, 6:09   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75093,   85006, 6:13   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75093,   85006, 6:21   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75093,   85006, 6:25   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  535,   75186,   85023,18:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75186,   85023,18:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75186,   85023,18:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75186,   85023,18:34   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75186,   85023,18:40   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75186,   85023,18:44   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75186,   85023,18:48   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75186,   85023,18:59   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75186,   85023,19:07   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  512,   75111,   85005, 8:49   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75111,   85005, 8:57   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75111,   85005, 9:06   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75111,   85005, 9:13   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75111,   85005, 9:17   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75111,   85005, 9:21   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75111,   85005, 9:29   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75111,   85005, 9:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  535,   75178,   85009,10:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75178,   85009,10:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75178,   85009,10:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75178,   85009,10:33   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75178,   85009,10:39   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75178,   85009,10:43   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75178,   85009,10:47   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75178,   85009,10:57   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75178,   85009,11:06   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  535,   75190,   85023,22:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75190,   85023,22:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75190,   85023,22:28   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75190,   85023,22:32   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75190,   85023,22:38   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75190,   85023,22:42   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75190,   85023,22:45   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75190,   85023,22:54   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75190,   85023,23:00   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  535,   75185,   85025,17:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75185,   85025,17:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75185,   85025,17:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75185,   85025,17:34   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75185,   85025,17:40   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75185,   85025,17:45   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75185,   85025,17:49   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75185,   85025,18:00   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75185,   85025,18:08   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  535,   75179,   85015,11:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75179,   85015,11:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75179,   85015,11:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75179,   85015,11:33   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75179,   85015,11:39   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75179,   85015,11:43   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75179,   85015,11:47   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75179,   85015,11:57   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75179,   85015,12:06   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  535,   75189,   85025,21:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75189,   85025,21:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75189,   85025,21:28   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75189,   85025,21:32   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75189,   85025,21:38   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75189,   85025,21:42   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75189,   85025,21:45   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75189,   85025,21:54   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75189,   85025,22:02   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  535,   75184,   85017,16:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75184,   85017,16:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75184,   85017,16:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75184,   85017,16:34   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75184,   85017,16:40   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75184,   85017,16:45   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75184,   85017,16:49   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75184,   85017,17:00   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75184,   85017,17:09   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  512,   75092,   85005, 5:30   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75092,   85005, 5:38   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75092,   85005, 5:46   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75092,   85005, 5:53   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75092,   85005, 5:57   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75092,   85005, 6:01   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75092,   85005, 6:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75092,   85005, 6:13   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75094,   85001, 5:54   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75094,   85001, 6:02   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75094,   85001, 6:10   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75094,   85001, 6:17   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75094,   85001, 6:21   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75094,   85001, 6:25   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75094,   85001, 6:33   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75094,   85001, 6:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75090,   85003, 5:06   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75090,   85003, 5:14   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75090,   85003, 5:22   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75090,   85003, 5:29   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75090,   85003, 5:33   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75090,   85003, 5:37   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75090,   85003, 5:45   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75090,   85003, 5:49   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75098,   85004, 6:40   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75098,   85004, 6:48   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75098,   85004, 6:56   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75098,   85004, 7:03   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75098,   85004, 7:07   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75098,   85004, 7:11   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75098,   85004, 7:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75098,   85004, 7:25   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  535,   75180,   85012,12:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75180,   85012,12:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75180,   85012,12:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75180,   85012,12:33   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75180,   85012,12:39   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75180,   85012,12:44   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75180,   85012,12:48   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75180,   85012,12:59   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75180,   85012,13:09   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  535,   75182,   85010,14:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75182,   85010,14:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75182,   85010,14:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75182,   85010,14:34   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75182,   85010,14:40   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75182,   85010,14:45   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75182,   85010,14:49   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75182,   85010,15:00   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75182,   85010,15:09   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  535,   75187,   85025,19:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75187,   85025,19:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75187,   85025,19:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75187,   85025,19:34   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75187,   85025,19:40   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75187,   85025,19:44   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75187,   85025,19:48   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75187,   85025,19:59   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75187,   85025,20:07   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  512,   75099,   85005, 6:52   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75099,   85005, 7:00   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75099,   85005, 7:08   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75099,   85005, 7:15   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75099,   85005, 7:19   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75099,   85005, 7:23   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75099,   85005, 7:31   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75099,   85005, 7:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75100,   85003, 7:02   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75100,   85003, 7:10   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75100,   85003, 7:18   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75100,   85003, 7:25   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75100,   85003, 7:29   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75100,   85003, 7:33   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75100,   85003, 7:41   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75100,   85003, 7:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75101,   85001, 7:12   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75101,   85001, 7:20   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75101,   85001, 7:28   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75101,   85001, 7:35   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75101,   85001, 7:39   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75101,   85001, 7:43   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75101,   85001, 7:51   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75101,   85001, 7:57   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  535,   75205,   85023,21:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75205,   85023,21:23   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75205,   85023,21:31   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75205,   85023,21:37   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75205,   85023,21:44   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75205,   85023,21:47   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75205,   85023,21:58   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75205,   85023,22:05   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  512,   75102,   85010, 7:20   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75102,   85010, 7:28   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75102,   85010, 7:36   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75102,   85010, 7:43   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75102,   85010, 7:47   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75102,   85010, 7:51   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75102,   85010, 7:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75102,   85010, 8:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75105,   85007, 7:50   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75105,   85007, 7:58   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75105,   85007, 8:06   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75105,   85007, 8:13   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75105,   85007, 8:17   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75105,   85007, 8:21   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75105,   85007, 8:29   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75105,   85007, 8:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75107,   85004, 8:09   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75107,   85004, 8:17   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75107,   85004, 8:26   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75107,   85004, 8:33   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75107,   85004, 8:37   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75107,   85004, 8:41   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75107,   85004, 8:49   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75107,   85004, 8:57   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75108,   85008, 8:19   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75108,   85008, 8:27   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75108,   85008, 8:36   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75108,   85008, 8:43   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75108,   85008, 8:47   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75108,   85008, 8:51   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75108,   85008, 8:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75108,   85008, 9:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75109,   85003, 8:29   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75109,   85003, 8:37   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75109,   85003, 8:46   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75109,   85003, 8:53   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75109,   85003, 8:57   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75109,   85003, 9:01   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75109,   85003, 9:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75109,   85003, 9:17   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75114,   85006, 9:19   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75114,   85006, 9:27   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75114,   85006, 9:36   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75114,   85006, 9:43   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75114,   85006, 9:47   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75114,   85006, 9:51   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75114,   85006, 9:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75114,   85006,10:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75115,   85004, 9:29   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75115,   85004, 9:37   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75115,   85004, 9:46   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75115,   85004, 9:53   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75115,   85004, 9:57   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75115,   85004,10:01   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75115,   85004,10:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75115,   85004,10:17   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75116,   85011, 9:39   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75116,   85011, 9:47   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75116,   85011, 9:56   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75116,   85011,10:03   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75116,   85011,10:07   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75116,   85011,10:11   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75116,   85011,10:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75116,   85011,10:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75118,   85002, 9:59   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75118,   85002,10:07   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75118,   85002,10:16   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75118,   85002,10:23   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75118,   85002,10:27   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75118,   85002,10:31   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75118,   85002,10:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75118,   85002,10:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75119,   85013,10:09   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75119,   85013,10:17   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75119,   85013,10:26   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75119,   85013,10:33   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75119,   85013,10:37   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75119,   85013,10:41   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75119,   85013,10:49   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75119,   85013,10:57   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75120,   85007,10:19   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75120,   85007,10:27   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75120,   85007,10:36   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75120,   85007,10:43   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75120,   85007,10:47   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75120,   85007,10:51   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75120,   85007,10:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75120,   85007,11:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75121,   85003,10:29   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75121,   85003,10:37   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75121,   85003,10:46   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75121,   85003,10:53   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75121,   85003,10:57   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75121,   85003,11:01   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75121,   85003,11:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75121,   85003,11:17   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75122,   85008,10:39   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75122,   85008,10:47   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75122,   85008,10:56   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75122,   85008,11:03   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75122,   85008,11:07   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75122,   85008,11:11   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75122,   85008,11:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75122,   85008,11:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75125,   85011,11:09   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75125,   85011,11:17   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75125,   85011,11:26   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75125,   85011,11:33   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75125,   85011,11:37   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75125,   85011,11:41   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75125,   85011,11:49   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75125,   85011,11:57   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75127,   85004,11:27   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75127,   85004,11:35   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75127,   85004,11:44   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75127,   85004,11:51   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75127,   85004,11:55   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75127,   85004,11:59   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75127,   85004,12:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75127,   85004,12:17   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75128,   85013,11:37   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75128,   85013,11:45   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75128,   85013,11:54   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75128,   85013,12:01   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75128,   85013,12:05   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75128,   85013,12:09   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75128,   85013,12:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75128,   85013,12:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75129,   85010,11:47   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75129,   85010,11:55   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75129,   85010,12:04   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75129,   85010,12:11   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75129,   85010,12:15   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75129,   85010,12:19   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75129,   85010,12:29   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75129,   85010,12:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75130,   85002,11:57   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75130,   85002,12:05   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75130,   85002,12:14   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75130,   85002,12:21   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75130,   85002,12:25   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75130,   85002,12:29   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75130,   85002,12:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75130,   85002,12:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75131,   85008,12:07   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75131,   85008,12:15   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75131,   85008,12:24   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75131,   85008,12:31   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75131,   85008,12:35   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75131,   85008,12:39   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75131,   85008,12:49   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75131,   85008,12:57   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75123,   85006,10:49   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75123,   85006,10:57   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75123,   85006,11:06   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75123,   85006,11:13   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75123,   85006,11:17   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75123,   85006,11:21   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75123,   85006,11:29   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75123,   85006,11:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75132,   85006,12:17   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75132,   85006,12:25   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75132,   85006,12:34   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75132,   85006,12:41   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75132,   85006,12:45   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75132,   85006,12:49   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75132,   85006,12:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75132,   85006,13:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75133,   85007,12:27   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75133,   85007,12:35   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75133,   85007,12:44   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75133,   85007,12:51   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75133,   85007,12:55   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75133,   85007,12:59   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75133,   85007,13:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75133,   85007,13:17   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75134,   85003,12:37   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75134,   85003,12:45   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75134,   85003,12:54   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75134,   85003,13:01   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75134,   85003,13:05   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75134,   85003,13:09   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75134,   85003,13:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75134,   85003,13:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75135,   85004,12:46   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75135,   85004,12:54   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75135,   85004,13:03   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75135,   85004,13:11   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75135,   85004,13:15   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75135,   85004,13:19   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75135,   85004,13:29   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75135,   85004,13:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75124,   85014,10:59   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75124,   85014,11:07   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75124,   85014,11:16   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75124,   85014,11:23   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75124,   85014,11:27   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75124,   85014,11:31   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75124,   85014,11:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75124,   85014,11:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75126,   85016,11:19   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75126,   85016,11:27   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75126,   85016,11:36   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75126,   85016,11:43   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75126,   85016,11:47   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75126,   85016,11:51   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75126,   85016,11:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75126,   85016,12:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75153,   85020,15:46   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75153,   85020,15:54   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75153,   85020,16:03   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75153,   85020,16:11   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75153,   85020,16:15   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75153,   85020,16:19   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75153,   85020,16:29   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75153,   85020,16:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75160,   85032,17:37   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75160,   85032,17:45   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75160,   85032,17:53   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75160,   85032,18:01   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75160,   85032,18:05   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75160,   85032,18:09   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75160,   85032,18:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75160,   85032,18:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75168,   85028,20:21   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75168,   85028,20:29   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75168,   85028,20:37   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75168,   85028,20:45   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75168,   85028,20:49   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75168,   85028,20:53   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75168,   85028,21:00   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75168,   85028,21:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75175,   85031,23:19   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75175,   85031,23:27   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75175,   85031,23:35   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75175,   85031,23:43   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75175,   85031,23:47   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75175,   85031,23:51   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75175,   85031,23:57   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75175,   85031,24:03   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75002,   85006, 6:35   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75002,   85006, 6:37   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75002,   85006, 6:43   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75002,   85006, 6:46   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75002,   85006, 6:51   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75002,   85006, 6:58   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75002,   85006, 7:08   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75002,   85006, 7:19   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75148,   85024,14:56   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75148,   85024,15:04   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75148,   85024,15:13   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75148,   85024,15:21   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75148,   85024,15:25   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75148,   85024,15:29   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75148,   85024,15:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75148,   85024,15:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75158,   85021,16:57   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75158,   85021,17:05   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75158,   85021,17:13   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75158,   85021,17:21   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75158,   85021,17:25   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75158,   85021,17:29   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75158,   85021,17:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75158,   85021,17:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75163,   85024,18:39   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75163,   85024,18:47   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75163,   85024,18:55   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75163,   85024,19:03   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75163,   85024,19:07   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75163,   85024,19:11   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75163,   85024,19:20   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75163,   85024,19:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75149,   85018,15:06   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75149,   85018,15:14   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75149,   85018,15:23   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75149,   85018,15:31   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75149,   85018,15:35   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75149,   85018,15:39   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75149,   85018,15:49   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75149,   85018,15:57   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75154,   85016,15:56   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75154,   85016,16:04   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75154,   85016,16:13   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75154,   85016,16:21   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75154,   85016,16:25   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75154,   85016,16:29   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75154,   85016,16:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75154,   85016,16:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75142,   85012,13:56   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75142,   85012,14:04   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75142,   85012,14:13   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75142,   85012,14:21   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75142,   85012,14:25   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75142,   85012,14:29   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75142,   85012,14:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75142,   85012,14:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75167,   85033,20:01   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75167,   85033,20:09   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75167,   85033,20:17   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75167,   85033,20:25   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75167,   85033,20:29   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75167,   85033,20:33   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75167,   85033,20:40   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75167,   85033,20:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75139,   85014,13:26   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75139,   85014,13:34   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75139,   85014,13:43   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75139,   85014,13:51   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75139,   85014,13:55   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75139,   85014,13:59   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75139,   85014,14:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75139,   85014,14:17   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75145,   85021,14:26   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75145,   85021,14:34   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75145,   85021,14:43   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75145,   85021,14:51   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75145,   85021,14:55   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75145,   85021,14:59   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75145,   85021,15:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75145,   85021,15:17   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75159,   85030,17:17   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75159,   85030,17:25   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75159,   85030,17:33   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75159,   85030,17:41   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75159,   85030,17:45   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75159,   85030,17:49   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75159,   85030,17:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75159,   85030,18:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75169,   85029,20:41   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75169,   85029,20:49   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75169,   85029,20:57   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75169,   85029,21:05   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75169,   85029,21:09   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75169,   85029,21:13   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75169,   85029,21:20   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75169,   85029,21:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75151,   85026,15:26   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75151,   85026,15:34   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75151,   85026,15:43   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75151,   85026,15:51   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75151,   85026,15:55   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75151,   85026,15:59   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75151,   85026,16:09   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75151,   85026,16:17   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75156,   85028,16:16   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75156,   85028,16:24   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75156,   85028,16:33   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75156,   85028,16:41   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75156,   85028,16:45   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75156,   85028,16:49   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75156,   85028,16:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75156,   85028,17:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75164,   85031,18:59   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75164,   85031,19:07   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75164,   85031,19:15   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75164,   85031,19:23   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75164,   85031,19:27   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75164,   85031,19:31   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75164,   85031,19:40   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75164,   85031,19:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75173,   85033,22:19   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75173,   85033,22:27   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75173,   85033,22:35   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75173,   85033,22:43   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75173,   85033,22:47   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75173,   85033,22:51   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75173,   85033,22:57   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75173,   85033,23:03   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75147,   85022,14:46   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75147,   85022,14:54   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75147,   85022,15:03   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75147,   85022,15:11   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75147,   85022,15:15   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75147,   85022,15:19   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75147,   85022,15:29   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75147,   85022,15:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75170,   85024,21:01   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75170,   85024,21:09   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75170,   85024,21:17   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75170,   85024,21:25   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75170,   85024,21:29   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75170,   85024,21:33   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75170,   85024,21:40   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75170,   85024,21:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75174,   85030,22:49   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75174,   85030,22:57   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75174,   85030,23:05   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75174,   85030,23:13   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75174,   85030,23:17   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75174,   85030,23:21   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75174,   85030,23:27   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75174,   85030,23:33   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75165,   85021,19:19   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75165,   85021,19:27   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75165,   85021,19:35   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75165,   85021,19:43   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75165,   85021,19:47   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75165,   85021,19:51   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75165,   85021,20:00   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75165,   85021,20:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75138,   85020,13:16   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75138,   85020,13:24   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75138,   85020,13:33   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75138,   85020,13:41   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75138,   85020,13:45   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75138,   85020,13:49   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75138,   85020,13:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75138,   85020,14:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75143,   85009,14:06   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75143,   85009,14:14   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75143,   85009,14:23   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75143,   85009,14:31   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75143,   85009,14:35   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75143,   85009,14:39   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75143,   85009,14:49   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75143,   85009,14:57   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75144,   85013,14:16   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75144,   85013,14:24   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75144,   85013,14:33   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75144,   85013,14:41   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75144,   85013,14:45   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75144,   85013,14:49   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75144,   85013,14:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75144,   85013,15:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75157,   85029,16:36   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75157,   85029,16:44   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75157,   85029,16:53   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75157,   85029,17:01   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75157,   85029,17:05   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75157,   85029,17:09   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75157,   85029,17:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75157,   85029,17:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75161,   85026,17:57   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75161,   85026,18:05   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75161,   85026,18:13   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75161,   85026,18:21   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75161,   85026,18:25   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75161,   85026,18:29   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75161,   85026,18:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75161,   85026,18:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75137,   85015,13:06   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75137,   85015,13:14   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75137,   85015,13:23   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75137,   85015,13:31   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75137,   85015,13:35   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75137,   85015,13:39   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75137,   85015,13:49   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75137,   85015,13:57   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75162,   85033,18:18   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75162,   85033,18:26   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75162,   85033,18:34   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75162,   85033,18:42   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75162,   85033,18:46   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75162,   85033,18:50   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75162,   85033,19:00   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75162,   85033,19:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75171,   85031,21:22   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75171,   85031,21:30   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75171,   85031,21:38   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75171,   85031,21:46   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75171,   85031,21:50   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75171,   85031,21:54   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75171,   85031,22:01   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75171,   85031,22:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75152,   85014,15:36   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75152,   85014,15:44   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75152,   85014,15:53   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75152,   85014,16:01   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75152,   85014,16:05   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75152,   85014,16:09   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75152,   85014,16:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75152,   85014,16:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75136,   85018,12:56   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75136,   85018,13:04   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75136,   85018,13:13   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75136,   85018,13:21   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75136,   85018,13:25   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75136,   85018,13:29   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75136,   85018,13:39   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75136,   85018,13:47   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75140,   85016,13:36   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75140,   85016,13:44   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75140,   85016,13:53   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75140,   85016,14:01   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75140,   85016,14:05   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75140,   85016,14:09   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75140,   85016,14:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75140,   85016,14:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75141,   85011,13:46   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75141,   85011,13:54   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75141,   85011,14:03   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75141,   85011,14:11   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75141,   85011,14:15   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75141,   85011,14:19   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75141,   85011,14:29   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75141,   85011,14:37   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75150,   85015,15:16   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75150,   85015,15:24   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75150,   85015,15:33   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75150,   85015,15:41   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75150,   85015,15:45   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75150,   85015,15:49   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75150,   85015,15:59   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75150,   85015,16:07   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75146,   85019,14:36   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75146,   85019,14:44   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75146,   85019,14:53   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75146,   85019,15:01   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75146,   85019,15:05   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75146,   85019,15:09   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75146,   85019,15:19   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75146,   85019,15:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75155,   85027,16:06   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75155,   85027,16:14   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75155,   85027,16:23   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75155,   85027,16:31   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75155,   85027,16:35   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75155,   85027,16:39   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75155,   85027,16:49   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75155,   85027,16:57   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75166,   85020,19:41   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75166,   85020,19:49   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75166,   85020,19:57   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75166,   85020,20:05   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75166,   85020,20:09   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75166,   85020,20:13   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75166,   85020,20:20   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75166,   85020,20:27   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75172,   85027,21:49   ,Everett Station,evtst,          1,South
+Saturday ,  512,   75172,   85027,21:57   ,South Everett Freeway Station,sefs,          2,South
+Saturday ,  512,   75172,   85027,22:05   ,Ash Way Park & Ride,awypr,          3,South
+Saturday ,  512,   75172,   85027,22:13   ,Lynnwood Transit Center,lynntc,          4,South
+Saturday ,  512,   75172,   85027,22:17   ,Mountlake Terrace Freeway Station,mltfs,          5,South
+Saturday ,  512,   75172,   85027,22:21   ,I-5 & NE 195th,195i5,          6,South
+Saturday ,  512,   75172,   85027,22:27   ,I-5 at 117th, Northgate,117i5,          7,South
+Saturday ,  512,   75172,   85027,22:33   ,NORTHGATE TRANSIT CENTER,nortc,          8,South
+Saturday ,  512,   75001,   85003, 5:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75001,   85003, 6:01   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75001,   85003, 6:07   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75001,   85003, 6:10   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75001,   85003, 6:15   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75001,   85003, 6:22   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75001,   85003, 6:32   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75001,   85003, 6:43   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75005,   85005, 7:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75005,   85005, 7:50   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75005,   85005, 7:57   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75005,   85005, 8:00   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75005,   85005, 8:05   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75005,   85005, 8:13   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75005,   85005, 8:23   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75005,   85005, 8:34   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75006,   85010, 8:11   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75006,   85010, 8:14   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75006,   85010, 8:21   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75006,   85010, 8:24   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75006,   85010, 8:29   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75006,   85010, 8:37   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75006,   85010, 8:47   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75006,   85010, 8:58   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75009,   85007, 9:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75009,   85007, 9:22   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75009,   85007, 9:29   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75009,   85007, 9:32   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75009,   85007, 9:37   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75009,   85007, 9:45   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75009,   85007, 9:55   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75009,   85007,10:06   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75004,   85008, 7:23   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75004,   85008, 7:26   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75004,   85008, 7:33   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75004,   85008, 7:36   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75004,   85008, 7:41   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75004,   85008, 7:49   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75004,   85008, 7:59   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75004,   85008, 8:10   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75010,   85008, 9:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75010,   85008, 9:42   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75010,   85008, 9:49   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75010,   85008, 9:52   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75010,   85008, 9:57   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75010,   85008,10:05   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75010,   85008,10:15   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75010,   85008,10:26   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75012,   85005,10:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75012,   85005,10:22   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75012,   85005,10:29   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75012,   85005,10:32   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75012,   85005,10:37   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75012,   85005,10:45   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75012,   85005,10:55   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75012,   85005,11:07   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75014,   85002,10:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75014,   85002,11:02   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75014,   85002,11:09   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75014,   85002,11:12   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75014,   85002,11:17   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75014,   85002,11:25   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75014,   85002,11:35   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75014,   85002,11:47   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75015,   85007,11:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75015,   85007,11:22   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75015,   85007,11:29   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75015,   85007,11:32   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75015,   85007,11:37   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75015,   85007,11:45   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75015,   85007,11:55   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75015,   85007,12:07   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75016,   85003,11:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75016,   85003,11:43   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75016,   85003,11:50   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75016,   85003,11:53   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75016,   85003,11:58   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75016,   85003,12:07   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75016,   85003,12:17   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75016,   85003,12:29   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75017,   85014,11:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75017,   85014,12:03   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75017,   85014,12:10   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75017,   85014,12:13   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75017,   85014,12:18   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75017,   85014,12:27   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75017,   85014,12:38   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75017,   85014,12:50   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75018,   85011,12:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75018,   85011,12:23   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75018,   85011,12:30   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75018,   85011,12:33   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75018,   85011,12:38   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75018,   85011,12:47   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75018,   85011,12:59   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75018,   85011,13:11   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75019,   85016,12:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75019,   85016,12:43   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75019,   85016,12:50   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75019,   85016,12:53   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75019,   85016,12:58   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75019,   85016,13:07   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75019,   85016,13:19   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75019,   85016,13:31   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75008,   85002, 8:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75008,   85002, 9:02   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75008,   85002, 9:09   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75008,   85002, 9:12   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75008,   85002, 9:17   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75008,   85002, 9:25   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75008,   85002, 9:35   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75008,   85002, 9:46   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75021,   85013,13:09   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75021,   85013,13:13   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75021,   85013,13:20   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75021,   85013,13:23   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75021,   85013,13:28   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75021,   85013,13:37   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75021,   85013,13:49   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75021,   85013,14:01   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75013,   85010,10:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75013,   85010,10:42   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75013,   85010,10:49   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75013,   85010,10:52   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75013,   85010,10:57   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75013,   85010,11:05   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75013,   85010,11:15   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75013,   85010,11:27   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75020,   85009,12:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75020,   85009,13:03   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75020,   85009,13:10   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75020,   85009,13:13   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75020,   85009,13:18   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75020,   85009,13:27   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75020,   85009,13:39   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75020,   85009,13:51   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75011,   85014, 9:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75011,   85014,10:02   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75011,   85014,10:09   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75011,   85014,10:12   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75011,   85014,10:17   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75011,   85014,10:25   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75011,   85014,10:35   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75011,   85014,10:47   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75022,   85008,13:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75022,   85008,13:23   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75022,   85008,13:30   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75022,   85008,13:33   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75022,   85008,13:38   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75022,   85008,13:47   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75022,   85008,13:59   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75022,   85008,14:11   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75003,   85007, 6:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75003,   85007, 7:02   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75003,   85007, 7:09   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75003,   85007, 7:12   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75003,   85007, 7:17   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75003,   85007, 7:24   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75003,   85007, 7:34   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75003,   85007, 7:45   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75023,   85019,13:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75023,   85019,13:33   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75023,   85019,13:40   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75023,   85019,13:43   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75023,   85019,13:48   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75023,   85019,13:57   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75023,   85019,14:09   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75023,   85019,14:21   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75024,   85006,13:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75024,   85006,13:43   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75024,   85006,13:50   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75024,   85006,13:53   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75024,   85006,13:58   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75024,   85006,14:07   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75024,   85006,14:19   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75024,   85006,14:31   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75007,   85001, 8:35   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75007,   85001, 8:38   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75007,   85001, 8:45   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75007,   85001, 8:48   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75007,   85001, 8:53   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75007,   85001, 9:01   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75007,   85001, 9:11   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75007,   85001, 9:22   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75038,   85024,15:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75038,   85024,16:05   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75038,   85024,16:12   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75038,   85024,16:15   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75038,   85024,16:20   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75038,   85024,16:29   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75038,   85024,16:41   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75038,   85024,16:53   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75041,   85026,16:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75041,   85026,16:35   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75041,   85026,16:42   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75041,   85026,16:45   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75041,   85026,16:50   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75041,   85026,16:59   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75041,   85026,17:11   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75041,   85026,17:23   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75034,   85013,15:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75034,   85013,15:25   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75034,   85013,15:32   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75034,   85013,15:35   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75034,   85013,15:40   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75034,   85013,15:49   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75034,   85013,16:01   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75034,   85013,16:13   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75040,   85015,16:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75040,   85015,16:25   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75040,   85015,16:32   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75040,   85015,16:35   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75040,   85015,16:40   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75040,   85015,16:49   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75040,   85015,17:01   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75040,   85015,17:13   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75039,   85018,16:09   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75039,   85018,16:15   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75039,   85018,16:22   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75039,   85018,16:25   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75039,   85018,16:30   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75039,   85018,16:39   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75039,   85018,16:51   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75039,   85018,17:03   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75043,   85020,16:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75043,   85020,16:55   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75043,   85020,17:02   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75043,   85020,17:05   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75043,   85020,17:10   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75043,   85020,17:19   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75043,   85020,17:31   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75043,   85020,17:43   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75026,   85018,13:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75026,   85018,14:03   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75026,   85018,14:10   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75026,   85018,14:13   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75026,   85018,14:18   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75026,   85018,14:27   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75026,   85018,14:39   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75026,   85018,14:51   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75035,   85021,15:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75035,   85021,15:35   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75035,   85021,15:42   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75035,   85021,15:45   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75035,   85021,15:50   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75035,   85021,15:59   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75035,   85021,16:11   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75035,   85021,16:23   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75032,   85012,14:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75032,   85012,15:05   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75032,   85012,15:12   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75032,   85012,15:15   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75032,   85012,15:20   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75032,   85012,15:29   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75032,   85012,15:41   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75032,   85012,15:53   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75030,   85016,14:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75030,   85016,14:44   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75030,   85016,14:51   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75030,   85016,14:54   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75030,   85016,14:59   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75030,   85016,15:08   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75030,   85016,15:20   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75030,   85016,15:32   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75029,   85014,14:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75029,   85014,14:34   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75029,   85014,14:41   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75029,   85014,14:44   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75029,   85014,14:49   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75029,   85014,14:58   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75029,   85014,15:10   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75029,   85014,15:22   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75044,   85016,16:59   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75044,   85016,17:05   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75044,   85016,17:12   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75044,   85016,17:15   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75044,   85016,17:20   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75044,   85016,17:29   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75044,   85016,17:41   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75044,   85016,17:53   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75025,   85004,13:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75025,   85004,13:53   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75025,   85004,14:00   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75025,   85004,14:03   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75025,   85004,14:08   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75025,   85004,14:17   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75025,   85004,14:29   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75025,   85004,14:41   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75031,   85011,14:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75031,   85011,14:54   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75031,   85011,15:01   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75031,   85011,15:04   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75031,   85011,15:09   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75031,   85011,15:18   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75031,   85011,15:30   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75031,   85011,15:42   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75042,   85014,16:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75042,   85014,16:45   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75042,   85014,16:52   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75042,   85014,16:55   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75042,   85014,17:00   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75042,   85014,17:09   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75042,   85014,17:21   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75042,   85014,17:33   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75045,   85027,17:09   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75045,   85027,17:15   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75045,   85027,17:22   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75045,   85027,17:25   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75045,   85027,17:30   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75045,   85027,17:39   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75045,   85027,17:51   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75045,   85027,18:03   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75046,   85028,17:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75046,   85028,17:25   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75046,   85028,17:32   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75046,   85028,17:35   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75046,   85028,17:40   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75046,   85028,17:49   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75046,   85028,18:01   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75046,   85028,18:13   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75047,   85024,17:29   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75047,   85024,17:35   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75047,   85024,17:42   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75047,   85024,17:45   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75047,   85024,17:50   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75047,   85024,17:59   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75047,   85024,18:11   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75047,   85024,18:23   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75027,   85015,14:09   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75027,   85015,14:13   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75027,   85015,14:20   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75027,   85015,14:23   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75027,   85015,14:28   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75027,   85015,14:37   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75027,   85015,14:49   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75027,   85015,15:01   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75028,   85020,14:19   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75028,   85020,14:23   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75028,   85020,14:30   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75028,   85020,14:33   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75028,   85020,14:38   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75028,   85020,14:47   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75028,   85020,14:59   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75028,   85020,15:11   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75033,   85009,15:09   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75033,   85009,15:15   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75033,   85009,15:22   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75033,   85009,15:25   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75033,   85009,15:30   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75033,   85009,15:39   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75033,   85009,15:51   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75033,   85009,16:03   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75037,   85022,15:49   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75037,   85022,15:55   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75037,   85022,16:02   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75037,   85022,16:05   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75037,   85022,16:10   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75037,   85022,16:19   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75037,   85022,16:31   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75037,   85022,16:43   ,Everett Station,evtst,          8,North
+Saturday ,  512,   75036,   85019,15:39   ,NORTHGATE TRANSIT CENTER,nortc,          1,North
+Saturday ,  512,   75036,   85019,15:45   ,I-5 at 117th, Northgate,117i5,          2,North
+Saturday ,  512,   75036,   85019,15:52   ,I-5 & NE 195th,195i5,          3,North
+Saturday ,  512,   75036,   85019,15:55   ,Mountlake Terrace Freeway Station,mltfs,          4,North
+Saturday ,  512,   75036,   85019,16:00   ,Lynnwood Transit Center,lynntc,          5,North
+Saturday ,  512,   75036,   85019,16:09   ,Ash Way Park & Ride,awypr,          6,North
+Saturday ,  512,   75036,   85019,16:21   ,South Everett Freeway Station,sefs,          7,North
+Saturday ,  512,   75036,   85019,16:33   ,Everett Station,evtst,          8,North
+Saturday ,  535,   75196,   85017,12:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75196,   85017,12:24   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75196,   85017,12:32   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75196,   85017,12:38   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75196,   85017,12:48   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75196,   85017,12:51   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75196,   85017,13:03   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75196,   85017,13:11   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75193,   85009, 9:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75193,   85009, 9:22   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75193,   85009, 9:29   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75193,   85009, 9:35   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75193,   85009, 9:45   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75193,   85009, 9:48   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75193,   85009, 9:59   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75193,   85009,10:07   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75194,   85015,10:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75194,   85015,10:24   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75194,   85015,10:32   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75194,   85015,10:38   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75194,   85015,10:48   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75194,   85015,10:51   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75194,   85015,11:03   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75194,   85015,11:11   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75195,   85012,11:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75195,   85012,11:24   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75195,   85012,11:32   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75195,   85012,11:38   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75195,   85012,11:48   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75195,   85012,11:51   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75195,   85012,12:03   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75195,   85012,12:11   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75197,   85010,13:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75197,   85010,13:24   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75197,   85010,13:32   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75197,   85010,13:38   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75197,   85010,13:48   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75197,   85010,13:51   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75197,   85010,14:03   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75197,   85010,14:11   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75198,   85017,14:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75198,   85017,14:25   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75198,   85017,14:34   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75198,   85017,14:40   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75198,   85017,14:50   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75198,   85017,14:53   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75198,   85017,15:06   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75198,   85017,15:14   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75199,   85025,15:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75199,   85025,15:25   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75199,   85025,15:34   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75199,   85025,15:40   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75199,   85025,15:49   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75199,   85025,15:52   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75199,   85025,16:05   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75199,   85025,16:13   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75200,   85023,16:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75200,   85023,16:25   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75200,   85023,16:34   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75200,   85023,16:40   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75200,   85023,16:49   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75200,   85023,16:52   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75200,   85023,17:05   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75200,   85023,17:13   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75201,   85017,17:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75201,   85017,17:25   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75201,   85017,17:34   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75201,   85017,17:40   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75201,   85017,17:49   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75201,   85017,17:52   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75201,   85017,18:05   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75201,   85017,18:12   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75202,   85025,18:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75202,   85025,18:24   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75202,   85025,18:33   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75202,   85025,18:39   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75202,   85025,18:48   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75202,   85025,18:51   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75202,   85025,19:04   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75202,   85025,19:11   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75203,   85023,19:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75203,   85023,19:23   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75203,   85023,19:31   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75203,   85023,19:37   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75203,   85023,19:46   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75203,   85023,19:49   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75203,   85023,20:01   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75203,   85023,20:08   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75204,   85025,20:18   ,Lynnwood Transit Center,lynntc,          1,South
+Saturday ,  535,   75204,   85025,20:23   ,Alderwood Mall Pkwy & 184th St SW,ald184,          2,South
+Saturday ,  535,   75204,   85025,20:31   ,Canyon Park Park & Ride,cpkpr,          3,South
+Saturday ,  535,   75204,   85025,20:37   ,UW Bothell & Cascadia College,uwb1,          4,South
+Saturday ,  535,   75204,   85025,20:46   ,I-405 & NE 160th St,by405,          5,South
+Saturday ,  535,   75204,   85025,20:49   ,Totem Lake Freeway Station,405tl,          6,South
+Saturday ,  535,   75204,   85025,21:01   ,Bellevue Transit Center,blvtc,          7,South
+Saturday ,  535,   75204,   85025,21:08   ,NE 10th St & 102nd Ave NE,10102,          8,South
+Saturday ,  535,   75176,   85009, 8:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75176,   85009, 8:17   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75176,   85009, 8:28   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75176,   85009, 8:32   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75176,   85009, 8:38   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75176,   85009, 8:41   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75176,   85009, 8:45   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75176,   85009, 8:53   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75176,   85009, 9:01   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,  535,   75177,   85012, 9:14   ,NE 10th St & 102nd Ave NE,10102,          1,North
+Saturday ,  535,   75177,   85012, 9:18   ,Bellevue Transit Center,blvtc,          2,North
+Saturday ,  535,   75177,   85012, 9:29   ,Totem Lake Freeway Station,405tl,          3,North
+Saturday ,  535,   75177,   85012, 9:33   ,I-405 & NE 160th St,by405,          4,North
+Saturday ,  535,   75177,   85012, 9:39   ,UW Bothell & Cascadia College,uwb1,          5,North
+Saturday ,  535,   75177,   85012, 9:43   ,I-405 & NE 195th St,405195,          6,North
+Saturday ,  535,   75177,   85012, 9:47   ,Canyon Park Park & Ride,cpkpr,          7,North
+Saturday ,  535,   75177,   85012, 9:57   ,Alderwood Mall Pkwy & 184th St SW,ald184,          8,North
+Saturday ,  535,   75177,   85012,10:06   ,Lynnwood Transit Center,lynntc,          9,North
+Saturday ,,   65239,   85028,17:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65239,   85028,17:11   ,,3NG100,          2,
+Saturday ,,   65045,   85028,17:17   ,,3NG100,          1,
+Saturday ,,   65045,   85028,17:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65135,   85027,18:03   ,Everett Station,evtst,          1,
+Saturday ,,   65135,   85027,18:39   ,,3NG100,          2,
+Saturday ,,   65056,   85027,19:18   ,,3NG100,          1,
+Saturday ,,   65056,   85027,19:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65143,   85022,20:20   ,Everett Station,evtst,          1,
+Saturday ,,   65143,   85022,20:54   ,,3NG100,          2,
+Saturday ,,   65077,   85027,22:48   ,,3NG100,          1,
+Saturday ,,   65077,   85027,22:49   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65067,   85022,21:08   ,,3NG100,          1,
+Saturday ,,   65067,   85022,21:09   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65240,   85029,17:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65240,   85029,17:31   ,,3NG100,          2,
+Saturday ,,   65075,   85022,22:29   ,,3NG100,          1,
+Saturday ,,   65075,   85022,22:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65231,   85024,15:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65231,   85024,15:51   ,,3NG100,          2,
+Saturday ,,   65070,   85029,21:38   ,,3NG100,          1,
+Saturday ,,   65070,   85029,21:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65054,   85026,18:58   ,,3NG100,          1,
+Saturday ,,   65054,   85026,18:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65151,   85029,22:26   ,Everett Station,evtst,          1,
+Saturday ,,   65151,   85029,22:59   ,,3NG100,          2,
+Saturday ,,   65082,   85028,23:58   ,,3NG100,          1,
+Saturday ,,   65082,   85028,23:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65044,   85027,17:07   ,,3NG100,          1,
+Saturday ,,   65044,   85027,17:09   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65069,   85030,21:28   ,,3NG100,          1,
+Saturday ,,   65069,   85030,21:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65055,   85029,19:08   ,,3NG100,          1,
+Saturday ,,   65055,   85029,19:09   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65050,   85030,18:17   ,,3NG100,          1,
+Saturday ,,   65050,   85030,18:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65060,   85031,19:58   ,,3NG100,          1,
+Saturday ,,   65060,   85031,19:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65058,   85024,19:38   ,,3NG100,          1,
+Saturday ,,   65058,   85024,19:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65253,   85024,21:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65253,   85024,21:50   ,,3NG100,          2,
+Saturday ,,   65072,   85024,21:58   ,,3NG100,          1,
+Saturday ,,   65072,   85024,21:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65149,   85022,21:56   ,Everett Station,evtst,          1,
+Saturday ,,   65149,   85022,22:29   ,,3NG100,          2,
+Saturday ,,   65037,   85024,15:57   ,,3NG100,          1,
+Saturday ,,   65037,   85024,15:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65234,   85026,16:17   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65234,   85026,16:21   ,,3NG100,          2,
+Saturday ,,   65040,   85026,16:27   ,,3NG100,          1,
+Saturday ,,   65040,   85026,16:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65244,   85026,18:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65244,   85026,18:50   ,,3NG100,          2,
+Saturday ,,   65129,   85024,16:53   ,Everett Station,evtst,          1,
+Saturday ,,   65129,   85024,17:29   ,,3NG100,          2,
+Saturday ,,   65141,   85026,19:51   ,Everett Station,evtst,          1,
+Saturday ,,   65141,   85026,20:25   ,,3NG100,          2,
+Saturday ,,   65246,   85024,19:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65246,   85024,19:30   ,,3NG100,          2,
+Saturday ,,   65063,   85026,20:28   ,,3NG100,          1,
+Saturday ,,   65063,   85026,20:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65147,   85026,21:17   ,Everett Station,evtst,          1,
+Saturday ,,   65147,   85026,21:49   ,,3NG100,          2,
+Saturday ,,   65046,   85024,17:29   ,,3NG100,          1,
+Saturday ,,   65046,   85024,17:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65071,   85026,21:49   ,,3NG100,          1,
+Saturday ,,   65071,   85026,21:49   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65238,   85027,16:57   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65238,   85027,17:01   ,,3NG100,          2,
+Saturday ,,   65142,   85027,20:11   ,Everett Station,evtst,          1,
+Saturday ,,   65142,   85027,20:45   ,,3NG100,          2,
+Saturday ,,   65255,   85027,22:33   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65255,   85027,22:36   ,,3NG100,          2,
+Saturday ,,   65065,   85027,20:48   ,,3NG100,          1,
+Saturday ,,   65065,   85027,20:49   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65053,   85028,18:49   ,,3NG100,          1,
+Saturday ,,   65053,   85028,18:49   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65068,   85028,21:18   ,,3NG100,          1,
+Saturday ,,   65068,   85028,21:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65150,   85028,22:06   ,Everett Station,evtst,          1,
+Saturday ,,   65150,   85028,22:39   ,,3NG100,          2,
+Saturday ,,   65136,   85028,18:13   ,Everett Station,evtst,          1,
+Saturday ,,   65136,   85028,18:49   ,,3NG100,          2,
+Saturday ,,   65076,   85028,22:39   ,,3NG100,          1,
+Saturday ,,   65076,   85028,22:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65156,   85028,23:24   ,Everett Station,evtst,          1,
+Saturday ,,   65156,   85028,23:58   ,,3NG100,          2,
+Saturday ,,   65251,   85028,21:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65251,   85028,21:10   ,,3NG100,          2,
+Saturday ,,   65047,   85029,17:37   ,,3NG100,          1,
+Saturday ,,   65047,   85029,17:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65137,   85029,18:33   ,Everett Station,evtst,          1,
+Saturday ,,   65137,   85029,19:07   ,,3NG100,          2,
+Saturday ,,   65252,   85029,21:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65252,   85029,21:30   ,,3NG100,          2,
+Saturday ,,   65078,   85029,22:59   ,,3NG100,          1,
+Saturday ,,   65078,   85029,22:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65242,   85030,18:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65242,   85030,18:11   ,,3NG100,          2,
+Saturday ,,   65139,   85030,19:13   ,Everett Station,evtst,          1,
+Saturday ,,   65139,   85030,19:47   ,,3NG100,          2,
+Saturday ,,   65059,   85030,19:48   ,,3NG100,          1,
+Saturday ,,   65059,   85030,19:49   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65144,   85030,20:38   ,Everett Station,evtst,          1,
+Saturday ,,   65144,   85030,21:12   ,,3NG100,          2,
+Saturday ,,   65257,   85030,23:33   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65257,   85030,23:36   ,,3NG100,          2,
+Saturday ,,   65081,   85030,23:43   ,,3NG100,          1,
+Saturday ,,   65081,   85030,23:44   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65247,   85031,19:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65247,   85031,19:50   ,,3NG100,          2,
+Saturday ,,   65254,   85031,22:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65254,   85031,22:10   ,,3NG100,          2,
+Saturday ,,   65074,   85031,22:18   ,,3NG100,          1,
+Saturday ,,   65074,   85031,22:19   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65258,   85031,24:03   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65258,   85031,24:06   ,,3NG100,          2,
+Saturday ,,   65083,   85031,24:13   ,,3NG100,          1,
+Saturday ,,   65083,   85031,24:14   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65052,   85032,18:38   ,,3NG100,          1,
+Saturday ,,   65052,   85032,18:39   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65061,   85032,20:08   ,,3NG100,          1,
+Saturday ,,   65061,   85032,20:09   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65243,   85032,18:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65243,   85032,18:31   ,,3NG100,          2,
+Saturday ,,   65140,   85032,19:32   ,Everett Station,evtst,          1,
+Saturday ,,   65140,   85032,20:06   ,,3NG100,          2,
+Saturday ,,   65088,   85003, 4:49   ,Kasch Park Base,base2,          1,
+Saturday ,,   65088,   85003, 5:06   ,Everett Station,evtst,          2,
+Saturday ,,   65245,   85033,19:07   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65245,   85033,19:35   ,Everett Station,evtst,          2,
+Saturday ,,   65154,   85032,22:55   ,Everett Station,evtst,          1,
+Saturday ,,   65154,   85032,23:29   ,,3NG100,          2,
+Saturday ,,   65079,   85033,23:13   ,,3NG100,          1,
+Saturday ,,   65079,   85033,23:14   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65200,   85001,10:37   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65200,   85001,11:10   ,Kasch Park Base,base2,          2,
+Saturday ,,   65134,   85016,17:53   ,Everett Station,evtst,          1,
+Saturday ,,   65134,   85016,18:08   ,Kasch Park Base,base2,          2,
+Saturday ,,   65217,   85003,13:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65217,   85003,14:00   ,Kasch Park Base,base2,          2,
+Saturday ,,   65169,   85010,15:09   ,Lynnwood Transit Center,lynntc,          1,
+Saturday ,,   65169,   85010,15:29   ,Kasch Park Base,base2,          2,
+Saturday ,,   65096,   85011, 7:13   ,Kasch Park Base,base2,          1,
+Saturday ,,   65096,   85011, 7:30   ,Everett Station,evtst,          2,
+Saturday ,,   65132,   85014,17:33   ,Everett Station,evtst,          1,
+Saturday ,,   65132,   85014,17:48   ,Kasch Park Base,base2,          2,
+Saturday ,,   65090,   85005, 5:13   ,Kasch Park Base,base2,          1,
+Saturday ,,   65090,   85005, 5:30   ,Everett Station,evtst,          2,
+Saturday ,,   65145,   85032,20:58   ,Everett Station,evtst,          1,
+Saturday ,,   65145,   85032,21:32   ,,3NG100,          2,
+Saturday ,,   65091,   85006, 5:25   ,Kasch Park Base,base2,          1,
+Saturday ,,   65091,   85006, 5:42   ,Everett Station,evtst,          2,
+Saturday ,,   65085,   85032,24:47   ,,3NG100,          1,
+Saturday ,,   65085,   85032,24:48   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65119,   85005,11:07   ,Everett Station,evtst,          1,
+Saturday ,,   65119,   85005,11:22   ,Kasch Park Base,base2,          2,
+Saturday ,,   65084,   85033,24:29   ,,3NG100,          1,
+Saturday ,,   65084,   85033,24:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65092,   85007, 5:49   ,Kasch Park Base,base2,          1,
+Saturday ,,   65092,   85007, 6:06   ,Everett Station,evtst,          2,
+Saturday ,,   65250,   85033,20:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65250,   85033,20:50   ,,3NG100,          2,
+Saturday ,,   65095,   85010, 7:03   ,Kasch Park Base,base2,          1,
+Saturday ,,   65095,   85010, 7:20   ,Everett Station,evtst,          2,
+Saturday ,,   65098,   85013, 8:22   ,Kasch Park Base,base2,          1,
+Saturday ,,   65098,   85013, 8:39   ,Everett Station,evtst,          2,
+Saturday ,,   65126,   85013,16:13   ,Everett Station,evtst,          1,
+Saturday ,,   65126,   85013,16:28   ,Kasch Park Base,base2,          2,
+Saturday ,,   65080,   85032,23:29   ,,3NG100,          1,
+Saturday ,,   65080,   85032,23:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65159,   85033,23:57   ,Everett Station,evtst,          1,
+Saturday ,,   65159,   85033,24:29   ,,3NG100,          2,
+Saturday ,,   65118,   85033,18:01   ,Kasch Park Base,base2,          1,
+Saturday ,,   65118,   85033,18:18   ,Everett Station,evtst,          2,
+Saturday ,,   65121,   85006,14:31   ,Everett Station,evtst,          1,
+Saturday ,,   65121,   85006,14:46   ,Kasch Park Base,base2,          2,
+Saturday ,,   65094,   85009, 6:56   ,Kasch Park Base,base2,          1,
+Saturday ,,   65094,   85009, 7:18   ,Lynnwood Transit Center,lynntc,          2,
+Saturday ,,   65125,   85009,16:03   ,Everett Station,evtst,          1,
+Saturday ,,   65125,   85009,16:18   ,Kasch Park Base,base2,          2,
+Saturday ,,   65160,   85032,24:12   ,Everett Station,evtst,          1,
+Saturday ,,   65160,   85032,24:46   ,,3NG100,          2,
+Saturday ,,   65164,   85033,25:12   ,Everett Station,evtst,          1,
+Saturday ,,   65164,   85033,25:27   ,Kasch Park Base,base2,          2,
+Saturday ,,   65256,   85033,23:03   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65256,   85033,23:06   ,,3NG100,          2,
+Saturday ,,   65087,   85002, 4:37   ,Kasch Park Base,base2,          1,
+Saturday ,,   65087,   85002, 4:54   ,Everett Station,evtst,          2,
+Saturday ,,   65089,   85004, 5:01   ,Kasch Park Base,base2,          1,
+Saturday ,,   65089,   85004, 5:18   ,Everett Station,evtst,          2,
+Saturday ,,   65122,   85004,14:41   ,Everett Station,evtst,          1,
+Saturday ,,   65122,   85004,14:56   ,Kasch Park Base,base2,          2,
+Saturday ,,   65120,   85008,14:11   ,Everett Station,evtst,          1,
+Saturday ,,   65120,   85008,14:26   ,Kasch Park Base,base2,          2,
+Saturday ,,   65073,   85032,22:08   ,,3NG100,          1,
+Saturday ,,   65073,   85032,22:09   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65066,   85033,20:58   ,,3NG100,          1,
+Saturday ,,   65066,   85033,20:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65086,   85001, 4:13   ,Kasch Park Base,base2,          1,
+Saturday ,,   65086,   85001, 4:30   ,Everett Station,evtst,          2,
+Saturday ,,   65213,   85002,12:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65213,   85002,13:20   ,Kasch Park Base,base2,          2,
+Saturday ,,   65093,   85008, 6:11   ,Kasch Park Base,base2,          1,
+Saturday ,,   65093,   85008, 6:28   ,Everett Station,evtst,          2,
+Saturday ,,   65123,   85011,15:42   ,Everett Station,evtst,          1,
+Saturday ,,   65123,   85011,15:57   ,Kasch Park Base,base2,          2,
+Saturday ,,   65099,   85014, 8:42   ,Kasch Park Base,base2,          1,
+Saturday ,,   65099,   85014, 8:59   ,Everett Station,evtst,          2,
+Saturday ,,   65216,   85007,13:17   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65216,   85007,13:50   ,Kasch Park Base,base2,          2,
+Saturday ,,   65101,   85016,11:02   ,Kasch Park Base,base2,          1,
+Saturday ,,   65101,   85016,11:19   ,Everett Station,evtst,          2,
+Saturday ,,   65103,   85018,12:39   ,Kasch Park Base,base2,          1,
+Saturday ,,   65103,   85018,12:56   ,Everett Station,evtst,          2,
+Saturday ,,   65130,   85018,17:03   ,Everett Station,evtst,          1,
+Saturday ,,   65130,   85018,17:18   ,Kasch Park Base,base2,          2,
+Saturday ,,   65104,   85019,12:54   ,Kasch Park Base,base2,          1,
+Saturday ,,   65104,   85019,13:29   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65127,   85019,16:33   ,Everett Station,evtst,          1,
+Saturday ,,   65127,   85019,16:48   ,Kasch Park Base,base2,          2,
+Saturday ,,   65105,   85020,12:59   ,Kasch Park Base,base2,          1,
+Saturday ,,   65105,   85020,13:16   ,Everett Station,evtst,          2,
+Saturday ,,   65148,   85020,21:26   ,Everett Station,evtst,          1,
+Saturday ,,   65148,   85020,21:41   ,Kasch Park Base,base2,          2,
+Saturday ,,   65106,   85021,14:09   ,Kasch Park Base,base2,          1,
+Saturday ,,   65106,   85021,14:26   ,Everett Station,evtst,          2,
+Saturday ,,   65001,   85017,18:12   ,NE 10th St & 102nd Ave NE,10102,          1,
+Saturday ,,   65001,   85017,18:50   ,Kasch Park Base,base2,          2,
+Saturday ,,   65146,   85021,21:08   ,Everett Station,evtst,          1,
+Saturday ,,   65146,   85021,21:23   ,Kasch Park Base,base2,          2,
+Saturday ,,   65108,   85023,14:34   ,Kasch Park Base,base2,          1,
+Saturday ,,   65108,   85023,15:14   ,NE 10th St & 102nd Ave NE,10102,          2,
+Saturday ,,   65107,   85022,14:29   ,Kasch Park Base,base2,          1,
+Saturday ,,   65107,   85022,14:46   ,Everett Station,evtst,          2,
+Saturday ,,   65171,   85023,23:00   ,Lynnwood Transit Center,lynntc,          1,
+Saturday ,,   65171,   85023,23:20   ,Kasch Park Base,base2,          2,
+Saturday ,,   65109,   85024,14:39   ,Kasch Park Base,base2,          1,
+Saturday ,,   65109,   85024,14:56   ,Everett Station,evtst,          2,
+Saturday ,,   65153,   85024,22:46   ,Everett Station,evtst,          1,
+Saturday ,,   65153,   85024,23:01   ,Kasch Park Base,base2,          2,
+Saturday ,,   65170,   85025,22:02   ,Lynnwood Transit Center,lynntc,          1,
+Saturday ,,   65170,   85025,22:22   ,Kasch Park Base,base2,          2,
+Saturday ,,   65111,   85026,15:09   ,Kasch Park Base,base2,          1,
+Saturday ,,   65111,   85026,15:26   ,Everett Station,evtst,          2,
+Saturday ,,   65155,   85022,23:14   ,Everett Station,evtst,          1,
+Saturday ,,   65155,   85022,23:29   ,Kasch Park Base,base2,          2,
+Saturday ,,   65152,   85026,22:36   ,Everett Station,evtst,          1,
+Saturday ,,   65152,   85026,22:51   ,Kasch Park Base,base2,          2,
+Saturday ,,   65112,   85027,15:49   ,Kasch Park Base,base2,          1,
+Saturday ,,   65112,   85027,16:06   ,Everett Station,evtst,          2,
+Saturday ,,   65157,   85027,23:34   ,Everett Station,evtst,          1,
+Saturday ,,   65157,   85027,23:49   ,Kasch Park Base,base2,          2,
+Saturday ,,   65113,   85028,15:59   ,Kasch Park Base,base2,          1,
+Saturday ,,   65113,   85028,16:16   ,Everett Station,evtst,          2,
+Saturday ,,   65100,   85015, 9:56   ,Kasch Park Base,base2,          1,
+Saturday ,,   65100,   85015,10:18   ,Lynnwood Transit Center,lynntc,          2,
+Saturday ,,   65131,   85015,17:13   ,Everett Station,evtst,          1,
+Saturday ,,   65131,   85015,17:28   ,Kasch Park Base,base2,          2,
+Saturday ,,   65008,   85002, 8:57   ,,3NG100,          1,
+Saturday ,,   65008,   85002, 8:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65165,   85032,25:31   ,Everett Station,evtst,          1,
+Saturday ,,   65165,   85032,25:46   ,Kasch Park Base,base2,          2,
+Saturday ,,   65025,   85018,13:58   ,,3NG100,          1,
+Saturday ,,   65025,   85018,13:59   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65116,   85031,17:14   ,Kasch Park Base,base2,          1,
+Saturday ,,   65116,   85031,17:49   ,NORTHGATE TRANSIT CENTER,nortc,          2,
+Saturday ,,   65117,   85032,17:20   ,Kasch Park Base,base2,          1,
+Saturday ,,   65117,   85032,17:37   ,Everett Station,evtst,          2,
+Saturday ,,   65115,   85030,17:00   ,Kasch Park Base,base2,          1,
+Saturday ,,   65115,   85030,17:17   ,Everett Station,evtst,          2,
+Saturday ,,   65102,   85017,11:56   ,Kasch Park Base,base2,          1,
+Saturday ,,   65102,   85017,12:18   ,Lynnwood Transit Center,lynntc,          2,
+Saturday ,,   65161,   85030,24:27   ,Everett Station,evtst,          1,
+Saturday ,,   65161,   85030,24:42   ,Kasch Park Base,base2,          2,
+Saturday ,,   65124,   85012,15:53   ,Everett Station,evtst,          1,
+Saturday ,,   65124,   85012,16:08   ,Kasch Park Base,base2,          2,
+Saturday ,,   65187,   85002, 8:27   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65187,   85002, 8:31   ,,3NG100,          2,
+Saturday ,,   65114,   85029,16:19   ,Kasch Park Base,base2,          1,
+Saturday ,,   65114,   85029,16:36   ,Everett Station,evtst,          2,
+Saturday ,,   65219,   85018,13:47   ,NORTHGATE TRANSIT CENTER,nortc,          1,
+Saturday ,,   65219,   85018,13:50   ,,3NG100,          2,
+Saturday ,,   65110,   85025,14:56   ,Kasch Park Base,base2,          1,
+Saturday ,,   65110,   85025,15:18   ,Lynnwood Transit Center,lynntc,          2,
+Saturday ,,   65163,   85031,24:57   ,Everett Station,evtst,          1,
+Saturday ,,   65163,   85031,25:12   ,Kasch Park Base,base2,          2,
+Saturday ,,   65162,   85028,24:42   ,Everett Station,evtst,          1,
+Saturday ,,   65162,   85028,24:57   ,Kasch Park Base,base2,          2,
+Saturday ,,   65158,   85029,23:44   ,Everett Station,evtst,          1,
+Saturday ,,   65158,   85029,23:59   ,Kasch Park Base,base2,          2,
+Saturday ,,   65097,   85012, 7:56   ,Kasch Park Base,base2,          1,
+Saturday ,,   65097,   85012, 8:18   ,Lynnwood Transit Center,lynntc,          2,

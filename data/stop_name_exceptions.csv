@@ -1,0 +1,199 @@
+route_id,direction_name,stop_id,stop_name
+,North,evtst,Everett Station*
+510,South,evtst,Everett Station Bay C1
+510,South,sefs,South Everett Freeway Station Bay 3
+,South,mltfs,Mountlake Terrace Freeway Station Bay 6*
+,North,mltfs,Mountlake Terrace Freeway Station Bay 7*
+,South,5pine,5th Ave & Pine St*
+,South,5jack,5th Ave S & S Jackson St*
+510,North,4jack,4th Ave & S Jackson St
+510,North,sefs,South Everett Freeway Station Bay 6*
+,South,awypr,Ash Way P&R Bay 1
+,North,awypr,Ash Way P&R Bay 1*
+511,South,lynntc,Lynnwood TC Bay D3
+511,South,nortc,Northgate Station Bay 3*
+511,North,nortc,Northgate Station Bay 2
+511,North,lynntc,Lynnwood TC Bay D2*
+513,South,seaway,Seaway TC Bay 11
+513,South,lynntc,Lynnwood TC Bay D3
+513,South,nortc,Northgate Station Bay 3*
+513,North,nortc,Northgate Station Bay 2
+513,North,lynntc,Lynnwood TC Bay D2*
+513,North,emtpr,Eastmount Park & Ride*
+513,North,seaway,Seaway TC*
+512,South,evtst,Everett Station Bay C1
+512,South,sefs,South Everett Freeway Station Bay 3
+512,South,lynntc,Lynnwood TC Bay D3
+512,South,nortc,Northgate Station Bay 3*
+512,North,nortc,Northgate Station Bay 2
+512,North,lynntc,Lynnwood TC Bay D3*
+512,North,sefs,South Everett Freeway Station Bay 6*
+532,South,evtst,Everett Station Bay C3
+532,South,sefs,South Everett Freeway Station Bay 2
+,South,cpkpr,Canyon P&R Bay 4*
+,,405tl,Totem Lake Freeway Station*
+,South,blvtc,Bellevue TC Bay 8*
+,South,10102,NE 10th St & 102nd Ave NE*
+,North,blvtc,Bellevue TC Bay 4
+,North,cpkpr,Canyon P&R Bay 3*
+532,North,sefs,South Everett Freeway Station Bay 6*
+,,ald184,Alderwood Mall Pkwy & 184th St*
+535,South,lynntc,Lynnwood TC Bay D1
+535,North,lynntc,Lynnwood TC Bay D1*
+,,8530,Woodinvile P&R
+,South,9419,UW Bothell/Cascadia CC
+,,9219,Kenmore P&R
+,,9198,Bothell Way NE at NE 170th St*
+,,6097,Lake City Way at NE 130th St*
+,,5495,Roosevelt Station Bay 4*
+,,5492,Roosevelt Station Bay 3
+,,3607,Lake City Way at NE 130th St*
+,,9214,Kenmore P&R*
+,North,9419,UW Bothell/Cascadia CC*
+,North,9409,Woodinville P&R*
+,West,7072,Bear Creek P&R
+,West,7382,Redmond TC Bay 6
+,West,7008,SR 520 & NE 51st*
+,West,7546,SR 520 & NE 40th*
+,West,7247,Evergreen Pt Fwy Station*
+,West,516,5th Ave & Pine St*
+,West,8972,5th Ave & S Weller St*
+,West,5003,Airport Way S & S Royal Brougham Wy*
+,East,4050,6th & Atlantic
+,East,401,4th & Jackson
+,East,8962,4th & Pine
+,East,1632,Bellevue & Olive*
+,East,7024,Evergreen Pt Fwy Station*
+,East,7545,SR 520 & NE 40th*
+,East,7075,SR 520 & NE 51st*
+,East,7139,Redmond TC Bay 3*
+,East,7072,Bear Creek P&R*
+,West,7338,Redmond TC Bay 5
+,West,5901,UW Station Bay 4*
+,West,5909,15th Ave NE & NE 42 St (U District Stn)*
+,East,5917,15th Ave NE & NE 43 St (U District Stn)
+,East,5961,UW Station Bay 1*
+,East,7360,Redmond TC Bay 1*
+,East,615,Union St at 5th Ave
+,East,304,2nd Ave at Yesler*
+,East,7526,Mercer Island P&R*
+,,7335,South Bellevue Stn Bay 3*
+,East,7277,Bellevue TC Bay 12*
+,East,7361,110th Av NE at NE 10th St*
+,West,7361,110th Av NE at NE 10th St
+,West,7316,Bellevue TC Bay 9
+,,3096,South Bellevue Stn Bay 1
+,West,7517,Mercer Island P&R*
+,East,401,4 Av S at S Jackson St*
+,East,617,Pike St at 6th Ave*
+,East,8955,Lenora St at 4th Ave
+,East,4736,Rainier Ave S at S Charles St*
+,East,7169,Eastgate Fwy Stn Bay 4*
+,East,7666,Issaquah TC Bay 6*
+,East,8531,E Sunset Wy & Ranier Blvd*
+,East,7653,Issaquah Highlands P&R Bay 3*
+,West,7654,Issaquah Highlands P&R Bay 4
+,West,7610,E Sunset Wy & Ranier Blvd
+,West,7662,Issaquah TC Bay 2
+,West,7168,Eastgate Fwy Stn Bay 3*
+,West,4735,Rainier Ave S at S Charles St*
+,West,401,4th Ave S at S Jackson St*
+,West,8962,4th Ave at Pike St*
+,West,521,Blanchard St at 5th Ave
+,West,7663,Issaquah TC Bay 3
+,West,7311,Bellevue TC Bay 5
+,East,7666,Issaquah TC Bay 6*
+,East,7800,Bellevue TC Bay 8
+,West,617,Pine & 6th*
+554,East,211, 2nd Ave & Seneca St
+,,25Bart,Westwood Village Bay 4
+,,BurTC6,Burien TC Bay 6
+560,,seatac,SeaTac Airport
+,,Rent1,Renton TC Bay 1
+,,40530E,NE 30th/Kennydale Freeway Station*
+,,NphP&R,Newport Hills P&R*
+,,Belv7,Bellevue TC Bay 7*
+,East,105Ne,105th Ave NE & NE 2nd St*
+,West,105Ne,105th Ave NE & NE 2nd St
+,,Belv6,Bellevue TC Bay 6
+,,40530,NE 30th/Kennydale Freeway Station*
+,,Rent4,Renton TC Bay 4
+,,BurTC,Burien TC Bay 4*
+,,26Bart,Westwood Village Bay 2*
+,,ovlktc,Redmond Technology Bay 4
+,,Kent9,Kent Station Bay 9*
+,South,aubpr,Auburn P&R*
+,South,Abrn4,Auburn Station*
+566,North,Abrn2,Auburn Station Bay 1
+,North,aubpr,Auburn P&R
+,North,Kent3,Kent Station Bay 3
+,,Belv11,Bellevue TC Bay 11*
+,North,SR520,SR 520 at NE 40th*
+574,North,Fdwprd,Federal Way TC Bay 8
+,,starlk,Star Lake Fwy Station*
+,,kendem,Kent/Des Moines Fwy Station*
+,North,StLink,SeaTac/Airport Link Station*
+574,North,seatac,SeaTac Airport*
+574,South,StLink,SeaTac/Airport Link Station
+,South,seatac,SeaTac Airport
+,,kende2,Kent/Des Moines Fwy Station*
+,,starl2,Kent/Des Moines Fwy Station*
+,,FedW5,Federal Way TC Bay 5
+574,South,tdsH,Tacoma Dome Station Zone H*
+574,South,sr512H,SR 512 P&R Zone H*
+574,South,lmtcL,Lakewood TC Zone L*
+574,North,lmtcL,Lakewood TC Zone L
+,South,fvthom,Fairview & Thomas
+,South,2pike,2nd & Pike*
+,South,2jack,2nd Ave Ext & S Jackson St*
+,South,Fedwy,Federal Way TC Bay 2
+,South,smsta2,Sumner Station Bay 2*
+,South,puyst3,Puyallup Station Bay 3*
+,North,puyst3,Puyallup Station Bay 3
+,North,smsta2,Sumner Station Bay 1
+,North,Abrn3,Auburn Station Bay 3
+,North,FedW7,Federal Way TC Bay 7
+,North,4pine,4th & Pine*
+,North,eastst,Eastlake & Stewart*
+,East,lkts2,Lakewood Station Bay 2
+,East,sr512H,SR 512 P&R Zone H
+,East,shpr1,South Hill P&R Bay 1
+,,RedLot,Red Lot*
+580,East,puyst4,Puyallup Station*
+580,West,puyst4,Puyallup Station
+580,West,shpr3,South Hill P&R*
+580,West,sr512H,SR 512 P&R*
+580,West,lkts2,Lakewood Station*
+586,South,45ne,NE 45th & Univ Way
+586,South,UWS,Univ of Washington Station Bay 1
+586,South,FedW5,Federal Way TC Bay 5*
+,South,tdsE,Tacoma Dome Station Zone E*
+586,North,tdsE,Tacoma Dome Station Zone E
+586,North,Fdwprd,Federal Way TC Bay 8
+586,North,45ne,NE 45th & Univ Way*
+586,North,UWS,Univ of Washington Station Bay 1*
+,South,stwyal,Stewart & Yale
+,South,2Sen,2nd & Seneca St
+,South,2ext,2nd & Yesler*
+,South,sbus,SODO Busway & Spokane St*
+,South,10cmG,10th & Commerce Zone G*
+,South,sr512I,SR 512 P&R Zone I*
+,South,lkts4,Lakewood Station*
+,North,lkts,Lakewood Station
+,North,sr512J,SR 512 P&R Zone J
+,North,10cmD,10th & Commerce Zone D
+,North,tdsB,Tacoma Dome Station Zone B
+,North,sbus,SODO Busway & Spokane St*
+590,North,4jack,4th & Jackson*
+594,North,4jack,4th & Jackson*
+595,North,4jack,4th & Jackson*
+,South,dupnt,Dupont Station*
+,North,gigpr2,Kimball Drive P&R
+,South,narpr,Narrows P&R
+595,South,tdsH,Tacoma Dome Station Zone H*
+,South,tccM,TCC TC Zone M*
+,South,narpr,Narrows P&R*
+,South,gigpr2,Kimball Drive P&R*
+,South,prdpr,Purdy P&R*
+596,,smsta3,Sumner Station
+,,bnlpr5,Bonney Lake P&R

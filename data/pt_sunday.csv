@@ -1,0 +1,2241 @@
+service_id,route_id,trip_id,block_id,sch_arr_time,stop_name,stop_id,stop_seq,direction_name
+Sunday   ,,    8519,      12,11:14   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8519,      12,12:04   ,Base,g,          2,
+Sunday   ,,    8529,      10, 8:35   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8529,      10, 8:45   ,Base,g,          2,
+Sunday   ,,    8530,      16,12:57   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8530,      16,13:07   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8499,       3, 4:08   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8499,       3, 4:18   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8531,      16,15:57   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8531,      16,16:07   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8532,      16,18:55   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8532,      16,19:05   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8517,       5, 6:35   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8517,       5, 6:47   ,Base,g,          2,
+Sunday   ,,    8514,      17,11:44   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8514,      17,12:34   ,Base,g,          2,
+Sunday   ,,    8533,      16,21:56   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8533,      16,22:06   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8511,       9, 6:28   ,Base,g,          1,
+Sunday   ,,    8511,       9, 6:38   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8523,      14,10:35   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8523,      14,10:45   ,Base,g,          2,
+Sunday   ,,    8497,      21,11:48   ,Base,g,          1,
+Sunday   ,,    8497,      21,12:33   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8498,      21,22:37   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8498,      21,22:47   ,Base,g,          2,
+Sunday   ,,    8504,      19,12:27   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8504,      19,12:37   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8506,      19,18:27   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8506,      19,18:37   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8512,       9, 7:39   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8512,       9, 8:29   ,Base,g,          2,
+Sunday   ,,    8513,      17,10:28   ,Base,g,          1,
+Sunday   ,,    8513,      17,10:38   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8500,       3, 2:58   ,Base,g,          1,
+Sunday   ,,    8500,       3, 3:08   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8515,       5, 5:08   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8515,       5, 5:18   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8516,       5, 3:58   ,Base,g,          1,
+Sunday   ,,    8516,       5, 4:08   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8505,      19,15:27   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8505,      19,15:37   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8507,      19,11:11   ,Base,g,          1,
+Sunday   ,,    8507,      19,11:21   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8502,      11, 7:28   ,Base,g,          1,
+Sunday   ,,    8502,      11, 7:38   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8503,      11, 8:39   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8503,      11, 9:29   ,Base,g,          2,
+Sunday   ,,    8508,      19,20:07   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8508,      19,20:17   ,Base,g,          2,
+Sunday   ,,    8509,       4, 3:28   ,Base,g,          1,
+Sunday   ,,    8509,       4, 3:38   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8520,       6, 4:28   ,Base,g,          1,
+Sunday   ,,    8520,       6, 4:38   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8521,       6, 5:38   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8521,       6, 6:28   ,Base,g,          2,
+Sunday   ,,    8522,      14, 8:48   ,Base,g,          1,
+Sunday   ,,    8522,      14, 9:33   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8524,      22,13:27   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8524,      22,13:37   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8501,       3, 5:33   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8501,       3, 5:43   ,Base,g,          2,
+Sunday   ,,    8518,      12, 7:48   ,Base,g,          1,
+Sunday   ,,    8518,      12, 8:33   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8525,      22,16:27   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8525,      22,16:37   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8526,      22,12:11   ,Base,g,          1,
+Sunday   ,,    8526,      22,12:21   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8510,       4, 4:38   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8510,       4, 5:28   ,Base,g,          2,
+Sunday   ,,    8527,      22,18:08   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8527,      22,18:18   ,Base,g,          2,
+Sunday   ,,    8528,      10, 6:48   ,Base,g,          1,
+Sunday   ,,    8528,      10, 7:33   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8537,      15,10:42   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8537,      15,11:32   ,Base,g,          2,
+Sunday   ,  560,    8125,       3,10:43   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8125,       3,10:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8125,       3,10:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8125,       3,10:57   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8125,       3,11:11   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8125,       3,11:25   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8125,       3,11:44   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8125,       3,12:00   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8129,       2,14:41   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8129,       2,14:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8129,       2,14:56   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8129,       2,15:02   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8129,       2,15:19   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8129,       2,15:35   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8129,       2,15:52   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8129,       2,16:08   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8133,       1,18:42   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8133,       1,18:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8133,       1,18:54   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8133,       1,18:58   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8133,       1,19:13   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8133,       1,19:28   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8133,       1,19:45   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8133,       1,20:00   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8137,       3,22:43   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8137,       3,22:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8137,       3,22:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8137,       3,22:56   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8137,       3,23:06   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8137,       3,23:21   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8137,       3,23:34   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8137,       3,23:46   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,,    8540,      18,19:56   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8540,      18,20:06   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,  560,    8130,       1,15:41   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8130,       1,15:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8130,       1,15:56   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8130,       1,16:02   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8130,       1,16:19   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8130,       1,16:35   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8130,       1,16:52   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8130,       1,17:08   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8134,       3,19:42   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8134,       3,19:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8134,       3,19:54   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8134,       3,19:58   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8134,       3,20:10   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8134,       3,20:25   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8134,       3,20:41   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8134,       3,20:56   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8103,       2, 7:17   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8103,       2, 7:32   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8103,       2, 7:38   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8103,       2, 7:56   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8103,       2, 8:05   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8103,       2, 8:09   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8103,       2, 8:16   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8103,       2, 8:19   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,,    8542,      18,10:48   ,Base,g,          1,
+Sunday   ,,    8542,      18,11:33   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,  560,    8126,       2,11:43   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8126,       2,11:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8126,       2,11:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8126,       2,11:57   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8126,       2,12:11   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8126,       2,12:25   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8126,       2,12:44   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8126,       2,13:00   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8105,       3, 9:06   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8105,       3, 9:23   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8105,       3, 9:30   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8105,       3, 9:52   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8105,       3,10:03   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8105,       3,10:07   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8105,       3,10:15   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8105,       3,10:18   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  560,    8106,       2,10:07   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8106,       2,10:24   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8106,       2,10:31   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8106,       2,10:53   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8106,       2,11:04   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8106,       2,11:08   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8106,       2,11:16   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8106,       2,11:19   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  560,    8107,       1,11:06   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8107,       1,11:23   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8107,       1,11:31   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8107,       1,11:53   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8107,       1,12:05   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8107,       1,12:10   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8107,       1,12:18   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8107,       1,12:21   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  560,    8131,       3,16:41   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8131,       3,16:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8131,       3,16:56   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8131,       3,17:02   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8131,       3,17:19   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8131,       3,17:35   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8131,       3,17:52   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8131,       3,18:08   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8120,       2, 5:44   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8120,       2, 5:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8120,       2, 5:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8120,       2, 5:56   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8120,       2, 6:06   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8120,       2, 6:19   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8120,       2, 6:33   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8120,       2, 6:47   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8121,       1, 6:44   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8121,       1, 6:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8121,       1, 6:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8121,       1, 6:56   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8121,       1, 7:06   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8121,       1, 7:19   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8121,       1, 7:33   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8121,       1, 7:47   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,,    8534,      16, 9:48   ,Base,g,          1,
+Sunday   ,,    8534,      16,10:33   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8539,      18,16:57   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8539,      18,17:07   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,  560,    8136,       1,21:43   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8136,       1,21:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8136,       1,21:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8136,       1,21:56   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8136,       1,22:06   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8136,       1,22:21   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8136,       1,22:34   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8136,       1,22:46   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8102,       3, 6:17   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8102,       3, 6:32   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8102,       3, 6:38   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8102,       3, 6:56   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8102,       3, 7:05   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8102,       3, 7:09   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8102,       3, 7:16   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8102,       3, 7:19   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  560,    8101,       1, 5:19   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8101,       1, 5:33   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8101,       1, 5:39   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8101,       1, 5:56   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8101,       1, 6:05   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8101,       1, 6:08   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8101,       1, 6:14   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8101,       1, 6:17   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,,    8541,      18,22:56   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8541,      18,23:06   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,  560,    8108,       3,12:06   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8108,       3,12:23   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8108,       3,12:31   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8108,       3,12:53   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8108,       3,13:05   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8108,       3,13:10   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8108,       3,13:18   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8108,       3,13:21   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  560,    8109,       2,13:09   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8109,       2,13:26   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8109,       2,13:34   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8109,       2,13:55   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8109,       2,14:07   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8109,       2,14:11   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8109,       2,14:19   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8109,       2,14:22   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,,    8538,      18,13:57   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8538,      18,14:07   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,  560,    8122,       3, 7:43   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8122,       3, 7:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8122,       3, 7:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8122,       3, 7:56   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8122,       3, 8:06   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8122,       3, 8:19   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8122,       3, 8:33   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8122,       3, 8:47   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8123,       2, 8:43   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8123,       2, 8:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8123,       2, 8:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8123,       2, 8:56   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8123,       2, 9:06   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8123,       2, 9:19   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8123,       2, 9:33   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8123,       2, 9:47   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,,    8543,      18,24:37   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8543,      18,24:47   ,Base,g,          2,
+Sunday   ,  560,    8124,       1, 9:43   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8124,       1, 9:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8124,       1, 9:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8124,       1, 9:57   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8124,       1,10:11   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8124,       1,10:25   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8124,       1,10:44   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8124,       1,11:00   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8135,       2,20:43   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8135,       2,20:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8135,       2,20:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8135,       2,20:56   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8135,       2,21:06   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8135,       2,21:21   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8135,       2,21:34   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8135,       2,21:46   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,,    8535,      16,23:37   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8535,      16,23:47   ,Base,g,          2,
+Sunday   ,  560,    8127,       1,12:41   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8127,       1,12:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8127,       1,12:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8127,       1,12:58   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8127,       1,13:12   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8127,       1,13:26   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8127,       1,13:45   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8127,       1,14:01   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8104,       1, 8:14   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8104,       1, 8:31   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8104,       1, 8:38   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8104,       1, 9:00   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8104,       1, 9:11   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8104,       1, 9:15   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8104,       1, 9:23   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8104,       1, 9:26   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  560,    8132,       2,17:41   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8132,       2,17:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8132,       2,17:56   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8132,       2,18:02   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8132,       2,18:19   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8132,       2,18:35   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8132,       2,18:52   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8132,       2,19:08   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,  560,    8128,       3,13:41   ,105 Ave NE\NE 2nd St.,105Ne,          1,West
+Sunday   ,  560,    8128,       3,13:47   ,Bellevue TC - Bay 6,Belv6,          2,West
+Sunday   ,  560,    8128,       3,13:52   ,Newport Hills P&R,NphP&R,          3,West
+Sunday   ,  560,    8128,       3,13:58   ,I-405 Ramp/N 30 St,40530,          4,West
+Sunday   ,  560,    8128,       3,14:12   ,Renton TC - Bay 4,Rent4,          5,West
+Sunday   ,  560,    8128,       3,14:26   ,SeaTac Airport Terminal Bay,seatac,          6,West
+Sunday   ,  560,    8128,       3,14:45   ,Burien TC-Bay 4,BurTC,          7,West
+Sunday   ,  560,    8128,       3,15:01   ,Westwood Village Bay 2,26Bart,          8,West
+Sunday   ,,    8536,      15, 9:28   ,Base,g,          1,
+Sunday   ,,    8536,      15, 9:38   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,  574,    8414,      19,11:21   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8414,      19,11:32   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8414,      19,11:45   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8414,      19,12:00   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8414,      19,12:07   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8414,      19,12:11   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8414,      19,12:22   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8414,      19,12:27   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8424,      20,16:21   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8424,      20,16:32   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8424,      20,16:45   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8424,      20,17:00   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8424,      20,17:07   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8424,      20,17:11   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8424,      20,17:22   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8424,      20,17:27   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,,    8842,       1,21:09   ,Puyallup Station - Bay 3,puyst3,          1,
+Sunday   ,,    8842,       1,21:39   ,Base,g,          2,
+Sunday   ,  574,    8420,      19,14:21   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8420,      19,14:32   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8420,      19,14:45   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8420,      19,15:00   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8420,      19,15:07   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8420,      19,15:11   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8420,      19,15:22   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8420,      19,15:27   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8410,      13, 8:38   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8410,      13, 8:48   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8410,      13, 9:00   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8410,      13, 9:16   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8410,      13, 9:21   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8410,      13, 9:25   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8410,      13, 9:36   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8410,      13, 9:41   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,,    8840,       3,23:09   ,Puyallup Station - Bay 3,puyst3,          1,
+Sunday   ,,    8840,       3,23:39   ,Base,g,          2,
+Sunday   ,  578,  106585,,22:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,  106585,,22:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,  106585,,22:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,  106585,,22:58   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,  106585,,23:30   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,  106585,,23:42   ,,Abrn4,          6,South
+Sunday   ,  578,  106585,,24:00   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,  106585,,24:09   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,,    8844,       2,22:09   ,Puyallup Station - Bay 3,puyst3,          1,
+Sunday   ,,    8844,       2,22:39   ,Base,g,          2,
+Sunday   ,  578,  106584,,21:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,  106584,,21:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,  106584,,21:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,  106584,,21:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,  106584,,22:10   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,  106584,,22:14   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,  106584,,22:16   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,,    8170,       2,23:20   ,105 Ave NE\NE 2nd St.,105Ne,          1,
+Sunday   ,,    8170,       2,24:11   ,Base,g,          2,
+Sunday   ,,    8162,       1,24:20   ,105 Ave NE\NE 2nd St.,105Ne,          1,
+Sunday   ,,    8162,       1,25:30   ,Base,g,          2,
+Sunday   ,,    8167,       2,19:08   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8167,       2,19:11   ,25th/Barton,25Bart,          2,
+Sunday   ,  560,    8114,       3,18:13   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8114,       3,18:29   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8114,       3,18:37   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8114,       3,18:56   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8114,       3,19:06   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8114,       3,19:10   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8114,       3,19:18   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8114,       3,19:21   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  560,    8116,       1,20:14   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8116,       1,20:28   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8116,       1,20:36   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8116,       1,20:54   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8116,       1,21:03   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8116,       1,21:07   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8116,       1,21:17   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8116,       1,21:20   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,,    8155,       1, 7:47   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8155,       1, 7:50   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8177,       3,23:46   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8177,       3,24:35   ,Base,g,          2,
+Sunday   ,,    8165,       2,13:00   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8165,       2,13:03   ,25th/Barton,25Bart,          2,
+Sunday   ,  560,    8113,       1,17:09   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8113,       1,17:26   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8113,       1,17:34   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8113,       1,17:55   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8113,       1,18:07   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8113,       1,18:11   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8113,       1,18:19   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8113,       1,18:22   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,,    8169,       2, 4:32   ,Base,g,          1,
+Sunday   ,,    8169,       2, 5:42   ,105 Ave NE\NE 2nd St.,105Ne,          2,
+Sunday   ,  560,    8118,       2,22:14   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8118,       2,22:28   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8118,       2,22:36   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8118,       2,22:54   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8118,       2,23:03   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8118,       2,23:07   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8118,       2,23:17   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8118,       2,23:20   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,,    8168,       2,21:46   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8168,       2,21:49   ,25th/Barton,25Bart,          2,
+Sunday   ,  560,    8115,       2,19:14   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8115,       2,19:29   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8115,       2,19:38   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8115,       2,19:56   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8115,       2,20:06   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8115,       2,20:10   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8115,       2,20:18   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8115,       2,20:21   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  560,    8119,       1,23:20   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8119,       1,23:32   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8119,       1,23:39   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8119,       1,23:55   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8119,       1,24:04   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8119,       1,24:08   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8119,       1,24:15   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8119,       1,24:18   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,,    8157,       1,14:01   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8157,       1,14:04   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8160,       1,22:46   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8160,       1,22:47   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8161,       1, 4:09   ,Base,g,          1,
+Sunday   ,,    8161,       1, 5:19   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8178,       1,17:08   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8178,       1,17:08   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8171,       3, 8:47   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8171,       3, 8:50   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8172,       3,12:00   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8172,       3,12:03   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8173,       3,15:01   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8173,       3,15:04   ,25th/Barton,25Bart,          2,
+Sunday   ,  560,    8110,       1,14:09   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8110,       1,14:26   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8110,       1,14:34   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8110,       1,14:55   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8110,       1,15:07   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8110,       1,15:11   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8110,       1,15:19   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8110,       1,15:22   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  560,    8112,       2,16:09   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8112,       2,16:26   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8112,       2,16:34   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8112,       2,16:55   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8112,       2,17:07   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8112,       2,17:11   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8112,       2,17:19   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8112,       2,17:22   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,,    8174,       3,18:08   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8174,       3,18:11   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8175,       3,20:56   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8175,       3,20:59   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8176,       3, 5:07   ,Base,g,          1,
+Sunday   ,,    8176,       3, 6:17   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8159,       1,20:00   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8159,       1,20:03   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8163,       2, 6:47   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8163,       2, 6:50   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8156,       1,11:00   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8156,       1,11:03   ,25th/Barton,25Bart,          2,
+Sunday   ,,    8164,       2, 9:47   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8164,       2, 9:50   ,25th/Barton,25Bart,          2,
+Sunday   ,  560,    8111,       3,15:09   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8111,       3,15:26   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8111,       3,15:34   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8111,       3,15:55   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8111,       3,16:07   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8111,       3,16:11   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8111,       3,16:19   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8111,       3,16:22   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  560,    8117,       3,21:14   ,25th/Barton,25Bart,          1,East
+Sunday   ,  560,    8117,       3,21:28   ,Burien TC-Bay 6,BurTC6,          2,East
+Sunday   ,  560,    8117,       3,21:36   ,SeaTac Airport Terminal Bay,seatac,          3,East
+Sunday   ,  560,    8117,       3,21:54   ,Renton TC - Bay 1,Rent1,          4,East
+Sunday   ,  560,    8117,       3,22:03   ,I-405 Ramp/N 30 St EB,40530E,          5,East
+Sunday   ,  560,    8117,       3,22:07   ,Newport Hills P&R,NphP&R,          6,East
+Sunday   ,  560,    8117,       3,22:17   ,Bellevue TC - Bay 7,Belv7,          7,East
+Sunday   ,  560,    8117,       3,22:20   ,105 Ave NE\NE 2nd St.,105Ne,          8,East
+Sunday   ,  578,    8728,       1,19:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8728,       1,19:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8728,       1,19:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8728,       1,19:58   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8728,       1,20:30   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8728,       1,20:42   ,,Abrn4,          6,South
+Sunday   ,  578,    8728,       1,21:00   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8728,       1,21:09   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8714,       2,19:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8714,       2,19:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8714,       2,19:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8714,       2,19:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8714,       2,20:10   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8714,       2,20:14   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8714,       2,20:16   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8704,       4, 9:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8704,       4, 9:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8704,       4, 9:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8704,       4, 9:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8704,       4,10:10   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8704,       4,10:14   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8704,       4,10:16   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8709,       1,14:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8709,       1,14:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8709,       1,14:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8709,       1,14:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8709,       1,15:11   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8709,       1,15:15   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8709,       1,15:17   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,,    8828,       4,10:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8828,       4,10:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,  578,    8713,       1,18:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8713,       1,18:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8713,       1,18:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8713,       1,18:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8713,       1,19:10   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8713,       1,19:14   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8713,       1,19:16   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8710,       2,15:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8710,       2,15:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8710,       2,15:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8710,       2,15:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8710,       2,16:11   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8710,       2,16:15   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8710,       2,16:17   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8707,       3,12:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8707,       3,12:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8707,       3,12:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8707,       3,12:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8707,       3,13:11   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8707,       3,13:15   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8707,       3,13:17   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8723,       4,14:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8723,       4,14:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8723,       4,14:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8723,       4,14:59   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8723,       4,15:32   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8723,       4,15:44   ,,Abrn4,          6,South
+Sunday   ,  578,    8723,       4,16:02   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8723,       4,16:11   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8721,       2,12:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8721,       2,12:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8721,       2,12:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8721,       2,12:59   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8721,       2,13:32   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8721,       2,13:44   ,,Abrn4,          6,South
+Sunday   ,  578,    8721,       2,14:02   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8721,       2,14:11   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8701,       1, 6:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8701,       1, 6:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8701,       1, 6:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8701,       1, 6:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8701,       1, 7:10   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8701,       1, 7:14   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8701,       1, 7:16   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8722,       3,13:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8722,       3,13:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8722,       3,13:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8722,       3,13:59   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8722,       3,14:32   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8722,       3,14:44   ,,Abrn4,          6,South
+Sunday   ,  578,    8722,       3,15:02   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8722,       3,15:11   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8724,       1,15:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8724,       1,15:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8724,       1,15:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8724,       1,15:59   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8724,       1,16:32   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8724,       1,16:44   ,,Abrn4,          6,South
+Sunday   ,  578,    8724,       1,17:02   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8724,       1,17:11   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8715,       3,20:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8715,       3,20:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8715,       3,20:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8715,       3,20:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8715,       3,21:10   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8715,       3,21:14   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8715,       3,21:16   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8720,       1,11:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8720,       1,11:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8720,       1,11:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8720,       1,11:59   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8720,       1,12:32   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8720,       1,12:44   ,,Abrn4,          6,South
+Sunday   ,  578,    8720,       1,13:02   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8720,       1,13:11   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8725,       2,16:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8725,       2,16:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8725,       2,16:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8725,       2,16:59   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8725,       2,17:32   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8725,       2,17:44   ,,Abrn4,          6,South
+Sunday   ,  578,    8725,       2,18:02   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8725,       2,18:11   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8726,       3,17:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8726,       3,17:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8726,       3,17:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8726,       3,17:59   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8726,       3,18:32   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8726,       3,18:44   ,,Abrn4,          6,South
+Sunday   ,  578,    8726,       3,19:02   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8726,       3,19:11   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8708,       4,13:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8708,       4,13:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8708,       4,13:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8708,       4,13:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8708,       4,14:11   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8708,       4,14:15   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8708,       4,14:17   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8712,       4,17:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8712,       4,17:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8712,       4,17:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8712,       4,17:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8712,       4,18:11   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8712,       4,18:15   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8712,       4,18:17   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8711,       3,16:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8711,       3,16:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8711,       3,16:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8711,       3,16:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8711,       3,17:11   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8711,       3,17:15   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8711,       3,17:17   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8730,       3,21:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8730,       3,21:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8730,       3,21:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8730,       3,21:58   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8730,       3,22:30   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8730,       3,22:42   ,,Abrn4,          6,South
+Sunday   ,  578,    8730,       3,23:00   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8730,       3,23:09   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8702,       2, 7:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8702,       2, 7:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8702,       2, 7:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8702,       2, 7:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8702,       2, 8:10   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8702,       2, 8:14   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8702,       2, 8:16   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8729,       2,20:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8729,       2,20:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8729,       2,20:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8729,       2,20:58   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8729,       2,21:30   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8729,       2,21:42   ,,Abrn4,          6,South
+Sunday   ,  578,    8729,       2,22:00   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8729,       2,22:09   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8719,       4,10:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8719,       4,10:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8719,       4,10:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8719,       4,10:59   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8719,       4,11:32   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8719,       4,11:44   ,,Abrn4,          6,South
+Sunday   ,  578,    8719,       4,12:02   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8719,       4,12:11   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8718,       3, 9:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8718,       3, 9:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8718,       3, 9:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8718,       3, 9:58   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8718,       3,10:30   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8718,       3,10:42   ,,Abrn4,          6,South
+Sunday   ,  578,    8718,       3,11:00   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8718,       3,11:09   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8717,       2, 8:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8717,       2, 8:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8717,       2, 8:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8717,       2, 8:58   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8717,       2, 9:30   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8717,       2, 9:42   ,,Abrn4,          6,South
+Sunday   ,  578,    8717,       2,10:00   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8717,       2,10:09   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8727,       4,18:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8727,       4,18:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8727,       4,18:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8727,       4,18:58   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8727,       4,19:30   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8727,       4,19:42   ,,Abrn4,          6,South
+Sunday   ,  578,    8727,       4,20:00   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8727,       4,20:09   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,  578,    8706,       2,11:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8706,       2,11:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8706,       2,11:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8706,       2,11:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8706,       2,12:11   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8706,       2,12:15   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8706,       2,12:17   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8705,       1,10:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8705,       1,10:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8705,       1,10:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8705,       1,10:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8705,       1,11:10   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8705,       1,11:14   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8705,       1,11:16   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8703,       3, 8:01   ,Puyallup Station - Bay 3,puyst3,          1,North
+Sunday   ,  578,    8703,       3, 8:12   ,Sumner Station 1,smsta,          2,North
+Sunday   ,  578,    8703,       3, 8:30   ,Auburn Station - Bay 3,Abrn3,          3,North
+Sunday   ,  578,    8703,       3, 8:45   ,Federal Way TC - Bay 7,FedW7,          4,North
+Sunday   ,  578,    8703,       3, 9:10   ,4th and Pine St,4pine,          5,North
+Sunday   ,  578,    8703,       3, 9:14   ,Howell/9th,oliv7,          6,North
+Sunday   ,  578,    8703,       3, 9:16   ,Eastlake/Stewart,eastst,          7,North
+Sunday   ,  578,    8716,       1, 7:43   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  578,    8716,       1, 7:47   ,Stewart/9th,9stew,          2,South
+Sunday   ,  578,    8716,       1, 7:53   ,2Av/Pike,2pike,          3,South
+Sunday   ,  578,    8716,       1, 7:58   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  578,    8716,       1, 8:30   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  578,    8716,       1, 8:42   ,,Abrn4,          6,South
+Sunday   ,  578,    8716,       1, 9:00   ,Sumner Station 2,smsta2,          7,South
+Sunday   ,  578,    8716,       1, 9:09   ,Puyallup Station - Bay 3,puyst3,          8,South
+Sunday   ,,    8825,       3, 9:16   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8825,       3, 9:17   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8800,       4,18:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8800,       4,18:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8807,       2,20:16   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8807,       2,20:17   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8808,       2,20:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8808,       2,20:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8824,       3,21:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8824,       3,21:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8816,       2,12:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8816,       2,12:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8815,       2,12:17   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8815,       2,12:18   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8821,       1,11:16   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8821,       1,11:17   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8799,       4,18:17   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8799,       4,18:18   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8822,       1,11:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8822,       1,11:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8812,       1, 7:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8812,       1, 7:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8809,       3,13:17   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8809,       3,13:18   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8810,       3,13:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8810,       3,13:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8813,       1,15:17   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8813,       1,15:18   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8827,       4,10:16   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8827,       4,10:17   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8814,       1,15:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8814,       1,15:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8805,       4,14:17   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8805,       4,14:18   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8806,       4,14:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8806,       4,14:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8811,       1, 7:16   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8811,       1, 7:17   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8801,       2,16:17   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8801,       2,16:18   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8818,       1,19:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8818,       1,19:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8826,       3, 9:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8826,       3, 9:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8817,       1,19:16   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8817,       1,19:17   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8804,       3,17:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8804,       3,17:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8819,       2, 8:16   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8819,       2, 8:17   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8841,       1, 5:31   ,Base,g,          1,
+Sunday   ,,    8841,       1, 6:01   ,Puyallup Station - Bay 3,puyst3,          2,
+Sunday   ,,    8820,       2, 8:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8820,       2, 8:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8839,       3, 7:31   ,Base,g,          1,
+Sunday   ,,    8839,       3, 8:01   ,Puyallup Station - Bay 3,puyst3,          2,
+Sunday   ,,    8823,       3,21:16   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8823,       3,21:17   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8803,       3,17:17   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8803,       3,17:18   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8837,       4, 8:31   ,Base,g,          1,
+Sunday   ,,    8837,       4, 9:01   ,Puyallup Station - Bay 3,puyst3,          2,
+Sunday   ,,    8838,       4,20:09   ,Puyallup Station - Bay 3,puyst3,          1,
+Sunday   ,,    8838,       4,20:39   ,Base,g,          2,
+Sunday   ,,    8843,       2, 6:31   ,Base,g,          1,
+Sunday   ,,    8843,       2, 7:01   ,Puyallup Station - Bay 3,puyst3,          2,
+Sunday   ,,    8802,       2,16:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8802,       2,16:43   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,  577,    8627,       2,19:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8627,       2,19:41   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8627,       2,19:45   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8627,       2,19:47   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8603,       2, 7:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8603,       2, 7:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8603,       2, 7:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8603,       2, 7:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8641,       1,13:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8641,       1,13:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8641,       1,13:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8641,       1,13:28   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8641,       1,14:06   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8653,       1,19:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8653,       1,19:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8653,       1,19:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8653,       1,19:29   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8653,       1,20:00   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8649,       1,17:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8649,       1,17:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8649,       1,17:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8649,       1,17:33   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8649,       1,18:07   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,,    8180,       2,16:08   ,Westwood Village Bay 2,26Bart,          1,
+Sunday   ,,    8180,       2,16:09   ,25th/Barton,25Bart,          2,
+Sunday   ,  577,    8601,       1, 6:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8601,       1, 6:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8601,       1, 6:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8601,       1, 6:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8637,       1,11:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8637,       1,11:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8637,       1,11:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8637,       1,11:28   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8637,       1,12:06   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8621,       1,16:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8621,       1,16:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8621,       1,16:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8621,       1,16:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8635,       2,10:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8635,       2,10:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8635,       2,10:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8635,       2,10:28   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8635,       2,11:06   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8615,       2,13:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8615,       2,13:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8615,       2,13:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8615,       2,13:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8617,       1,14:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8617,       1,14:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8617,       1,14:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8617,       1,14:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8623,       2,17:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8623,       2,17:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8623,       2,17:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8623,       2,17:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8631,       2, 8:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8631,       2, 8:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8631,       2, 8:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8631,       2, 8:28   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8631,       2, 9:06   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8609,       1,10:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8609,       1,10:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8609,       1,10:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8609,       1,10:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8639,       2,12:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8639,       2,12:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8639,       2,12:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8639,       2,12:28   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8639,       2,13:06   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8629,       1, 7:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8629,       1, 7:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8629,       1, 7:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8629,       1, 7:28   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8629,       1, 8:06   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8611,       2,11:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8611,       2,11:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8611,       2,11:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8611,       2,11:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8647,       2,16:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8647,       2,16:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8647,       2,16:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8647,       2,16:32   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8647,       2,17:08   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8651,       2,18:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8651,       2,18:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8651,       2,18:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8651,       2,18:29   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8651,       2,19:00   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8605,       1, 8:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8605,       1, 8:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8605,       1, 8:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8605,       1, 8:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8613,       1,12:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8613,       1,12:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8613,       1,12:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8613,       1,12:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8643,       2,14:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8643,       2,14:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8643,       2,14:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8643,       2,14:28   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8643,       2,15:06   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8619,       2,15:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8619,       2,15:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8619,       2,15:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8619,       2,15:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8607,       2, 9:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8607,       2, 9:42   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8607,       2, 9:46   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8607,       2, 9:48   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  577,    8645,       1,15:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8645,       1,15:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8645,       1,15:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8645,       1,15:29   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8645,       1,16:03   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,  577,    8625,       1,18:15   ,Federal Way TC - Bay 7,FedW7,          1,North
+Sunday   ,  577,    8625,       1,18:41   ,4th and Pine St,4pine,          2,North
+Sunday   ,  577,    8625,       1,18:45   ,Howell/9th,oliv7,          3,North
+Sunday   ,  577,    8625,       1,18:47   ,Eastlake/Stewart,eastst,          4,North
+Sunday   ,  574,    8415,      16,11:51   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8415,      16,12:02   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8415,      16,12:15   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8415,      16,12:30   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8415,      16,12:37   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8415,      16,12:41   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8415,      16,12:52   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8415,      16,12:57   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8435,      10, 7:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8435,      10, 7:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8435,      10, 7:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8435,      10, 7:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8435,      10, 8:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8435,      10, 8:13   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8435,      10, 8:26   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8435,      10, 8:35   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8444,      22,14:03   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8444,      22,14:10   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8444,      22,14:22   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8444,      22,14:25   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8444,      22,14:31   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8444,      22,14:45   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8444,      22,14:59   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8444,      22,15:08   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8434,       8, 6:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8434,       8, 6:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8434,       8, 6:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8434,       8, 6:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8434,       8, 7:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8434,       8, 7:13   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8434,       8, 7:26   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8434,       8, 7:35   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8413,      17,10:38   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8413,      17,10:49   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8413,      17,11:02   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8413,      17,11:17   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8413,      17,11:24   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8413,      17,11:28   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8413,      17,11:39   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8413,      17,11:44   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8412,      12,10:08   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8412,      12,10:19   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8412,      12,10:32   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8412,      12,10:47   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8412,      12,10:54   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8412,      12,10:58   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8412,      12,11:09   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8412,      12,11:14   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8448,      19,16:03   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8448,      19,16:10   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8448,      19,16:22   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8448,      19,16:25   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8448,      19,16:31   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8448,      19,16:45   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8448,      19,16:59   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8448,      19,17:08   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8418,      20,13:21   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8418,      20,13:32   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8418,      20,13:45   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8418,      20,14:00   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8418,      20,14:07   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8418,      20,14:11   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8418,      20,14:22   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8418,      20,14:27   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8445,      18,14:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8445,      18,14:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8445,      18,14:52   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8445,      18,14:55   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8445,      18,15:01   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8445,      18,15:15   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8445,      18,15:29   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8445,      18,15:38   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,,     909,      10,23:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     909,      10,23:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     914,       5,12:21   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     914,       5,12:22   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     919,       3,11:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     919,       3,11:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     917,       3,18:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     917,       3,18:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     921,       5,19:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     921,       5,19:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     941,       1, 9:53   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     941,       1,10:53   ,Base,g,          2,
+Sunday   ,,     935,       2,18:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     935,       2,18:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     945,       3, 7:53   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     945,       3, 7:54   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     931,       9,17:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     931,       9,17:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     955,       9,20:23   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     955,       9,21:23   ,Base,g,          2,
+Sunday   ,,     912,       4, 8:23   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     912,       4, 8:24   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     944,       2,21:23   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     944,       2,22:23   ,Base,g,          2,
+Sunday   ,,     949,       6, 9:23   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     949,       6,10:23   ,Base,g,          2,
+Sunday   ,,     952,       5,22:53   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     952,       5,22:54   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     922,       2, 7:23   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     922,       2, 7:24   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     908,      10,23:23   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     908,      10,23:24   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     926,       3,21:53   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     926,       3,21:54   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     927,       3,22:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     927,       3,22:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     934,       2,17:51   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     934,       2,17:52   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     910,       8,17:21   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     910,       8,17:22   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     915,       5,12:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     915,       5,12:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     916,       3,18:21   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     916,       3,18:22   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     928,       7,16:21   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     928,       7,16:22   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     929,       7,16:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     929,       7,16:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     930,       9,16:51   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     930,       9,16:52   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     932,       9,13:21   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     932,       9,13:22   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     925,       4,22:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     925,       4,22:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     913,       4, 8:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     913,       4, 8:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     937,       1, 6:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     937,       1, 6:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     942,       7,12:51   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     942,       7,12:52   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     946,       3, 8:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     946,       3, 8:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     947,       5,15:51   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     947,       5,15:52   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     918,       3,11:21   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     918,       3,11:22   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     911,       8,17:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     911,       8,17:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     920,       5,19:21   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     920,       5,19:22   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     924,       4,22:23   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     924,       4,22:24   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     933,       9,13:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     933,       9,13:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     938,       2,10:51   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     938,       2,10:52   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     936,       1, 6:23   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     936,       1, 6:24   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     923,       2, 7:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     923,       2, 7:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     950,       4,18:51   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     950,       4,18:52   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     951,       4,19:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     951,       4,19:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,  574,    8401,       1, 2:13   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8401,       1, 2:23   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8401,       1, 2:35   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8401,       1, 2:50   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8401,       1, 2:56   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8401,       1, 2:59   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8401,       1, 3:08   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8401,       1, 3:13   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8438,      16,10:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8438,      16,10:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8438,      16,10:52   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8438,      16,10:55   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8438,      16,11:01   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8438,      16,11:15   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8438,      16,11:30   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8438,      16,11:39   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8450,      22,17:03   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8450,      22,17:10   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8450,      22,17:22   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8450,      22,17:25   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8450,      22,17:31   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8450,      22,17:45   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8450,      22,17:59   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8450,      22,18:08   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8440,      20,12:03   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8440,      20,12:10   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8440,      20,12:22   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8440,      20,12:25   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8440,      20,12:31   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8440,      20,12:46   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8440,      20,13:00   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8440,      20,13:09   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8425,      21,16:51   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8425,      21,17:02   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8425,      21,17:15   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8425,      21,17:30   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8425,      21,17:37   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8425,      21,17:41   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8425,      21,17:52   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8425,      21,17:57   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8405,       5, 4:08   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8405,       5, 4:18   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8405,       5, 4:30   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8405,       5, 4:45   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8405,       5, 4:51   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8405,       5, 4:54   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8405,       5, 5:03   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8405,       5, 5:08   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8443,      16,13:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8443,      16,13:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8443,      16,13:52   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8443,      16,13:55   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8443,      16,14:01   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8443,      16,14:15   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8443,      16,14:29   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8443,      16,14:38   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8417,      18,12:51   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8417,      18,13:02   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8417,      18,13:15   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8417,      18,13:30   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8417,      18,13:37   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8417,      18,13:41   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8417,      18,13:52   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8417,      18,13:57   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8428,      18,18:52   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8428,      18,19:03   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8428,      18,19:16   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8428,      18,19:31   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8428,      18,19:37   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8428,      18,19:40   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8428,      18,19:51   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8428,      18,19:56   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,,    8821,       1,10:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8821,       1,10:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8827,       1,14:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8827,       1,14:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8815,       1, 6:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8815,       1, 6:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8826,       1,14:06   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8826,       1,14:08   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8832,       1,18:07   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8832,       1,18:09   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8853,       2,19:47   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8853,       2,19:48   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8823,       1,12:06   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8823,       1,12:08   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,  594,     833,      10,22:00   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     833,      10,22:05   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     833,      10,22:20   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     833,      10,22:27   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     833,      10,22:28   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     833,      10,23:05   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     833,      10,23:13   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     833,      10,23:17   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     833,      10,23:23   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     852,       5,16:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     852,       5,16:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     852,       5,16:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     852,       5,16:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     852,       5,16:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     852,       5,17:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     852,       5,17:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     852,       5,17:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     852,       5,17:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,,    8824,       1,12:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8824,       1,12:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8831,       1,17:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8831,       1,17:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8843,       2,13:06   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8843,       2,13:08   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8838,       2, 9:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8838,       2, 9:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8818,       1, 8:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8818,       1, 8:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8844,       2,13:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8844,       2,13:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8830,       1,16:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8830,       1,16:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8825,       1,13:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8825,       1,13:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8833,       1,18:47   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8833,       1,18:48   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8836,       2, 8:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8836,       2, 8:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8842,       2,12:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8842,       2,12:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8845,       2,14:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8845,       2,14:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,  577,    8633,       1, 9:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8633,       1, 9:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8633,       1, 9:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8633,       1, 9:28   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8633,       1,10:06   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,,    8848,       2,16:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8848,       2,16:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8849,       2,17:08   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8849,       2,17:10   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8841,       2,11:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8841,       2,11:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8822,       1,11:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8822,       1,11:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,  577,    8655,       2,20:13   ,Fairview Ave and Thomas St,fvthom,          1,South
+Sunday   ,  577,    8655,       2,20:17   ,Stewart/9th,9stew,          2,South
+Sunday   ,  577,    8655,       2,20:23   ,2Av/Pike,2pike,          3,South
+Sunday   ,  577,    8655,       2,20:29   ,2AvExt/Jackson,2jack,          4,South
+Sunday   ,  577,    8655,       2,21:00   ,Federal Way TC - Bay 2,Fedwy,          5,South
+Sunday   ,,    8834,       1,19:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8834,       1,19:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8828,       1,15:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8828,       1,15:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8840,       2,11:06   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8840,       2,11:08   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8847,       2,15:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8847,       2,15:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8846,       2,15:06   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8846,       2,15:08   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8850,       2,17:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8850,       2,17:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8819,       1, 9:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8819,       1, 9:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8820,       1,10:06   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8820,       1,10:08   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8817,       1, 8:06   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8817,       1, 8:08   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8829,       1,16:03   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8829,       1,16:05   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8816,       1, 7:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8816,       1, 7:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8835,       2, 7:48   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,    8835,       2, 7:49   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8851,       2,18:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8851,       2,18:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8837,       2, 9:06   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8837,       2, 9:08   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8839,       2,10:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8839,       2,10:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,,    8852,       2,19:00   ,Federal Way TC - Bay 2,Fedwy,          1,
+Sunday   ,,    8852,       2,19:02   ,Federal Way TC - Bay 7,FedW7,          2,
+Sunday   ,,    8854,       2,20:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,    8854,       2,20:13   ,Fairview Ave and Thomas St,fvthom,          2,
+Sunday   ,  594,     840,       9,10:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     840,       9,10:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     840,       9,10:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     840,       9,10:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     840,       9,10:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     840,       9,11:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     840,       9,11:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     840,       9,11:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     840,       9,11:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     836,       3, 8:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     836,       3, 8:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     836,       3, 8:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     836,       3, 8:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     836,       3, 8:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     836,       3, 9:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     836,       3, 9:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     836,       3, 9:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     836,       3, 9:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     851,       4,15:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     851,       4,15:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     851,       4,15:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     851,       4,15:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     851,       4,16:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     851,       4,16:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     851,       4,16:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     851,       4,17:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     851,       4,17:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     853,       7,16:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     853,       7,16:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     853,       7,16:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     853,       7,16:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     853,       7,17:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     853,       7,17:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     853,       7,17:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     853,       7,18:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     853,       7,18:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     814,       8,12:25   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     814,       8,12:30   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     814,       8,12:45   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     814,       8,12:54   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     814,       8,12:56   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     814,       8,13:33   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     814,       8,13:41   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     814,       8,13:45   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     814,       8,13:51   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     867,      10,23:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     867,      10,23:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     867,      10,23:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     867,      10,23:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     867,      10,24:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     867,      10,24:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     867,      10,24:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     867,      10,25:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     867,      10,25:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     807,       8, 8:55   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     807,       8, 9:00   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     807,       8, 9:15   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     807,       8, 9:24   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     807,       8, 9:26   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     807,       8,10:03   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     807,       8,10:11   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     807,       8,10:15   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     807,       8,10:21   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     842,       2,11:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     842,       2,11:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     842,       2,11:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     842,       2,11:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     842,       2,11:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     842,       2,12:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     842,       2,12:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     842,       2,12:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     842,       2,12:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     803,       4, 7:00   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     803,       4, 7:05   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     803,       4, 7:20   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     803,       4, 7:27   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     803,       4, 7:28   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     803,       4, 8:05   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     803,       4, 8:13   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     803,       4, 8:17   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     803,       4, 8:23   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     843,       3,11:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     843,       3,11:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     843,       3,11:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     843,       3,11:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     843,       3,12:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     843,       3,12:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     843,       3,12:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     843,       3,13:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     843,       3,13:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     829,       2,20:00   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     829,       2,20:05   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     829,       2,20:20   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     829,       2,20:27   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     829,       2,20:28   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     829,       2,21:05   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     829,       2,21:13   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     829,       2,21:17   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     829,       2,21:23   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     815,       2,12:55   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     815,       2,13:00   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     815,       2,13:15   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     815,       2,13:24   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     815,       2,13:26   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     815,       2,14:03   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     815,       2,14:11   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     815,       2,14:15   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     815,       2,14:21   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     805,       6, 8:00   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     805,       6, 8:05   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     805,       6, 8:20   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     805,       6, 8:27   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     805,       6, 8:28   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     805,       6, 9:05   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     805,       6, 9:13   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     805,       6, 9:17   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     805,       6, 9:23   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     834,       1, 6:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     834,       1, 6:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     834,       1, 6:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     834,       1, 6:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     834,       1, 7:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     834,       1, 7:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     834,       1, 7:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     834,       1, 8:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     834,       1, 8:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     811,       5,10:55   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     811,       5,11:00   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     811,       5,11:15   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     811,       5,11:24   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     811,       5,11:26   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     811,       5,12:03   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     811,       5,12:11   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     811,       5,12:15   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     811,       5,12:21   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     816,       3,13:25   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     816,       3,13:30   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     816,       3,13:45   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     816,       3,13:54   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     816,       3,13:56   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     816,       3,14:33   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     816,       3,14:41   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     816,       3,14:45   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     816,       3,14:51   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     823,       3,16:55   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     823,       3,17:00   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     823,       3,17:15   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     823,       3,17:24   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     823,       3,17:26   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     823,       3,18:03   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     823,       3,18:11   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     823,       3,18:15   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     823,       3,18:21   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     827,       9,19:00   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     827,       9,19:05   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     827,       9,19:20   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     827,       9,19:27   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     827,       9,19:28   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     827,       9,20:05   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     827,       9,20:13   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     827,       9,20:17   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     827,       9,20:23   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     821,       8,15:55   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     821,       8,16:00   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     821,       8,16:15   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     821,       8,16:24   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     821,       8,16:26   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     821,       8,17:03   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     821,       8,17:11   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     821,       8,17:15   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     821,       8,17:21   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     838,       5, 9:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     838,       5, 9:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     838,       5, 9:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     838,       5, 9:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     838,       5, 9:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     838,       5,10:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     838,       5,10:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     838,       5,10:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     838,       5,10:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     809,       3, 9:55   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     809,       3,10:00   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     809,       3,10:15   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     809,       3,10:24   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     809,       3,10:26   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     809,       3,11:03   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     809,       3,11:11   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     809,       3,11:15   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     809,       3,11:21   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     806,       1, 8:30   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     806,       1, 8:35   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     806,       1, 8:50   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     806,       1, 8:57   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     806,       1, 8:58   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     806,       1, 9:35   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     806,       1, 9:43   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     806,       1, 9:47   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     806,       1, 9:53   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     825,       5,17:55   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     825,       5,18:00   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     825,       5,18:15   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     825,       5,18:24   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     825,       5,18:26   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     825,       5,19:03   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     825,       5,19:11   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     825,       5,19:15   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     825,       5,19:21   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     856,       2,18:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     856,       2,18:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     856,       2,18:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     856,       2,18:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     856,       2,18:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     856,       2,19:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     856,       2,19:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     856,       2,19:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     856,       2,19:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     866,       5,23:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     866,       5,23:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     866,       5,23:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     866,       5,23:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     866,       5,23:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     866,       5,24:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     866,       5,24:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     866,       5,24:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     866,       5,24:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     835,       2, 7:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     835,       2, 7:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     835,       2, 7:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     835,       2, 7:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     835,       2, 8:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     835,       2, 8:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     835,       2, 8:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     835,       2, 9:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     835,       2, 9:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     850,       3,15:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     850,       3,15:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     850,       3,15:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     850,       3,15:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     850,       3,15:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     850,       3,16:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     850,       3,16:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     850,       3,16:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     850,       3,16:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     860,      10,20:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     860,      10,20:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     860,      10,20:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     860,      10,20:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     860,      10,20:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     860,      10,21:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     860,      10,21:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     860,      10,21:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     860,      10,21:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     849,       2,14:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     849,       2,14:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     849,       2,14:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     849,       2,14:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     849,       2,15:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     849,       2,15:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     849,       2,15:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     849,       2,16:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     849,       2,16:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     804,       5, 7:30   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     804,       5, 7:35   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     804,       5, 7:50   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     804,       5, 7:57   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     804,       5, 7:58   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     804,       5, 8:35   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     804,       5, 8:43   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     804,       5, 8:47   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     804,       5, 8:53   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     817,       4,13:55   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     817,       4,14:00   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     817,       4,14:15   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     817,       4,14:24   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     817,       4,14:26   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     817,       4,15:03   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     817,       4,15:11   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     817,       4,15:15   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     817,       4,15:21   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  574,    8422,      22,15:21   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8422,      22,15:32   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8422,      22,15:45   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8422,      22,16:00   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8422,      22,16:07   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8422,      22,16:11   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8422,      22,16:22   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8422,      22,16:27   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8429,      21,19:53   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8429,      21,20:03   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8429,      21,20:15   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8429,      21,20:30   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8429,      21,20:37   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8429,      21,20:40   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8429,      21,20:51   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8429,      21,20:56   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8441,      21,12:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8441,      21,12:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8441,      21,12:52   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8441,      21,12:55   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8441,      21,13:01   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8441,      21,13:16   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8441,      21,13:30   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8441,      21,13:39   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8402,       2, 2:38   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8402,       2, 2:48   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8402,       2, 3:00   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8402,       2, 3:15   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8402,       2, 3:21   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8402,       2, 3:24   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8402,       2, 3:33   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8402,       2, 3:38   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8439,      18,11:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8439,      18,11:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8439,      18,11:52   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8439,      18,11:55   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8439,      18,12:01   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8439,      18,12:16   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8439,      18,12:30   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8439,      18,12:39   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8423,      18,15:51   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8423,      18,16:02   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8423,      18,16:15   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8423,      18,16:30   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8423,      18,16:37   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8423,      18,16:41   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8423,      18,16:52   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8423,      18,16:57   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8447,      21,15:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8447,      21,15:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8447,      21,15:52   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8447,      21,15:55   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8447,      21,16:01   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8447,      21,16:15   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8447,      21,16:29   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8447,      21,16:38   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8454,      19,19:03   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8454,      19,19:10   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8454,      19,19:21   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8454,      19,19:24   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8454,      19,19:30   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8454,      19,19:44   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8454,      19,19:58   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8454,      19,20:07   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8458,      16,22:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8458,      16,22:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8458,      16,22:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8458,      16,22:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8458,      16,23:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8458,      16,23:14   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8458,      16,23:28   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8458,      16,23:37   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8452,      20,18:03   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8452,      20,18:10   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8452,      20,18:22   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8452,      20,18:25   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8452,      20,18:31   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8452,      20,18:45   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8452,      20,18:59   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8452,      20,19:08   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8455,      16,19:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8455,      16,19:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8455,      16,19:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8455,      16,19:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8455,      16,20:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8455,      16,20:14   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8455,      16,20:28   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8455,      16,20:37   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8404,       4, 3:38   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8404,       4, 3:48   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8404,       4, 4:00   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8404,       4, 4:15   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8404,       4, 4:21   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8404,       4, 4:24   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8404,       4, 4:33   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8404,       4, 4:38   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8421,      16,14:51   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8421,      16,15:02   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8421,      16,15:15   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8421,      16,15:30   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8421,      16,15:37   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8421,      16,15:41   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8421,      16,15:52   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8421,      16,15:57   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8427,      16,17:51   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8427,      16,18:02   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8427,      16,18:15   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8427,      16,18:30   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8427,      16,18:36   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8427,      16,18:39   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8427,      16,18:50   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8427,      16,18:55   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8442,      19,13:03   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8442,      19,13:10   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8442,      19,13:22   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8442,      19,13:25   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8442,      19,13:31   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8442,      19,13:46   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8442,      19,14:00   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8442,      19,14:09   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8437,      14, 9:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8437,      14, 9:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8437,      14, 9:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8437,      14, 9:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8437,      14,10:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8437,      14,10:13   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8437,      14,10:26   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8437,      14,10:35   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8407,       7, 5:38   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8407,       7, 5:48   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8407,       7, 6:00   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8407,       7, 6:15   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8407,       7, 6:21   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8407,       7, 6:24   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8407,       7, 6:33   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8407,       7, 6:38   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8431,      18,21:53   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8431,      18,22:03   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8431,      18,22:15   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8431,      18,22:30   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8431,      18,22:37   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8431,      18,22:40   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8431,      18,22:51   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8431,      18,22:56   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8416,      22,12:21   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8416,      22,12:32   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8416,      22,12:45   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8416,      22,13:00   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8416,      22,13:07   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8416,      22,13:11   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8416,      22,13:22   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8416,      22,13:27   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8409,      11, 7:38   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8409,      11, 7:48   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8409,      11, 8:00   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8409,      11, 8:15   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8409,      11, 8:20   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8409,      11, 8:23   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8409,      11, 8:34   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8409,      11, 8:39   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8459,      18,23:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8459,      18,23:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8459,      18,23:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8459,      18,23:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8459,      18,24:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8459,      18,24:14   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8459,      18,24:28   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8459,      18,24:37   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8403,       3, 3:08   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8403,       3, 3:18   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8403,       3, 3:30   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8403,       3, 3:45   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8403,       3, 3:51   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8403,       3, 3:54   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8403,       3, 4:03   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8403,       3, 4:08   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8456,      18,20:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8456,      18,20:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8456,      18,20:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8456,      18,20:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8456,      18,21:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8456,      18,21:14   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8456,      18,21:28   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8456,      18,21:37   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8426,      19,17:21   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8426,      19,17:32   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8426,      19,17:45   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8426,      19,18:00   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8426,      19,18:07   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8426,      19,18:11   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8426,      19,18:22   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8426,      19,18:27   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8432,       3, 4:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8432,       3, 4:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8432,       3, 4:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8432,       3, 4:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8432,       3, 5:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8432,       3, 5:11   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8432,       3, 5:24   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8432,       3, 5:33   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8411,      15, 9:38   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8411,      15, 9:47   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8411,      15,10:00   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8411,      15,10:17   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8411,      15,10:22   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8411,      15,10:26   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8411,      15,10:37   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8411,      15,10:42   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8436,      12, 8:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8436,      12, 8:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8436,      12, 8:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8436,      12, 8:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8436,      12, 9:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8436,      12, 9:13   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8436,      12, 9:26   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8436,      12, 9:35   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  594,     830,       3,20:30   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     830,       3,20:35   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     830,       3,20:50   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     830,       3,20:57   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     830,       3,20:58   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     830,       3,21:35   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     830,       3,21:43   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     830,       3,21:47   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     830,       3,21:53   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     801,       2, 6:00   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     801,       2, 6:05   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     801,       2, 6:20   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     801,       2, 6:27   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     801,       2, 6:28   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     801,       2, 7:05   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     801,       2, 7:13   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     801,       2, 7:17   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     801,       2, 7:23   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     831,       4,21:00   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     831,       4,21:05   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     831,       4,21:20   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     831,       4,21:27   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     831,       4,21:28   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     831,       4,22:05   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     831,       4,22:13   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     831,       4,22:17   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     831,       4,22:23   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     848,       8,14:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     848,       8,14:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     848,       8,14:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     848,       8,14:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     848,       8,14:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     848,       8,15:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     848,       8,15:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     848,       8,15:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     848,       8,15:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     865,       4,22:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     865,       4,22:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     865,       4,22:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     865,       4,22:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     865,       4,23:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     865,       4,23:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     865,       4,23:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     865,       4,24:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     865,       4,24:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,,     877,       4,24:09   ,Lakewood Station 4,lkts4,          1,
+Sunday   ,,     877,       4,24:19   ,Base,g,          2,
+Sunday   ,  594,     819,       7,14:55   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     819,       7,15:00   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     819,       7,15:15   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     819,       7,15:24   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     819,       7,15:26   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     819,       7,16:03   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     819,       7,16:11   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     819,       7,16:15   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     819,       7,16:21   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     839,       7, 9:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     839,       7, 9:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     839,       7, 9:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     839,       7, 9:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     839,       7,10:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     839,       7,10:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     839,       7,10:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     839,       7,11:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     839,       7,11:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     844,       4,12:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     844,       4,12:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     844,       4,12:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     844,       4,12:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     844,       4,12:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     844,       4,13:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     844,       4,13:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     844,       4,13:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     844,       4,13:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     824,       4,17:25   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     824,       4,17:30   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     824,       4,17:45   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     824,       4,17:54   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     824,       4,17:56   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     824,       4,18:33   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     824,       4,18:41   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     824,       4,18:45   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     824,       4,18:51   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     854,       9,17:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     854,       9,17:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     854,       9,17:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     854,       9,17:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     854,       9,17:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     854,       9,18:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     854,       9,18:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     854,       9,18:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     854,       9,18:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     861,      11,20:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     861,      11,20:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     861,      11,20:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     861,      11,20:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     861,      11,21:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     861,      11,21:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     861,      11,21:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     861,      11,22:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     861,      11,22:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     812,       7,11:25   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     812,       7,11:30   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     812,       7,11:45   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     812,       7,11:54   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     812,       7,11:56   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     812,       7,12:33   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     812,       7,12:41   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     812,       7,12:45   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     812,       7,12:51   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     859,       5,19:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     859,       5,19:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     859,       5,19:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     859,       5,19:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     859,       5,20:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     859,       5,20:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     859,       5,20:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     859,       5,21:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     859,       5,21:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     808,       2, 9:25   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     808,       2, 9:30   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     808,       2, 9:45   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     808,       2, 9:54   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     808,       2, 9:56   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     808,       2,10:33   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     808,       2,10:41   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     808,       2,10:45   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     808,       2,10:51   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     818,       5,14:25   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     818,       5,14:30   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     818,       5,14:45   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     818,       5,14:54   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     818,       5,14:56   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     818,       5,15:33   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     818,       5,15:41   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     818,       5,15:45   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     818,       5,15:51   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     864,       3,22:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     864,       3,22:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     864,       3,22:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     864,       3,22:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     864,       3,22:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     864,       3,23:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     864,       3,23:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     864,       3,23:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     864,       3,23:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     847,       9,13:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     847,       9,13:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     847,       9,13:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     847,       9,13:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     847,       9,14:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     847,       9,14:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     847,       9,14:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     847,       9,15:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     847,       9,15:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     863,      13,21:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     863,      13,21:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     863,      13,21:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     863,      13,21:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     863,      13,22:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     863,      13,22:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     863,      13,22:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     863,      13,23:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     863,      13,23:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     837,       4, 8:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     837,       4, 8:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     837,       4, 8:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     837,       4, 8:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     837,       4, 9:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     837,       4, 9:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     837,       4, 9:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     837,       4,10:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     837,       4,10:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     802,       3, 6:30   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     802,       3, 6:35   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     802,       3, 6:50   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     802,       3, 6:57   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     802,       3, 6:58   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     802,       3, 7:35   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     802,       3, 7:43   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     802,       3, 7:47   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     802,       3, 7:53   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     845,       5,12:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     845,       5,12:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     845,       5,12:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     845,       5,12:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     845,       5,13:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     845,       5,13:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     845,       5,13:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     845,       5,14:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     845,       5,14:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     820,       9,15:25   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     820,       9,15:30   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     820,       9,15:45   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     820,       9,15:54   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     820,       9,15:56   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     820,       9,16:33   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     820,       9,16:41   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     820,       9,16:45   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     820,       9,16:51   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,,     868,       1, 4:50   ,Base,g,          1,
+Sunday   ,,     868,       1, 5:00   ,Lakewood Station,lkts,          2,
+Sunday   ,  594,     832,       5,21:30   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     832,       5,21:35   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     832,       5,21:50   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     832,       5,21:57   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     832,       5,21:58   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     832,       5,22:35   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     832,       5,22:43   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     832,       5,22:47   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     832,       5,22:53   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     826,       7,18:30   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     826,       7,18:35   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     826,       7,18:50   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     826,       7,18:57   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     826,       7,18:58   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     826,       7,19:35   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     826,       7,19:43   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     826,       7,19:47   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     826,       7,19:53   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     810,       4,10:25   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     810,       4,10:30   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     810,       4,10:45   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     810,       4,10:54   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     810,       4,10:56   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     810,       4,11:33   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     810,       4,11:41   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     810,       4,11:45   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     810,       4,11:51   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,,     872,       2, 5:50   ,Base,g,          1,
+Sunday   ,,     872,       2, 6:00   ,Lakewood Station,lkts,          2,
+Sunday   ,,     874,       3, 6:20   ,Base,g,          1,
+Sunday   ,,     874,       3, 6:30   ,Lakewood Station,lkts,          2,
+Sunday   ,  594,     862,      12,21:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     862,      12,21:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     862,      12,21:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     862,      12,21:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     862,      12,21:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     862,      12,22:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     862,      12,22:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     862,      12,22:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     862,      12,22:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     822,       2,16:25   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     822,       2,16:30   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     822,       2,16:45   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     822,       2,16:54   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     822,       2,16:56   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     822,       2,17:33   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     822,       2,17:41   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     822,       2,17:45   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     822,       2,17:51   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     813,       9,11:55   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     813,       9,12:00   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     813,       9,12:15   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     813,       9,12:24   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     813,       9,12:26   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     813,       9,13:03   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     813,       9,13:11   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     813,       9,13:15   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     813,       9,13:21   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     857,       3,18:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     857,       3,18:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     857,       3,18:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     857,       3,18:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     857,       3,19:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     857,       3,19:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     857,       3,19:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     857,       3,20:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     857,       3,20:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     846,       7,13:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     846,       7,13:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     846,       7,13:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     846,       7,13:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     846,       7,13:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     846,       7,14:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     846,       7,14:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     846,       7,14:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     846,       7,14:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,,     870,      11,19:35   ,Base,g,          1,
+Sunday   ,,     870,      11,20:40   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     875,       3,23:39   ,Lakewood Station 4,lkts4,          1,
+Sunday   ,,     875,       3,23:49   ,Base,g,          2,
+Sunday   ,  594,     828,       8,19:30   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     828,       8,19:35   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     828,       8,19:50   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     828,       8,19:57   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     828,       8,19:58   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     828,       8,20:35   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     828,       8,20:43   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     828,       8,20:47   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     828,       8,20:53   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     855,       8,17:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     855,       8,17:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     855,       8,17:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     855,       8,17:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     855,       8,18:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     855,       8,18:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     855,       8,18:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     855,       8,19:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     855,       8,19:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     800,       1, 5:00   ,Lakewood Station,lkts,          1,North
+Sunday   ,  594,     800,       1, 5:05   ,SR512 P&R Zone J,sr512J,          2,North
+Sunday   ,  594,     800,       1, 5:20   ,10cms Zone D,10cmD,          3,North
+Sunday   ,  594,     800,       1, 5:27   ,Tacoma Dome Station Zone B,tdsB,          4,North
+Sunday   ,  594,     800,       1, 5:28   ,Tacoma Dome Station Zone B,tdsB,          5,North
+Sunday   ,  594,     800,       1, 6:05   ,Busway / Spokane,sbus,          6,North
+Sunday   ,  594,     800,       1, 6:13   ,4thAv/Jacksn,4jack,          7,North
+Sunday   ,  594,     800,       1, 6:17   ,4th and Pine St,4pine,          8,North
+Sunday   ,  594,     800,       1, 6:23   ,Eastlake/Stewart,eastst,          9,North
+Sunday   ,  594,     841,       8,10:42   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     841,       8,10:45   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     841,       8,10:53   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     841,       8,10:56   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     841,       8,11:04   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     841,       8,11:43   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     841,       8,11:51   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     841,       8,12:04   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     841,       8,12:09   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,  594,     858,       4,19:12   ,Steward and Yale,stwyal,          1,South
+Sunday   ,  594,     858,       4,19:15   ,Stewart/9th,9stew,          2,South
+Sunday   ,  594,     858,       4,19:23   ,2nd/Seneca,2Sen,          3,South
+Sunday   ,  594,     858,       4,19:26   ,2AvExt/Yesler,2ext,          4,South
+Sunday   ,  594,     858,       4,19:34   ,Busway / Spokane,sbus,          5,South
+Sunday   ,  594,     858,       4,20:13   ,Tacoma Dome Station Zone E,tdsE,          6,South
+Sunday   ,  594,     858,       4,20:21   ,10cmn Zone G,10cmG,          7,South
+Sunday   ,  594,     858,       4,20:34   ,SR512 P&R Zone I,sr512I,          8,South
+Sunday   ,  594,     858,       4,20:39   ,Lakewood Station 4,lkts4,          9,South
+Sunday   ,,     871,      11,22:09   ,Lakewood Station 4,lkts4,          1,
+Sunday   ,,     871,      11,22:19   ,Base,g,          2,
+Sunday   ,,     876,       4, 6:50   ,Base,g,          1,
+Sunday   ,,     876,       4, 7:00   ,Lakewood Station,lkts,          2,
+Sunday   ,,     878,       5, 7:20   ,Base,g,          1,
+Sunday   ,,     878,       5, 7:30   ,Lakewood Station,lkts,          2,
+Sunday   ,,     880,       6, 7:50   ,Base,g,          1,
+Sunday   ,,     880,       6, 8:00   ,Lakewood Station,lkts,          2,
+Sunday   ,,     882,      13,20:35   ,Base,g,          1,
+Sunday   ,,     882,      13,21:40   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     883,      13,23:09   ,Lakewood Station 4,lkts4,          1,
+Sunday   ,,     883,      13,23:19   ,Base,g,          2,
+Sunday   ,,     888,       9, 9:05   ,Base,g,          1,
+Sunday   ,,     888,       9,10:10   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     892,      12,20:05   ,Base,g,          1,
+Sunday   ,,     892,      12,21:10   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     940,       7,19:53   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     940,       7,20:53   ,Base,g,          2,
+Sunday   ,,     943,       7,13:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     943,       7,13:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     890,      10,19:05   ,Base,g,          1,
+Sunday   ,,     890,      10,20:10   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     948,       5,16:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     948,       5,16:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     893,      12,22:39   ,Lakewood Station 4,lkts4,          1,
+Sunday   ,,     893,      12,22:49   ,Base,g,          2,
+Sunday   ,,     939,       2,11:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     939,       2,11:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     953,       5,23:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     953,       5,23:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     954,       8,20:53   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     954,       8,21:53   ,Base,g,          2,
+Sunday   ,,     884,       7, 8:35   ,Base,g,          1,
+Sunday   ,,     884,       7, 9:40   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     891,      10,25:09   ,Lakewood Station 4,lkts4,          1,
+Sunday   ,,     891,      10,25:19   ,Base,g,          2,
+Sunday   ,,     879,       5,24:39   ,Lakewood Station 4,lkts4,          1,
+Sunday   ,,     879,       5,24:49   ,Base,g,          2,
+Sunday   ,,     886,       8, 8:45   ,Base,g,          1,
+Sunday   ,,     886,       8, 8:55   ,Lakewood Station,lkts,          2,
+Sunday   ,,     894,       2,14:21   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     894,       2,14:22   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     895,       2,14:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     895,       2,14:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     896,       5, 8:53   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     896,       5, 8:54   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     897,       5, 9:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     897,       5, 9:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     899,       8,10:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     899,       8,10:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     900,       4,15:21   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     900,       4,15:22   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     902,       4,11:51   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     902,       4,11:52   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     898,       8,10:21   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     898,       8,10:22   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     906,       8,13:51   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     906,       8,13:52   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,     907,       8,14:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     907,       8,14:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     901,       4,15:40   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     901,       4,15:42   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     905,       3,15:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     905,       3,15:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     903,       4,12:10   ,Eastlake/Thomas,easlk,          1,
+Sunday   ,,     903,       4,12:12   ,Steward and Yale,stwyal,          2,
+Sunday   ,,     904,       3,14:51   ,Eastlake/Stewart,eastst,          1,
+Sunday   ,,     904,       3,14:52   ,Eastlake/Thomas,easlk,          2,
+Sunday   ,,    8487,      20,19:08   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8487,      20,19:18   ,Base,g,          2,
+Sunday   ,,    8485,      20,17:27   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8485,      20,17:37   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8486,      20,11:18   ,Base,g,          1,
+Sunday   ,,    8486,      20,12:03   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8480,       1, 2:03   ,Base,g,          1,
+Sunday   ,,    8480,       1, 2:13   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,  574,    8446,      20,15:03   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8446,      20,15:10   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8446,      20,15:22   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8446,      20,15:25   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8446,      20,15:31   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8446,      20,15:45   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8446,      20,15:59   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8446,      20,16:08   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,,    8481,       1, 3:13   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8481,       1, 4:03   ,Base,g,          2,
+Sunday   ,,    8482,       8, 5:48   ,Base,g,          1,
+Sunday   ,,    8482,       8, 6:33   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8483,       8, 7:35   ,Lakewood Mall TC Zone L,lmtcL,          1,
+Sunday   ,,    8483,       8, 7:45   ,Base,g,          2,
+Sunday   ,,    8484,      20,14:27   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8484,      20,14:37   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8495,      21,17:57   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8495,      21,18:07   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8488,       2, 2:28   ,Base,g,          1,
+Sunday   ,,    8488,       2, 2:38   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8490,       7, 5:28   ,Base,g,          1,
+Sunday   ,,    8490,       7, 5:38   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8492,      13, 8:28   ,Base,g,          1,
+Sunday   ,,    8492,      13, 8:38   ,Lakewood Mall TC Zone L,lmtcL,          2,
+Sunday   ,,    8494,      21,14:57   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8494,      21,15:07   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8493,      13, 9:41   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8493,      13,10:31   ,Base,g,          2,
+Sunday   ,,    8496,      21,20:56   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8496,      21,21:06   ,ST Link Station - SeaTac,StLink,          2,
+Sunday   ,,    8489,       2, 3:38   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8489,       2, 4:28   ,Base,g,          2,
+Sunday   ,,    8491,       7, 6:38   ,SeaTac Airport Terminal Bay,seatac,          1,
+Sunday   ,,    8491,       7, 7:28   ,Base,g,          2,
+Sunday   ,  574,    8457,      21,21:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8457,      21,21:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8457,      21,21:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8457,      21,21:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8457,      21,22:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8457,      21,22:14   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8457,      21,22:28   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8457,      21,22:37   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8430,      16,20:53   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8430,      16,21:03   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8430,      16,21:15   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8430,      16,21:30   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8430,      16,21:37   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8430,      16,21:40   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8430,      16,21:51   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8430,      16,21:56   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8449,      16,16:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8449,      16,16:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8449,      16,16:52   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8449,      16,16:55   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8449,      16,17:01   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8449,      16,17:15   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8449,      16,17:29   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8449,      16,17:38   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8419,      21,13:51   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8419,      21,14:02   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8419,      21,14:15   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8419,      21,14:30   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8419,      21,14:37   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8419,      21,14:41   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8419,      21,14:52   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8419,      21,14:57   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8406,       6, 4:38   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8406,       6, 4:48   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8406,       6, 5:00   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8406,       6, 5:15   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8406,       6, 5:21   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8406,       6, 5:24   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8406,       6, 5:33   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8406,       6, 5:38   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8433,       5, 5:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8433,       5, 5:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8433,       5, 5:51   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8433,       5, 5:54   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8433,       5, 6:00   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8433,       5, 6:13   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8433,       5, 6:26   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8433,       5, 6:35   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8408,       9, 6:38   ,Lakewood Mall TC Zone L,lmtcL,          1,North
+Sunday   ,  574,    8408,       9, 6:48   ,SR512 P&R Zone F,sr512F,          2,North
+Sunday   ,  574,    8408,       9, 7:00   ,Tacoma Dome Station Zone A,tdsA,          3,North
+Sunday   ,  574,    8408,       9, 7:15   ,Federal Way TC - Bay 8,Fdwprd,          4,North
+Sunday   ,  574,    8408,       9, 7:20   ,Star Lake Fwy Station NB,starlk,          5,North
+Sunday   ,  574,    8408,       9, 7:23   ,Kent/DesMoines Fwy Station,kendem,          6,North
+Sunday   ,  574,    8408,       9, 7:34   ,ST Link Station - SeaTac,StLink,          7,North
+Sunday   ,  574,    8408,       9, 7:39   ,SeaTac Airport Terminal Bay,seatac,          8,North
+Sunday   ,  574,    8451,      18,17:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8451,      18,17:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8451,      18,17:52   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8451,      18,17:55   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8451,      18,18:01   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8451,      18,18:15   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8451,      18,18:29   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8451,      18,18:38   ,Lakewood Mall TC Zone L,lmtcL,          8,South
+Sunday   ,  574,    8453,      21,18:33   ,ST Link Station - SeaTac,StLink,          1,South
+Sunday   ,  574,    8453,      21,18:40   ,SeaTac Airport Terminal Bay,seatac,          2,South
+Sunday   ,  574,    8453,      21,18:52   ,Kent/DesMoines Fwy Station,kende2,          3,South
+Sunday   ,  574,    8453,      21,18:55   ,Star Lake Fwy Station SB,starl2,          4,South
+Sunday   ,  574,    8453,      21,19:01   ,Federal Way TC - Bay 5,FedW5,          5,South
+Sunday   ,  574,    8453,      21,19:15   ,Tacoma Dome Zone H,tdsH,          6,South
+Sunday   ,  574,    8453,      21,19:29   ,SR512 P&R Zone H,sr512H,          7,South
+Sunday   ,  574,    8453,      21,19:38   ,Lakewood Mall TC Zone L,lmtcL,          8,South
