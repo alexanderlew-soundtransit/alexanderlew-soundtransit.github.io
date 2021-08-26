@@ -1,0 +1,78 @@
+
+
+<!DOCTYPE html>
+
+
+<html>
+  <head>
+    <title>Scheduler Viewer</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    
+  </head>
+  <body>
+  
+  <div class="container">
+      <h1>Scheduler Viewer</h1>
+      
+      <div class="menus">
+      	<select class="form-select" aria-label="Route" id="select-route" onChange="loadDirectionMenu()">
+          <option value="510" selected>510</option>
+          <option value="511-513">511-513</option>
+          <option value="512">512</option>
+          <option value="532-535">532-535</option>
+          
+          <option value="S522">522</option>
+          <option value="S542">542</option>
+          <option value="S545">545</option>
+          <option value="S550">550</option>
+          <option value="S554">554</option>
+          <option value="S556">556</option>
+          <option value="560">560</option>
+          <option value="566">566</option>
+          <option value="574">574</option>
+          <option value="577-578">577-578</option>
+          <option value="580">580</option>
+          <option value="586">586</option>
+          <option value="590-594">590-594</option>
+          <option value="592">592</option>
+          <option value="595">595</option>
+          <option value="596">596</option>
+          <option value="SouL">Sounder South</option>
+          <option value="NorL">Sounder North</option>
+        </select>
+         
+        <select class="form-select" aria-label="Route" id="select-direction" onChange="buildSchedules()">
+
+        </select>
+        
+        <select class="form-select" aria-label="Route" id="select-service-id" onChange="buildSchedules()">
+          <option value="Weekday" selected>Weekday</option>
+          <option value="Saturday">Saturday</option>
+          <option value="Sunday">Sunday</option>
+
+        </select>
+    
+              
+      </div>
+      
+      <div class="schedule_area">
+      
+      
+      
+      <table id="schedule" class="table"></table>
+      </div>
+      <a href="#" onclick="download_table_as_csv('schedule',',');">Download as CSV</a>
+
+      
+  </div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+     <script src="js/moment.min.js"></script>
+    <script src="js/d3.min.js"></script>
+ 	<script src="js/scripts.js"></script>
+  </body>
+</html>
