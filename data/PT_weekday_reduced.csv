@@ -1,3 +1,4 @@
+service_id,route_id,trip_id,block_id,sch_arr_time,stop_name,stop_id,stop_seq,direction_name
 Weekday  ,  577,    5603,       1, 8:24   ,Federal Way TC - Bay 7,FedW7,          1,North
 Weekday  ,  577,    5603,       1, 9:01   ,4th and Pine St,4pine,          2,North
 Weekday  ,  577,    5603,       1, 9:05   ,Howell/9th,oliv7,          3,North
