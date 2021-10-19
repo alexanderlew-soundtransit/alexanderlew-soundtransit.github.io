@@ -11,7 +11,7 @@ configFiles = ['https://raw.githubusercontent.com/alexanderlew-soundtransit/alex
 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/ct_weekday.csv',
 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/ct_saturday.csv',
 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/ct_sunday.csv',
-'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/pt_weekday.csv',
+'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_weekday_reduced.csv',
 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/pt_saturday.csv',
 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/pt_sunday.csv'];
 
