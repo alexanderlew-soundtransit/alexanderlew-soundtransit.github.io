@@ -40,6 +40,7 @@
           <option value="592">592</option>
           <option value="595">595</option>
           <option value="596">596</option>
+          <option value="S599">1 Line (Link)</option>
         </select>
          
         <select class="form-select" aria-label="Route" id="select-direction" onChange="buildSchedules()">
@@ -52,6 +53,13 @@
           <option value="Sunday">Sunday</option>
 
         </select>
+        
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="" id="showTripIdCheckbox" onclick="buildSchedules()"> 
+          <label class="form-check-label" for="flexCheckDefault">
+            Show Trip IDs
+          </label>
+        </div>
     
               
       </div>

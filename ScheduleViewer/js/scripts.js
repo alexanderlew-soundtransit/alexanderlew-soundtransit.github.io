@@ -13,7 +13,12 @@ configFiles = ['https://raw.githubusercontent.com/alexanderlew-soundtransit/alex
 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/ct_sunday.csv',
 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_weekday_reduced.csv',
 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/pt_saturday.csv',
-'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/pt_sunday.csv'];
+'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/pt_sunday.csv',
+'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Link_combined.csv'
+
+
+
+];
 
 var configIgnoreStopsEndPoint = 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/configIgnoreStops.csv';
 
@@ -29,7 +34,9 @@ var tripSortExceptions = [
 {route_id: "578", direction_name: "North", stop_id: "FedW7"},
 {route_id: "511", direction_name: "South", stop_id: "nortc"},
 {route_id: "513", direction_name: "South", stop_id: "nortc"},
-{route_id: "S522", direction_name: "South", stop_id: "5495"}
+{route_id: "S522", direction_name: "South", stop_id: "5495"},
+{route_id: "S599", direction_name: "South", stop_id: "Beacon Hill Station"},
+{route_id: "S599", direction_name: "North", stop_id: "Stadium Station"}
 ];
 
 //cheap work around for better sort of stops. 
@@ -72,7 +79,7 @@ function loadData() {
 				var cleanedData = data.filter(function(d){
 					return (d.route_id !== "" && d.route_id !== null)	
 					});
-					
+				
 				
 				//clean data
 				cleanedData = cleanData(cleanedData);	
@@ -159,7 +166,15 @@ function cleanData(data){
 				
 				data[i].sch_arr_time = data[i].sch_arr_time.replace(/\s+/g, ' ').trim();
 				data[i].stop_seq = +data[i].stop_seq.replace(/\s+/g, ' ').trim(); //converts to number
+				
+					
 				data[i].trip_id = data[i].trip_id.replace(/\s+/g, ' ').trim();
+				
+				//if link, convert trip_id to number. 
+				if(data[i].route_id === 'S599'){
+					data[i].trip_id = +data[i].trip_id;
+				}
+				
 				data[i].sch_arr_time_sort = +data[i].sch_arr_time.replace(":","");
 				
 				//check for stop name exceptions: 
@@ -210,6 +225,11 @@ function cleanData(data){
 					}
 							
 				}
+				
+				//Link: replace stop_id with stop_name as a cheep workaround for parent stops 
+				if(data[i].route_id === 'S599'){
+					data[i].stop_id = data[i].stop_name;	
+				}
 	
 				var adjustStopSeq = stopSeqExceptions.filter(function(d){return data[i].route_id === d.route_id && data[i].direction_name === d.direction_name;});
 				
@@ -231,7 +251,13 @@ function cleanData(data){
 				data[i].sch_arr_time_24h = sch_arr_time_cleaned;	
 			}
 		}
-	return data;
+		
+	//for Link: filter out non-revenue trips
+	var dataCleaned = data.filter(function(d){
+		return d.route_id !== 'S599' || (d.route_id ==='S599' && d.trip_id > 999);
+	});
+		
+	return dataCleaned;
 }
 
 //function returns array of all routes. 
@@ -333,7 +359,25 @@ function displayTable(routes, service_id, directionName, data){
 	
 	//create header
 	var tableHeader = "<thead><tr>"
-	tableHeader += '<th scope="col">' + 'Route' + '</th>'
+	tableHeader += '<th scope="col">' + 'Route' + '</th>' 
+	
+	//check if checkbox is checked to show trip id
+	
+	var checkBox = document.getElementById("showTripIdCheckbox");
+	
+	var showTripId;
+	
+	if(checkBox.checked === true){
+		showTripId = true;
+	}
+	else {
+		showTripId = false;	
+	}
+	
+	
+	if(showTripId === true){
+		tableHeader += '<th scope="col">' + 'Trip ID' + '</th>' 	
+	}
 	
 	stopsByRoute.forEach(function(d){
 		
@@ -372,6 +416,9 @@ function displayTable(routes, service_id, directionName, data){
 	for (var t = 0; t < allTrips.length; t++){
 		tableBody += '<td>' + allTrips[t].route_id.replace("S5","5") + '</td>';
 		
+		if(showTripId === true){
+			tableBody +=	 '<td>' + allTrips[t].trip_id + '</td>';
+		}
 		//get each stop and find stop time by looping through stop listing each time
 		for(var i = 0; i < stopsByRoute.length; i++){
 			var stopsFiltered = allTrips[t].stops.filter(function(d){return d.stop_id === stopsByRoute[i].stop_id && d.stop_name === stopsByRoute[i].stop_name; });
@@ -426,7 +473,7 @@ function getTripsByRoutes(routes, service_id, data){
 	routeData = routeData.filter(function(d){
 		return d.service_id === service_id;
 	});
-	
+	 console.log(routeData);
 	//create array of all trips in stop time data. 
 	for (var i = 0; i < routeData.length; i++){
 		//check if trip already exists. 
@@ -435,8 +482,13 @@ function getTripsByRoutes(routes, service_id, data){
 			
 			var obj = {}
 			
-			obj["trip_id"] = routeData[i].trip_id;
+			//if(routeData[i].route_id === 'S599'){
+			//obj["trip_id"] = +routeData[i].trip_id;
+			//} else {
+			obj["trip_id"] = routeData[i].trip_id;	
+			//}
 			obj["route_id"] = routeData[i].route_id;
+			
 			obj["service_id"] = routeData[i].service_id;
 			obj["direction_name"] = routeData[i].direction_name;
 			
@@ -492,6 +544,10 @@ function getTripsByRoutes(routes, service_id, data){
 	
 	}
 	*/
+	// if Link is included, remove all deadhead trips.
+/*	trips = trips.filter(function(d){
+		return (d.route_id !== 'S599' || (d.route_id === 'S599' && d.trip_id > 1000));
+	});*/
 	
 	trips.sort(function(a,b){
 		if(a.direction_name < b.direction_name){
