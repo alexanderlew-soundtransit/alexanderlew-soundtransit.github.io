@@ -1,5 +1,5 @@
 route_id,ib_direction_id,ib_stop_id,to_route,to_direction_name,to_stop_id,ob_direction_id,ob_stop_id,from_route_id,from_direction_name,from_stop_id
 511,South,nortc,S599,South,Northgate Station,North,nortc,S599,North,Northgate Station
-512,South,nortc,S599,South,Northgate Station,,nortc,S599,North,Northgate Station
-513,South,nortc,S599,South,Northgate Station,,nortc,S599,North,Northgate Station
-S522,South,5495,S599,South,Roosevelt Station,,5492,S599,North,Roosevelt Station
+512,South,nortc,S599,South,Northgate Station,North,nortc,S599,North,Northgate Station
+513,South,nortc,S599,South,Northgate Station,North,nortc,S599,North,Northgate Station
+S522,South,5495,S599,South,Roosevelt Station,North,5492,S599,North,Roosevelt Station
