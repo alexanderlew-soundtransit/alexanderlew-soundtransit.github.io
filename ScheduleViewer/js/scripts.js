@@ -27,6 +27,9 @@ var configIgnoreStops;
 var stopNameExceptionsEndPoint = 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/stop_name_exceptions.csv';
 var stopNameExceptions;
 
+var configTransfersEndPoint = 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/configTransfers.csv';
+var configTransfers;
+
 var tripSortExceptions = [
 {route_id: "532", direction_name: "South", stop_id: "blvtc"},
 {route_id: "535", direction_name: "South", stop_id: "blvtc"},
@@ -109,7 +112,17 @@ function loadStopNameExceptionsCSV(endpoint){
 		
 		//console.log(stopNameExceptions);
 		
-		loadConfigIgnoreStops(configIgnoreStopsEndPoint);	
+		loadConfigTransfers(configTransfersEndPoint);	
+	});
+}
+
+function loadConfigTransfers(endpoint){
+	d3.csv(endpoint, function(data){
+		configTransfers = data;
+		console.log(configTransfers);
+	
+	loadConfigIgnoreStops(configIgnoreStopsEndPoint);	
+		
 	});
 }
 
@@ -379,6 +392,25 @@ function displayTable(routes, service_id, directionName, data){
 		tableHeader += '<th scope="col">' + 'Trip ID' + '</th>' 	
 	}
 	
+	//connection from Link //check if route is in config. 
+	//load config value to see if it includes route
+	var configTransfersRouteBothDirections = configTransfers.filter(function(d){
+		return routes.includes(d.route_id);
+	});
+	
+	//loop through each, and check if there is a connection TO route in the direction that is selected. 
+	if(configTransfersRouteBothDirections){
+		var configTransfersToRoute = configTransfersRouteBothDirections.filter(function(d){
+			return directionName === d.ob_direction_id;
+		});
+		
+		if(configTransfersToRoute.length > 0){
+			tableHeader += '<th scope="col">' + '1 Line Arrival' + '</th>' ;
+		}
+	}
+	
+	
+	
 	stopsByRoute.forEach(function(d){
 		
 		var displayStop;
@@ -393,6 +425,20 @@ function displayTable(routes, service_id, directionName, data){
 		}
 		tableHeader += '<th scope="col">' + displayStop + '</th>'; 
 	});
+	
+	//display header for link connection
+	if(configTransfersRouteBothDirections){
+		var configTransfersFromRoute = configTransfersRouteBothDirections.filter(function(d){
+			return directionName === d.ib_direction_id;
+		});
+		
+		console.log(configTransfersFromRoute);
+		
+		if(configTransfersFromRoute.length > 0){
+			tableHeader += '<th scope="col">' + '1 Line Departure' + '</th>' ;
+		}
+	}
+	//connections to Link
 	
 	tableHeader += "</tr></thead>";
 	
@@ -419,18 +465,99 @@ function displayTable(routes, service_id, directionName, data){
 		if(showTripId === true){
 			tableBody +=	 '<td>' + allTrips[t].trip_id + '</td>';
 		}
+		//get config for this single trip. 
+		var transferToRoute = configTransfersToRoute.filter(function(d){
+			return d.route_id === allTrips[t].route_id;	
+		});
+		
+	//	console.log(transferToRoute);
+		
+		//find connection time FROM Link TO route
+		if(configTransfersToRoute.length > 0){
+			//get stop time for route and then call function to find closest Link arrival time.
+			var connectionStop = allTrips[t].stops.filter(function(d){
+				return d.stop_id === transferToRoute[0].ob_stop_id;
+			});
+			
+			//if trip doesn't serve stop: show "":"
+			if(connectionStop.length < 1){
+				tableBody +=	'<td>:</td>';		
+			}
+			else{
+			// call function
+				var connectionTime = getConnectionToFromRoute(connectionStop[0].sch_arr_time_24h,transferToRoute[0].from_route_id,transferToRoute[0].from_stop_id,transferToRoute[0].from_direction_name,service_id,"to");
+				
+				console.log(connectionTime);
+				
+				if(connectionTime){
+					var formattedConnectionTime = moment(connectionTime,"h:mm").format("h:mm a");
+					tableBody +='<td>' + formattedConnectionTime + '</td>';
+				}
+			}
+	
+			
+		}
+		
 		//get each stop and find stop time by looping through stop listing each time
 		for(var i = 0; i < stopsByRoute.length; i++){
+			
+			
 			var stopsFiltered = allTrips[t].stops.filter(function(d){return d.stop_id === stopsByRoute[i].stop_id && d.stop_name === stopsByRoute[i].stop_name; });
 			
-			if(stopsFiltered.length > 0){
-				var stopTime = moment(stopsFiltered[0].sch_arr_time_24h,'h:mm').format('h:mm a');
+			var stopsFilteredLength = stopsFiltered.length;
+			//take the latest if there are multiple stop times for a single stop/trip
+			
+			//if there is more than one stop results, then sort by time asc
+			if(stopsFilteredLength > 1){
+				stopsFiltered = stopsFiltered.sort(function(a,b){
+					return a.stop_arr_time_sort - b.stop_arr_time_sort;
+				});
+			}
+			
+			if(stopsFilteredLength > 0){
+				var stopTime = moment(stopsFiltered[stopsFilteredLength-1].sch_arr_time_24h,'h:mm').format('h:mm a');
 				tableBody += '<td>' + stopTime + '</td>'; 
 			}
 			else{ 
 				tableBody +=	'<td>:</td>';
 			}
+			
+		}
+		/*
+			//get connection to Link time. 
+			
+			*/ 
+			var transferFromRoute = configTransfersFromRoute.filter(function(d){
+					return d.route_id === allTrips[t].route_id;	
+				});
+			
+			console.log(transferFromRoute);
+		
+			
+			if(configTransfersFromRoute.length > 0){
+			//get stop time for route and then call function to find closest Link arrival time.
+			var connectionStop = allTrips[t].stops.filter(function(d){
+				return d.stop_id === transferFromRoute[0].ib_stop_id;
+			});
+			
+			console.log(connectionStop);
+			//if trip doesn't serve stop then: show "":"
+			if(connectionStop.length < 1){
+				tableBody +=	'<td>:</td>';		
+			}
+			else{
+			// call function
+				var connectionTime = getConnectionToFromRoute(connectionStop[0].sch_arr_time_24h,transferFromRoute[0].to_route_id,transferFromRoute[0].to_stop_id,transferFromRoute[0].to_direction_name,service_id,"from");
 				
+				console.log(connectionTime);
+				
+				if(connectionTime){
+					var formattedConnectionTime = moment(connectionTime,"h:mm").format("h:mm a");
+					tableBody +='<td>' + formattedConnectionTime + '</td>';
+				}
+			}
+	
+			
 				
 		}
 		
@@ -451,6 +578,102 @@ function displayTable(routes, service_id, directionName, data){
 	//iterate through each trip, matching stop order. for stops that are not served show "-"
 	
 };
+
+//function returns arrival of train to route
+function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id, tofrom){
+	//get disaggregated trips from cleaned data.
+	connectingBusTime = moment(time,"h:mm");
+	if(connectingBusTime > moment("0:00", "h:mm") && connectingBusTime < moment("3:00","h:mm")){
+		connectingBusTime.add(1,"days");	
+	}
+	
+	
+	var lookupTripStops = revTripsData.filter(function(d){
+		return d.route_id === route_id && d.direction_name  === direction && d.service_id === service_id && d.stop_id === stop_id;
+	});
+
+	console.log(lookupTripStops);
+	
+	//for each record, calculate time difference from desired connection time.
+	lookupTripStops.forEach(function(d){
+		var arrivalTime = moment(d.sch_arr_time_24h,"h:mm");
+		
+		//handling of 24 hours
+		if(d.sch_arr_time_sort > 2400){
+			arrivalTime.add(1,"days");
+		}
+	
+	//calculate difference
+	d.diff = (connectingBusTime - arrivalTime)/60000;	
+	});
+	
+	var linkConnection
+	//filter out diff less than 0 for "to route from Link" and more than 0 for "from route to Link"
+	if(tofrom === "to"){
+		lookupTripStops = lookupTripStops.filter(function(d){
+			return d.diff > 0;
+		});
+		
+		lookupTripStops = lookupTripStops.sort(function(a,b){
+			if(a.diff > b.diff){
+				return 1;	
+			}
+			else if(a.diff < b.diff){
+				return -1;	
+			}
+			else {return 0;}
+		});
+		
+		linkConnection = lookupTripStops[0].sch_arr_time_24h;
+	}
+	else if(tofrom === "from"){
+		lookupTripStops = lookupTripStops.filter(function(d){
+			return d.diff < 0;
+		});
+		//sort descending
+		lookupTripStops = lookupTripStops.sort(function(a,b){
+			if(a.diff < b.diff){
+				return 1;	
+			}
+			else if(a.diff > b.diff){
+				return -1;	
+			}
+			else {return 0;}
+		});
+		
+		console.log(lookupTripStops);
+		
+		//if there are two stop times (e.g. at terminals) within 1 minute, take the second of the two. 
+		if(lookupTripStops.length >= 2 && (Math.abs(lookupTripStops[1].diff) - Math.abs(lookupTripStops[0].diff) >= 1) && (Math.abs(lookupTripStops[1].diff) - Math.abs(lookupTripStops[0].diff) < 2)){
+			linkConnection = lookupTripStops[1].sch_arr_time_24h;
+		} else {
+			linkConnection = lookupTripStops[0].sch_arr_time_24h;
+		}
+		
+	}
+	
+	/*//sort by smallest to greatest. 
+	var lookupTripsSorted = lookupTripStops.sort(function(a,b){
+			if(a.diff > b.diff){
+				return 1;	
+			}
+			else if(a.diff < b.diff){
+				return -1;	
+			}
+			else {return 0;} 
+	}); */
+	
+	//return arrival time of Link train
+	return linkConnection;
+}
+
+function getConnectionFrom(time,station,direction,service_id){
+	
+	
+	
+	
+}
+
 
 function getTripsByRoutes(routes, service_id, data){
 	//gets unique trip ids by route sorted by first time point. 
