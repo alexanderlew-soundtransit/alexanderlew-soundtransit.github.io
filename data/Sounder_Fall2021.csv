@@ -1,233 +1,233 @@
-service_id;route_id;trip_id;block_id;sch_arr_time;stop_name;stop_id;stop_seq;direction_name
-Weekday  ;;    1539;       3; 5:11   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1539;       3; 5:26   ;Lakewood Station;Lakewo;          2;
-Weekday  ; SouL;    1508;       5; 6:06   ;Lakewood Station;Lakewo;          1;North
-Weekday  ; SouL;    1508;       5; 6:11   ;South Tacoma Station;STacom;          2;North
-Weekday  ; SouL;    1508;       5; 6:20   ;Tacoma Dome Station;TDome;          3;North
-Weekday  ; SouL;    1508;       5; 6:33   ;Puyallup Station;Puyall;          4;North
-Weekday  ; SouL;    1508;       5; 6:38   ;Sumner Station;Sumner;          5;North
-Weekday  ; SouL;    1508;       5; 6:48   ;Auburn Station;Auburn;          6;North
-Weekday  ; SouL;    1508;       5; 6:55   ;Kent Station;KentSt;          7;North
-Weekday  ; SouL;    1508;       5; 7:02   ;Tukwila Station;Tukwil;          8;North
-Weekday  ; SouL;    1508;       5; 7:22   ;King Street Station;KingSt;          9;North
-Weekday  ; SouL;    1521;      17;17:20   ;King Street Station;KingSt;          1;South
-Weekday  ; SouL;    1521;      17;17:33   ;Tukwila Station;Tukwil;          2;South
-Weekday  ; SouL;    1521;      17;17:40   ;Kent Station;KentSt;          3;South
-Weekday  ; SouL;    1521;      17;17:47   ;Auburn Station;Auburn;          4;South
-Weekday  ; SouL;    1521;      17;17:57   ;Sumner Station;Sumner;          5;South
-Weekday  ; SouL;    1521;      17;18:02   ;Puyallup Station;Puyall;          6;South
-Weekday  ; SouL;    1521;      17;18:15   ;Tacoma Dome Station;TDome;          7;South
-Weekday  ; SouL;    1521;      17;18:24   ;South Tacoma Station;STacom;          8;South
-Weekday  ; SouL;    1521;      17;18:36   ;Lakewood Station;Lakewo;          9;South
-Weekday  ; SouL;    1506;       4; 5:46   ;Lakewood Station;Lakewo;          1;North
-Weekday  ; SouL;    1506;       4; 5:51   ;South Tacoma Station;STacom;          2;North
-Weekday  ; SouL;    1506;       4; 6:00   ;Tacoma Dome Station;TDome;          3;North
-Weekday  ; SouL;    1506;       4; 6:13   ;Puyallup Station;Puyall;          4;North
-Weekday  ; SouL;    1506;       4; 6:18   ;Sumner Station;Sumner;          5;North
-Weekday  ; SouL;    1506;       4; 6:28   ;Auburn Station;Auburn;          6;North
-Weekday  ; SouL;    1506;       4; 6:35   ;Kent Station;KentSt;          7;North
-Weekday  ; SouL;    1506;       4; 6:42   ;Tukwila Station;Tukwil;          8;North
-Weekday  ; SouL;    1506;       4; 7:02   ;King Street Station;KingSt;          9;North
-Weekday  ; SouL;    1510;       6; 6:26   ;Lakewood Station;Lakewo;          1;North
-Weekday  ; SouL;    1510;       6; 6:31   ;South Tacoma Station;STacom;          2;North
-Weekday  ; SouL;    1510;       6; 6:40   ;Tacoma Dome Station;TDome;          3;North
-Weekday  ; SouL;    1510;       6; 6:53   ;Puyallup Station;Puyall;          4;North
-Weekday  ; SouL;    1510;       6; 6:58   ;Sumner Station;Sumner;          5;North
-Weekday  ; SouL;    1510;       6; 7:08   ;Auburn Station;Auburn;          6;North
-Weekday  ; SouL;    1510;       6; 7:15   ;Kent Station;KentSt;          7;North
-Weekday  ; SouL;    1510;       6; 7:22   ;Tukwila Station;Tukwil;          8;North
-Weekday  ; SouL;    1510;       6; 7:42   ;King Street Station;KingSt;          9;North
-Weekday  ; NorL;    1703;       2; 6:15   ;Everett Station;Everet;          1;South
-Weekday  ; NorL;    1703;       2; 6:26   ;Mukilteo Station;Mukilt;          2;South
-Weekday  ; NorL;    1703;       2; 6:41   ;Edmonds Station;Edmond;          3;South
-Weekday  ; NorL;    1703;       2; 7:14   ;King Street Station;KingSt;          4;South
-Weekday  ; SouL;    1512;       7; 6:46   ;Lakewood Station;Lakewo;          1;North
-Weekday  ; SouL;    1512;       7; 6:51   ;South Tacoma Station;STacom;          2;North
-Weekday  ; SouL;    1512;       7; 7:00   ;Tacoma Dome Station;TDome;          3;North
-Weekday  ; SouL;    1512;       7; 7:13   ;Puyallup Station;Puyall;          4;North
-Weekday  ; SouL;    1512;       7; 7:18   ;Sumner Station;Sumner;          5;North
-Weekday  ; SouL;    1512;       7; 7:28   ;Auburn Station;Auburn;          6;North
-Weekday  ; SouL;    1512;       7; 7:35   ;Kent Station;KentSt;          7;North
-Weekday  ; SouL;    1512;       7; 7:42   ;Tukwila Station;Tukwil;          8;North
-Weekday  ; SouL;    1512;       7; 8:02   ;King Street Station;KingSt;          9;North
-Weekday  ; SouL;    1511;      11;15:35   ;King Street Station;KingSt;          1;South
-Weekday  ; SouL;    1511;      11;15:48   ;Tukwila Station;Tukwil;          2;South
-Weekday  ; SouL;    1511;      11;15:55   ;Kent Station;KentSt;          3;South
-Weekday  ; SouL;    1511;      11;16:02   ;Auburn Station;Auburn;          4;South
-Weekday  ; SouL;    1511;      11;16:12   ;Sumner Station;Sumner;          5;South
-Weekday  ; SouL;    1511;      11;16:17   ;Puyallup Station;Puyall;          6;South
-Weekday  ; SouL;    1511;      11;16:30   ;Tacoma Dome Station;TDome;          7;South
-Weekday  ; SouL;    1511;      11;16:39   ;South Tacoma Station;STacom;          8;South
-Weekday  ; SouL;    1511;      11;16:51   ;Lakewood Station;Lakewo;          9;South
-Weekday  ; SouL;    1500;       1; 4:36   ;Lakewood Station;Lakewo;          1;North
-Weekday  ; SouL;    1500;       1; 4:41   ;South Tacoma Station;STacom;          2;North
-Weekday  ; SouL;    1500;       1; 4:50   ;Tacoma Dome Station;TDome;          3;North
-Weekday  ; SouL;    1500;       1; 5:03   ;Puyallup Station;Puyall;          4;North
-Weekday  ; SouL;    1500;       1; 5:08   ;Sumner Station;Sumner;          5;North
-Weekday  ; SouL;    1500;       1; 5:18   ;Auburn Station;Auburn;          6;North
-Weekday  ; SouL;    1500;       1; 5:25   ;Kent Station;KentSt;          7;North
-Weekday  ; SouL;    1500;       1; 5:32   ;Tukwila Station;Tukwil;          8;North
-Weekday  ; SouL;    1500;       1; 5:52   ;King Street Station;KingSt;          9;North
-Weekday  ; SouL;    1504;       3; 5:26   ;Lakewood Station;Lakewo;          1;North
-Weekday  ; SouL;    1504;       3; 5:31   ;South Tacoma Station;STacom;          2;North
-Weekday  ; SouL;    1504;       3; 5:40   ;Tacoma Dome Station;TDome;          3;North
-Weekday  ; SouL;    1504;       3; 5:53   ;Puyallup Station;Puyall;          4;North
-Weekday  ; SouL;    1504;       3; 5:58   ;Sumner Station;Sumner;          5;North
-Weekday  ; SouL;    1504;       3; 6:08   ;Auburn Station;Auburn;          6;North
-Weekday  ; SouL;    1504;       3; 6:15   ;Kent Station;KentSt;          7;North
-Weekday  ; SouL;    1504;       3; 6:22   ;Tukwila Station;Tukwil;          8;North
-Weekday  ; SouL;    1504;       3; 6:42   ;King Street Station;KingSt;          9;North
-Weekday  ; SouL;    1525;      12;18:30   ;King Street Station;KingSt;          1;South
-Weekday  ; SouL;    1525;      12;18:43   ;Tukwila Station;Tukwil;          2;South
-Weekday  ; SouL;    1525;      12;18:50   ;Kent Station;KentSt;          3;South
-Weekday  ; SouL;    1525;      12;18:57   ;Auburn Station;Auburn;          4;South
-Weekday  ; SouL;    1525;      12;19:07   ;Sumner Station;Sumner;          5;South
-Weekday  ; SouL;    1525;      12;19:12   ;Puyallup Station;Puyall;          6;South
-Weekday  ; SouL;    1525;      12;19:25   ;Tacoma Dome Station;TDome;          7;South
-Weekday  ; SouL;    1525;      12;19:34   ;South Tacoma Station;STacom;          8;South
-Weekday  ; SouL;    1525;      12;19:46   ;Lakewood Station;Lakewo;          9;South
-Weekday  ; SouL;    1515;      13;16:15   ;King Street Station;KingSt;          1;South
-Weekday  ; SouL;    1515;      13;16:28   ;Tukwila Station;Tukwil;          2;South
-Weekday  ; SouL;    1515;      13;16:35   ;Kent Station;KentSt;          3;South
-Weekday  ; SouL;    1515;      13;16:42   ;Auburn Station;Auburn;          4;South
-Weekday  ; SouL;    1515;      13;16:52   ;Sumner Station;Sumner;          5;South
-Weekday  ; SouL;    1515;      13;16:57   ;Puyallup Station;Puyall;          6;South
-Weekday  ; SouL;    1515;      13;17:10   ;Tacoma Dome Station;TDome;          7;South
-Weekday  ; SouL;    1515;      13;17:19   ;South Tacoma Station;STacom;          8;South
-Weekday  ; SouL;    1515;      13;17:31   ;Lakewood Station;Lakewo;          9;South
-Weekday  ; SouL;    1513;      12;15:55   ;King Street Station;KingSt;          1;South
-Weekday  ; SouL;    1513;      12;16:08   ;Tukwila Station;Tukwil;          2;South
-Weekday  ; SouL;    1513;      12;16:15   ;Kent Station;KentSt;          3;South
-Weekday  ; SouL;    1513;      12;16:22   ;Auburn Station;Auburn;          4;South
-Weekday  ; SouL;    1513;      12;16:32   ;Sumner Station;Sumner;          5;South
-Weekday  ; SouL;    1513;      12;16:37   ;Puyallup Station;Puyall;          6;South
-Weekday  ; SouL;    1513;      12;16:57   ;Tacoma Dome Station;TDome;          7;South
-Weekday  ; NorL;    1702;       6;16:33   ;King Street Station;KingSt;          1;North
-Weekday  ; NorL;    1702;       6;17:00   ;Edmonds Station;Edmond;          2;North
-Weekday  ; NorL;    1702;       6;17:15   ;Mukilteo Station;Mukilt;          3;North
-Weekday  ; NorL;    1702;       6;17:32   ;Everett Station;Everet;          4;North
-Weekday  ; SouL;    1519;      15;16:55   ;King Street Station;KingSt;          1;South
-Weekday  ; SouL;    1519;      15;17:08   ;Tukwila Station;Tukwil;          2;South
-Weekday  ; SouL;    1519;      15;17:15   ;Kent Station;KentSt;          3;South
-Weekday  ; SouL;    1519;      15;17:22   ;Auburn Station;Auburn;          4;South
-Weekday  ; SouL;    1519;      15;17:32   ;Sumner Station;Sumner;          5;South
-Weekday  ; SouL;    1519;      15;17:37   ;Puyallup Station;Puyall;          6;South
-Weekday  ; SouL;    1519;      15;17:50   ;Tacoma Dome Station;TDome;          7;South
-Weekday  ; SouL;    1519;      15;17:59   ;South Tacoma Station;STacom;          8;South
-Weekday  ; SouL;    1519;      15;18:11   ;Lakewood Station;Lakewo;          9;South
-Weekday  ; NorL;    1707;       4; 7:15   ;Everett Station;Everet;          1;South
-Weekday  ; NorL;    1707;       4; 7:26   ;Mukilteo Station;Mukilt;          2;South
-Weekday  ; NorL;    1707;       4; 7:41   ;Edmonds Station;Edmond;          3;South
-Weekday  ; NorL;    1707;       4; 8:14   ;King Street Station;KingSt;          4;South
-Weekday  ; NorL;    1706;       8;17:35   ;King Street Station;KingSt;          1;North
-Weekday  ; NorL;    1706;       8;18:02   ;Edmonds Station;Edmond;          2;North
-Weekday  ; NorL;    1706;       8;18:17   ;Mukilteo Station;Mukilt;          3;North
-Weekday  ; NorL;    1706;       8;18:34   ;Everett Station;Everet;          4;North
-Weekday  ; SouL;    1524;      12;17:15   ;Tacoma Dome Station;TDome;          1;North
-Weekday  ; SouL;    1524;      12;17:27   ;Puyallup Station;Puyall;          2;North
-Weekday  ; SouL;    1524;      12;17:32   ;Sumner Station;Sumner;          3;North
-Weekday  ; SouL;    1524;      12;17:42   ;Auburn Station;Auburn;          4;North
-Weekday  ; SouL;    1524;      12;17:49   ;Kent Station;KentSt;          5;North
-Weekday  ; SouL;    1524;      12;17:56   ;Tukwila Station;Tukwil;          6;North
-Weekday  ; SouL;    1524;      12;18:16   ;King Street Station;KingSt;          7;North
-Weekday  ; SouL;    1502;       2; 5:01   ;Lakewood Station;Lakewo;          1;North
-Weekday  ; SouL;    1502;       2; 5:06   ;South Tacoma Station;STacom;          2;North
-Weekday  ; SouL;    1502;       2; 5:15   ;Tacoma Dome Station;TDome;          3;North
-Weekday  ; SouL;    1502;       2; 5:28   ;Puyallup Station;Puyall;          4;North
-Weekday  ; SouL;    1502;       2; 5:33   ;Sumner Station;Sumner;          5;North
-Weekday  ; SouL;    1502;       2; 5:43   ;Auburn Station;Auburn;          6;North
-Weekday  ; SouL;    1502;       2; 5:50   ;Kent Station;KentSt;          7;North
-Weekday  ; SouL;    1502;       2; 5:57   ;Tukwila Station;Tukwil;          8;North
-Weekday  ; SouL;    1502;       2; 6:17   ;King Street Station;KingSt;          9;North
-Weekday  ; SouL;    1517;      14;16:35   ;King Street Station;KingSt;          1;South
-Weekday  ; SouL;    1517;      14;16:48   ;Tukwila Station;Tukwil;          2;South
-Weekday  ; SouL;    1517;      14;16:55   ;Kent Station;KentSt;          3;South
-Weekday  ; SouL;    1517;      14;17:02   ;Auburn Station;Auburn;          4;South
-Weekday  ; SouL;    1517;      14;17:12   ;Sumner Station;Sumner;          5;South
-Weekday  ; SouL;    1517;      14;17:17   ;Puyallup Station;Puyall;          6;South
-Weekday  ; SouL;    1517;      14;17:30   ;Tacoma Dome Station;TDome;          7;South
-Weekday  ; SouL;    1517;      14;17:39   ;South Tacoma Station;STacom;          8;South
-Weekday  ; SouL;    1517;      14;17:51   ;Lakewood Station;Lakewo;          9;South
-Weekday  ; SouL;    1523;      10;17:45   ;King Street Station;KingSt;          1;South
-Weekday  ; SouL;    1523;      10;17:58   ;Tukwila Station;Tukwil;          2;South
-Weekday  ; SouL;    1523;      10;18:05   ;Kent Station;KentSt;          3;South
-Weekday  ; SouL;    1523;      10;18:12   ;Auburn Station;Auburn;          4;South
-Weekday  ; SouL;    1523;      10;18:22   ;Sumner Station;Sumner;          5;South
-Weekday  ; SouL;    1523;      10;18:27   ;Puyallup Station;Puyall;          6;South
-Weekday  ; SouL;    1523;      10;18:40   ;Tacoma Dome Station;TDome;          7;South
-Weekday  ; SouL;    1523;      10;18:49   ;South Tacoma Station;STacom;          8;South
-Weekday  ; SouL;    1523;      10;19:01   ;Lakewood Station;Lakewo;          9;South
-Weekday  ; SouL;    1503;       2; 6:35   ;King Street Station;KingSt;          1;South
-Weekday  ; SouL;    1503;       2; 6:48   ;Tukwila Station;Tukwil;          2;South
-Weekday  ; SouL;    1503;       2; 6:55   ;Kent Station;KentSt;          3;South
-Weekday  ; SouL;    1503;       2; 7:02   ;Auburn Station;Auburn;          4;South
-Weekday  ; SouL;    1503;       2; 7:12   ;Sumner Station;Sumner;          5;South
-Weekday  ; SouL;    1503;       2; 7:17   ;Puyallup Station;Puyall;          6;South
-Weekday  ; SouL;    1503;       2; 7:36   ;Tacoma Dome Station;TDome;          7;South
-Weekday  ; SouL;    1516;       2; 7:50   ;Tacoma Dome Station;TDome;          1;North
-Weekday  ; SouL;    1516;       2; 8:03   ;Puyallup Station;Puyall;          2;North
-Weekday  ; SouL;    1516;       2; 8:08   ;Sumner Station;Sumner;          3;North
-Weekday  ; SouL;    1516;       2; 8:18   ;Auburn Station;Auburn;          4;North
-Weekday  ; SouL;    1516;       2; 8:25   ;Kent Station;KentSt;          5;North
-Weekday  ; SouL;    1516;       2; 8:32   ;Tukwila Station;Tukwil;          6;North
-Weekday  ; SouL;    1516;       2; 8:52   ;King Street Station;KingSt;          7;North
-Weekday  ;;    1560;       4; 7:02   ;King Street Station;KingSt;          1;
-Weekday  ;;    1560;       4; 7:17   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ;;    1552;      10;19:01   ;Lakewood Station;Lakewo;          1;
-Weekday  ;;    1552;      10;19:16   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ;;    1546;      12;19:46   ;Lakewood Station;Lakewo;          1;
-Weekday  ;;    1546;      12;20:01   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ;;    1543;       2; 4:46   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1543;       2; 5:01   ;Lakewood Station;Lakewo;          2;
-Weekday  ;;    1550;      15;18:11   ;Lakewood Station;Lakewo;          1;
-Weekday  ;;    1550;      15;18:26   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ;;    1563;      14;16:20   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1563;      14;16:35   ;King Street Station;KingSt;          2;
-Weekday  ;;    1566;      11;16:51   ;Lakewood Station;Lakewo;          1;
-Weekday  ;;    1566;      11;17:06   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ;;    1559;       4; 5:31   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1559;       4; 5:46   ;Lakewood Station;Lakewo;          2;
-Weekday  ;;    1565;      11;15:20   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1565;      11;15:35   ;King Street Station;KingSt;          2;
-Weekday  ;;    1545;      12;15:40   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1545;      12;15:55   ;King Street Station;KingSt;          2;
-Weekday  ;;    1568;       7; 8:05   ;King Street Station;KingSt;          1;
-Weekday  ;;    1568;       7; 8:20   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ;;    1562;      17;18:36   ;Lakewood Station;Lakewo;          1;
-Weekday  ;;    1562;      17;18:51   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ;;    1564;      14;17:51   ;Lakewood Station;Lakewo;          1;
-Weekday  ;;    1564;      14;18:06   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ; SouL;    1520;      17;16:06   ;Tacoma Dome Station;TDome;          1;North
-Weekday  ; SouL;    1520;      17;16:18   ;Puyallup Station;Puyall;          2;North
-Weekday  ; SouL;    1520;      17;16:23   ;Sumner Station;Sumner;          3;North
-Weekday  ; SouL;    1520;      17;16:33   ;Auburn Station;Auburn;          4;North
-Weekday  ; SouL;    1520;      17;16:40   ;Kent Station;KentSt;          5;North
-Weekday  ; SouL;    1520;      17;16:47   ;Tukwila Station;Tukwil;          6;North
-Weekday  ; SouL;    1520;      17;17:07   ;King Street Station;KingSt;          7;North
-Weekday  ;;    1549;      15;16:40   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1549;      15;16:55   ;King Street Station;KingSt;          2;
-Weekday  ;;    1553;       6; 6:11   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1553;       6; 6:26   ;Lakewood Station;Lakewo;          2;
-Weekday  ;;    1556;       5; 7:22   ;King Street Station;KingSt;          1;
-Weekday  ;;    1556;       5; 7:37   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ;;    1540;       3; 6:42   ;King Street Station;KingSt;          1;
-Weekday  ;;    1540;       3; 6:57   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ;;    1555;       5; 5:51   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1555;       5; 6:06   ;Lakewood Station;Lakewo;          2;
-Weekday  ;;    1542;      13;17:31   ;Lakewood Station;Lakewo;          1;
-Weekday  ;;    1542;      13;17:46   ;Lakewood Sounder Yard;CentYd;          2;
-Weekday  ;;    1547;       1; 4:21   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1547;       1; 4:36   ;Lakewood Station;Lakewo;          2;
-Weekday  ;;    1567;       7; 6:31   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1567;       7; 6:46   ;Lakewood Station;Lakewo;          2;
-Weekday  ; SouL;    1507;      17;14:35   ;King Street Station;KingSt;          1;South
-Weekday  ; SouL;    1507;      17;14:48   ;Tukwila Station;Tukwil;          2;South
-Weekday  ; SouL;    1507;      17;14:55   ;Kent Station;KentSt;          3;South
-Weekday  ; SouL;    1507;      17;15:02   ;Auburn Station;Auburn;          4;South
-Weekday  ; SouL;    1507;      17;15:12   ;Sumner Station;Sumner;          5;South
-Weekday  ; SouL;    1507;      17;15:17   ;Puyallup Station;Puyall;          6;South
-Weekday  ; SouL;    1507;      17;15:37   ;Tacoma Dome Station;TDome;          7;South
-Weekday  ;;    1541;      13;16:00   ;Lakewood Sounder Yard;CentYd;          1;
-Weekday  ;;    1541;      13;16:15   ;King Street Station;KingSt;          2;
-Weekday  ;;    1544;       2; 8:52   ;King Street Station;KingSt;          1;
-Weekday  ;;    1544;       2; 9:07   ;Lakewood Sounder Yard;CentYd;          2;
+service_id,route_id,trip_id,block_id,sch_arr_time,stop_name,stop_id,stop_seq,direction_name
+Weekday  ,,    1539,       3, 5:11   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1539,       3, 5:26   ,Lakewood Station,Lakewo,          2,
+Weekday  , SouL,    1508,       5, 6:06   ,Lakewood Station,Lakewo,          1,North
+Weekday  , SouL,    1508,       5, 6:11   ,South Tacoma Station,STacom,          2,North
+Weekday  , SouL,    1508,       5, 6:20   ,Tacoma Dome Station,TDome,          3,North
+Weekday  , SouL,    1508,       5, 6:33   ,Puyallup Station,Puyall,          4,North
+Weekday  , SouL,    1508,       5, 6:38   ,Sumner Station,Sumner,          5,North
+Weekday  , SouL,    1508,       5, 6:48   ,Auburn Station,Auburn,          6,North
+Weekday  , SouL,    1508,       5, 6:55   ,Kent Station,KentSt,          7,North
+Weekday  , SouL,    1508,       5, 7:02   ,Tukwila Station,Tukwil,          8,North
+Weekday  , SouL,    1508,       5, 7:22   ,King Street Station,KingSt,          9,North
+Weekday  , SouL,    1521,      17,17:20   ,King Street Station,KingSt,          1,South
+Weekday  , SouL,    1521,      17,17:33   ,Tukwila Station,Tukwil,          2,South
+Weekday  , SouL,    1521,      17,17:40   ,Kent Station,KentSt,          3,South
+Weekday  , SouL,    1521,      17,17:47   ,Auburn Station,Auburn,          4,South
+Weekday  , SouL,    1521,      17,17:57   ,Sumner Station,Sumner,          5,South
+Weekday  , SouL,    1521,      17,18:02   ,Puyallup Station,Puyall,          6,South
+Weekday  , SouL,    1521,      17,18:15   ,Tacoma Dome Station,TDome,          7,South
+Weekday  , SouL,    1521,      17,18:24   ,South Tacoma Station,STacom,          8,South
+Weekday  , SouL,    1521,      17,18:36   ,Lakewood Station,Lakewo,          9,South
+Weekday  , SouL,    1506,       4, 5:46   ,Lakewood Station,Lakewo,          1,North
+Weekday  , SouL,    1506,       4, 5:51   ,South Tacoma Station,STacom,          2,North
+Weekday  , SouL,    1506,       4, 6:00   ,Tacoma Dome Station,TDome,          3,North
+Weekday  , SouL,    1506,       4, 6:13   ,Puyallup Station,Puyall,          4,North
+Weekday  , SouL,    1506,       4, 6:18   ,Sumner Station,Sumner,          5,North
+Weekday  , SouL,    1506,       4, 6:28   ,Auburn Station,Auburn,          6,North
+Weekday  , SouL,    1506,       4, 6:35   ,Kent Station,KentSt,          7,North
+Weekday  , SouL,    1506,       4, 6:42   ,Tukwila Station,Tukwil,          8,North
+Weekday  , SouL,    1506,       4, 7:02   ,King Street Station,KingSt,          9,North
+Weekday  , SouL,    1510,       6, 6:26   ,Lakewood Station,Lakewo,          1,North
+Weekday  , SouL,    1510,       6, 6:31   ,South Tacoma Station,STacom,          2,North
+Weekday  , SouL,    1510,       6, 6:40   ,Tacoma Dome Station,TDome,          3,North
+Weekday  , SouL,    1510,       6, 6:53   ,Puyallup Station,Puyall,          4,North
+Weekday  , SouL,    1510,       6, 6:58   ,Sumner Station,Sumner,          5,North
+Weekday  , SouL,    1510,       6, 7:08   ,Auburn Station,Auburn,          6,North
+Weekday  , SouL,    1510,       6, 7:15   ,Kent Station,KentSt,          7,North
+Weekday  , SouL,    1510,       6, 7:22   ,Tukwila Station,Tukwil,          8,North
+Weekday  , SouL,    1510,       6, 7:42   ,King Street Station,KingSt,          9,North
+Weekday  , NorL,    1703,       2, 6:15   ,Everett Station,Everet,          1,South
+Weekday  , NorL,    1703,       2, 6:26   ,Mukilteo Station,Mukilt,          2,South
+Weekday  , NorL,    1703,       2, 6:41   ,Edmonds Station,Edmond,          3,South
+Weekday  , NorL,    1703,       2, 7:14   ,King Street Station,KingSt,          4,South
+Weekday  , SouL,    1512,       7, 6:46   ,Lakewood Station,Lakewo,          1,North
+Weekday  , SouL,    1512,       7, 6:51   ,South Tacoma Station,STacom,          2,North
+Weekday  , SouL,    1512,       7, 7:00   ,Tacoma Dome Station,TDome,          3,North
+Weekday  , SouL,    1512,       7, 7:13   ,Puyallup Station,Puyall,          4,North
+Weekday  , SouL,    1512,       7, 7:18   ,Sumner Station,Sumner,          5,North
+Weekday  , SouL,    1512,       7, 7:28   ,Auburn Station,Auburn,          6,North
+Weekday  , SouL,    1512,       7, 7:35   ,Kent Station,KentSt,          7,North
+Weekday  , SouL,    1512,       7, 7:42   ,Tukwila Station,Tukwil,          8,North
+Weekday  , SouL,    1512,       7, 8:02   ,King Street Station,KingSt,          9,North
+Weekday  , SouL,    1511,      11,15:35   ,King Street Station,KingSt,          1,South
+Weekday  , SouL,    1511,      11,15:48   ,Tukwila Station,Tukwil,          2,South
+Weekday  , SouL,    1511,      11,15:55   ,Kent Station,KentSt,          3,South
+Weekday  , SouL,    1511,      11,16:02   ,Auburn Station,Auburn,          4,South
+Weekday  , SouL,    1511,      11,16:12   ,Sumner Station,Sumner,          5,South
+Weekday  , SouL,    1511,      11,16:17   ,Puyallup Station,Puyall,          6,South
+Weekday  , SouL,    1511,      11,16:30   ,Tacoma Dome Station,TDome,          7,South
+Weekday  , SouL,    1511,      11,16:39   ,South Tacoma Station,STacom,          8,South
+Weekday  , SouL,    1511,      11,16:51   ,Lakewood Station,Lakewo,          9,South
+Weekday  , SouL,    1500,       1, 4:36   ,Lakewood Station,Lakewo,          1,North
+Weekday  , SouL,    1500,       1, 4:41   ,South Tacoma Station,STacom,          2,North
+Weekday  , SouL,    1500,       1, 4:50   ,Tacoma Dome Station,TDome,          3,North
+Weekday  , SouL,    1500,       1, 5:03   ,Puyallup Station,Puyall,          4,North
+Weekday  , SouL,    1500,       1, 5:08   ,Sumner Station,Sumner,          5,North
+Weekday  , SouL,    1500,       1, 5:18   ,Auburn Station,Auburn,          6,North
+Weekday  , SouL,    1500,       1, 5:25   ,Kent Station,KentSt,          7,North
+Weekday  , SouL,    1500,       1, 5:32   ,Tukwila Station,Tukwil,          8,North
+Weekday  , SouL,    1500,       1, 5:52   ,King Street Station,KingSt,          9,North
+Weekday  , SouL,    1504,       3, 5:26   ,Lakewood Station,Lakewo,          1,North
+Weekday  , SouL,    1504,       3, 5:31   ,South Tacoma Station,STacom,          2,North
+Weekday  , SouL,    1504,       3, 5:40   ,Tacoma Dome Station,TDome,          3,North
+Weekday  , SouL,    1504,       3, 5:53   ,Puyallup Station,Puyall,          4,North
+Weekday  , SouL,    1504,       3, 5:58   ,Sumner Station,Sumner,          5,North
+Weekday  , SouL,    1504,       3, 6:08   ,Auburn Station,Auburn,          6,North
+Weekday  , SouL,    1504,       3, 6:15   ,Kent Station,KentSt,          7,North
+Weekday  , SouL,    1504,       3, 6:22   ,Tukwila Station,Tukwil,          8,North
+Weekday  , SouL,    1504,       3, 6:42   ,King Street Station,KingSt,          9,North
+Weekday  , SouL,    1525,      12,18:30   ,King Street Station,KingSt,          1,South
+Weekday  , SouL,    1525,      12,18:43   ,Tukwila Station,Tukwil,          2,South
+Weekday  , SouL,    1525,      12,18:50   ,Kent Station,KentSt,          3,South
+Weekday  , SouL,    1525,      12,18:57   ,Auburn Station,Auburn,          4,South
+Weekday  , SouL,    1525,      12,19:07   ,Sumner Station,Sumner,          5,South
+Weekday  , SouL,    1525,      12,19:12   ,Puyallup Station,Puyall,          6,South
+Weekday  , SouL,    1525,      12,19:25   ,Tacoma Dome Station,TDome,          7,South
+Weekday  , SouL,    1525,      12,19:34   ,South Tacoma Station,STacom,          8,South
+Weekday  , SouL,    1525,      12,19:46   ,Lakewood Station,Lakewo,          9,South
+Weekday  , SouL,    1515,      13,16:15   ,King Street Station,KingSt,          1,South
+Weekday  , SouL,    1515,      13,16:28   ,Tukwila Station,Tukwil,          2,South
+Weekday  , SouL,    1515,      13,16:35   ,Kent Station,KentSt,          3,South
+Weekday  , SouL,    1515,      13,16:42   ,Auburn Station,Auburn,          4,South
+Weekday  , SouL,    1515,      13,16:52   ,Sumner Station,Sumner,          5,South
+Weekday  , SouL,    1515,      13,16:57   ,Puyallup Station,Puyall,          6,South
+Weekday  , SouL,    1515,      13,17:10   ,Tacoma Dome Station,TDome,          7,South
+Weekday  , SouL,    1515,      13,17:19   ,South Tacoma Station,STacom,          8,South
+Weekday  , SouL,    1515,      13,17:31   ,Lakewood Station,Lakewo,          9,South
+Weekday  , SouL,    1513,      12,15:55   ,King Street Station,KingSt,          1,South
+Weekday  , SouL,    1513,      12,16:08   ,Tukwila Station,Tukwil,          2,South
+Weekday  , SouL,    1513,      12,16:15   ,Kent Station,KentSt,          3,South
+Weekday  , SouL,    1513,      12,16:22   ,Auburn Station,Auburn,          4,South
+Weekday  , SouL,    1513,      12,16:32   ,Sumner Station,Sumner,          5,South
+Weekday  , SouL,    1513,      12,16:37   ,Puyallup Station,Puyall,          6,South
+Weekday  , SouL,    1513,      12,16:57   ,Tacoma Dome Station,TDome,          7,South
+Weekday  , NorL,    1702,       6,16:33   ,King Street Station,KingSt,          1,North
+Weekday  , NorL,    1702,       6,17:00   ,Edmonds Station,Edmond,          2,North
+Weekday  , NorL,    1702,       6,17:15   ,Mukilteo Station,Mukilt,          3,North
+Weekday  , NorL,    1702,       6,17:32   ,Everett Station,Everet,          4,North
+Weekday  , SouL,    1519,      15,16:55   ,King Street Station,KingSt,          1,South
+Weekday  , SouL,    1519,      15,17:08   ,Tukwila Station,Tukwil,          2,South
+Weekday  , SouL,    1519,      15,17:15   ,Kent Station,KentSt,          3,South
+Weekday  , SouL,    1519,      15,17:22   ,Auburn Station,Auburn,          4,South
+Weekday  , SouL,    1519,      15,17:32   ,Sumner Station,Sumner,          5,South
+Weekday  , SouL,    1519,      15,17:37   ,Puyallup Station,Puyall,          6,South
+Weekday  , SouL,    1519,      15,17:50   ,Tacoma Dome Station,TDome,          7,South
+Weekday  , SouL,    1519,      15,17:59   ,South Tacoma Station,STacom,          8,South
+Weekday  , SouL,    1519,      15,18:11   ,Lakewood Station,Lakewo,          9,South
+Weekday  , NorL,    1707,       4, 7:15   ,Everett Station,Everet,          1,South
+Weekday  , NorL,    1707,       4, 7:26   ,Mukilteo Station,Mukilt,          2,South
+Weekday  , NorL,    1707,       4, 7:41   ,Edmonds Station,Edmond,          3,South
+Weekday  , NorL,    1707,       4, 8:14   ,King Street Station,KingSt,          4,South
+Weekday  , NorL,    1706,       8,17:35   ,King Street Station,KingSt,          1,North
+Weekday  , NorL,    1706,       8,18:02   ,Edmonds Station,Edmond,          2,North
+Weekday  , NorL,    1706,       8,18:17   ,Mukilteo Station,Mukilt,          3,North
+Weekday  , NorL,    1706,       8,18:34   ,Everett Station,Everet,          4,North
+Weekday  , SouL,    1524,      12,17:15   ,Tacoma Dome Station,TDome,          1,North
+Weekday  , SouL,    1524,      12,17:27   ,Puyallup Station,Puyall,          2,North
+Weekday  , SouL,    1524,      12,17:32   ,Sumner Station,Sumner,          3,North
+Weekday  , SouL,    1524,      12,17:42   ,Auburn Station,Auburn,          4,North
+Weekday  , SouL,    1524,      12,17:49   ,Kent Station,KentSt,          5,North
+Weekday  , SouL,    1524,      12,17:56   ,Tukwila Station,Tukwil,          6,North
+Weekday  , SouL,    1524,      12,18:16   ,King Street Station,KingSt,          7,North
+Weekday  , SouL,    1502,       2, 5:01   ,Lakewood Station,Lakewo,          1,North
+Weekday  , SouL,    1502,       2, 5:06   ,South Tacoma Station,STacom,          2,North
+Weekday  , SouL,    1502,       2, 5:15   ,Tacoma Dome Station,TDome,          3,North
+Weekday  , SouL,    1502,       2, 5:28   ,Puyallup Station,Puyall,          4,North
+Weekday  , SouL,    1502,       2, 5:33   ,Sumner Station,Sumner,          5,North
+Weekday  , SouL,    1502,       2, 5:43   ,Auburn Station,Auburn,          6,North
+Weekday  , SouL,    1502,       2, 5:50   ,Kent Station,KentSt,          7,North
+Weekday  , SouL,    1502,       2, 5:57   ,Tukwila Station,Tukwil,          8,North
+Weekday  , SouL,    1502,       2, 6:17   ,King Street Station,KingSt,          9,North
+Weekday  , SouL,    1517,      14,16:35   ,King Street Station,KingSt,          1,South
+Weekday  , SouL,    1517,      14,16:48   ,Tukwila Station,Tukwil,          2,South
+Weekday  , SouL,    1517,      14,16:55   ,Kent Station,KentSt,          3,South
+Weekday  , SouL,    1517,      14,17:02   ,Auburn Station,Auburn,          4,South
+Weekday  , SouL,    1517,      14,17:12   ,Sumner Station,Sumner,          5,South
+Weekday  , SouL,    1517,      14,17:17   ,Puyallup Station,Puyall,          6,South
+Weekday  , SouL,    1517,      14,17:30   ,Tacoma Dome Station,TDome,          7,South
+Weekday  , SouL,    1517,      14,17:39   ,South Tacoma Station,STacom,          8,South
+Weekday  , SouL,    1517,      14,17:51   ,Lakewood Station,Lakewo,          9,South
+Weekday  , SouL,    1523,      10,17:45   ,King Street Station,KingSt,          1,South
+Weekday  , SouL,    1523,      10,17:58   ,Tukwila Station,Tukwil,          2,South
+Weekday  , SouL,    1523,      10,18:05   ,Kent Station,KentSt,          3,South
+Weekday  , SouL,    1523,      10,18:12   ,Auburn Station,Auburn,          4,South
+Weekday  , SouL,    1523,      10,18:22   ,Sumner Station,Sumner,          5,South
+Weekday  , SouL,    1523,      10,18:27   ,Puyallup Station,Puyall,          6,South
+Weekday  , SouL,    1523,      10,18:40   ,Tacoma Dome Station,TDome,          7,South
+Weekday  , SouL,    1523,      10,18:49   ,South Tacoma Station,STacom,          8,South
+Weekday  , SouL,    1523,      10,19:01   ,Lakewood Station,Lakewo,          9,South
+Weekday  , SouL,    1503,       2, 6:35   ,King Street Station,KingSt,          1,South
+Weekday  , SouL,    1503,       2, 6:48   ,Tukwila Station,Tukwil,          2,South
+Weekday  , SouL,    1503,       2, 6:55   ,Kent Station,KentSt,          3,South
+Weekday  , SouL,    1503,       2, 7:02   ,Auburn Station,Auburn,          4,South
+Weekday  , SouL,    1503,       2, 7:12   ,Sumner Station,Sumner,          5,South
+Weekday  , SouL,    1503,       2, 7:17   ,Puyallup Station,Puyall,          6,South
+Weekday  , SouL,    1503,       2, 7:36   ,Tacoma Dome Station,TDome,          7,South
+Weekday  , SouL,    1516,       2, 7:50   ,Tacoma Dome Station,TDome,          1,North
+Weekday  , SouL,    1516,       2, 8:03   ,Puyallup Station,Puyall,          2,North
+Weekday  , SouL,    1516,       2, 8:08   ,Sumner Station,Sumner,          3,North
+Weekday  , SouL,    1516,       2, 8:18   ,Auburn Station,Auburn,          4,North
+Weekday  , SouL,    1516,       2, 8:25   ,Kent Station,KentSt,          5,North
+Weekday  , SouL,    1516,       2, 8:32   ,Tukwila Station,Tukwil,          6,North
+Weekday  , SouL,    1516,       2, 8:52   ,King Street Station,KingSt,          7,North
+Weekday  ,,    1560,       4, 7:02   ,King Street Station,KingSt,          1,
+Weekday  ,,    1560,       4, 7:17   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  ,,    1552,      10,19:01   ,Lakewood Station,Lakewo,          1,
+Weekday  ,,    1552,      10,19:16   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  ,,    1546,      12,19:46   ,Lakewood Station,Lakewo,          1,
+Weekday  ,,    1546,      12,20:01   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  ,,    1543,       2, 4:46   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1543,       2, 5:01   ,Lakewood Station,Lakewo,          2,
+Weekday  ,,    1550,      15,18:11   ,Lakewood Station,Lakewo,          1,
+Weekday  ,,    1550,      15,18:26   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  ,,    1563,      14,16:20   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1563,      14,16:35   ,King Street Station,KingSt,          2,
+Weekday  ,,    1566,      11,16:51   ,Lakewood Station,Lakewo,          1,
+Weekday  ,,    1566,      11,17:06   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  ,,    1559,       4, 5:31   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1559,       4, 5:46   ,Lakewood Station,Lakewo,          2,
+Weekday  ,,    1565,      11,15:20   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1565,      11,15:35   ,King Street Station,KingSt,          2,
+Weekday  ,,    1545,      12,15:40   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1545,      12,15:55   ,King Street Station,KingSt,          2,
+Weekday  ,,    1568,       7, 8:05   ,King Street Station,KingSt,          1,
+Weekday  ,,    1568,       7, 8:20   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  ,,    1562,      17,18:36   ,Lakewood Station,Lakewo,          1,
+Weekday  ,,    1562,      17,18:51   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  ,,    1564,      14,17:51   ,Lakewood Station,Lakewo,          1,
+Weekday  ,,    1564,      14,18:06   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  , SouL,    1520,      17,16:06   ,Tacoma Dome Station,TDome,          1,North
+Weekday  , SouL,    1520,      17,16:18   ,Puyallup Station,Puyall,          2,North
+Weekday  , SouL,    1520,      17,16:23   ,Sumner Station,Sumner,          3,North
+Weekday  , SouL,    1520,      17,16:33   ,Auburn Station,Auburn,          4,North
+Weekday  , SouL,    1520,      17,16:40   ,Kent Station,KentSt,          5,North
+Weekday  , SouL,    1520,      17,16:47   ,Tukwila Station,Tukwil,          6,North
+Weekday  , SouL,    1520,      17,17:07   ,King Street Station,KingSt,          7,North
+Weekday  ,,    1549,      15,16:40   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1549,      15,16:55   ,King Street Station,KingSt,          2,
+Weekday  ,,    1553,       6, 6:11   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1553,       6, 6:26   ,Lakewood Station,Lakewo,          2,
+Weekday  ,,    1556,       5, 7:22   ,King Street Station,KingSt,          1,
+Weekday  ,,    1556,       5, 7:37   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  ,,    1540,       3, 6:42   ,King Street Station,KingSt,          1,
+Weekday  ,,    1540,       3, 6:57   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  ,,    1555,       5, 5:51   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1555,       5, 6:06   ,Lakewood Station,Lakewo,          2,
+Weekday  ,,    1542,      13,17:31   ,Lakewood Station,Lakewo,          1,
+Weekday  ,,    1542,      13,17:46   ,Lakewood Sounder Yard,CentYd,          2,
+Weekday  ,,    1547,       1, 4:21   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1547,       1, 4:36   ,Lakewood Station,Lakewo,          2,
+Weekday  ,,    1567,       7, 6:31   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1567,       7, 6:46   ,Lakewood Station,Lakewo,          2,
+Weekday  , SouL,    1507,      17,14:35   ,King Street Station,KingSt,          1,South
+Weekday  , SouL,    1507,      17,14:48   ,Tukwila Station,Tukwil,          2,South
+Weekday  , SouL,    1507,      17,14:55   ,Kent Station,KentSt,          3,South
+Weekday  , SouL,    1507,      17,15:02   ,Auburn Station,Auburn,          4,South
+Weekday  , SouL,    1507,      17,15:12   ,Sumner Station,Sumner,          5,South
+Weekday  , SouL,    1507,      17,15:17   ,Puyallup Station,Puyall,          6,South
+Weekday  , SouL,    1507,      17,15:37   ,Tacoma Dome Station,TDome,          7,South
+Weekday  ,,    1541,      13,16:00   ,Lakewood Sounder Yard,CentYd,          1,
+Weekday  ,,    1541,      13,16:15   ,King Street Station,KingSt,          2,
+Weekday  ,,    1544,       2, 8:52   ,King Street Station,KingSt,          1,
+Weekday  ,,    1544,       2, 9:07   ,Lakewood Sounder Yard,CentYd,          2,
