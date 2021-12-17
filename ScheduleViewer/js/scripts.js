@@ -609,7 +609,7 @@ function displayTable(routes, service_id, directionName, data){
 function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id, tofrom){
 	//get disaggregated trips from cleaned data.
 	connectingBusTime = moment(time,"h:mm");
-	if(connectingBusTime > moment("0:00", "h:mm") && connectingBusTime < moment("3:00","h:mm")){
+	if(connectingBusTime >= moment("0:00", "h:mm") && connectingBusTime < moment("3:00","h:mm")){
 		connectingBusTime.add(1,"days");	
 	}
 	
