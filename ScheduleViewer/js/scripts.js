@@ -625,7 +625,7 @@ function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id,
 		var arrivalTime = moment(d.sch_arr_time_24h,"h:mm");
 		
 		//handling of 24 hours
-		if(d.sch_arr_time_sort > 2400){
+		if(d.sch_arr_time_sort >= 2400){
 			arrivalTime.add(1,"days");
 		}
 	
