@@ -182,7 +182,7 @@ function cleanData(data){
 				data[i].sch_arr_time = data[i].sch_arr_time.replace(/\s+/g, ' ').trim();
 				data[i].stop_seq = +data[i].stop_seq.replace(/\s+/g, ' ').trim(); //converts to number
 				
-					
+				data[i].block_id = data[i].block_id.replace(/\s+/g, ' ').trim()
 				data[i].trip_id = data[i].trip_id.replace(/\s+/g, ' ').trim();
 				
 				//if link, convert trip_id to number. 
@@ -376,23 +376,41 @@ function displayTable(routes, service_id, directionName, data){
 	var tableHeader = "<thead><tr>"
 	tableHeader += '<th scope="col">' + 'Route' + '</th>' 
 	
-	//check if checkbox is checked to show trip id
+	//check if checkbox is checked to show trip id or block id
 	
-	var checkBox = document.getElementById("showTripIdCheckbox");
-	
+	var checkBoxTrip = document.getElementById("showTripIdCheckbox");
 	var showTripId;
 	
-	if(checkBox.checked === true){
+	if(checkBoxTrip.checked === true){
 		showTripId = true;
 	}
 	else {
 		showTripId = false;	
 	}
 	
+	var checkBoxBlock = document.getElementById("showBlockIdCheckbox");
+	var showBlockId;
+	
+	if(checkBoxBlock.checked === true){
+		showBlockId = true;
+	}
+	else {
+		showBlockId = false;	
+	}
+	
+	
+	
+	
+	// add to table trip and block column headers
 	
 	if(showTripId === true){
 		tableHeader += '<th scope="col">' + 'Trip ID' + '</th>' 	
 	}
+	if(showBlockId === true){
+		tableHeader += '<th scope="col">' + 'Block ID' + '</th>' 	
+	}
+	
+	
 	
 	//connection from Link //check if route is in config. 
 	//load config value to see if it includes route
@@ -467,6 +485,12 @@ function displayTable(routes, service_id, directionName, data){
 		if(showTripId === true){
 			tableBody +=	 '<td>' + allTrips[t].trip_id + '</td>';
 		}
+		//block
+		if(showBlockId === true){
+			tableBody +=	 '<td>' + allTrips[t].block_id + '</td>';
+		}
+		
+		
 		//get config for this single trip. 
 		var transferToRoute = configTransfersToRoute.filter(function(d){
 			return d.route_id === allTrips[t].route_id;	
@@ -713,6 +737,7 @@ function getTripsByRoutes(routes, service_id, data){
 			obj["trip_id"] = routeData[i].trip_id;	
 			//}
 			obj["route_id"] = routeData[i].route_id;
+			obj["block_id"] = routeData[i].block_id;
 			
 			obj["service_id"] = routeData[i].service_id;
 			obj["direction_name"] = routeData[i].direction_name;
