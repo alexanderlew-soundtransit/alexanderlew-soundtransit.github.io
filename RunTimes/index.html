@@ -1,0 +1,94 @@
+
+
+<!DOCTYPE html>
+
+
+<html>
+  <head>
+    <title>Run Times</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    
+  </head>
+  <body>
+  
+  <div class="container">
+      <h1>Run Times query tool</h1>
+	  Gets 85th percentile stop to stop run times using Swiftly API and exports to Excel.
+	  Note: API has 180 requests per 15 min period (each trip requires 1 API call).
+      <div class="menus">
+		<div class="input-group mb-3">
+			<span class="input-group-text" id="basic-addon1">@</span>
+			<input type="text" id="swiftlyapikey" class="form-control" placeholder="Swiftly API key" aria-label="swiftlyapikey" aria-describedby="basic-addon1">
+		</div>
+		
+		<select class="form-select" aria-label="Route" id="select-route">
+			<option value="510" selected>510</option>
+			<option value="511">511</option>
+			<option value="512">512</option>
+			<option value="513">513</option>
+			<option value="522">522</option>
+			<option value="532">532</option>
+			<option value="535">532</option>
+
+			<option value="542">542</option>
+			<option value="545">545</option>
+			<option value="550">550</option>
+			<option value="554">554</option>
+			<option value="556">556</option>
+			<option value="560">560</option>
+			<option value="566">566</option>
+			<option value="574">574</option>
+			<option value="577">577</option>
+			<option value="578">578</option>
+			<option value="580">580</option>
+			<option value="586">586</option>
+			<option value="590">590</option>
+			<option value="592">592</option>
+			<option value="594">594</option>
+			<option value="595">595</option>
+			<option value="596">596</option>
+		  </select>
+		  
+		  
+			<select class="form-select" aria-label="Direction" id="select-direction">
+				<option value="1" selected>Direction 1</option>
+				<option value="0">Direction 0</option>
+			</select>
+		
+  
+			<input class="form-control" id="datestart" type="text" placeholder="Start Date (MM-DD-YYYY)" aria-label="Start Date" required>
+
+			<input class="form-control" id="dateend" type="text" placeholder="End Date (MM-DD-YYYY)" aria-label="End Date" required>
+
+
+			<input class="form-control" id="daysofweek" type="text" placeholder="Day of Week (1,2,3,4,5, )" aria-label="DOW" required>
+			
+			<button class="btn btn-primary" type="submit" onClick="getUserInputs()">Go</button>
+	 
+
+			
+		  
+	  </div>
+	  
+      
+	  
+	  <div class="tablearea">
+	  	<div class="status"></div>
+	  	<table id="datatable" class="table table-hover"></table>
+	  
+	  </div>
+	  
+	<a href="#" onclick="download_table_as_csv('datatable',',');">Download as CSV</a>
+	  
+  </div>
+
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+     <script src="js/moment.min.js"></script>
+    <script src="js/d3.min.js"></script>
+ 	<script src="js/scripts.js"></script>
+  </body>
+</html>
