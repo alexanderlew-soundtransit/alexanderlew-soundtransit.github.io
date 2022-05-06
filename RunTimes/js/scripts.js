@@ -355,7 +355,7 @@ function createRuntimesByStopTableAggregated(data){
 				if(runTime.length > 0){
 					// run time datum.
 					tableRows+= '<td>';
-					tableRows+= runTime[0].runTime85th.toFixed(2);
+					tableRows+= (runTime[0].runTime85th/60).toFixed(2);
 
 					tableRows += '</td>';
 				}
