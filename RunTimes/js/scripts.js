@@ -95,7 +95,7 @@ function getUserInputs(){
 
 //call swiftly
 function loadData(){
-	
+	document.getElementById("status").innerHTML = "Loading...";
 	
 	var tripData = {};
 	
@@ -212,7 +212,9 @@ function getStopLevelDataByTrip(data, dirId){
 				"Authorization": "943bda9de314ff3e5408aa825f39cea1"
 				}
 		};
-
+		
+		//update trip status
+		document.getElementById("status").innerHTML = 'Loading ' + (loop + 1) + ' of ' + loopLast + ' trips...';
 		
 		$.ajax(settingsStopLevel).done(function (response) {
 			  console.log(response);
@@ -369,7 +371,9 @@ function createRuntimesByStopTableAggregated(data){
 	}	
 	//end
 	tableRows+= '</tbody>';
-
+	
+	//
+	document.getElementById("status").innerHTML = "";
 	//replace div class table with new dat
 	document.getElementById("datatable").innerHTML = tableHeader + tableRows;
 	
