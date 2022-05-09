@@ -349,7 +349,7 @@ function createRuntimesByStopTableAggregated(data){
 		if(showTravelAndDwell === true){
 			tableHeader += '<th scope="col">' + d.segmentName + ' - Travel</th>';
 			tableHeader += '<th scope="col">' + d.stopName + ' - Dwell</th>';
-			tableHeader += '<th scope="col">' + d.stopName + ' - Total</th>';
+			tableHeader += '<th scope="col">' + d.segmentName + ' - Total</th>';
 			
 		} else{
 		
