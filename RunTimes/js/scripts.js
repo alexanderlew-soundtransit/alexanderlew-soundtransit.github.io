@@ -280,6 +280,10 @@ function cleanStopData(data){
 		data.byStopRuntimeData[i].travelTimeMedian = d3.median(data.byStopRuntimeData[i].observedRuntimes, e => e.travelTime);
 		data.byStopRuntimeData[i].travelTime85th = d3.quantile(data.byStopRuntimeData[i].observedRuntimes, 0.85, e => e.travelTime);
 		
+		//sample size
+		data.byStopRuntimeData[i].sampleSize = data.byStopRuntimeData[i].observedRuntimes.length;
+		
+		
 		if(i > 0){
 			data.byStopRuntimeData[i].prevStop = data.byStopRuntimeData[i-1].stopName;
 			data.byStopRuntimeData[i].segmentName = data.byStopRuntimeData[i].prevStop + " to " + data.byStopRuntimeData[i].stopName;
@@ -301,6 +305,10 @@ function cleanStopData(data){
 	data.directionId = tripDetails[0].directionId;
 	data.scheduledDepartureSeconds = tripDetails[0].scheduledDepartureSeconds;
 	
+	//get median sample size by stop
+	data.medianSampleSize = d3.median(data.byStopRuntimeData, e => e.sampleSize);
+	
+	
 	return data;
 }
 
@@ -312,22 +320,49 @@ function createRuntimesByStopTableAggregated(data){
 	//create header
 	var tableHeader;
 	var tableHeader = "<thead><tr>";
+
+	var showTravelAndDwell = false;
+	
+	// check if checkbox to break out dwell/travel is checked.
+	
+	var checkBoxDwellTravel = document.getElementById("showTravelandDwell");
+	if(checkBoxDwellTravel.checked === true){
+		showTravelAndDwell = true;
+		
+	}
+	else{
+		showTravelAndDwell = false;
+	}
+	
 	
 	// route, direction, trip, trip start time, stop segments
 	tableHeader += '<th scope="col">' + 'Direction' + '</th>' ;
 	tableHeader += '<th scope="col">' + 'Trip' + '</th>' ;
 	tableHeader += '<th scope="col">' + 'Trip Start Time' + '</th>' ;
+	tableHeader += '<th scope="col">' + 'Median sample size' + '</th>' ;
 	
 	var segmentData = getSegmentsByTrip(tripStopData);
+	
 	console.log(segmentData);
+	//display all segments
 	segmentData.forEach(function(d){
-
+		if(showTravelAndDwell === true){
+			tableHeader += '<th scope="col">' + d.segmentName + ' - Travel</th>';
+			tableHeader += '<th scope="col">' + d.stopName + ' - Dwell</th>';
+			tableHeader += '<th scope="col">' + d.stopName + ' - Total</th>';
+			
+		} else{
+		
+		//segment name
 		tableHeader += '<th scope="col">' + d.segmentName + '</th>'; 
 		
-		
+		}
 	});
 	
+	
+	
 	tableHeader += "</tr></thead>";
+	
 	
 	
 	//create table body
@@ -338,13 +373,14 @@ function createRuntimesByStopTableAggregated(data){
 	//iterate through data all rows 
 	
 	for (var i = 0; i < data.length; i++){
-		//1. direction and trip and trip start time
+		//1. TRIP INFO direction and trip and trip start time
 		tableRows += '<tr>';
 		tableRows +='<td>' + data[i].directionId + '</td>'+'<td>' + data[i].tripId +'</td>'+'<td>' + data[i].scheduledDeparture + '</td>';
 		
-		//2. then find for each segment the matching run time stat
+		tableRows+= '<td>' + data[i].medianSampleSize + '</td>';
+		
+		//2. SEGMENT INFO: then find for each segment the matching run time stat
 		//loop through each stop, and find the observed run time for that segment.
-
 		segmentData.forEach(function(d){
 			if(d.segmentName){
 				var runTime;
@@ -353,14 +389,57 @@ function createRuntimesByStopTableAggregated(data){
 					return d.segmentName === e.segmentName;
 
 				});
-				console.log(runTime);
-				if(runTime.length > 0){
+				
+				
+				//if breaking out travel times and dwell times, then: 
+				if(showTravelAndDwell === true){
+					if(runTime.length > 0){
+						// run time datum.
+
+						tableRows+= '<td>';
+						tableRows+= (runTime[0].travelTime85th/60).toFixed(2);
+						tableRows += '</td>';	
+
+						tableRows+= '<td>';
+						tableRows+= (runTime[0].dwellTime85th/60).toFixed(2);
+						tableRows += '</td>';	
+
+						tableRows+= '<td>';
+						tableRows+= (runTime[0].runTime85th/60).toFixed(2);
+						tableRows += '</td>';
+					} else{
+						tableRows+= '<td>';
+						tableRows+= ''
+						tableRows += '</td>';
+
+						tableRows+= '<td>';
+						tableRows+= ''
+						tableRows += '</td>';
+
+						tableRows+= '<td>';
+						tableRows+= ''
+						tableRows += '</td>';
+					}
+				} else {	
+					//just run times
+					if(runTime.length > 0){
 					// run time datum.
 					tableRows+= '<td>';
 					tableRows+= (runTime[0].runTime85th/60).toFixed(2);
 
 					tableRows += '</td>';
 				}
+				else{
+					tableRows+= '<td>';
+					tableRows+= ''
+
+					tableRows += '</td>';
+					
+				}}
+
+				
+				
+				
 			}
 			
 		});	
@@ -404,7 +483,7 @@ function getSegmentsByTrip(data){
 				
 				obj["segmentName"] = data[i].byStopRuntimeData[j].segmentName;
 				obj["maxStopOrder"] = data[i].byStopRuntimeData[j].stopOrder;
-				
+				obj["stopName"] = data[i].byStopRuntimeData[j].stopName;
 				segments.push(obj);
 				
 			} else {
@@ -431,7 +510,7 @@ function getSegmentsByTrip(data){
 		return a.maxStopOrder - b.maxStopOrder;
 	});
 	
-	//remove first stop
+	//remove first stop of trip
 	var segmentsCleaned = segments.filter(function(d){
 		return d.segmentName !== null;
 		

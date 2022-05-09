@@ -64,13 +64,24 @@
 			<input class="form-control" id="dateend" type="text" placeholder="End Date (MM-DD-YYYY)" aria-label="End Date" required>
 
 
-			<input class="form-control" id="daysofweek" type="text" placeholder="Day of Week (enter as "1,2,3,4,5,6,7")" aria-label="DOW" required>
+			<input class="form-control" id="daysofweek" type="text" placeholder="Day of Week (1,2,3,4,5)" aria-label="DOW" required>
 			
 			<button class="btn btn-primary" type="submit" onClick="getUserInputs()">Go</button>
 	 
 
 			
 		  
+	  </div>
+	  <div><br></div>
+	  <div>
+		<div class="form-check">
+          <input class="form-check-input" type="checkbox" value="" id="showTravelandDwell" onclick="createRuntimesByStopTableAggregated(tripStopData)"> 
+          <label class="form-check-label" for="flexCheckDefault">
+            Break out travel time and dwell time
+          </label>
+        </div>  
+		  
+	  
 	  </div>
 	  
       
