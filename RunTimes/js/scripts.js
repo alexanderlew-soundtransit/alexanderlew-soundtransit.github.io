@@ -322,6 +322,7 @@ function createRuntimesByStopTableAggregated(data){
 	var tableHeader = "<thead><tr>";
 
 	var showTravelAndDwell = false;
+	var showScheduled = false;
 	
 	// check if checkbox to break out dwell/travel is checked.
 	
@@ -334,12 +335,22 @@ function createRuntimesByStopTableAggregated(data){
 		showTravelAndDwell = false;
 	}
 	
+	var checkboxScheduled = document.getElementById("showScheduledRunTimes");
+	if(checkboxScheduled.checked === true){
+		showScheduled = true;
+	}
+	
 	
 	// route, direction, trip, trip start time, stop segments
 	tableHeader += '<th scope="col">' + 'Direction' + '</th>' ;
 	tableHeader += '<th scope="col">' + 'Trip' + '</th>' ;
 	tableHeader += '<th scope="col">' + 'Trip Start Time' + '</th>' ;
 	tableHeader += '<th scope="col">' + 'Median sample size' + '</th>' ;
+	
+	if(showScheduled === true){
+		tableHeader += '<th scope="col">' + 'Scheduled or Operated' + '</th>' ;
+		
+	}
 	
 	var segmentData = getSegmentsByTrip(tripStopData);
 	
@@ -378,6 +389,10 @@ function createRuntimesByStopTableAggregated(data){
 		tableRows +='<td>' + data[i].directionId + '</td>'+'<td>' + data[i].tripId +'</td>'+'<td>' + data[i].scheduledDeparture + '</td>';
 		
 		tableRows+= '<td>' + data[i].medianSampleSize + '</td>';
+		
+		if(showScheduled){
+			tableRows += '<td>Operated</td>';
+		}
 		
 		//2. SEGMENT INFO: then find for each segment the matching run time stat
 		//loop through each stop, and find the observed run time for that segment.
@@ -423,29 +438,107 @@ function createRuntimesByStopTableAggregated(data){
 				} else {	
 					//just run times
 					if(runTime.length > 0){
-					// run time datum.
-					tableRows+= '<td>';
-					tableRows+= (runTime[0].runTime85th/60).toFixed(2);
+						// run time datum.
+						tableRows+= '<td>';
+						tableRows+= (runTime[0].runTime85th/60).toFixed(2);
 
-					tableRows += '</td>';
+						tableRows += '</td>';
+					} else{
+						tableRows+= '<td>';
+						tableRows+= ''
+
+						tableRows += '</td>';
+
+					}
 				}
-				else{
-					tableRows+= '<td>';
-					tableRows+= ''
-
-					tableRows += '</td>';
-					
-				}}
-
-				
-				
-				
+			
 			}
 			
 		});	
 		
 		//finish row
 		tableRows += '</tr>';
+		
+		//add scheduled data if selectede.
+		if(showScheduled === true){
+			//add new row for showing schedule. 
+			
+			tableRows += '<tr>';
+			tableRows +='<td>' + data[i].directionId + '</td>'+'<td>' + data[i].tripId +'</td>'+'<td>' + data[i].scheduledDeparture + '</td>';
+
+			tableRows+= '<td>' + data[i].medianSampleSize + '</td>';
+
+			if(showScheduled){
+				tableRows += '<td>Scheduled</td>';
+			}
+
+			segmentData.forEach(function(d){
+			if(d.segmentName){
+				var runTime;
+				//for each segment, find the corresponding metric
+				runTime = (data[i].byStopRuntimeData).filter(function(e){
+					return d.segmentName === e.segmentName;
+
+				});
+				
+				
+				//if breaking out travel times and dwell times, then: 
+				if(showTravelAndDwell === true){
+					if(runTime.length > 0){
+						// run time datum.
+
+						tableRows+= '<td>';
+						//tableRows+= (runTime[0].travelTime85th/60).toFixed(2);
+						tableRows += '</td>';	
+
+						tableRows+= '<td>';
+						//tableRows+= (runTime[0].dwellTime85th/60).toFixed(2);
+						tableRows += '</td>';	
+
+						tableRows+= '<td>';
+						tableRows+= (runTime[0].scheduledRuntime/60).toFixed(2);
+						tableRows += '</td>';
+					} else{
+						tableRows+= '<td>';
+						tableRows+= ''
+						tableRows += '</td>';
+
+						tableRows+= '<td>';
+						tableRows+= ''
+						tableRows += '</td>';
+
+						tableRows+= '<td>';
+						tableRows+= ''
+						tableRows += '</td>';
+					}
+				} else {	
+					//just run times
+					if(runTime.length > 0){
+						// run time datum.
+						tableRows+= '<td>';
+						tableRows+= (runTime[0].scheduledRuntime/60).toFixed(2);
+
+						tableRows += '</td>';
+					} else{
+						tableRows+= '<td>';
+						tableRows+= ''
+
+						tableRows += '</td>';
+
+					}
+				}
+			
+			}
+			
+		});	
+				
+				
+				
+				
+			
+			
+		}
+		
 		
 	}	
 	//end
