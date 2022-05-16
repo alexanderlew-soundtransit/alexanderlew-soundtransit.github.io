@@ -205,7 +205,7 @@ function getStopLevelDataByTrip(data, dirId){
 		var settingsStopLevel = {
 			"async": true,
 			"crossDomain": true,
-			"url": "https://api.goswift.ly/run-times/" + agencyId + "/route/" + routeId + "/trip/" + tripId + "/by-stop?startDate=" + startDateString + "&daysOfWeek=1%2C2%2C3%2C4%2C5" + "&endDate=" + endDateString,
+			"url": "https://api.goswift.ly/run-times/" + agencyId + "/route/" + routeId + "/trip/" + tripId + "/by-stop?startDate=" + startDateString + "&daysOfWeek=" + daysOfWeek + "&endDate=" + endDateString,
 			"method": "GET",
 				"headers": {
 				"Content-Type": "application/json",
