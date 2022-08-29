@@ -22,24 +22,6 @@ var tripLevelDataCleaned = [];
 var tripStopData = [];
 
 var apiLimit = 160;
-/*
-
-const settings = {
-  "async": true,
-  "crossDomain": true,
-  "url": "https://api.goswift.ly/run-times/sound-pierce/route/580/by-trip?startDate=03-19-2022&endDate=04-19-2022&daysOfWeek=1%2C2%2C3%2C4%2C5",
-  "method": "GET",
-  "headers": {
-    "Content-Type": "application/json",
-    "Authorization": "943bda9de314ff3e5408aa825f39cea1"
-  }
-};
-
-$.ajax(settings).done(function (response) {
-  console.log(response);
-});
-*/
-
 
 
 //gets all user inputs and validates them.
