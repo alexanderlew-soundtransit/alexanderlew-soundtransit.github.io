@@ -447,7 +447,6 @@ function displayTable(routes, service_id, directionName, data){
 			return directionName === d.ib_direction_id;
 		});
 		
-		console.log(configTransfersFromRoute);
 		
 		if(configTransfersFromRoute.length > 0){
 			tableHeader += '<th scope="col">' + '1 Line Departure' + '</th>' ;
@@ -473,6 +472,7 @@ function displayTable(routes, service_id, directionName, data){
 	
 	//if exists, sort by the stop for that particular direction.
 	
+	console.log(allTrips);
 	
 	for (var t = 0; t < allTrips.length; t++){
 		tableBody += '<td>' + allTrips[t].route_id.replace("S5","5") + '</td>';
@@ -508,7 +508,6 @@ function displayTable(routes, service_id, directionName, data){
 			// call function
 				var connectionTime = getConnectionToFromRoute(connectionStop[0].sch_arr_time_24h,transferToRoute[0].from_route_id,transferToRoute[0].from_stop_id,transferToRoute[0].from_direction_name,service_id,"to");
 				
-				console.log(connectionTime);
 				
 				if(connectionTime){
 					var formattedConnectionTime = moment(connectionTime,"h:mm").format("h:mm a");
@@ -584,7 +583,7 @@ function displayTable(routes, service_id, directionName, data){
 		
 		//d.stops.forEach(function(e){
 	
-		tableBody += '</tr>'
+		tableBody += '</tr>';
 	}
 	
 	tableBody += '</tbody>';
@@ -613,7 +612,6 @@ function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id,
 		return d.route_id === route_id && d.direction_name  === direction && d.service_id === service_id && d.stop_id === stop_id;
 	});
 
-	console.log(lookupTripStops);
 	
 	//for each record, calculate time difference from desired connection time.
 	lookupTripStops.forEach(function(d){
@@ -662,7 +660,6 @@ function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id,
 			else {return 0;}
 		});
 		
-		console.log(lookupTripStops);
 		
 		//if there are two stop times (e.g. at terminals) within 1 minute, take the second of the two. 
 		if(lookupTripStops.length >= 2 && (Math.abs(lookupTripStops[1].diff) - Math.abs(lookupTripStops[0].diff) >= 1) && (Math.abs(lookupTripStops[1].diff) - Math.abs(lookupTripStops[0].diff) < 2)){
