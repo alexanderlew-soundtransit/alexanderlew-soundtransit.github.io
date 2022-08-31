@@ -423,19 +423,19 @@ Sunday   ,512,15026,85009,15:01,Lynnwood Transit Center,lynntc,5,North
 Sunday   ,512,15026,85009,15:07,Ash Way Park & Ride,awypr,6,North
 Sunday   ,512,15026,85009,15:20,South Everett Freeway Station,sefs,7,North
 Sunday   ,512,15026,85009,15:34,Everett Station,evtst,8,North
-Sunday   ,512,15067,85018,24:12:00,SODO Busway & S Royal Brougham Way,9977,1,North
-Sunday   ,512,15067,85018,24:14:00,4th Ave S & S Jackson St,4jack,2,North
-Sunday   ,512,15067,85018,24:19:00,4th Ave & Pine St,4unio,3,North
-Sunday   ,512,15067,85018,24:23:00,Olive Way & Boren Ave,olvtr,4,North
-Sunday   ,512,15067,85018,24:28:00,NE 45th Freeway Station,45i5,5,North
-Sunday   ,512,15067,85018,24:35:00,Northgate Station,nortc,6,North
-Sunday   ,512,15067,85018,24:39:00,I-5 & NE 117th St,117i5,7,North
-Sunday   ,512,15067,85018,24:44:00,I-5 & NE 195th St,195i5,8,North
-Sunday   ,512,15067,85018,24:45:00,Mountlake Terrace Freeway Station,mltfs,9,North
-Sunday   ,512,15067,85018,24:49:00,Lynnwood Transit Center,lynntc,10,North
-Sunday   ,512,15067,85018,24:56:00,Ash Way Park & Ride,awypr,11,North
-Sunday   ,512,15067,85018,25:04:00,South Everett Freeway Station,sefs,12,North
-Sunday   ,512,15067,85018,25:17:00,Everett Station,evtst,13,North
+Sunday   ,512,15067,85018,24:12,SODO Busway & S Royal Brougham Way,9977,1,North
+Sunday   ,512,15067,85018,24:14,4th Ave S & S Jackson St,4jack,2,North
+Sunday   ,512,15067,85018,24:19,4th Ave & Pine St,4unio,3,North
+Sunday   ,512,15067,85018,24:23,Olive Way & Boren Ave,olvtr,4,North
+Sunday   ,512,15067,85018,24:28,NE 45th Freeway Station,45i5,5,North
+Sunday   ,512,15067,85018,24:35,Northgate Station,nortc,6,North
+Sunday   ,512,15067,85018,24:39,I-5 & NE 117th St,117i5,7,North
+Sunday   ,512,15067,85018,24:44,I-5 & NE 195th St,195i5,8,North
+Sunday   ,512,15067,85018,24:45,Mountlake Terrace Freeway Station,mltfs,9,North
+Sunday   ,512,15067,85018,24:49,Lynnwood Transit Center,lynntc,10,North
+Sunday   ,512,15067,85018,24:56,Ash Way Park & Ride,awypr,11,North
+Sunday   ,512,15067,85018,25:04,South Everett Freeway Station,sefs,12,North
+Sunday   ,512,15067,85018,25:17,Everett Station,evtst,13,North
 Sunday   ,512,15065,85014,23:29,Northgate Station,nortc,1,North
 Sunday   ,512,15065,85014,23:31,I-5 & NE 117th St,117i5,2,North
 Sunday   ,512,15065,85014,23:34,I-5 & NE 195th St,195i5,3,North
@@ -443,7 +443,7 @@ Sunday   ,512,15065,85014,23:35,Mountlake Terrace Freeway Station,mltfs,4,North
 Sunday   ,512,15065,85014,23:40,Lynnwood Transit Center,lynntc,5,North
 Sunday   ,512,15065,85014,23:46,Ash Way Park & Ride,awypr,6,North
 Sunday   ,512,15065,85014,23:58,South Everett Freeway Station,sefs,7,North
-Sunday   ,512,15065,85014,24:09:00,Everett Station,evtst,8,North
+Sunday   ,512,15065,85014,24:09,Everett Station,evtst,8,North
 Sunday   ,512,15088,85008,11:22,Everett Station,evtst,1,South
 Sunday   ,512,15088,85008,11:30,South Everett Freeway Station,sefs,2,South
 Sunday   ,512,15088,85008,11:38,Ash Way Park & Ride,awypr,3,South
@@ -652,14 +652,14 @@ Sunday   ,512,15080,85007, 9:10   ,Mountlake Terrace Freeway Station,mltfs,5,Sou
 Sunday   ,512,15080,85007, 9:14   ,I-5 & NE 195th St,195i5,6,South
 Sunday   ,512,15080,85007, 9:18   ,I-5 & NE 117th St,117i5,7,South
 Sunday   ,512,15080,85007, 9:27   ,Northgate Station,nortc,8,South
-Sunday   ,512,15066,85017,24:03:00,Northgate Station,nortc,1,North
-Sunday   ,512,15066,85017,24:05:00,I-5 & NE 117th St,117i5,2,North
-Sunday   ,512,15066,85017,24:08:00,I-5 & NE 195th St,195i5,3,North
-Sunday   ,512,15066,85017,24:09:00,Mountlake Terrace Freeway Station,mltfs,4,North
-Sunday   ,512,15066,85017,24:14:00,Lynnwood Transit Center,lynntc,5,North
-Sunday   ,512,15066,85017,24:20:00,Ash Way Park & Ride,awypr,6,North
-Sunday   ,512,15066,85017,24:32:00,South Everett Freeway Station,sefs,7,North
-Sunday   ,512,15066,85017,24:43:00,Everett Station,evtst,8,North
+Sunday   ,512,15066,85017,24:03,Northgate Station,nortc,1,North
+Sunday   ,512,15066,85017,24:05,I-5 & NE 117th St,117i5,2,North
+Sunday   ,512,15066,85017,24:08,I-5 & NE 195th St,195i5,3,North
+Sunday   ,512,15066,85017,24:09,Mountlake Terrace Freeway Station,mltfs,4,North
+Sunday   ,512,15066,85017,24:14,Lynnwood Transit Center,lynntc,5,North
+Sunday   ,512,15066,85017,24:20,Ash Way Park & Ride,awypr,6,North
+Sunday   ,512,15066,85017,24:32,South Everett Freeway Station,sefs,7,North
+Sunday   ,512,15066,85017,24:43,Everett Station,evtst,8,North
 Sunday   ,512,15071,85003, 5:31   ,Everett Station,evtst,1,South
 Sunday   ,512,15071,85003, 5:39   ,South Everett Freeway Station,sefs,2,South
 Sunday   ,512,15071,85003, 5:46   ,Ash Way Park & Ride,awypr,3,South
@@ -684,19 +684,19 @@ Sunday   ,512,15061,85015,22:10,Lynnwood Transit Center,lynntc,5,North
 Sunday   ,512,15061,85015,22:16,Ash Way Park & Ride,awypr,6,North
 Sunday   ,512,15061,85015,22:28,South Everett Freeway Station,sefs,7,North
 Sunday   ,512,15061,85015,22:39,Everett Station,evtst,8,North
-Sunday   ,512,15068,85019,24:42:00,SODO Busway & S Royal Brougham Way,9977,1,North
-Sunday   ,512,15068,85019,24:44:00,4th Ave S & S Jackson St,4jack,2,North
-Sunday   ,512,15068,85019,24:49:00,4th Ave & Pine St,4unio,3,North
-Sunday   ,512,15068,85019,24:53:00,Olive Way & Boren Ave,olvtr,4,North
-Sunday   ,512,15068,85019,24:58:00,NE 45th Freeway Station,45i5,5,North
-Sunday   ,512,15068,85019,25:05:00,Northgate Station,nortc,6,North
-Sunday   ,512,15068,85019,25:09:00,I-5 & NE 117th St,117i5,7,North
-Sunday   ,512,15068,85019,25:14:00,I-5 & NE 195th St,195i5,8,North
-Sunday   ,512,15068,85019,25:15:00,Mountlake Terrace Freeway Station,mltfs,9,North
-Sunday   ,512,15068,85019,25:19:00,Lynnwood Transit Center,lynntc,10,North
-Sunday   ,512,15068,85019,25:26:00,Ash Way Park & Ride,awypr,11,North
-Sunday   ,512,15068,85019,25:34:00,South Everett Freeway Station,sefs,12,North
-Sunday   ,512,15068,85019,25:47:00,Everett Station,evtst,13,North
+Sunday   ,512,15068,85019,24:42,SODO Busway & S Royal Brougham Way,9977,1,North
+Sunday   ,512,15068,85019,24:44,4th Ave S & S Jackson St,4jack,2,North
+Sunday   ,512,15068,85019,24:49,4th Ave & Pine St,4unio,3,North
+Sunday   ,512,15068,85019,24:53,Olive Way & Boren Ave,olvtr,4,North
+Sunday   ,512,15068,85019,24:58,NE 45th Freeway Station,45i5,5,North
+Sunday   ,512,15068,85019,25:05,Northgate Station,nortc,6,North
+Sunday   ,512,15068,85019,25:09,I-5 & NE 117th St,117i5,7,North
+Sunday   ,512,15068,85019,25:14,I-5 & NE 195th St,195i5,8,North
+Sunday   ,512,15068,85019,25:15,Mountlake Terrace Freeway Station,mltfs,9,North
+Sunday   ,512,15068,85019,25:19,Lynnwood Transit Center,lynntc,10,North
+Sunday   ,512,15068,85019,25:26,Ash Way Park & Ride,awypr,11,North
+Sunday   ,512,15068,85019,25:34,South Everett Freeway Station,sefs,12,North
+Sunday   ,512,15068,85019,25:47,Everett Station,evtst,13,North
 Sunday   ,512,15075,85003, 7:05   ,Everett Station,evtst,1,South
 Sunday   ,512,15075,85003, 7:13   ,South Everett Freeway Station,sefs,2,South
 Sunday   ,512,15075,85003, 7:20   ,Ash Way Park & Ride,awypr,3,South
@@ -1038,7 +1038,7 @@ Sunday   ,,85128,85011,13:30,,3NG100,2,
 Sunday   ,,85112,85003, 7:47   ,Northgate Station,nortc,1,
 Sunday   ,,85112,85003, 7:51   ,,3NG100,2,
 Sunday   ,,85102,85019,23:39,Everett Station,evtst,1,
-Sunday   ,,85102,85019,24:24:00,SODO Busway & S Royal Brougham Way,9977,2,
+Sunday   ,,85102,85019,24:24,SODO Busway & S Royal Brougham Way,9977,2,
 Sunday   ,,85108,85002, 5:49   ,Northgate Station,nortc,1,
 Sunday   ,,85108,85002, 5:52   ,,3NG100,2,
 Sunday   ,,85109,85003, 6:13   ,Northgate Station,nortc,1,
@@ -1092,7 +1092,7 @@ Sunday   ,,85157,85014,23:06,,3NG100,2,
 Sunday   ,,85037,85015,18:07,,3NG100,1,
 Sunday   ,,85037,85015,18:09,Northgate Station,nortc,2,
 Sunday   ,,85101,85018,23:19,Everett Station,evtst,1,
-Sunday   ,,85101,85018,24:04:00,SODO Busway & S Royal Brougham Way,9977,2,
+Sunday   ,,85101,85018,24:04,SODO Busway & S Royal Brougham Way,9977,2,
 Sunday   ,,85156,85018,22:33,Northgate Station,nortc,1,
 Sunday   ,,85156,85018,22:36,,3NG100,2,
 Sunday   ,,85025,85014,15:57,,3NG100,1,
@@ -1149,8 +1149,8 @@ Sunday   ,,85096,85010,21:22,Everett Station,evtst,1,
 Sunday   ,,85096,85010,21:37,Kasch Park Base,base2,2,
 Sunday   ,,85145,85013,18:47,Northgate Station,nortc,1,
 Sunday   ,,85145,85013,19:17,Kasch Park Base,base2,2,
-Sunday   ,,85103,85014,24:09:00,Everett Station,evtst,1,
-Sunday   ,,85103,85014,24:24:00,Kasch Park Base,base2,2,
+Sunday   ,,85103,85014,24:09,Everett Station,evtst,1,
+Sunday   ,,85103,85014,24:24,Kasch Park Base,base2,2,
 Sunday   ,,85133,85004,15:07,Northgate Station,nortc,1,
 Sunday   ,,85133,85004,15:37,Kasch Park Base,base2,2,
 Sunday   ,512,15102,85017,15:51,Everett Station,evtst,1,South
@@ -1211,8 +1211,8 @@ Sunday   ,,85036,85019,17:57,,3NG100,1,
 Sunday   ,,85036,85019,17:59,Northgate Station,nortc,2,
 Sunday   ,,85148,85012,19:47,Northgate Station,nortc,1,
 Sunday   ,,85148,85012,20:17,Kasch Park Base,base2,2,
-Sunday   ,,85106,85019,25:47:00,Everett Station,evtst,1,
-Sunday   ,,85106,85019,26:02:00,Kasch Park Base,base2,2,
+Sunday   ,,85106,85019,25:47,Everett Station,evtst,1,
+Sunday   ,,85106,85019,26:02,Kasch Park Base,base2,2,
 Sunday   ,,85073,85016,15:14,Kasch Park Base,base2,1,
 Sunday   ,,85073,85016,15:49,Northgate Station,nortc,2,
 Sunday   ,,85051,85019,21:38,,3NG100,1,
@@ -1255,12 +1255,12 @@ Sunday   ,,85063,85006, 8:07   ,Kasch Park Base,base2,1,
 Sunday   ,,85063,85006, 8:24   ,Everett Station,evtst,2,
 Sunday   ,,85094,85016,19:02,Everett Station,evtst,1,
 Sunday   ,,85094,85016,19:17,Kasch Park Base,base2,2,
-Sunday   ,,85105,85018,25:17:00,Everett Station,evtst,1,
-Sunday   ,,85105,85018,25:32:00,Kasch Park Base,base2,2,
-Sunday   ,,85104,85017,24:43:00,Everett Station,evtst,1,
-Sunday   ,,85104,85017,24:58:00,Kasch Park Base,base2,2,
-Sunday   ,,85057,85017,24:02:00,,3NG100,1,
-Sunday   ,,85057,85017,24:03:00,Northgate Station,nortc,2,
+Sunday   ,,85105,85018,25:17,Everett Station,evtst,1,
+Sunday   ,,85105,85018,25:32,Kasch Park Base,base2,2,
+Sunday   ,,85104,85017,24:43,Everett Station,evtst,1,
+Sunday   ,,85104,85017,24:58,Kasch Park Base,base2,2,
+Sunday   ,,85057,85017,24:02,,3NG100,1,
+Sunday   ,,85057,85017,24:03,Northgate Station,nortc,2,
 Sunday   ,,85040,85017,18:39,,3NG100,1,
 Sunday   ,,85040,85017,18:39,Northgate Station,nortc,2,
 Sunday   ,,85138,85017,16:37,Northgate Station,nortc,1,
@@ -3121,10 +3121,10 @@ Weekday  ,512,25124,85056,23:46,I-5 & NE 117th St,117i5,2,North
 Weekday  ,512,25124,85056,23:49,I-5 & NE 195th St,195i5,3,North
 Weekday  ,512,25124,85056,23:50,Mountlake Terrace Freeway Station,mltfs,4,North
 Weekday  ,512,25124,85056,23:55,Lynnwood Transit Center,lynntc,5,North
-Weekday  ,512,25124,85056,24:01:00,Ash Way Park & Ride,awypr,6,North
-Weekday  ,512,25124,85056,24:14:00,South Everett Freeway Station,sefs,7,North
-Weekday  ,512,25124,85056,24:27:00,Everett Station,evtst,8,North
-Weekday  ,512,25124,85056,24:35:00,Hewitt Ave & Virginia Ave,hwvg,9,North
+Weekday  ,512,25124,85056,24:01,Ash Way Park & Ride,awypr,6,North
+Weekday  ,512,25124,85056,24:14,South Everett Freeway Station,sefs,7,North
+Weekday  ,512,25124,85056,24:27,Everett Station,evtst,8,North
+Weekday  ,512,25124,85056,24:35,Hewitt Ave & Virginia Ave,hwvg,9,North
 Weekday  ,512,25112,85040,20:09,Northgate Station,nortc,1,North
 Weekday  ,512,25112,85040,20:12,I-5 & NE 117th St,117i5,2,North
 Weekday  ,512,25112,85040,20:15,I-5 & NE 195th St,195i5,3,North
@@ -3432,15 +3432,15 @@ Weekday  ,535,25268,85031,11:48,Totem Lake Freeway Station,405tl,6,South
 Weekday  ,535,25268,85031,11:54,I-405 & NE 70th Pl,40570,7,South
 Weekday  ,535,25268,85031,12:04,Bellevue Transit Center,blvtc,8,South
 Weekday  ,535,25268,85031,12:13,NE 10th St & 102nd Ave NE,10102,9,South
-Weekday  ,512,25125,85066,24:14:00,Northgate Station,nortc,1,North
-Weekday  ,512,25125,85066,24:16:00,I-5 & NE 117th St,117i5,2,North
-Weekday  ,512,25125,85066,24:19:00,I-5 & NE 195th St,195i5,3,North
-Weekday  ,512,25125,85066,24:20:00,Mountlake Terrace Freeway Station,mltfs,4,North
-Weekday  ,512,25125,85066,24:25:00,Lynnwood Transit Center,lynntc,5,North
-Weekday  ,512,25125,85066,24:31:00,Ash Way Park & Ride,awypr,6,North
-Weekday  ,512,25125,85066,24:44:00,South Everett Freeway Station,sefs,7,North
-Weekday  ,512,25125,85066,24:57:00,Everett Station,evtst,8,North
-Weekday  ,512,25125,85066,25:05:00,Hewitt Ave & Virginia Ave,hwvg,9,North
+Weekday  ,512,25125,85066,24:14,Northgate Station,nortc,1,North
+Weekday  ,512,25125,85066,24:16,I-5 & NE 117th St,117i5,2,North
+Weekday  ,512,25125,85066,24:19,I-5 & NE 195th St,195i5,3,North
+Weekday  ,512,25125,85066,24:20,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday  ,512,25125,85066,24:25,Lynnwood Transit Center,lynntc,5,North
+Weekday  ,512,25125,85066,24:31,Ash Way Park & Ride,awypr,6,North
+Weekday  ,512,25125,85066,24:44,South Everett Freeway Station,sefs,7,North
+Weekday  ,512,25125,85066,24:57,Everett Station,evtst,8,North
+Weekday  ,512,25125,85066,25:05,Hewitt Ave & Virginia Ave,hwvg,9,North
 Weekday  ,535,25266,85009,10:18,Lynnwood Transit Center,lynntc,1,South
 Weekday  ,535,25266,85009,10:23,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
 Weekday  ,535,25266,85009,10:31,Canyon Park Park & Ride,cpkpr,3,South
@@ -3610,15 +3610,15 @@ Weekday  ,512,25086,85033,12:10,South Everett Freeway Station,sefs,7,North
 Weekday  ,512,25086,85033,12:21,Everett Station,evtst,8,North
 Weekday  ,,35230,85063,17:50,Everett Station,evtst,1,
 Weekday  ,,35230,85063,18:40,NE 10th St & 102nd Ave NE,10102,2,
-Weekday  ,512,25126,85067,24:48:00,Northgate Station,nortc,1,North
-Weekday  ,512,25126,85067,24:50:00,I-5 & NE 117th St,117i5,2,North
-Weekday  ,512,25126,85067,24:53:00,I-5 & NE 195th St,195i5,3,North
-Weekday  ,512,25126,85067,24:54:00,Mountlake Terrace Freeway Station,mltfs,4,North
-Weekday  ,512,25126,85067,24:59:00,Lynnwood Transit Center,lynntc,5,North
-Weekday  ,512,25126,85067,25:05:00,Ash Way Park & Ride,awypr,6,North
-Weekday  ,512,25126,85067,25:18:00,South Everett Freeway Station,sefs,7,North
-Weekday  ,512,25126,85067,25:31:00,Everett Station,evtst,8,North
-Weekday  ,512,25126,85067,25:39:00,Hewitt Ave & Virginia Ave,hwvg,9,North
+Weekday  ,512,25126,85067,24:48,Northgate Station,nortc,1,North
+Weekday  ,512,25126,85067,24:50,I-5 & NE 117th St,117i5,2,North
+Weekday  ,512,25126,85067,24:53,I-5 & NE 195th St,195i5,3,North
+Weekday  ,512,25126,85067,24:54,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday  ,512,25126,85067,24:59,Lynnwood Transit Center,lynntc,5,North
+Weekday  ,512,25126,85067,25:05,Ash Way Park & Ride,awypr,6,North
+Weekday  ,512,25126,85067,25:18,South Everett Freeway Station,sefs,7,North
+Weekday  ,512,25126,85067,25:31,Everett Station,evtst,8,North
+Weekday  ,512,25126,85067,25:39,Hewitt Ave & Virginia Ave,hwvg,9,North
 Weekday  ,,35022,85024, 7:55   ,,3NG100,1,
 Weekday  ,,35022,85024, 7:57   ,Northgate Station,nortc,2,
 Weekday  ,,35277,85024, 7:41   ,Northgate Station,nortc,1,
@@ -3645,14 +3645,14 @@ Weekday  ,,35336,85047,22:33,Northgate Station,nortc,1,
 Weekday  ,,35336,85047,22:36,,3NG100,2,
 Weekday  ,,35016,85011, 5:58   ,,3NG100,1,
 Weekday  ,,35016,85011, 5:59   ,Northgate Station,nortc,2,
-Weekday  ,,35339,85066,24:03:00,Northgate Station,nortc,1,
-Weekday  ,,35339,85066,24:06:00,,3NG100,2,
+Weekday  ,,35339,85066,24:03,Northgate Station,nortc,1,
+Weekday  ,,35339,85066,24:06,,3NG100,2,
 Weekday  ,,35030,85030, 9:58   ,,3NG100,1,
 Weekday  ,,35030,85030, 9:59   ,Northgate Station,nortc,2,
 Weekday  ,,35033,85002,10:58,,3NG100,1,
 Weekday  ,,35033,85002,10:59,Northgate Station,nortc,2,
-Weekday  ,,35103,85066,24:13:00,,3NG100,1,
-Weekday  ,,35103,85066,24:14:00,Northgate Station,nortc,2,
+Weekday  ,,35103,85066,24:13,,3NG100,1,
+Weekday  ,,35103,85066,24:14,Northgate Station,nortc,2,
 Weekday  ,,35294,85002,10:47,Northgate Station,nortc,1,
 Weekday  ,,35294,85002,10:50,,3NG100,2,
 Weekday  ,,35100,85047,22:48,,3NG100,1,
@@ -3841,8 +3841,8 @@ Weekday  ,,35120,85055,15:48,Ash Way Park & Ride,awypr,1,
 Weekday  ,,35120,85055,16:33,4th Ave S & S Jackson St,4jack,2,
 Weekday  ,,35333,85056,21:07,Northgate Station,nortc,1,
 Weekday  ,,35333,85056,21:10,,3NG100,2,
-Weekday  ,,35104,85067,24:47:00,,3NG100,1,
-Weekday  ,,35104,85067,24:48:00,Northgate Station,nortc,2,
+Weekday  ,,35104,85067,24:47,,3NG100,1,
+Weekday  ,,35104,85067,24:48,Northgate Station,nortc,2,
 Weekday  ,,35047,85039,13:28,,3NG100,1,
 Weekday  ,,35047,85039,13:29,Northgate Station,nortc,2,
 Weekday  ,,35101,85067,23:13,,3NG100,1,
@@ -3867,8 +3867,8 @@ Weekday  ,,35003,85021, 7:19   ,NE 10th St & 102nd Ave NE,10102,1,
 Weekday  ,,35003,85021, 7:58   ,Kasch Park Base,base2,2,
 Weekday  ,,35084,85044,18:46,,3NG100,1,
 Weekday  ,,35084,85044,18:47,Northgate Station,nortc,2,
-Weekday  ,,35248,85067,24:05:00,Hewitt Ave & Virginia Ave,hwvg,1,
-Weekday  ,,35248,85067,24:35:00,,3NG100,2,
+Weekday  ,,35248,85067,24:05,Hewitt Ave & Virginia Ave,hwvg,1,
+Weekday  ,,35248,85067,24:35,,3NG100,2,
 Weekday  ,,35091,85066,19:58,,3NG100,1,
 Weekday  ,,35091,85066,19:59,Northgate Station,nortc,2,
 Weekday  ,,35197,85059,15:00,Kasch Park Base,base2,1,
@@ -3997,12 +3997,12 @@ Weekday  ,,35148,85010, 5:00   ,Kasch Park Base,base2,1,
 Weekday  ,,35148,85010, 5:17   ,Everett Station,evtst,2,
 Weekday  ,,35326,85059,18:15,Northgate Station,nortc,1,
 Weekday  ,,35326,85059,18:45,Kasch Park Base,base2,2,
-Weekday  ,,35249,85056,24:35:00,Hewitt Ave & Virginia Ave,hwvg,1,
-Weekday  ,,35249,85056,24:50:00,Kasch Park Base,base2,2,
+Weekday  ,,35249,85056,24:35,Hewitt Ave & Virginia Ave,hwvg,1,
+Weekday  ,,35249,85056,24:50,Kasch Park Base,base2,2,
 Weekday  ,,35058,85055,15:17,,3NG100,1,
 Weekday  ,,35058,85055,15:19,Northgate Station,nortc,2,
-Weekday  ,,35250,85066,25:05:00,Hewitt Ave & Virginia Ave,hwvg,1,
-Weekday  ,,35250,85066,25:20:00,Kasch Park Base,base2,2,
+Weekday  ,,35250,85066,25:05,Hewitt Ave & Virginia Ave,hwvg,1,
+Weekday  ,,35250,85066,25:20,Kasch Park Base,base2,2,
 Weekday  ,,35012,85064,18:43,NE 10th St & 102nd Ave NE,10102,1,
 Weekday  ,,35012,85064,19:18,Kasch Park Base,base2,2,
 Weekday  ,,35302,85030,12:07,Northgate Station,nortc,1,
@@ -4149,8 +4149,8 @@ Weekday  ,,35255,85031,13:40,Lynnwood Transit Center,lynntc,1,
 Weekday  ,,35255,85031,14:10,4th Ave S & S Jackson St,4jack,2,
 Weekday  ,,35208,85006,12:11,Everett Station,evtst,1,
 Weekday  ,,35208,85006,12:26,Kasch Park Base,base2,2,
-Weekday  ,,35251,85067,25:39:00,Hewitt Ave & Virginia Ave,hwvg,1,
-Weekday  ,,35251,85067,25:54:00,Kasch Park Base,base2,2,
+Weekday  ,,35251,85067,25:39,Hewitt Ave & Virginia Ave,hwvg,1,
+Weekday  ,,35251,85067,25:54,Kasch Park Base,base2,2,
 Weekday  ,,35207,85002,11:41,Everett Station,evtst,1,
 Weekday  ,,35207,85002,11:56,Kasch Park Base,base2,2,
 Weekday  ,,35201,85063,15:51,Kasch Park Base,base2,1,
@@ -5593,7 +5593,7 @@ Saturday ,512,75181,85025,23:44,Lynnwood Transit Center,lynntc,4,South
 Saturday ,512,75181,85025,23:48,Mountlake Terrace Freeway Station,mltfs,5,South
 Saturday ,512,75181,85025,23:51,I-5 & NE 195th St,195i5,6,South
 Saturday ,512,75181,85025,23:55,I-5 & NE 117th St,117i5,7,South
-Saturday ,512,75181,85025,24:03:00,Northgate Station,nortc,8,South
+Saturday ,512,75181,85025,24:03,Northgate Station,nortc,8,South
 Saturday ,512,75172,85025,19:43,Everett Station,evtst,1,South
 Saturday ,512,75172,85025,19:51,South Everett Freeway Station,sefs,2,South
 Saturday ,512,75172,85025,19:59,Ash Way Park & Ride,awypr,3,South
@@ -5858,14 +5858,14 @@ Saturday ,512,75058,85020,18:41,Lynnwood Transit Center,lynntc,5,North
 Saturday ,512,75058,85020,18:47,Ash Way Park & Ride,awypr,6,North
 Saturday ,512,75058,85020,19:01,South Everett Freeway Station,sefs,7,North
 Saturday ,512,75058,85020,19:14,Everett Station,evtst,8,North
-Saturday ,512,75091,85023,24:29:00,Northgate Station,nortc,1,North
-Saturday ,512,75091,85023,24:32:00,I-5 & NE 117th St,117i5,2,North
-Saturday ,512,75091,85023,24:35:00,I-5 & NE 195th St,195i5,3,North
-Saturday ,512,75091,85023,24:36:00,Mountlake Terrace Freeway Station,mltfs,4,North
-Saturday ,512,75091,85023,24:41:00,Lynnwood Transit Center,lynntc,5,North
-Saturday ,512,75091,85023,24:47:00,Ash Way Park & Ride,awypr,6,North
-Saturday ,512,75091,85023,24:58:00,South Everett Freeway Station,sefs,7,North
-Saturday ,512,75091,85023,25:08:00,Everett Station,evtst,8,North
+Saturday ,512,75091,85023,24:29,Northgate Station,nortc,1,North
+Saturday ,512,75091,85023,24:32,I-5 & NE 117th St,117i5,2,North
+Saturday ,512,75091,85023,24:35,I-5 & NE 195th St,195i5,3,North
+Saturday ,512,75091,85023,24:36,Mountlake Terrace Freeway Station,mltfs,4,North
+Saturday ,512,75091,85023,24:41,Lynnwood Transit Center,lynntc,5,North
+Saturday ,512,75091,85023,24:47,Ash Way Park & Ride,awypr,6,North
+Saturday ,512,75091,85023,24:58,South Everett Freeway Station,sefs,7,North
+Saturday ,512,75091,85023,25:08,Everett Station,evtst,8,North
 Saturday ,512,75085,85019,22:59,Northgate Station,nortc,1,North
 Saturday ,512,75085,85019,23:02,I-5 & NE 117th St,117i5,2,North
 Saturday ,512,75085,85019,23:05,I-5 & NE 195th St,195i5,3,North
@@ -5911,7 +5911,7 @@ Saturday ,512,75087,85026,23:36,Mountlake Terrace Freeway Station,mltfs,4,North
 Saturday ,512,75087,85026,23:41,Lynnwood Transit Center,lynntc,5,North
 Saturday ,512,75087,85026,23:47,Ash Way Park & Ride,awypr,6,North
 Saturday ,512,75087,85026,23:59,South Everett Freeway Station,sefs,7,North
-Saturday ,512,75087,85026,24:10:00,Everett Station,evtst,8,North
+Saturday ,512,75087,85026,24:10,Everett Station,evtst,8,North
 Saturday ,512,75079,85021,21:59,Northgate Station,nortc,1,North
 Saturday ,512,75079,85021,22:02,I-5 & NE 117th St,117i5,2,North
 Saturday ,512,75079,85021,22:05,I-5 & NE 195th St,195i5,3,North
@@ -6061,13 +6061,13 @@ Saturday ,512,75082,85025,22:47,Ash Way Park & Ride,awypr,6,North
 Saturday ,512,75082,85025,22:59,South Everett Freeway Station,sefs,7,North
 Saturday ,512,75082,85025,23:12,Everett Station,evtst,8,North
 Saturday ,512,75089,85024,23:59,Northgate Station,nortc,1,North
-Saturday ,512,75089,85024,24:02:00,I-5 & NE 117th St,117i5,2,North
-Saturday ,512,75089,85024,24:05:00,I-5 & NE 195th St,195i5,3,North
-Saturday ,512,75089,85024,24:06:00,Mountlake Terrace Freeway Station,mltfs,4,North
-Saturday ,512,75089,85024,24:11:00,Lynnwood Transit Center,lynntc,5,North
-Saturday ,512,75089,85024,24:17:00,Ash Way Park & Ride,awypr,6,North
-Saturday ,512,75089,85024,24:29:00,South Everett Freeway Station,sefs,7,North
-Saturday ,512,75089,85024,24:40:00,Everett Station,evtst,8,North
+Saturday ,512,75089,85024,24:02,I-5 & NE 117th St,117i5,2,North
+Saturday ,512,75089,85024,24:05,I-5 & NE 195th St,195i5,3,North
+Saturday ,512,75089,85024,24:06,Mountlake Terrace Freeway Station,mltfs,4,North
+Saturday ,512,75089,85024,24:11,Lynnwood Transit Center,lynntc,5,North
+Saturday ,512,75089,85024,24:17,Ash Way Park & Ride,awypr,6,North
+Saturday ,512,75089,85024,24:29,South Everett Freeway Station,sefs,7,North
+Saturday ,512,75089,85024,24:40,Everett Station,evtst,8,North
 Saturday ,512,75073,85022,20:59,Northgate Station,nortc,1,North
 Saturday ,512,75073,85022,21:02,I-5 & NE 117th St,117i5,2,North
 Saturday ,512,75073,85022,21:05,I-5 & NE 195th St,195i5,3,North
@@ -6108,14 +6108,14 @@ Saturday ,512,75064,85016,19:41,Lynnwood Transit Center,lynntc,5,North
 Saturday ,512,75064,85016,19:47,Ash Way Park & Ride,awypr,6,North
 Saturday ,512,75064,85016,20:01,South Everett Freeway Station,sefs,7,North
 Saturday ,512,75064,85016,20:14,Everett Station,evtst,8,North
-Saturday ,512,75090,85025,24:14:00,Northgate Station,nortc,1,North
-Saturday ,512,75090,85025,24:17:00,I-5 & NE 117th St,117i5,2,North
-Saturday ,512,75090,85025,24:20:00,I-5 & NE 195th St,195i5,3,North
-Saturday ,512,75090,85025,24:21:00,Mountlake Terrace Freeway Station,mltfs,4,North
-Saturday ,512,75090,85025,24:26:00,Lynnwood Transit Center,lynntc,5,North
-Saturday ,512,75090,85025,24:32:00,Ash Way Park & Ride,awypr,6,North
-Saturday ,512,75090,85025,24:44:00,South Everett Freeway Station,sefs,7,North
-Saturday ,512,75090,85025,24:55:00,Everett Station,evtst,8,North
+Saturday ,512,75090,85025,24:14,Northgate Station,nortc,1,North
+Saturday ,512,75090,85025,24:17,I-5 & NE 117th St,117i5,2,North
+Saturday ,512,75090,85025,24:20,I-5 & NE 195th St,195i5,3,North
+Saturday ,512,75090,85025,24:21,Mountlake Terrace Freeway Station,mltfs,4,North
+Saturday ,512,75090,85025,24:26,Lynnwood Transit Center,lynntc,5,North
+Saturday ,512,75090,85025,24:32,Ash Way Park & Ride,awypr,6,North
+Saturday ,512,75090,85025,24:44,South Everett Freeway Station,sefs,7,North
+Saturday ,512,75090,85025,24:55,Everett Station,evtst,8,North
 Saturday ,512,75065,85023,19:39,Northgate Station,nortc,1,North
 Saturday ,512,75065,85023,19:42,I-5 & NE 117th St,117i5,2,North
 Saturday ,512,75065,85023,19:45,I-5 & NE 195th St,195i5,3,North
@@ -6129,17 +6129,17 @@ Saturday ,512,75088,85021,23:47,I-5 & NE 117th St,117i5,2,North
 Saturday ,512,75088,85021,23:50,I-5 & NE 195th St,195i5,3,North
 Saturday ,512,75088,85021,23:51,Mountlake Terrace Freeway Station,mltfs,4,North
 Saturday ,512,75088,85021,23:56,Lynnwood Transit Center,lynntc,5,North
-Saturday ,512,75088,85021,24:02:00,Ash Way Park & Ride,awypr,6,North
-Saturday ,512,75088,85021,24:14:00,South Everett Freeway Station,sefs,7,North
-Saturday ,512,75088,85021,24:25:00,Everett Station,evtst,8,North
-Saturday ,512,75092,85026,24:48:00,Northgate Station,nortc,1,North
-Saturday ,512,75092,85026,24:51:00,I-5 & NE 117th St,117i5,2,North
-Saturday ,512,75092,85026,24:54:00,I-5 & NE 195th St,195i5,3,North
-Saturday ,512,75092,85026,24:55:00,Mountlake Terrace Freeway Station,mltfs,4,North
-Saturday ,512,75092,85026,25:00:00,Lynnwood Transit Center,lynntc,5,North
-Saturday ,512,75092,85026,25:06:00,Ash Way Park & Ride,awypr,6,North
-Saturday ,512,75092,85026,25:17:00,South Everett Freeway Station,sefs,7,North
-Saturday ,512,75092,85026,25:27:00,Everett Station,evtst,8,North
+Saturday ,512,75088,85021,24:02,Ash Way Park & Ride,awypr,6,North
+Saturday ,512,75088,85021,24:14,South Everett Freeway Station,sefs,7,North
+Saturday ,512,75088,85021,24:25,Everett Station,evtst,8,North
+Saturday ,512,75092,85026,24:48,Northgate Station,nortc,1,North
+Saturday ,512,75092,85026,24:51,I-5 & NE 117th St,117i5,2,North
+Saturday ,512,75092,85026,24:54,I-5 & NE 195th St,195i5,3,North
+Saturday ,512,75092,85026,24:55,Mountlake Terrace Freeway Station,mltfs,4,North
+Saturday ,512,75092,85026,25:00,Lynnwood Transit Center,lynntc,5,North
+Saturday ,512,75092,85026,25:06,Ash Way Park & Ride,awypr,6,North
+Saturday ,512,75092,85026,25:17,South Everett Freeway Station,sefs,7,North
+Saturday ,512,75092,85026,25:27,Everett Station,evtst,8,North
 Saturday ,,65003,85001, 6:33   ,,3NG100,1,
 Saturday ,,65003,85001, 6:35   ,Northgate Station,nortc,2,
 Saturday ,,65168,85002, 5:37   ,Northgate Station,nortc,1,
@@ -6196,12 +6196,12 @@ Saturday ,,65088,85024,23:58,,3NG100,1,
 Saturday ,,65088,85024,23:59,Northgate Station,nortc,2,
 Saturday ,,65075,85023,21:28,,3NG100,1,
 Saturday ,,65075,85023,21:29,Northgate Station,nortc,2,
-Saturday ,,65090,85023,24:29:00,,3NG100,1,
-Saturday ,,65090,85023,24:29:00,Northgate Station,nortc,2,
+Saturday ,,65090,85023,24:29,,3NG100,1,
+Saturday ,,65090,85023,24:29,Northgate Station,nortc,2,
 Saturday ,,65068,85020,20:18,,3NG100,1,
 Saturday ,,65068,85020,20:19,Northgate Station,nortc,2,
-Saturday ,,65255,85025,24:03:00,Northgate Station,nortc,1,
-Saturday ,,65255,85025,24:06:00,,3NG100,2,
+Saturday ,,65255,85025,24:03,Northgate Station,nortc,1,
+Saturday ,,65255,85025,24:06,,3NG100,2,
 Saturday ,,65078,85021,21:58,,3NG100,1,
 Saturday ,,65078,85021,21:59,Northgate Station,nortc,2,
 Saturday ,,65225,85019,15:27,Northgate Station,nortc,1,
@@ -6213,7 +6213,7 @@ Saturday ,,65229,85022,16:11,,3NG100,2,
 Saturday ,,65247,85022,20:47,Northgate Station,nortc,1,
 Saturday ,,65247,85022,20:50,,3NG100,2,
 Saturday ,,65155,85023,23:55,Everett Station,evtst,1,
-Saturday ,,65155,85023,24:29:00,,3NG100,2,
+Saturday ,,65155,85023,24:29,,3NG100,2,
 Saturday ,,65087,85021,23:43,,3NG100,1,
 Saturday ,,65087,85021,23:44,Northgate Station,nortc,2,
 Saturday ,,65251,85020,22:07,Northgate Station,nortc,1,
@@ -6248,8 +6248,8 @@ Saturday ,,65085,85023,23:13,,3NG100,1,
 Saturday ,,65085,85023,23:14,Northgate Station,nortc,2,
 Saturday ,,65253,85023,23:03,Northgate Station,nortc,1,
 Saturday ,,65253,85023,23:06,,3NG100,2,
-Saturday ,,65089,85025,24:13:00,,3NG100,1,
-Saturday ,,65089,85025,24:14:00,Northgate Station,nortc,2,
+Saturday ,,65089,85025,24:13,,3NG100,1,
+Saturday ,,65089,85025,24:14,Northgate Station,nortc,2,
 Saturday ,,65049,85024,16:57,,3NG100,1,
 Saturday ,,65049,85024,16:59,Northgate Station,nortc,2,
 Saturday ,,65062,85024,19:18,,3NG100,1,
@@ -6258,8 +6258,8 @@ Saturday ,,65074,85024,21:18,,3NG100,1,
 Saturday ,,65074,85024,21:19,Northgate Station,nortc,2,
 Saturday ,,65147,85024,22:02,Everett Station,evtst,1,
 Saturday ,,65147,85024,22:36,,3NG100,2,
-Saturday ,,65091,85026,24:47:00,,3NG100,1,
-Saturday ,,65091,85026,24:48:00,Northgate Station,nortc,2,
+Saturday ,,65091,85026,24:47,,3NG100,1,
+Saturday ,,65091,85026,24:48,Northgate Station,nortc,2,
 Saturday ,,65248,85024,21:07,Northgate Station,nortc,1,
 Saturday ,,65248,85024,21:10,,3NG100,2,
 Saturday ,,65050,85025,17:07,,3NG100,1,
@@ -6282,8 +6282,8 @@ Saturday ,,65133,85025,17:56,Everett Station,evtst,1,
 Saturday ,,65133,85025,18:32,,3NG100,2,
 Saturday ,,65079,85026,22:08,,3NG100,1,
 Saturday ,,65079,85026,22:09,Northgate Station,nortc,2,
-Saturday ,,65156,85026,24:10:00,Everett Station,evtst,1,
-Saturday ,,65156,85026,24:44:00,,3NG100,2,
+Saturday ,,65156,85026,24:10,Everett Station,evtst,1,
+Saturday ,,65156,85026,24:44,,3NG100,2,
 Saturday ,,65250,85026,21:47,Northgate Station,nortc,1,
 Saturday ,,65250,85026,21:50,,3NG100,2,
 Saturday ,,65086,85026,23:28,,3NG100,1,
@@ -6460,8 +6460,8 @@ Saturday ,,65154,85019,23:40,Everett Station,evtst,1,
 Saturday ,,65154,85019,23:55,Kasch Park Base,base2,2,
 Saturday ,,65095,85004, 5:03   ,Kasch Park Base,base2,1,
 Saturday ,,65095,85004, 5:20   ,Everett Station,evtst,2,
-Saturday ,,65158,85024,24:40:00,Everett Station,evtst,1,
-Saturday ,,65158,85024,24:55:00,Kasch Park Base,base2,2,
+Saturday ,,65158,85024,24:40,Everett Station,evtst,1,
+Saturday ,,65158,85024,24:55,Kasch Park Base,base2,2,
 Saturday ,,65201,85012,11:27,Northgate Station,nortc,1,
 Saturday ,,65201,85012,11:30,,3NG100,2,
 Saturday ,,65025,85004,12:43,,3NG100,1,
@@ -6476,14 +6476,14 @@ Saturday ,,65096,85005, 5:15   ,Kasch Park Base,base2,1,
 Saturday ,,65096,85005, 5:32   ,Everett Station,evtst,2,
 Saturday ,,65098,85007, 6:03   ,Kasch Park Base,base2,1,
 Saturday ,,65098,85007, 6:20   ,Everett Station,evtst,2,
-Saturday ,,65161,85026,25:27:00,Everett Station,evtst,1,
-Saturday ,,65161,85026,25:42:00,Kasch Park Base,base2,2,
+Saturday ,,65161,85026,25:27,Everett Station,evtst,1,
+Saturday ,,65161,85026,25:42,Kasch Park Base,base2,2,
 Saturday ,,65103,85012, 8:09   ,Kasch Park Base,base2,1,
 Saturday ,,65103,85012, 8:26   ,Everett Station,evtst,2,
 Saturday ,,65235,85011,17:07,Northgate Station,nortc,1,
 Saturday ,,65235,85011,17:37,Kasch Park Base,base2,2,
-Saturday ,,65159,85025,24:55:00,Everett Station,evtst,1,
-Saturday ,,65159,85025,25:10:00,Kasch Park Base,base2,2,
+Saturday ,,65159,85025,24:55,Everett Station,evtst,1,
+Saturday ,,65159,85025,25:10,Kasch Park Base,base2,2,
 Saturday ,,65099,85008, 6:15   ,Kasch Park Base,base2,1,
 Saturday ,,65099,85008, 6:32   ,Everett Station,evtst,2,
 Saturday ,,65105,85014, 8:38   ,Kasch Park Base,base2,1,
@@ -6518,8 +6518,8 @@ Saturday ,,65120,85001,14:06,Everett Station,evtst,1,
 Saturday ,,65120,85001,14:21,Kasch Park Base,base2,2,
 Saturday ,,65101,85010, 6:56   ,Kasch Park Base,base2,1,
 Saturday ,,65101,85010, 7:18   ,Lynnwood Transit Center,lynntc,2,
-Saturday ,,65157,85021,24:25:00,Everett Station,evtst,1,
-Saturday ,,65157,85021,24:40:00,Kasch Park Base,base2,2,
+Saturday ,,65157,85021,24:25,Everett Station,evtst,1,
+Saturday ,,65157,85021,24:40,Kasch Park Base,base2,2,
 Saturday ,,65153,85022,23:31,Everett Station,evtst,1,
 Saturday ,,65153,85022,23:46,Kasch Park Base,base2,2,
 Saturday ,,65117,85026,17:04,Kasch Park Base,base2,1,
@@ -6536,8 +6536,8 @@ Saturday ,,65135,85014,18:34,Everett Station,evtst,1,
 Saturday ,,65135,85014,18:49,Kasch Park Base,base2,2,
 Saturday ,,65093,85002, 4:39   ,Kasch Park Base,base2,1,
 Saturday ,,65093,85002, 4:56   ,Everett Station,evtst,2,
-Saturday ,,65160,85023,25:08:00,Everett Station,evtst,1,
-Saturday ,,65160,85023,25:23:00,Kasch Park Base,base2,2,
+Saturday ,,65160,85023,25:08,Everett Station,evtst,1,
+Saturday ,,65160,85023,25:23,Kasch Park Base,base2,2,
 Saturday ,,65021,85012,11:43,,3NG100,1,
 Saturday ,,65021,85012,11:44,Northgate Station,nortc,2,
 Saturday ,,65195,85005,10:27,Northgate Station,nortc,1,
