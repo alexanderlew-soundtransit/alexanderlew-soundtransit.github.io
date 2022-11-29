@@ -6,7 +6,7 @@
 //config 
 
 var configFiles = new Array();
-configFiles = ['https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_Fall2022scada.csv',
+configFiles = ['https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_all_Dec22.csv',
 	       'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/KCM_Sept22scada.csv',
 	       'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Link_Sept22scada.csv',
 	       'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/SounderSept22scada.csv',
