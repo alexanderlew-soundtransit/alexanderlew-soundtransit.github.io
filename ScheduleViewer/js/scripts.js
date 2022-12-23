@@ -3,10 +3,12 @@
 
 //load menus: create drop down menus of route, directions, day of service
 
+//config settings
+
 //config 
 
 var configFiles = new Array();
-configFiles = ['https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_all_Dec22.csv',
+/*configFiles = ['https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_all_Dec22.csv',
 	       'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/KCM_Sept22scada.csv',
 	       'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Link_Sept22scada.csv',
 	       'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/SounderSept22scada.csv',
@@ -15,7 +17,7 @@ configFiles = ['https://raw.githubusercontent.com/alexanderlew-soundtransit/alex
 
 
 
-];
+];*/
 
 var configIgnoreStopsEndPoint = 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/configIgnoreStops.csv';
 
@@ -27,22 +29,21 @@ var stopNameExceptions;
 var configTransfersEndPoint = 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/configTransfers.csv';
 var configTransfers;
 
-var tripSortExceptions = [
-{route_id: "532", direction_name: "South", stop_id: "blvtc"},
-{route_id: "535", direction_name: "South", stop_id: "blvtc"},
-{route_id: "577", direction_name: "North", stop_id: "FedW7"},
-{route_id: "578", direction_name: "North", stop_id: "FedW7"},
-{route_id: "511", direction_name: "South", stop_id: "nortc"},
-{route_id: "513", direction_name: "South", stop_id: "nortc"},
-{route_id: "S522", direction_name: "South", stop_id: "5495"},
-{route_id: "S599", direction_name: "South", stop_id: "Beacon Hill Station"},
-{route_id: "S599", direction_name: "North", stop_id: "Stadium Station"}
-];
+
+var configTripSortExceptionsEndPoint = 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/configTripSortExceptions.csv';
+var tripSortExceptions; 
+
+
+var configDataEndPoint = 'https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/configDataEndpoints.csv';
+
 
 //cheap work around for better sort of stops. 
 var stopSeqExceptions = [
 {route_id: "535", direction_name: "South", stop_seq_adjust: 10},
 ];
+
+
+//TO DO: Load table of all endpoints. 1. create menu of service change periods, then filter data 
 
 
 var revTripsData = [];
@@ -51,7 +52,7 @@ var revTripsData = [];
 loadStopNameExceptionsCSV(stopNameExceptionsEndPoint);
 
 
-
+//Function to load all schedule data. 
 function loadData() {
 	console.log("loading data");
 	// loading data: 
@@ -102,22 +103,31 @@ function loadData() {
 	
 }
 
+//sequentially call configs 
 
 function loadStopNameExceptionsCSV(endpoint){
 	d3.csv(endpoint, function(data){
 		stopNameExceptions = data;
 		
-		//console.log(stopNameExceptions);
+		loadConfigTripSortExceptions(configTripSortExceptionsEndPoint);	
+	});
+}
+
+function loadConfigTripSortExceptions(endpoint){
+	d3.csv(endpoint, function(data){
+		tripSortExceptions = data;
 		
 		loadConfigTransfers(configTransfersEndPoint);	
 	});
+	
+	
 }
 
 function loadConfigTransfers(endpoint){
 	d3.csv(endpoint, function(data){
 		configTransfers = data;
-		console.log(configTransfers);
-	
+		
+	//call next
 	loadConfigIgnoreStops(configIgnoreStopsEndPoint);	
 		
 	});
@@ -127,12 +137,81 @@ function loadConfigIgnoreStops(endpoint){
 	d3.csv(endpoint, function(data){
 		configIgnoreStops = data;
 		
-		//console.log(stopNameExceptions);
-		
-		loadData();	
+		loadServicePeriods(configDataEndPoint);
 	});
 	
 }
+
+//gets selected service period, loads data for that specific period. 
+function loadServicePeriods(endpoint){
+	d3.csv(endpoint, function(data){
+		
+		var servicePeriodMenu ='';
+		
+		var servicePeriods = [];
+		//get all unique service periods listed in config filer.
+		data.forEach(function(d){
+			servicePeriods.push(d.service_change);
+			
+		});
+		//only unique
+		servicePeriods = servicePeriods.filter(function(value,index,self){
+			
+			return self.indexOf(value) === index;
+		});
+		
+		servicePeriods = servicePeriods.sort().reverse();
+		
+		servicePeriods.forEach(function(d){
+		servicePeriodMenu += '<option value="' + d + '">' + d + '</option>';
+		
+		});
+
+		
+		document.getElementById("select-period").innerHTML = servicePeriodMenu;
+		
+		//call next function
+		loadDataEndpointsList(configDataEndPoint);
+			
+	});
+	
+	
+}
+
+function loadDataEndpointsList(endpoint){
+	
+	//get selected menu 
+	var selectedServicePeriod = document.getElementById("select-period");
+	var valueServicePeriod = selectedServicePeriod.options[selectedServicePeriod.selectedIndex].value;
+
+	
+	d3.csv(endpoint, function(data){
+		//filter only to selected service periods
+		servicePeriodEndPoints = data.filter(function(d){
+			return d.service_change=== valueServicePeriod;
+			
+		});
+		
+		//reset endpoints array
+		configFiles =[];
+		
+		//push to config
+		servicePeriodEndPoints.forEach(function(d){
+			configFiles.push(d.url_endpoint);
+			
+		});
+		
+			
+	//call next function
+	//last config loaded; load all schedule data 
+		loadData();	
+		
+	});
+}
+
+
+
+
 
 
 function buildSchedules(){
@@ -603,6 +682,7 @@ function displayTable(routes, service_id, directionName, data){
 function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id, tofrom){
 	//get disaggregated trips from cleaned data.
 	connectingBusTime = moment(time,"h:mm");
+	//handling for trips after midnight but before 3:00am
 	if(connectingBusTime >= moment("0:00", "h:mm") && connectingBusTime < moment("3:00","h:mm")){
 		connectingBusTime.add(1,"days");	
 	}
