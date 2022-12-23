@@ -1,7 +1,15 @@
 service_change,url_endpoint,description
-Mar2022,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_all_Mar22scada.csv,CT
-Mar2022,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/KCM_Link_Mar22scada_rev.csv,Link and KCM revised
-Mar2022,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_all_Mar22scada.csv,PT
-Mar2022,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Sounder_Mar22scada.csv,Sounder
-Sept2022,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Link_Sept22scada.csv,Link
-Sept2022,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Link_Sept22scada.csv,KCM
+2022-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_all_Mar22scada.csv,CT
+2022-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/KCM_Link_Mar22scada_rev.csv,Link and KCM revised
+2022-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_all_Mar22scada.csv,PT
+2022-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Sounder_Mar22scada.csv,Sounder
+2022-09,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Link_Sept22scada.csv,Link
+2022-09,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/KCM_Sept22scada.csv,KCM
+2022-09,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_Sept22scada.csv,PT
+2022-09,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/SounderSept22scada.csv,Sounder
+2022-09,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_Fall2022scada.csv,CT
+2022-12,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Link_Sept22scada.csv,Link - no change
+2022-12,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/KCM_Sept22scada.csv,KCM - no change
+2022-12,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_Sept22scada.csv,PT - no change
+2022-12,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/SounderSept22scada.csv,Sounder - no change
+2022-12,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_all_Dec22.csv,CT Dec shake-up
