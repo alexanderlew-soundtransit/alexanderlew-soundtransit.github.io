@@ -46,7 +46,7 @@ loadStopNameExceptionsCSV(stopNameExceptionsEndPoint);
 function loadData() {
 	console.log("loading data");
 	// loading data: 
-	document.getElementById("status").innerHTML = "Loading data...";
+	
 	
 	
 	//clear data cache
@@ -178,7 +178,7 @@ function loadDataEndpointsList(endpoint){
 	d3.csv(endpoint, function(data){
 		//filter only to selected service periods
 		servicePeriodEndPoints = data.filter(function(d){
-			return d.service_change=== valueServicePeriod;
+			return d.service_change === valueServicePeriod;
 			
 		});
 		
@@ -262,7 +262,7 @@ function cleanData(data){
 				
 				//correct stop data with stop name corrections:
 				if(stopExceptions.length > 0){
-					//console.log(stopExceptions);
+
 					
 					var replaceStopName;
 					
@@ -322,9 +322,9 @@ function cleanData(data){
 				if((data[i].sch_arr_time.substring(0, data[i].sch_arr_time.indexOf(':'))) >= 24){
 					sch_arr_time_cleaned = data[i].sch_arr_time.substring(0, data[i].sch_arr_time.indexOf(':'))-24;
 					//sch_arr_time_cleaned += ":";
-					sch_arr_time_cleaned +=data[i].sch_arr_time.substring(data[i].sch_arr_time.indexOf(':'),data[i].sch_arr_time.length);	}
+					sch_arr_time_cleaned += data[i].sch_arr_time.substring(data[i].sch_arr_time.indexOf(':'),data[i].sch_arr_time.length);	}
 				else{
-					var sch_arr_time_cleaned = data[i].sch_arr_time;
+					sch_arr_time_cleaned = data[i].sch_arr_time;
 					}
 				
 				data[i].sch_arr_time_24h = sch_arr_time_cleaned;	
@@ -384,7 +384,7 @@ function generateStopsByRoute(data, route, directionName, serviceId){
 			var obj = {};
 		
 			obj["stop_name"] = routeData[i].stop_name;
-			obj["stop_name_display"] = routeData[i].stop_name_display
+			obj["stop_name_display"] = routeData[i].stop_name_display;
 			obj["stop_id"] = routeData[i].stop_id;
 			obj["direction_name"] = routeData[i].direction_name;
 			obj["max_stop_seq"] = routeData[i].stop_seq;
@@ -416,11 +416,11 @@ function generateStopsByRoute(data, route, directionName, serviceId){
 		
 			if(a.max_stop_seq > b.max_stop_seq){
 				return 1;	
-			}
-			else if(a.max_stop_seq < b.max_stop_seq){
+			} else if(a.max_stop_seq < b.max_stop_seq){
 				return -1;	
+			} else {
+				return 0;
 			}
-			else {return 0;}
 			
 		}
 	});
@@ -436,8 +436,9 @@ function displayTable(routes, service_id, directionName, data){
 	var stopsByRoute = generateStopsByRoute(data, routes, directionName, service_id);
 	
 	
+	
 	//create header
-	var tableHeader = "<thead><tr>"
+	var tableHeader = "<thead><tr>";
 	tableHeader += '<th scope="col">' + 'Route' + '</th>' 
 	
 	//check if checkbox is checked to show trip id or block id
@@ -468,10 +469,10 @@ function displayTable(routes, service_id, directionName, data){
 	// add to table trip and block column headers
 	
 	if(showTripId === true){
-		tableHeader += '<th scope="col">' + 'Trip ID' + '</th>' 	
+		tableHeader += '<th scope="col">' + 'Trip ID' + '</th>'; 	
 	}
 	if(showBlockId === true){
-		tableHeader += '<th scope="col">' + 'Block ID' + '</th>' 	
+		tableHeader += '<th scope="col">' + 'Block ID' + '</th>'; 	
 	}
 	
 	
@@ -560,7 +561,7 @@ function displayTable(routes, service_id, directionName, data){
 			return d.route_id === allTrips[t].route_id;	
 		});
 		
-	//	console.log(transferToRoute);
+
 		
 		//find connection time FROM Link TO route
 		if(configTransfersToRoute.length > 0){
@@ -620,7 +621,7 @@ function displayTable(routes, service_id, directionName, data){
 					return d.route_id === allTrips[t].route_id;	
 				});
 			
-			console.log(transferFromRoute);
+
 		
 			
 			if(configTransfersFromRoute.length > 0){
@@ -629,7 +630,7 @@ function displayTable(routes, service_id, directionName, data){
 				return d.stop_id === transferFromRoute[0].ib_stop_id;
 			});
 			
-			console.log(connectionStop);
+
 			//if trip doesn't serve stop then: show "":"
 			if(connectionStop.length < 1){
 				tableBody +=	'<td>:</td>';		
@@ -638,11 +639,14 @@ function displayTable(routes, service_id, directionName, data){
 			// call function
 				var connectionTime = getConnectionToFromRoute(connectionStop[0].sch_arr_time_24h,transferFromRoute[0].to_route_id,transferFromRoute[0].to_stop_id,transferFromRoute[0].to_direction_name,service_id,"from");
 				
-				console.log(connectionTime);
+
 				
 				if(connectionTime){
 					var formattedConnectionTime = moment(connectionTime,"h:mm").format("h:mm a");
 					tableBody +='<td>' + formattedConnectionTime + '</td>';
+				}
+				else{
+					tableBody +='<td>:</td>';
 				}
 			}
 	
@@ -670,8 +674,10 @@ function displayTable(routes, service_id, directionName, data){
 
 //function returns arrival of train to route
 function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id, tofrom){
+
+	
 	//get disaggregated trips from cleaned data.
-	connectingBusTime = moment(time,"h:mm");
+	var connectingBusTime = moment(time,"h:mm");
 	//handling for trips after midnight but before 3:00am
 	if(connectingBusTime >= moment("0:00", "h:mm") && connectingBusTime < moment("3:00","h:mm")){
 		connectingBusTime.add(1,"days");	
@@ -692,11 +698,11 @@ function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id,
 			arrivalTime.add(1,"days");
 		}
 	
-	//calculate difference
-	d.diff = (connectingBusTime - arrivalTime)/60000;	
+		//calculate difference
+		d.diff = (connectingBusTime - arrivalTime)/60000;	
 	});
 	
-	var linkConnection
+	var linkConnection;
 	//filter out diff less than 0 for "to route from Link" and more than 0 for "from route to Link"
 	if(tofrom === "to"){
 		lookupTripStops = lookupTripStops.filter(function(d){
@@ -731,12 +737,20 @@ function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id,
 		});
 		
 		
-		//if there are two stop times (e.g. at terminals) within 1 minute, take the second of the two. 
-		if(lookupTripStops.length >= 2 && (Math.abs(lookupTripStops[1].diff) - Math.abs(lookupTripStops[0].diff) >= 1) && (Math.abs(lookupTripStops[1].diff) - Math.abs(lookupTripStops[0].diff) < 2)){
+		//if there are two stop times (e.g. at terminals) within 1 minute, take the second of the two.
+		
+		if(lookupTripStops.length >= 2 && ((Math.abs(lookupTripStops[1].diff) - Math.abs(lookupTripStops[0].diff) >= 1)) && (Math.abs(lookupTripStops[1].diff) - Math.abs(lookupTripStops[0].diff) < 2)){
 			linkConnection = lookupTripStops[1].sch_arr_time_24h;
+		} 
+		//if there are no trips, then show blank 
+		else if(lookupTripStops.length === 0){
+			linkConnection = null;
+			
 		} else {
 			linkConnection = lookupTripStops[0].sch_arr_time_24h;
 		}
+		
+		
 		
 	}
 	
@@ -755,12 +769,6 @@ function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id,
 	return linkConnection;
 }
 
-function getConnectionFrom(time,station,direction,service_id){
-	
-	
-	
-	
-}
 
 
 function getTripsByRoutes(routes, service_id, data){
@@ -784,7 +792,7 @@ function getTripsByRoutes(routes, service_id, data){
 	routeData = routeData.filter(function(d){
 		return d.service_id === service_id;
 	});
-	 console.log(routeData);
+	
 	//create array of all trips in stop time data. 
 	for (var i = 0; i < routeData.length; i++){
 		//check if trip already exists. 
