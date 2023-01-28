@@ -955,6 +955,13 @@ function loadDirectionMenu(){
 	
 	var directions = getDirectionNamesByRoute(valueRoute, revTripsData);
 	
+	//if there is no direction data in menu, then add note about missing schedules; exit
+	if(directions.length === 0){
+		document.getElementById("schedule").innerHTML = "No schedule data has been loaded for selected route during this service period.";
+		
+		return;
+	}
+	
 	var directionMenu;
 	
 	directions.forEach(function(d){
