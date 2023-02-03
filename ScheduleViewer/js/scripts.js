@@ -32,6 +32,8 @@ var stopSeqExceptions = [
 {route_id: "535", direction_name: "South", stop_seq_adjust: 10},
 ];
 
+// minimum connection time for Link in minutes
+var minConnect = 4;
 
 //TO DO: Load table of all endpoints. 1. create menu of service change periods, then filter data 
 
@@ -542,7 +544,6 @@ function displayTable(routes, service_id, directionName, data){
 	
 	//if exists, sort by the stop for that particular direction.
 	
-	console.log(allTrips);
 	
 	for (var t = 0; t < allTrips.length; t++){
 		tableBody += '<td>' + allTrips[t].route_id.replace("S5","5") + '</td>';
@@ -560,11 +561,15 @@ function displayTable(routes, service_id, directionName, data){
 		var transferToRoute = configTransfersToRoute.filter(function(d){
 			return d.route_id === allTrips[t].route_id;	
 		});
-		
 
 		
-		//find connection time FROM Link TO route
-		if(configTransfersToRoute.length > 0){
+				//find connection time FROM Link TO route
+		
+		//for schedules with multiple routes but not all with link connectiion, add ":" for the link connection field. 
+		if(configTransfersToRoute.length > 0 && transferToRoute.length === 0){
+			tableBody +=	'<td>:</td>';
+			//all other connection times:
+		} else if(transferToRoute.length > 0){
 			//get stop time for route and then call function to find closest Link arrival time.
 			var connectionStop = allTrips[t].stops.filter(function(d){
 				return d.stop_id === transferToRoute[0].ob_stop_id;
@@ -621,10 +626,12 @@ function displayTable(routes, service_id, directionName, data){
 					return d.route_id === allTrips[t].route_id;	
 				});
 			
-
-		
-			
-			if(configTransfersFromRoute.length > 0){
+			//handling for multiple routes on one schedule but one doesnt connect to link:
+			if(configTransfersFromRoute.length > 0 && transferFromRoute.length === 0){
+			tableBody +=	'<td>:</td>';
+			} 
+			//all other connection times:
+			else if(transferFromRoute.length > 0){
 			//get stop time for route and then call function to find closest Link arrival time.
 			var connectionStop = allTrips[t].stops.filter(function(d){
 				return d.stop_id === transferFromRoute[0].ib_stop_id;
@@ -706,7 +713,7 @@ function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id,
 	//filter out diff less than 0 for "to route from Link" and more than 0 for "from route to Link"
 	if(tofrom === "to"){
 		lookupTripStops = lookupTripStops.filter(function(d){
-			return d.diff > 0;
+			return d.diff > minConnect;
 		});
 		
 		lookupTripStops = lookupTripStops.sort(function(a,b){
@@ -723,7 +730,7 @@ function getConnectionToFromRoute(time,route_id, stop_id, direction, service_id,
 	}
 	else if(tofrom === "from"){
 		lookupTripStops = lookupTripStops.filter(function(d){
-			return d.diff < 0;
+			return d.diff < (minConnect)*-1;
 		});
 		//sort descending
 		lookupTripStops = lookupTripStops.sort(function(a,b){

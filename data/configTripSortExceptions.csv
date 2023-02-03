@@ -3,8 +3,14 @@ route_id,direction_name,stop_id
 535,South,blvtc
 577,North,FedW7
 578,North,FedW7
-511,South,nortc
-513,South,nortc
+510,South,mltfs
+511,South,mltfs
+512,South,mltfs
+513,South,mltfs
+510,North,mltfs
+511,North,mltfs
+512,North,mltfs
+513,North,mltfs
 S522,South,6097
 S599,South,Beacon Hill Station
 S599,North,Stadium Station
