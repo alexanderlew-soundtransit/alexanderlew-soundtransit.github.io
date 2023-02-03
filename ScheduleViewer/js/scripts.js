@@ -212,9 +212,7 @@ function buildSchedules(){
 	
 	if(valueRoute.includes("-")){
 		//push both routes into schedule.
-		var routeArray = [];
-		routeArray.push(valueRoute.substring(0, valueRoute.indexOf('-')));
-		routeArray.push(valueRoute.substring(valueRoute.indexOf('-')+1,valueRoute.length));
+		var routeArray = valueRoute.split("-");
 		
 		valueRoute = routeArray;
 	}
