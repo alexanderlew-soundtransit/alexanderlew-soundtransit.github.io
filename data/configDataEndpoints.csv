@@ -17,3 +17,4 @@ service_change,url_endpoint,description
 2023-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Link_Mar23.csv,Link March 2023
 2023-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/Sounder_Mar23.csv,Sounder March 2023
 2023-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_Mar23.csv,CT March 2023
+2023-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_weekday_Mar23.csv, PT Weekday March 2023
