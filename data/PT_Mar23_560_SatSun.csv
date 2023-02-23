@@ -1,0 +1,519 @@
+﻿service_id,route_id,trip_id,block_id,sch_arr_time,stop_name,stop_id,stop_seq,direction_name
+Saturday ,560,6101,16004,5:15,25th/Barton,25Bart,1,East
+Saturday ,560,6101,16004,5:31,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6101,16004,5:39,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6101,16004,5:58,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6101,16004,6:07,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6101,16004,6:10,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6101,16004,6:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6102,16007,6:15,25th/Barton,25Bart,1,East
+Saturday ,560,6102,16007,6:31,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6102,16007,6:39,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6102,16007,6:58,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6102,16007,7:07,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6102,16007,7:10,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6102,16007,7:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6103,16006,7:13,25th/Barton,25Bart,1,East
+Saturday ,560,6103,16006,7:30,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6103,16006,7:38,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6103,16006,7:57,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6103,16006,8:07,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6103,16006,8:10,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6103,16006,8:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6104,16004,8:12,25th/Barton,25Bart,1,East
+Saturday ,560,6104,16004,8:29,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6104,16004,8:37,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6104,16004,8:56,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6104,16004,9:06,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6104,16004,9:09,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6104,16004,9:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6105,16007,9:10,25th/Barton,25Bart,1,East
+Saturday ,560,6105,16007,9:27,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6105,16007,9:35,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6105,16007,9:55,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6105,16007,10:06,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6105,16007,10:09,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6105,16007,10:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6106,16006,10:07,25th/Barton,25Bart,1,East
+Saturday ,560,6106,16006,10:24,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6106,16006,10:33,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6106,16006,10:53,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6106,16006,11:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6106,16006,11:08,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6106,16006,11:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6107,16004,11:05,25th/Barton,25Bart,1,East
+Saturday ,560,6107,16004,11:22,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6107,16004,11:31,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6107,16004,11:52,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6107,16004,12:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6107,16004,12:08,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6107,16004,12:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6108,16007,12:03,25th/Barton,25Bart,1,East
+Saturday ,560,6108,16007,12:21,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6108,16007,12:30,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6108,16007,12:52,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6108,16007,13:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6108,16007,13:08,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6108,16007,13:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6109,16025,13:02,25th/Barton,25Bart,1,East
+Saturday ,560,6109,16025,13:20,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6109,16025,13:29,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6109,16025,13:52,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6109,16025,14:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6109,16025,14:08,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6109,16025,14:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6110,16006,14:00,25th/Barton,25Bart,1,East
+Saturday ,560,6110,16006,14:18,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6110,16006,14:27,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6110,16006,14:52,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6110,16006,15:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6110,16006,15:08,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6110,16006,15:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6111,16004,15:00,25th/Barton,25Bart,1,East
+Saturday ,560,6111,16004,15:18,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6111,16004,15:27,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6111,16004,15:52,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6111,16004,16:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6111,16004,16:08,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6111,16004,16:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6112,16007,16:02,25th/Barton,25Bart,1,East
+Saturday ,560,6112,16007,16:20,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6112,16007,16:29,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6112,16007,16:53,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6112,16007,17:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6112,16007,17:09,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6112,16007,17:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6113,16025,17:02,25th/Barton,25Bart,1,East
+Saturday ,560,6113,16025,17:20,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6113,16025,17:29,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6113,16025,17:52,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6113,16025,18:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6113,16025,18:09,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6113,16025,18:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6114,16029,18:04,25th/Barton,25Bart,1,East
+Saturday ,560,6114,16029,18:22,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6114,16029,18:31,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6114,16029,18:53,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6114,16029,19:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6114,16029,19:09,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6114,16029,19:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6115,16004,19:05,25th/Barton,25Bart,1,East
+Saturday ,560,6115,16004,19:22,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6115,16004,19:32,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6115,16004,19:54,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6115,16004,20:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6115,16004,20:09,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6115,16004,20:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6116,16028,20:06,25th/Barton,25Bart,1,East
+Saturday ,560,6116,16028,20:23,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6116,16028,20:33,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6116,16028,20:55,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6116,16028,21:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6116,16028,21:09,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6116,16028,21:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6117,16029,21:08,25th/Barton,25Bart,1,East
+Saturday ,560,6117,16029,21:24,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6117,16029,21:34,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6117,16029,21:56,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6117,16029,22:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6117,16029,22:09,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6117,16029,22:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6118,16004,22:11,25th/Barton,25Bart,1,East
+Saturday ,560,6118,16004,22:27,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6118,16004,22:37,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6118,16004,22:57,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6118,16004,23:06,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6118,16004,23:09,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6118,16004,23:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6119,16028,23:14,25th/Barton,25Bart,1,East
+Saturday ,560,6119,16028,23:30,Burien TC-Bay 6,BurTC6,2,East
+Saturday ,560,6119,16028,23:39,SeaTac Airport Terminal Bay,seatac,3,East
+Saturday ,560,6119,16028,23:58,Renton TC - Bay 1,Rent1,4,East
+Saturday ,560,6119,16028,24:06,I-405 Ramp/N 30 St EB,40530E,5,East
+Saturday ,560,6119,16028,24:09,Newport Hills P&R,NPHPR,6,East
+Saturday ,560,6119,16028,24:17,Bellevue TC - Bay 7,Belv7,7,East
+Saturday ,560,6120,16006,5:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6120,16006,5:52,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6120,16006,5:55,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6120,16006,6:06,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6120,16006,6:19,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6120,16006,6:33,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6120,16006,6:49,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6121,16004,6:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6121,16004,6:52,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6121,16004,6:55,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6121,16004,7:06,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6121,16004,7:21,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6121,16004,7:35,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6121,16004,7:51,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6122,16007,7:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6122,16007,7:52,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6122,16007,7:55,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6122,16007,8:07,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6122,16007,8:22,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6122,16007,8:36,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6122,16007,8:52,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6123,16006,8:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6123,16006,8:52,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6123,16006,8:55,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6123,16006,9:07,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6123,16006,9:22,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6123,16006,9:37,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6123,16006,9:53,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6124,16004,9:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6124,16004,9:52,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6124,16004,9:55,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6124,16004,10:07,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6124,16004,10:22,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6124,16004,10:38,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6124,16004,10:55,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6125,16007,10:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6125,16007,10:53,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6125,16007,10:56,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6125,16007,11:10,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6125,16007,10:27,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6125,16007,11:43,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6125,16007,12:00,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6126,16006,11:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6126,16006,11:53,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6126,16006,11:57,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6126,16006,12:13,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6126,16006,12:30,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6126,16006,12:47,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6126,16006,13:04,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6127,16004,12:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6127,16004,12:54,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6127,16004,12:58,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6127,16004,13:14,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6127,16004,13:31,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6127,16004,13:49,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6127,16004,14:06,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6128,16007,13:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6128,16007,13:56,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6128,16007,14:01,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6128,16007,14:18,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6128,16007,14:35,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6128,16007,14:53,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6128,16007,15:10,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6129,16025,14:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6129,16025,14:56,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6129,16025,15:01,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6129,16025,15:17,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6129,16025,15:34,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6129,16025,15:52,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6129,16025,16:09,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6130,16006,15:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6130,16006,15:56,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6130,16006,16:01,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6130,16006,16:17,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6130,16006,16:34,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6130,16006,16:51,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6130,16006,17:08,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6131,16004,16:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6131,16004,16:56,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6131,16004,17:01,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6131,16004,17:17,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6131,16004,17:33,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6131,16004,17:50,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6131,16004,18:07,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6132,16028,17:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6132,16028,17:54,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6132,16028,17:58,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6132,16028,18:13,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6132,16028,18:29,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6132,16028,18:46,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6132,16028,19:03,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6133,16025,18:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6133,16025,18:54,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6133,16025,18:57,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6133,16025,19:12,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6133,16025,19:28,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6133,16025,19:45,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6133,16025,20:02,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6134,16029,19:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6134,16029,19:53,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6134,16029,19:56,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6134,16029,20:09,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6134,16029,20:25,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6134,16029,20:41,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6134,16029,20:58,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6135,16004,20:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6135,16004,20:52,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6135,16004,20:55,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6135,16004,21:07,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6135,16004,21:24,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6135,16004,21:40,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6135,16004,21:57,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6136,16028,21:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6136,16028,21:52,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6136,16028,21:55,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6136,16028,22:07,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6136,16028,22:25,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6136,16028,22:41,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6136,16028,22:58,Westwood Village Bay 2,26Bart,7,West
+Saturday ,560,6137,16029,22:47,Bellevue TC - Bay 6,Belv6,1,West
+Saturday ,560,6137,16029,22:52,Newport Hills P&R,NPHPR,2,West
+Saturday ,560,6137,16029,22:55,I-405 Ramp/N 30 St,40530,3,West
+Saturday ,560,6137,16029,23:05,Renton TC - Bay 4,Rent4,4,West
+Saturday ,560,6137,16029,23:21,SeaTac Airport Terminal Bay,seatac,5,West
+Saturday ,560,6137,16029,23:36,Burien TC-Bay 4,BurTC,6,West
+Saturday ,560,6137,16029,23:53,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8101,17004,5:15,25th/Barton,25Bart,1,East
+Sunday   ,560,8101,17004,5:31,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8101,17004,5:39,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8101,17004,5:58,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8101,17004,6:07,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8101,17004,6:10,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8101,17004,6:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8102,17007,6:15,25th/Barton,25Bart,1,East
+Sunday   ,560,8102,17007,6:31,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8102,17007,6:39,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8102,17007,6:58,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8102,17007,7:07,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8102,17007,7:10,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8102,17007,7:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8103,17006,7:13,25th/Barton,25Bart,1,East
+Sunday   ,560,8103,17006,7:30,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8103,17006,7:38,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8103,17006,7:57,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8103,17006,8:07,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8103,17006,8:10,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8103,17006,8:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8104,17004,8:12,25th/Barton,25Bart,1,East
+Sunday   ,560,8104,17004,8:29,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8104,17004,8:37,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8104,17004,8:56,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8104,17004,9:06,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8104,17004,9:09,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8104,17004,9:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8105,17007,9:10,25th/Barton,25Bart,1,East
+Sunday   ,560,8105,17007,9:27,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8105,17007,9:35,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8105,17007,9:55,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8105,17007,10:06,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8105,17007,10:09,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8105,17007,10:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8106,17006,10:07,25th/Barton,25Bart,1,East
+Sunday   ,560,8106,17006,10:24,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8106,17006,10:33,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8106,17006,10:53,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8106,17006,11:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8106,17006,11:08,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8106,17006,11:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8107,17004,11:05,25th/Barton,25Bart,1,East
+Sunday   ,560,8107,17004,11:22,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8107,17004,11:31,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8107,17004,11:52,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8107,17004,12:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8107,17004,12:08,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8107,17004,12:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8108,17026,12:03,25th/Barton,25Bart,1,East
+Sunday   ,560,8108,17026,12:21,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8108,17026,12:30,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8108,17026,12:52,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8108,17026,13:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8108,17026,13:08,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8108,17026,13:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8109,17007,13:02,25th/Barton,25Bart,1,East
+Sunday   ,560,8109,17007,13:20,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8109,17007,13:29,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8109,17007,13:52,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8109,17007,14:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8109,17007,14:08,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8109,17007,14:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8110,17006,14:00,25th/Barton,25Bart,1,East
+Sunday   ,560,8110,17006,14:18,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8110,17006,14:27,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8110,17006,14:52,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8110,17006,15:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8110,17006,15:08,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8110,17006,15:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8111,17004,15:00,25th/Barton,25Bart,1,East
+Sunday   ,560,8111,17004,15:18,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8111,17004,15:27,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8111,17004,15:52,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8111,17004,16:04,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8111,17004,16:08,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8111,17004,16:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8112,17026,16:02,25th/Barton,25Bart,1,East
+Sunday   ,560,8112,17026,16:20,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8112,17026,16:29,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8112,17026,16:53,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8112,17026,17:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8112,17026,17:09,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8112,17026,17:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8113,17007,17:02,25th/Barton,25Bart,1,East
+Sunday   ,560,8113,17007,17:20,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8113,17007,17:29,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8113,17007,17:52,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8113,17007,18:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8113,17007,18:09,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8113,17007,18:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8114,17029,18:04,25th/Barton,25Bart,1,East
+Sunday   ,560,8114,17029,18:22,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8114,17029,18:31,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8114,17029,18:53,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8114,17029,19:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8114,17029,19:09,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8114,17029,19:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8115,17004,19:05,25th/Barton,25Bart,1,East
+Sunday   ,560,8115,17004,19:22,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8115,17004,19:32,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8115,17004,19:54,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8115,17004,20:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8115,17004,20:09,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8115,17004,20:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8116,17007,20:06,25th/Barton,25Bart,1,East
+Sunday   ,560,8116,17007,20:23,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8116,17007,20:33,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8116,17007,20:55,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8116,17007,21:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8116,17007,21:09,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8116,17007,21:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8117,17029,21:08,25th/Barton,25Bart,1,East
+Sunday   ,560,8117,17029,21:24,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8117,17029,21:34,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8117,17029,21:56,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8117,17029,22:05,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8117,17029,22:09,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8117,17029,22:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8118,17004,22:11,25th/Barton,25Bart,1,East
+Sunday   ,560,8118,17004,22:27,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8118,17004,22:37,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8118,17004,22:57,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8118,17004,23:06,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8118,17004,23:09,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8118,17004,23:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8119,17007,23:14,25th/Barton,25Bart,1,East
+Sunday   ,560,8119,17007,23:30,Burien TC-Bay 6,BurTC6,2,East
+Sunday   ,560,8119,17007,23:39,SeaTac Airport Terminal Bay,seatac,3,East
+Sunday   ,560,8119,17007,23:58,Renton TC - Bay 1,Rent1,4,East
+Sunday   ,560,8119,17007,24:06,I-405 Ramp/N 30 St EB,40530E,5,East
+Sunday   ,560,8119,17007,24:09,Newport Hills P&R,NPHPR,6,East
+Sunday   ,560,8119,17007,24:17,Bellevue TC - Bay 7,Belv7,7,East
+Sunday   ,560,8120,17006,5:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8120,17006,5:52,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8120,17006,5:55,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8120,17006,6:06,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8120,17006,6:19,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8120,17006,6:33,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8120,17006,6:49,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8121,17004,6:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8121,17004,6:52,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8121,17004,6:55,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8121,17004,7:06,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8121,17004,7:21,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8121,17004,7:35,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8121,17004,7:51,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8122,17007,7:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8122,17007,7:52,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8122,17007,7:55,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8122,17007,8:07,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8122,17007,8:22,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8122,17007,8:36,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8122,17007,8:52,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8123,17006,8:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8123,17006,8:52,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8123,17006,8:55,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8123,17006,9:07,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8123,17006,9:22,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8123,17006,9:37,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8123,17006,9:53,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8124,17004,9:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8124,17004,9:52,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8124,17004,9:55,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8124,17004,10:07,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8124,17004,10:22,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8124,17004,10:38,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8124,17004,10:55,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8125,17007,10:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8125,17007,10:53,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8125,17007,10:56,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8125,17007,11:10,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8125,17007,10:27,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8125,17007,11:43,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8125,17007,12:00,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8126,17006,11:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8126,17006,11:53,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8126,17006,11:57,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8126,17006,12:13,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8126,17006,12:30,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8126,17006,12:47,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8126,17006,13:04,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8127,17004,12:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8127,17004,12:54,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8127,17004,12:58,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8127,17004,13:14,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8127,17004,13:31,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8127,17004,13:49,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8127,17004,14:06,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8128,17026,13:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8128,17026,13:56,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8128,17026,14:01,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8128,17026,14:18,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8128,17026,14:35,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8128,17026,14:53,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8128,17026,15:10,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8129,17007,14:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8129,17007,14:56,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8129,17007,15:01,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8129,17007,15:17,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8129,17007,15:34,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8129,17007,15:52,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8129,17007,16:09,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8130,17006,15:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8130,17006,15:56,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8130,17006,16:01,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8130,17006,16:17,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8130,17006,16:34,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8130,17006,16:51,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8130,17006,17:08,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8131,17004,16:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8131,17004,16:56,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8131,17004,17:01,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8131,17004,17:17,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8131,17004,17:33,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8131,17004,17:50,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8131,17004,18:07,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8132,17026,17:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8132,17026,17:54,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8132,17026,17:58,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8132,17026,18:13,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8132,17026,18:29,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8132,17026,18:46,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8132,17026,19:03,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8133,17007,18:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8133,17007,18:54,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8133,17007,18:57,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8133,17007,19:12,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8133,17007,19:28,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8133,17007,19:45,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8133,17007,20:02,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8134,17029,19:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8134,17029,19:53,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8134,17029,19:56,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8134,17029,20:09,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8134,17029,20:25,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8134,17029,20:41,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8134,17029,20:58,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8135,17004,20:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8135,17004,20:52,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8135,17004,20:55,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8135,17004,21:07,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8135,17004,21:24,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8135,17004,21:40,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8135,17004,21:57,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8136,17007,21:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8136,17007,21:52,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8136,17007,21:55,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8136,17007,22:07,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8136,17007,22:25,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8136,17007,22:41,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8136,17007,22:58,Westwood Village Bay 2,26Bart,7,West
+Sunday   ,560,8137,17029,22:47,Bellevue TC - Bay 6,Belv6,1,West
+Sunday   ,560,8137,17029,22:52,Newport Hills P&R,NPHPR,2,West
+Sunday   ,560,8137,17029,22:55,I-405 Ramp/N 30 St,40530,3,West
+Sunday   ,560,8137,17029,23:05,Renton TC - Bay 4,Rent4,4,West
+Sunday   ,560,8137,17029,23:21,SeaTac Airport Terminal Bay,seatac,5,West
+Sunday   ,560,8137,17029,23:36,Burien TC-Bay 4,BurTC,6,West
+Sunday   ,560,8137,17029,23:53,Westwood Village Bay 2,26Bart,7,West
