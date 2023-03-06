@@ -20,4 +20,4 @@ service_change,url_endpoint,description
 2023-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_weekday_Mar23.csv, PT Weekday March 2023
 2023-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_Mar23_Sat_Sun_without560.csv,PT Weekend March 2023 without 560 pending corrections
 2023-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_Mar23_560_SatSun.csv,560 manual edits Sat Sun March 2023
-2023-07 HTLE,https://github.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/blob/main/data/HTLE_2023_revenue.csv, HTLE rev/pre-rev
+2023-07 HTLE,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/HTLE_2023_revenue.csv, HTLE rev/pre-rev
