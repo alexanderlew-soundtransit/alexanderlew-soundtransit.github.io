@@ -86,7 +86,18 @@
           <label class="form-check-label" for="flexCheckDefault">
             Show current scheduled run times
           </label>
-        </div>  
+		  </div>
+		  
+		Run time metric	  
+	  <select class="form-select" aria-label="percentiles" id="select-percentiles" onchange="createRuntimesByStopTableAggregated(tripStopData)">
+		<option value="85th" selected>85th Percentile</option>
+		<option value="Median">Median</option>
+		<option value="Average">Average</option>
+	  </select> 
+
+
+
+		  
 		  
 	  
 	  </div>

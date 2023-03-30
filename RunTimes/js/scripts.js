@@ -298,7 +298,10 @@ function cleanStopData(data){
 //creates table of aggregated data
 function createRuntimesByStopTableAggregated(data){
 	// get selected metric: median, average, 85th
-	var selection = '85th';
+	
+	var selectedMetricInput  = document.getElementById("select-percentiles");
+	var selectedMetric = selectedMetricInput.options[selectedMetricInput.selectedIndex].value;
+	
 	//create header
 	var tableHeader;
 	var tableHeader = "<thead><tr>";
@@ -394,15 +397,15 @@ function createRuntimesByStopTableAggregated(data){
 						// run time datum.
 
 						tableRows+= '<td>';
-						tableRows+= (runTime[0].travelTime85th/60).toFixed(2);
+						tableRows+= ((runTime[0]["travelTime" + selectedMetric])/60).toFixed(2);
 						tableRows += '</td>';	
 
 						tableRows+= '<td>';
-						tableRows+= (runTime[0].dwellTime85th/60).toFixed(2);
+						tableRows+= ((runTime[0]["dwellTime" + selectedMetric])/60).toFixed(2);
 						tableRows += '</td>';	
 
 						tableRows+= '<td>';
-						tableRows+= (runTime[0].runTime85th/60).toFixed(2);
+						tableRows+= ((runTime[0]["runTime" + selectedMetric])/60).toFixed(2);
 						tableRows += '</td>';
 					} else{
 						tableRows+= '<td>';
@@ -422,7 +425,7 @@ function createRuntimesByStopTableAggregated(data){
 					if(runTime.length > 0){
 						// run time datum.
 						tableRows+= '<td>';
-						tableRows+= (runTime[0].runTime85th/60).toFixed(2);
+						tableRows+= ((runTime[0]["runTime" + selectedMetric])/60).toFixed(2);
 
 						tableRows += '</td>';
 					} else{
