@@ -56,7 +56,7 @@ function loadData() {
 	
 	var loop = 0;
 	var lastLoop = configFiles.length;
-	console.log(lastLoop);
+
 	
 	loadCSV();
 		
@@ -990,8 +990,6 @@ function exportAllRoutes(){
 function download_table_as_csv(table_id, separator) {
 	var selectedRoute  = document.getElementById("select-route");
 	var textRoute = selectedRoute.options[selectedRoute.selectedIndex].text;
-	 
-	
 	
 	var selectedDirection = document.getElementById("select-direction");
 	var valueDirection = selectedDirection.options[selectedDirection.selectedIndex].value;
