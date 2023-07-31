@@ -22,3 +22,4 @@ service_change,url_endpoint,description
 2023-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_Mar23_560_SatSun.csv,560 manual edits Sat Sun March 2023
 2023-07 HTLE,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/HTLE_2023_revenue.csv, HTLE rev/pre-rev
 2023-09,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/KCM_Sept23_allscada.csv,KCM East Base and Link (Sept 2023)
+2023-09,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_Sep23_AllDays_scada.txt,CT (Sep 2023)
