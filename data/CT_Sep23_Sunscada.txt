@@ -1,0 +1,1303 @@
+service_id;route_id;trip_id;block_id;sch_arr_time;stop_name;stop_id;stop_seq;direction_name
+Sunday   ;  512;   15072;   85004; 5:57   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15072;   85004; 6:05   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15072;   85004; 6:12   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15072;   85004; 6:19   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15072;   85004; 6:23   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15072;   85004; 6:27   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15072;   85004; 6:31   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15072;   85004; 6:37   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15070;   85002; 5:10   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15070;   85002; 5:18   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15070;   85002; 5:25   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15070;   85002; 5:32   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15070;   85002; 5:36   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15070;   85002; 5:39   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15070;   85002; 5:43   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15070;   85002; 5:49   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15074;   85002; 6:45   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15074;   85002; 6:53   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15074;   85002; 7:00   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15074;   85002; 7:07   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15074;   85002; 7:11   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15074;   85002; 7:15   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15074;   85002; 7:19   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15074;   85002; 7:25   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15076;   85005; 7:27   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15076;   85005; 7:35   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15076;   85005; 7:42   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15076;   85005; 7:49   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15076;   85005; 7:53   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15076;   85005; 7:57   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15076;   85005; 8:01   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15076;   85005; 8:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15071;   85003; 5:33   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15071;   85003; 5:41   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15071;   85003; 5:48   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15071;   85003; 5:55   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15071;   85003; 5:59   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15071;   85003; 6:03   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15071;   85003; 6:07   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15071;   85003; 6:13   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15075;   85003; 7:07   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15075;   85003; 7:15   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15075;   85003; 7:22   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15075;   85003; 7:29   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15075;   85003; 7:33   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15075;   85003; 7:37   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15075;   85003; 7:41   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15075;   85003; 7:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15077;   85004; 7:47   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15077;   85004; 7:55   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15077;   85004; 8:02   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15077;   85004; 8:09   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15077;   85004; 8:13   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15077;   85004; 8:17   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15077;   85004; 8:21   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15077;   85004; 8:27   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15073;   85001; 6:21   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15073;   85001; 6:29   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15073;   85001; 6:36   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15073;   85001; 6:43   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15073;   85001; 6:47   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15073;   85001; 6:51   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15073;   85001; 6:55   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15073;   85001; 7:01   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15078;   85001; 8:07   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15078;   85001; 8:15   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15078;   85001; 8:22   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15078;   85001; 8:29   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15078;   85001; 8:33   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15078;   85001; 8:37   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15078;   85001; 8:41   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15078;   85001; 8:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15017;   85008;11:49   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15017;   85008;11:52   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15017;   85008;11:55   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15017;   85008;11:56   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15017;   85008;12:01   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15017;   85008;12:08   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15017;   85008;12:16   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15017;   85008;12:30   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15020;   85010;12:49   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15020;   85010;12:52   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15020;   85010;12:55   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15020;   85010;12:56   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15020;   85010;13:01   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15020;   85010;13:08   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15020;   85010;13:16   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15020;   85010;13:30   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15016;   85006;11:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15016;   85006;11:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15016;   85006;11:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15016;   85006;11:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15016;   85006;11:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15016;   85006;11:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15016;   85006;11:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15016;   85006;12:10   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15022;   85004;13:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15022;   85004;13:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15022;   85004;13:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15022;   85004;13:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15022;   85004;13:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15022;   85004;13:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15022;   85004;13:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15022;   85004;14:10   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15018;   85001;12:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15018;   85001;12:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15018;   85001;12:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15018;   85001;12:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15018;   85001;12:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15018;   85001;12:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15018;   85001;12:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15018;   85001;12:50   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15019;   85002;12:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15019;   85002;12:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15019;   85002;12:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15019;   85002;12:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15019;   85002;12:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15019;   85002;12:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15019;   85002;12:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15019;   85002;13:10   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15021;   85012;13:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15021;   85012;13:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15021;   85012;13:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15021;   85012;13:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15021;   85012;13:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15021;   85012;13:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15021;   85012;13:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15021;   85012;13:50   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15023;   85011;13:49   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15023;   85011;13:52   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15023;   85011;13:55   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15023;   85011;13:56   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15023;   85011;14:01   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15023;   85011;14:08   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15023;   85011;14:16   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15023;   85011;14:30   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15024;   85006;14:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15024;   85006;14:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15024;   85006;14:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15024;   85006;14:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15024;   85006;14:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15024;   85006;14:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15024;   85006;14:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15024;   85006;14:50   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15041;   85017;17:19   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15041;   85017;17:22   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15041;   85017;17:25   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15041;   85017;17:26   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15041;   85017;17:31   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15041;   85017;17:38   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15041;   85017;17:46   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15041;   85017;18:03   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15042;   85015;17:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15042;   85015;17:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15042;   85015;17:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15042;   85015;17:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15042;   85015;17:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15042;   85015;17:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15042;   85015;17:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15042;   85015;18:13   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15034;   85008;16:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15034;   85008;16:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15034;   85008;16:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15034;   85008;16:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15034;   85008;16:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15034;   85008;16:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15034;   85008;16:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15034;   85008;16:52   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15036;   85013;16:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15036;   85013;16:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15036;   85013;16:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15036;   85013;16:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15036;   85013;16:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15036;   85013;16:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15036;   85013;16:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15036;   85013;17:13   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15038;   85011;16:49   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15038;   85011;16:52   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15038;   85011;16:55   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15038;   85011;16:56   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15038;   85011;17:01   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15038;   85011;17:08   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15038;   85011;17:16   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15038;   85011;17:33   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15035;   85010;16:19   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15035;   85010;16:22   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15035;   85010;16:25   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15035;   85010;16:26   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15035;   85010;16:31   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15035;   85010;16:38   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15035;   85010;16:46   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15035;   85010;17:02   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15039;   85018;16:59   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15039;   85018;17:02   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15039;   85018;17:05   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15039;   85018;17:06   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15039;   85018;17:11   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15039;   85018;17:18   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15039;   85018;17:26   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15039;   85018;17:43   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15037;   85016;16:39   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15037;   85016;16:42   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15037;   85016;16:45   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15037;   85016;16:46   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15037;   85016;16:51   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15037;   85016;16:58   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15037;   85016;17:06   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15037;   85016;17:23   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15040;   85009;17:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15040;   85009;17:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15040;   85009;17:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15040;   85009;17:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15040;   85009;17:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15040;   85009;17:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15040;   85009;17:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15040;   85009;17:53   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15003;   85004; 6:43   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15003;   85004; 6:46   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15003;   85004; 6:49   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15003;   85004; 6:50   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15003;   85004; 6:54   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15003;   85004; 7:01   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15003;   85004; 7:09   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15003;   85004; 7:21   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15001;   85002; 5:55   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15001;   85002; 5:58   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15001;   85002; 6:01   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15001;   85002; 6:02   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15001;   85002; 6:06   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15001;   85002; 6:13   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15001;   85002; 6:21   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15001;   85002; 6:33   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15005;   85002; 7:35   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15005;   85002; 7:38   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15005;   85002; 7:41   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15005;   85002; 7:42   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15005;   85002; 7:47   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15005;   85002; 7:54   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15005;   85002; 8:02   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15005;   85002; 8:14   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15002;   85003; 6:19   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15002;   85003; 6:22   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15002;   85003; 6:25   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15002;   85003; 6:26   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15002;   85003; 6:30   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15002;   85003; 6:37   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15002;   85003; 6:45   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15002;   85003; 6:57   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15006;   85003; 7:59   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15006;   85003; 8:02   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15006;   85003; 8:05   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15006;   85003; 8:06   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15006;   85003; 8:11   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15006;   85003; 8:18   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15006;   85003; 8:26   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15006;   85003; 8:38   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15004;   85001; 7:11   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15004;   85001; 7:14   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15004;   85001; 7:17   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15004;   85001; 7:18   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15004;   85001; 7:23   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15004;   85001; 7:30   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15004;   85001; 7:38   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15004;   85001; 7:50   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15033;   85015;15:59   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15033;   85015;16:02   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15033;   85015;16:05   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15033;   85015;16:06   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15033;   85015;16:11   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15033;   85015;16:18   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15033;   85015;16:26   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15033;   85015;16:42   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15025;   85013;14:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15025;   85013;14:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15025;   85013;14:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15025;   85013;14:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15025;   85013;14:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15025;   85013;14:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15025;   85013;14:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15025;   85013;15:10   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15028;   85009;15:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15028;   85009;15:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15028;   85009;15:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15028;   85009;15:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15028;   85009;15:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15028;   85009;15:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15028;   85009;15:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15028;   85009;15:50   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15030;   85011;15:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15030;   85011;15:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15030;   85011;15:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15030;   85011;15:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15030;   85011;15:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15030;   85011;15:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15030;   85011;15:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15030;   85011;16:11   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15026;   85008;14:49   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15026;   85008;14:52   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15026;   85008;14:55   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15026;   85008;14:56   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15026;   85008;15:01   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15026;   85008;15:08   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15026;   85008;15:16   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15026;   85008;15:30   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15027;   85010;14:59   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15027;   85010;15:02   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15027;   85010;15:05   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15027;   85010;15:06   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15027;   85010;15:11   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15027;   85010;15:18   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15027;   85010;15:26   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15027;   85010;15:40   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15029;   85016;15:19   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15029;   85016;15:22   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15029;   85016;15:25   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15029;   85016;15:26   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15029;   85016;15:31   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15029;   85016;15:38   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15029;   85016;15:46   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15029;   85016;16:00   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15031;   85012;15:39   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15031;   85012;15:42   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15031;   85012;15:45   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15031;   85012;15:46   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15031;   85012;15:51   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15031;   85012;15:58   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15031;   85012;16:06   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15031;   85012;16:22   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15032;   85014;15:49   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15032;   85014;15:52   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15032;   85014;15:55   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15032;   85014;15:56   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15032;   85014;16:01   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15032;   85014;16:08   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15032;   85014;16:16   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15032;   85014;16:32   ;Everett Station;evtst;          8;North
+Sunday   ;;   85062;   85004; 5:40   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85062;   85004; 5:57   ;Everett Station;evtst;          2;
+Sunday   ;;   85071;   85013;13:54   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85071;   85013;14:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85065;   85007; 8:30   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85065;   85007; 8:47   ;Everett Station;evtst;          2;
+Sunday   ;;   85059;   85001; 4:27   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85059;   85001; 4:44   ;Everett Station;evtst;          2;
+Sunday   ;;   85137;   85006;16:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85137;   85006;16:37   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85072;   85014;14:24   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85072;   85014;14:41   ;Everett Station;evtst;          2;
+Sunday   ;;   85063;   85005; 7:10   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85063;   85005; 7:27   ;Everett Station;evtst;          2;
+Sunday   ;;   85078;   85005;11:30   ;Everett Station;evtst;          1;
+Sunday   ;;   85078;   85005;11:45   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85064;   85006; 8:10   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85064;   85006; 8:27   ;Everett Station;evtst;          2;
+Sunday   ;;   85124;   85007;11:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85124;   85007;12:17   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85146;   85013;18:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85146;   85013;19:17   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85095;   85014;19:00   ;Everett Station;evtst;          1;
+Sunday   ;;   85095;   85014;19:15   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85081;   85004;14:10   ;Everett Station;evtst;          1;
+Sunday   ;;   85081;   85004;14:25   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85061;   85003; 5:16   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85061;   85003; 5:33   ;Everett Station;evtst;          2;
+Sunday   ;;   85127;   85003;12:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85127;   85003;13:17   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85060;   85002; 4:53   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85060;   85002; 5:10   ;Everett Station;evtst;          2;
+Sunday   ;;   85148;   85008;19:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85148;   85008;19:57   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85080;   85002;13:10   ;Everett Station;evtst;          1;
+Sunday   ;;   85080;   85002;13:25   ;Kasch Park Base;base2;          2;
+Sunday   ;  512;   15014;   85005;10:49   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15014;   85005;10:52   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15014;   85005;10:55   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15014;   85005;10:56   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15014;   85005;11:01   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15014;   85005;11:08   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15014;   85005;11:16   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15014;   85005;11:30   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15007;   85005; 8:23   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15007;   85005; 8:26   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15007;   85005; 8:29   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15007;   85005; 8:30   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15007;   85005; 8:35   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15007;   85005; 8:42   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15007;   85005; 8:50   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15007;   85005; 9:02   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15011;   85007; 9:49   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15011;   85007; 9:52   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15011;   85007; 9:55   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15011;   85007; 9:56   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15011;   85007;10:01   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15011;   85007;10:08   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15011;   85007;10:16   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15011;   85007;10:30   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15010;   85001; 9:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15010;   85001; 9:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15010;   85001; 9:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15010;   85001; 9:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15010;   85001; 9:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15010;   85001; 9:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15010;   85001; 9:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15010;   85001;10:10   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15009;   85006; 9:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15009;   85006; 9:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15009;   85006; 9:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15009;   85006; 9:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15009;   85006; 9:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15009;   85006; 9:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15009;   85006; 9:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15009;   85006; 9:50   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15012;   85002;10:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15012;   85002;10:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15012;   85002;10:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15012;   85002;10:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15012;   85002;10:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15012;   85002;10:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15012;   85002;10:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15012;   85002;10:50   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15008;   85004; 8:47   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15008;   85004; 8:50   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15008;   85004; 8:53   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15008;   85004; 8:54   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15008;   85004; 8:59   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15008;   85004; 9:06   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15008;   85004; 9:14   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15008;   85004; 9:26   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15015;   85004;11:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15015;   85004;11:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15015;   85004;11:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15015;   85004;11:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15015;   85004;11:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15015;   85004;11:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15015;   85004;11:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15015;   85004;11:50   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15013;   85003;10:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15013;   85003;10:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15013;   85003;10:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15013;   85003;10:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15013;   85003;10:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15013;   85003;10:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15013;   85003;10:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15013;   85003;11:10   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15108;   85010;17:24   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15108;   85010;17:32   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15108;   85010;17:40   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15108;   85010;17:47   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15108;   85010;17:51   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15108;   85010;17:55   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15108;   85010;17:59   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15108;   85010;18:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15109;   85011;17:44   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15109;   85011;17:52   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15109;   85011;18:00   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15109;   85011;18:07   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15109;   85011;18:11   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15109;   85011;18:15   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15109;   85011;18:19   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15109;   85011;18:27   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15110;   85013;18:04   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15110;   85013;18:12   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15110;   85013;18:20   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15110;   85013;18:27   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15110;   85013;18:31   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15110;   85013;18:35   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15110;   85013;18:39   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15110;   85013;18:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15114;   85018;19:26   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15114;   85018;19:34   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15114;   85018;19:42   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15114;   85018;19:49   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15114;   85018;19:53   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15114;   85018;19:57   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15114;   85018;20:01   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15114;   85018;20:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15111;   85009;18:24   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15111;   85009;18:32   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15111;   85009;18:40   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15111;   85009;18:47   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15111;   85009;18:51   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15111;   85009;18:55   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15111;   85009;18:59   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15111;   85009;19:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15112;   85008;18:44   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15112;   85008;18:52   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15112;   85008;19:00   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15112;   85008;19:07   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15112;   85008;19:11   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15112;   85008;19:15   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15112;   85008;19:19   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15112;   85008;19:27   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15113;   85012;19:04   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15113;   85012;19:12   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15113;   85012;19:20   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15113;   85012;19:27   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15113;   85012;19:31   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15113;   85012;19:35   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15113;   85012;19:39   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15113;   85012;19:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15101;   85013;15:36   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15101;   85013;15:44   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15101;   85013;15:52   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15101;   85013;16:00   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15101;   85013;16:04   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15101;   85013;16:08   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15101;   85013;16:12   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15101;   85013;16:22   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15115;   85010;19:46   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15115;   85010;19:54   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15115;   85010;20:02   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15115;   85010;20:09   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15115;   85010;20:13   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15115;   85010;20:17   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15115;   85010;20:21   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15115;   85010;20:27   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15096;   85010;14:01   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15096;   85010;14:09   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15096;   85010;14:17   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15096;   85010;14:25   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15096;   85010;14:29   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15096;   85010;14:33   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15096;   85010;14:37   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15096;   85010;14:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15103;   85018;16:08   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15103;   85018;16:16   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15103;   85018;16:24   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15103;   85018;16:31   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15103;   85018;16:35   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15103;   85018;16:39   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15103;   85018;16:43   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15103;   85018;16:52   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15116;   85011;20:07   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15116;   85011;20:15   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15116;   85011;20:22   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15116;   85011;20:29   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15116;   85011;20:33   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15116;   85011;20:37   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15116;   85011;20:41   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15116;   85011;20:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15107;   85014;17:09   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15107;   85014;17:17   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15107;   85014;17:25   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15107;   85014;17:32   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15107;   85014;17:36   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15107;   85014;17:40   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15107;   85014;17:44   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15107;   85014;17:52   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15098;   85014;14:41   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15098;   85014;14:49   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15098;   85014;14:57   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15098;   85014;15:05   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15098;   85014;15:09   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15098;   85014;15:13   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15098;   85014;15:17   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15098;   85014;15:27   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15100;   85006;15:21   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15100;   85006;15:29   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15100;   85006;15:37   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15100;   85006;15:45   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15100;   85006;15:49   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15100;   85006;15:53   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15100;   85006;15:57   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15100;   85006;16:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15099;   85015;15:01   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15099;   85015;15:09   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15099;   85015;15:17   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15099;   85015;15:25   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15099;   85015;15:29   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15099;   85015;15:33   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15099;   85015;15:37   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15099;   85015;15:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15104;   85009;16:23   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15104;   85009;16:31   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15104;   85009;16:39   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15104;   85009;16:46   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15104;   85009;16:50   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15104;   85009;16:54   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15104;   85009;16:58   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15104;   85009;17:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15105;   85012;16:38   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15105;   85012;16:46   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15105;   85012;16:54   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15105;   85012;17:01   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15105;   85012;17:05   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15105;   85012;17:09   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15105;   85012;17:13   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15105;   85012;17:22   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15048;   85018;18:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15048;   85018;18:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15048;   85018;18:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15048;   85018;18:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15048;   85018;18:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15048;   85018;18:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15048;   85018;18:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15048;   85018;19:09   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15043;   85008;17:39   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15043;   85008;17:42   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15043;   85008;17:45   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15043;   85008;17:46   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15043;   85008;17:51   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15043;   85008;17:58   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15043;   85008;18:06   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15043;   85008;18:23   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15049;   85017;18:39   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15049;   85017;18:42   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15049;   85017;18:45   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15049;   85017;18:46   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15049;   85017;18:51   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15049;   85017;18:58   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15049;   85017;19:06   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15049;   85017;19:19   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15050;   85010;18:49   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15050;   85010;18:52   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15050;   85010;18:55   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15050;   85010;18:56   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15050;   85010;19:01   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15050;   85010;19:08   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15050;   85010;19:16   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15050;   85010;19:29   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15045;   85019;17:59   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15045;   85019;18:02   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15045;   85019;18:05   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15045;   85019;18:06   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15045;   85019;18:11   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15045;   85019;18:18   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15045;   85019;18:26   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15045;   85019;18:43   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15051;   85015;18:59   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15051;   85015;19:02   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15051;   85015;19:05   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15051;   85015;19:06   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15051;   85015;19:11   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15051;   85015;19:18   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15051;   85015;19:26   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15051;   85015;19:39   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15044;   85012;17:49   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15044;   85012;17:52   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15044;   85012;17:55   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15044;   85012;17:56   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15044;   85012;18:01   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15044;   85012;18:08   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15044;   85012;18:16   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15044;   85012;18:33   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15046;   85016;18:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15046;   85016;18:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15046;   85016;18:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15046;   85016;18:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15046;   85016;18:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15046;   85016;18:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15046;   85016;18:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15046;   85016;18:52   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15047;   85014;18:19   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15047;   85014;18:22   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15047;   85014;18:25   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15047;   85014;18:26   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15047;   85014;18:31   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15047;   85014;18:38   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15047;   85014;18:46   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15047;   85014;19:00   ;Everett Station;evtst;          8;North
+Sunday   ;;   85019;   85006;14:07   ;;3NG100;          1;
+Sunday   ;;   85019;   85006;14:09   ;Northgate Station;nortc;          2;
+Sunday   ;;   85143;   85014;17:52   ;Northgate Station;nortc;          1;
+Sunday   ;;   85143;   85014;17:56   ;;3NG100;          2;
+Sunday   ;;   85006;   85005; 8:21   ;;3NG100;          1;
+Sunday   ;;   85006;   85005; 8:23   ;Northgate Station;nortc;          2;
+Sunday   ;;   85009;   85007; 9:48   ;;3NG100;          1;
+Sunday   ;;   85009;   85007; 9:49   ;Northgate Station;nortc;          2;
+Sunday   ;;   85012;   85005;10:48   ;;3NG100;          1;
+Sunday   ;;   85012;   85005;10:49   ;Northgate Station;nortc;          2;
+Sunday   ;;   85122;   85006;11:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85122;   85006;11:10   ;;3NG100;          2;
+Sunday   ;;   85133;   85010;14:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85133;   85010;14:51   ;;3NG100;          2;
+Sunday   ;;   85022;   85009;15:07   ;;3NG100;          1;
+Sunday   ;;   85022;   85009;15:09   ;Northgate Station;nortc;          2;
+Sunday   ;;   85028;   85010;16:17   ;;3NG100;          1;
+Sunday   ;;   85028;   85010;16:19   ;Northgate Station;nortc;          2;
+Sunday   ;;   85144;   85010;18:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85144;   85010;18:11   ;;3NG100;          2;
+Sunday   ;;   85042;   85010;18:48   ;;3NG100;          1;
+Sunday   ;;   85042;   85010;18:49   ;Northgate Station;nortc;          2;
+Sunday   ;;   85129;   85011;13:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85129;   85011;13:30   ;;3NG100;          2;
+Sunday   ;;   85018;   85011;13:48   ;;3NG100;          1;
+Sunday   ;;   85018;   85011;13:49   ;Northgate Station;nortc;          2;
+Sunday   ;;   85039;   85014;18:17   ;;3NG100;          1;
+Sunday   ;;   85039;   85014;18:19   ;Northgate Station;nortc;          2;
+Sunday   ;;   85083;   85008;15:30   ;Everett Station;evtst;          1;
+Sunday   ;;   85083;   85008;16:06   ;;3NG100;          2;
+Sunday   ;;   85082;   85011;14:30   ;Everett Station;evtst;          1;
+Sunday   ;;   85082;   85011;15:06   ;;3NG100;          2;
+Sunday   ;;   85023;   85011;15:27   ;;3NG100;          1;
+Sunday   ;;   85023;   85011;15:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85021;   85010;14:57   ;;3NG100;          1;
+Sunday   ;;   85021;   85010;14:59   ;Northgate Station;nortc;          2;
+Sunday   ;;   85086;   85011;16:11   ;Everett Station;evtst;          1;
+Sunday   ;;   85086;   85011;16:47   ;;3NG100;          2;
+Sunday   ;;   85025;   85014;15:47   ;;3NG100;          1;
+Sunday   ;;   85025;   85014;15:49   ;Northgate Station;nortc;          2;
+Sunday   ;;   85130;   85006;13:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85130;   85006;13:50   ;;3NG100;          2;
+Sunday   ;;   85027;   85008;16:07   ;;3NG100;          1;
+Sunday   ;;   85027;   85008;16:09   ;Northgate Station;nortc;          2;
+Sunday   ;;   85014;   85006;11:28   ;;3NG100;          1;
+Sunday   ;;   85014;   85006;11:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85117;   85007; 9:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85117;   85007; 9:30   ;;3NG100;          2;
+Sunday   ;;   85088;   85008;16:52   ;Everett Station;evtst;          1;
+Sunday   ;;   85088;   85008;17:28   ;;3NG100;          2;
+Sunday   ;;   85120;   85005;10:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85120;   85005;10:30   ;;3NG100;          2;
+Sunday   ;;   85135;   85014;15:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85135;   85014;15:31   ;;3NG100;          2;
+Sunday   ;;   85138;   85013;16:22   ;Northgate Station;nortc;          1;
+Sunday   ;;   85138;   85013;16:26   ;;3NG100;          2;
+Sunday   ;;   85029;   85013;16:27   ;;3NG100;          1;
+Sunday   ;;   85029;   85013;16:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85035;   85008;17:37   ;;3NG100;          1;
+Sunday   ;;   85035;   85008;17:39   ;Northgate Station;nortc;          2;
+Sunday   ;;   85126;   85009;12:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85126;   85009;12:57   ;Everett Station;evtst;          2;
+Sunday   ;;   85084;   85010;15:40   ;Everett Station;evtst;          1;
+Sunday   ;;   85084;   85010;16:16   ;;3NG100;          2;
+Sunday   ;;   85151;   85010;20:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85151;   85010;20:30   ;;3NG100;          2;
+Sunday   ;;   85132;   85008;14:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85132;   85008;14:31   ;;3NG100;          2;
+Sunday   ;;   85049;   85010;20:38   ;;3NG100;          1;
+Sunday   ;;   85049;   85010;20:39   ;Northgate Station;nortc;          2;
+Sunday   ;;   85020;   85008;14:47   ;;3NG100;          1;
+Sunday   ;;   85020;   85008;14:49   ;Northgate Station;nortc;          2;
+Sunday   ;;   85131;   85009;14:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85131;   85009;14:11   ;;3NG100;          2;
+Sunday   ;;   85125;   85002;12:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85125;   85002;12:10   ;;3NG100;          2;
+Sunday   ;;   85113;   85003; 7:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85113;   85003; 7:51   ;;3NG100;          2;
+Sunday   ;;   85119;   85003;10:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85119;   85003;10:10   ;;3NG100;          2;
+Sunday   ;;   85007;   85004; 8:45   ;;3NG100;          1;
+Sunday   ;;   85007;   85004; 8:47   ;Northgate Station;nortc;          2;
+Sunday   ;;   85121;   85004;10:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85121;   85004;10:50   ;;3NG100;          2;
+Sunday   ;;   85013;   85004;11:08   ;;3NG100;          1;
+Sunday   ;;   85013;   85004;11:09   ;Northgate Station;nortc;          2;
+Sunday   ;;   85128;   85004;13:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85128;   85004;13:10   ;;3NG100;          2;
+Sunday   ;;   85017;   85004;13:28   ;;3NG100;          1;
+Sunday   ;;   85017;   85004;13:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85114;   85005; 8:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85114;   85005; 8:11   ;;3NG100;          2;
+Sunday   ;;   85110;   85003; 6:13   ;Northgate Station;nortc;          1;
+Sunday   ;;   85110;   85003; 6:16   ;;3NG100;          2;
+Sunday   ;;   85016;   85002;12:28   ;;3NG100;          1;
+Sunday   ;;   85016;   85002;12:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85004;   85002; 7:33   ;;3NG100;          1;
+Sunday   ;;   85004;   85002; 7:35   ;Northgate Station;nortc;          2;
+Sunday   ;;   85118;   85002; 9:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85118;   85002; 9:50   ;;3NG100;          2;
+Sunday   ;;   85002;   85003; 6:18   ;;3NG100;          1;
+Sunday   ;;   85002;   85003; 6:19   ;Northgate Station;nortc;          2;
+Sunday   ;;   85005;   85003; 7:57   ;;3NG100;          1;
+Sunday   ;;   85005;   85003; 7:59   ;Northgate Station;nortc;          2;
+Sunday   ;;   85011;   85003;10:28   ;;3NG100;          1;
+Sunday   ;;   85011;   85003;10:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85115;   85004; 8:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85115;   85004; 8:31   ;;3NG100;          2;
+Sunday   ;;   85010;   85002;10:08   ;;3NG100;          1;
+Sunday   ;;   85010;   85002;10:09   ;Northgate Station;nortc;          2;
+Sunday   ;  512;   15061;   85016;21:59   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15061;   85016;22:02   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15061;   85016;22:05   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15061;   85016;22:06   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15061;   85016;22:11   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15061;   85016;22:18   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15061;   85016;22:26   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15061;   85016;22:38   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15057;   85010;20:39   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15057;   85010;20:42   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15057;   85010;20:45   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15057;   85010;20:46   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15057;   85010;20:51   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15057;   85010;20:58   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15057;   85010;21:06   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15057;   85010;21:19   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15059;   85015;21:19   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15059;   85015;21:22   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15059;   85015;21:25   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15059;   85015;21:26   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15059;   85015;21:31   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15059;   85015;21:38   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15059;   85015;21:46   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15059;   85015;21:58   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15053;   85019;19:19   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15053;   85019;19:22   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15053;   85019;19:25   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15053;   85019;19:26   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15053;   85019;19:31   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15053;   85019;19:38   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15053;   85019;19:46   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15053;   85019;19:59   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15056;   85018;20:19   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15056;   85018;20:22   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15056;   85018;20:25   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15056;   85018;20:26   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15056;   85018;20:31   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15056;   85018;20:38   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15056;   85018;20:46   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15056;   85018;20:59   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15055;   85017;19:59   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15055;   85017;20:02   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15055;   85017;20:05   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15055;   85017;20:06   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15055;   85017;20:11   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15055;   85017;20:18   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15055;   85017;20:26   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15055;   85017;20:39   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15052;   85011;19:09   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15052;   85011;19:12   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15052;   85011;19:15   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15052;   85011;19:16   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15052;   85011;19:21   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15052;   85011;19:28   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15052;   85011;19:36   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15052;   85011;19:49   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15058;   85011;20:59   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15058;   85011;21:02   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15058;   85011;21:05   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15058;   85011;21:06   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15058;   85011;21:11   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15058;   85011;21:18   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15058;   85011;21:26   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15058;   85011;21:38   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15054;   85016;19:39   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15054;   85016;19:42   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15054;   85016;19:45   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15054;   85016;19:46   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15054;   85016;19:51   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15054;   85016;19:58   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15054;   85016;20:06   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15054;   85016;20:19   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15069;   85001; 4:44   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15069;   85001; 4:52   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15069;   85001; 4:59   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15069;   85001; 5:06   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15069;   85001; 5:10   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15069;   85001; 5:13   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15069;   85001; 5:17   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15069;   85001; 5:23   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15064;   85019;22:59   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15064;   85019;23:02   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15064;   85019;23:05   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15064;   85019;23:06   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15064;   85019;23:11   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15064;   85019;23:18   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15064;   85019;23:26   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15064;   85019;23:38   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15062;   85017;22:19   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15062;   85017;22:22   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15062;   85017;22:25   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15062;   85017;22:26   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15062;   85017;22:31   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15062;   85017;22:38   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15062;   85017;22:46   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15062;   85017;22:58   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15067;   85018;24:12   ;Stadium Station;9977;          1;North
+Sunday   ;  512;   15067;   85018;24:14   ;4thAv/Jacksn;4jack;          2;North
+Sunday   ;  512;   15067;   85018;24:19   ;4th Ave & Pine St;4unio;          3;North
+Sunday   ;  512;   15067;   85018;24:23   ;Olive Way & Boren Ave;olvtr;          4;North
+Sunday   ;  512;   15067;   85018;24:28   ;NE 45th Freeway Station;45i5;          5;North
+Sunday   ;  512;   15067;   85018;24:36   ;Northgate Station;nortc;          6;North
+Sunday   ;  512;   15067;   85018;24:41   ;I-5 & NE 117th St;117i5;          7;North
+Sunday   ;  512;   15067;   85018;24:44   ;I-5 & NE 195th St;195i5;          8;North
+Sunday   ;  512;   15067;   85018;24:45   ;Mountlake Terrace Freeway Station;mltfs;          9;North
+Sunday   ;  512;   15067;   85018;24:49   ;Lynnwood Transit Center;lynntc;         10;North
+Sunday   ;  512;   15067;   85018;24:56   ;Ash Way Park & Ride;awypr;         11;North
+Sunday   ;  512;   15067;   85018;25:04   ;South Everett Freeway Station;sefs;         12;North
+Sunday   ;  512;   15067;   85018;25:18   ;Everett Station;evtst;         13;North
+Sunday   ;  512;   15063;   85018;22:39   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15063;   85018;22:42   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15063;   85018;22:45   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15063;   85018;22:46   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15063;   85018;22:51   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15063;   85018;22:58   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15063;   85018;23:06   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15063;   85018;23:18   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15065;   85015;23:29   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15065;   85015;23:32   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15065;   85015;23:35   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15065;   85015;23:36   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15065;   85015;23:41   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15065;   85015;23:48   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15065;   85015;23:56   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15065;   85015;24:08   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15060;   85019;21:39   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15060;   85019;21:42   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15060;   85019;21:45   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15060;   85019;21:46   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15060;   85019;21:51   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15060;   85019;21:58   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15060;   85019;22:06   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15060;   85019;22:18   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15066;   85017;24:03   ;Northgate Station;nortc;          1;North
+Sunday   ;  512;   15066;   85017;24:06   ;I-5 & NE 117th St;117i5;          2;North
+Sunday   ;  512;   15066;   85017;24:09   ;I-5 & NE 195th St;195i5;          3;North
+Sunday   ;  512;   15066;   85017;24:10   ;Mountlake Terrace Freeway Station;mltfs;          4;North
+Sunday   ;  512;   15066;   85017;24:15   ;Lynnwood Transit Center;lynntc;          5;North
+Sunday   ;  512;   15066;   85017;24:22   ;Ash Way Park & Ride;awypr;          6;North
+Sunday   ;  512;   15066;   85017;24:30   ;South Everett Freeway Station;sefs;          7;North
+Sunday   ;  512;   15066;   85017;24:42   ;Everett Station;evtst;          8;North
+Sunday   ;  512;   15068;   85019;24:42   ;Stadium Station;9977;          1;North
+Sunday   ;  512;   15068;   85019;24:44   ;4thAv/Jacksn;4jack;          2;North
+Sunday   ;  512;   15068;   85019;24:49   ;4th Ave & Pine St;4unio;          3;North
+Sunday   ;  512;   15068;   85019;24:53   ;Olive Way & Boren Ave;olvtr;          4;North
+Sunday   ;  512;   15068;   85019;24:58   ;NE 45th Freeway Station;45i5;          5;North
+Sunday   ;  512;   15068;   85019;25:05   ;Northgate Station;nortc;          6;North
+Sunday   ;  512;   15068;   85019;25:10   ;I-5 & NE 117th St;117i5;          7;North
+Sunday   ;  512;   15068;   85019;25:13   ;I-5 & NE 195th St;195i5;          8;North
+Sunday   ;  512;   15068;   85019;25:14   ;Mountlake Terrace Freeway Station;mltfs;          9;North
+Sunday   ;  512;   15068;   85019;25:18   ;Lynnwood Transit Center;lynntc;         10;North
+Sunday   ;  512;   15068;   85019;25:25   ;Ash Way Park & Ride;awypr;         11;North
+Sunday   ;  512;   15068;   85019;25:33   ;South Everett Freeway Station;sefs;         12;North
+Sunday   ;  512;   15068;   85019;25:47   ;Everett Station;evtst;         13;North
+Sunday   ;  512;   15091;   85004;12:21   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15091;   85004;12:29   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15091;   85004;12:37   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15091;   85004;12:45   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15091;   85004;12:49   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15091;   85004;12:53   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15091;   85004;12:57   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15091;   85004;13:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15084;   85004;10:04   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15084;   85004;10:12   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15084;   85004;10:20   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15084;   85004;10:28   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15084;   85004;10:32   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15084;   85004;10:36   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15084;   85004;10:40   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15084;   85004;10:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15082;   85003; 9:25   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15082;   85003; 9:33   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15082;   85003; 9:41   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15082;   85003; 9:49   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15082;   85003; 9:53   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15082;   85003; 9:57   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15082;   85003;10:01   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15082;   85003;10:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15086;   85001;10:41   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15086;   85001;10:49   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15086;   85001;10:57   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15086;   85001;11:05   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15086;   85001;11:09   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15086;   85001;11:13   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15086;   85001;11:17   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15086;   85001;11:27   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15080;   85007; 8:47   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15080;   85007; 8:55   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15080;   85007; 9:02   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15080;   85007; 9:09   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15080;   85007; 9:13   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15080;   85007; 9:17   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15080;   85007; 9:21   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15080;   85007; 9:27   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15083;   85005; 9:45   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15083;   85005; 9:53   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15083;   85005;10:01   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15083;   85005;10:09   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15083;   85005;10:13   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15083;   85005;10:17   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15083;   85005;10:21   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15083;   85005;10:27   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15079;   85006; 8:27   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15079;   85006; 8:35   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15079;   85006; 8:42   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15079;   85006; 8:49   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15079;   85006; 8:53   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15079;   85006; 8:57   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15079;   85006; 9:01   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15079;   85006; 9:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15081;   85002; 9:06   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15081;   85002; 9:14   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15081;   85002; 9:22   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15081;   85002; 9:29   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15081;   85002; 9:33   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15081;   85002; 9:37   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15081;   85002; 9:41   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15081;   85002; 9:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15088;   85002;11:21   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15088;   85002;11:29   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15088;   85002;11:37   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15088;   85002;11:45   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15088;   85002;11:49   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15088;   85002;11:53   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15088;   85002;11:57   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15088;   85002;12:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15087;   85007;11:01   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15087;   85007;11:09   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15087;   85007;11:17   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15087;   85007;11:25   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15087;   85007;11:29   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15087;   85007;11:33   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15087;   85007;11:37   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15087;   85007;11:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15089;   85009;11:41   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15089;   85009;11:49   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15089;   85009;11:57   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15089;   85009;12:05   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15089;   85009;12:09   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15089;   85009;12:13   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15089;   85009;12:17   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15089;   85009;12:27   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15090;   85003;12:01   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15090;   85003;12:09   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15090;   85003;12:17   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15090;   85003;12:25   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15090;   85003;12:29   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15090;   85003;12:33   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15090;   85003;12:37   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15090;   85003;12:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15092;   85011;12:41   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15092;   85011;12:49   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15092;   85011;12:57   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15092;   85011;13:05   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15092;   85011;13:09   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15092;   85011;13:13   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15092;   85011;13:17   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15092;   85011;13:27   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15085;   85006;10:21   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15085;   85006;10:29   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15085;   85006;10:37   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15085;   85006;10:45   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15085;   85006;10:49   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15085;   85006;10:53   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15085;   85006;10:57   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15085;   85006;11:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15093;   85006;13:01   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15093;   85006;13:09   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15093;   85006;13:17   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15093;   85006;13:25   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15093;   85006;13:29   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15093;   85006;13:33   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15093;   85006;13:37   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15093;   85006;13:47   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15094;   85009;13:21   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15094;   85009;13:29   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15094;   85009;13:37   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15094;   85009;13:45   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15094;   85009;13:49   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15094;   85009;13:53   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15094;   85009;13:57   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15094;   85009;14:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15097;   85012;14:21   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15097;   85012;14:29   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15097;   85012;14:37   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15097;   85012;14:45   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15097;   85012;14:49   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15097;   85012;14:53   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15097;   85012;14:57   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15097;   85012;15:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15095;   85008;13:41   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15095;   85008;13:49   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15095;   85008;13:57   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15095;   85008;14:05   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15095;   85008;14:09   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15095;   85008;14:13   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15095;   85008;14:17   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15095;   85008;14:27   ;Northgate Station;nortc;          8;South
+Sunday   ;;   85055;   85018;22:38   ;;3NG100;          1;
+Sunday   ;;   85055;   85018;22:39   ;Northgate Station;nortc;          2;
+Sunday   ;;   85142;   85019;17:37   ;Northgate Station;nortc;          1;
+Sunday   ;;   85142;   85019;17:41   ;;3NG100;          2;
+Sunday   ;;   85037;   85019;17:57   ;;3NG100;          1;
+Sunday   ;;   85037;   85019;17:59   ;Northgate Station;nortc;          2;
+Sunday   ;;   85052;   85019;21:38   ;;3NG100;          1;
+Sunday   ;;   85052;   85019;21:39   ;Northgate Station;nortc;          2;
+Sunday   ;;   85032;   85018;16:57   ;;3NG100;          1;
+Sunday   ;;   85032;   85018;16:59   ;Northgate Station;nortc;          2;
+Sunday   ;;   85150;   85018;20:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85150;   85018;20:10   ;;3NG100;          2;
+Sunday   ;;   85090;   85018;17:43   ;Everett Station;evtst;          1;
+Sunday   ;;   85090;   85018;18:19   ;;3NG100;          2;
+Sunday   ;;   85103;   85019;23:38   ;Everett Station;evtst;          1;
+Sunday   ;;   85103;   85019;24:23   ;Stadium Station;9977;          2;
+Sunday   ;;   85106;   85018;25:18   ;Everett Station;evtst;          1;
+Sunday   ;;   85106;   85018;25:33   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85075;   85017;15:36   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85075;   85017;15:53   ;Everett Station;evtst;          2;
+Sunday   ;;   85105;   85017;24:42   ;Everett Station;evtst;          1;
+Sunday   ;;   85105;   85017;24:57   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85073;   85016;14:44   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85073;   85016;15:19   ;Northgate Station;nortc;          2;
+Sunday   ;;   85074;   85015;14:44   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85074;   85015;15:01   ;Everett Station;evtst;          2;
+Sunday   ;;   85104;   85015;24:08   ;Everett Station;evtst;          1;
+Sunday   ;;   85104;   85015;24:23   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85098;   85011;21:38   ;Everett Station;evtst;          1;
+Sunday   ;;   85098;   85011;21:53   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85040;   85018;18:27   ;;3NG100;          1;
+Sunday   ;;   85040;   85018;18:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85068;   85010;12:14   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85068;   85010;12:49   ;Northgate Station;nortc;          2;
+Sunday   ;;   85093;   85019;18:43   ;Everett Station;evtst;          1;
+Sunday   ;;   85093;   85019;19:17   ;;3NG100;          2;
+Sunday   ;;   85077;   85019;16:36   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85077;   85019;16:53   ;Everett Station;evtst;          2;
+Sunday   ;;   85100;   85016;22:38   ;Everett Station;evtst;          1;
+Sunday   ;;   85100;   85016;22:53   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85140;   85018;16:52   ;Northgate Station;nortc;          1;
+Sunday   ;;   85140;   85018;16:56   ;;3NG100;          2;
+Sunday   ;;   85048;   85018;20:18   ;;3NG100;          1;
+Sunday   ;;   85048;   85018;20:19   ;Northgate Station;nortc;          2;
+Sunday   ;;   85070;   85012;12:34   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85070;   85012;13:09   ;Northgate Station;nortc;          2;
+Sunday   ;;   85149;   85012;19:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85149;   85012;20:17   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85097;   85010;21:19   ;Everett Station;evtst;          1;
+Sunday   ;;   85097;   85010;21:34   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85154;   85019;21:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85154;   85019;21:30   ;;3NG100;          2;
+Sunday   ;;   85067;   85009;11:24   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85067;   85009;11:41   ;Everett Station;evtst;          2;
+Sunday   ;;   85066;   85008;11:14   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85066;   85008;11:49   ;Northgate Station;nortc;          2;
+Sunday   ;;   85099;   85019;22:18   ;Everett Station;evtst;          1;
+Sunday   ;;   85099;   85019;22:52   ;;3NG100;          2;
+Sunday   ;;   85147;   85009;19:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85147;   85009;19:37   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85102;   85018;23:18   ;Everett Station;evtst;          1;
+Sunday   ;;   85102;   85018;24:03   ;Stadium Station;9977;          2;
+Sunday   ;;   85157;   85018;22:33   ;Northgate Station;nortc;          1;
+Sunday   ;;   85157;   85018;22:36   ;;3NG100;          2;
+Sunday   ;;   85056;   85019;22:58   ;;3NG100;          1;
+Sunday   ;;   85056;   85019;22:59   ;Northgate Station;nortc;          2;
+Sunday   ;;   85069;   85011;12:24   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85069;   85011;12:41   ;Everett Station;evtst;          2;
+Sunday   ;;   85107;   85019;25:47   ;Everett Station;evtst;          1;
+Sunday   ;;   85107;   85019;26:02   ;Kasch Park Base;base2;          2;
+Sunday   ;;   85045;   85019;19:18   ;;3NG100;          1;
+Sunday   ;;   85045;   85019;19:19   ;Northgate Station;nortc;          2;
+Sunday   ;;   85076;   85018;15:51   ;Kasch Park Base;base2;          1;
+Sunday   ;;   85076;   85018;16:08   ;Everett Station;evtst;          2;
+Sunday   ;;   85145;   85011;18:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85145;   85011;18:31   ;;3NG100;          2;
+Sunday   ;;   85091;   85017;18:03   ;Everett Station;evtst;          1;
+Sunday   ;;   85091;   85017;18:39   ;;3NG100;          2;
+Sunday   ;;   85047;   85017;19:58   ;;3NG100;          1;
+Sunday   ;;   85047;   85017;19:59   ;Northgate Station;nortc;          2;
+Sunday   ;;   85038;   85016;18:07   ;;3NG100;          1;
+Sunday   ;;   85038;   85016;18:09   ;Northgate Station;nortc;          2;
+Sunday   ;;   85030;   85016;16:37   ;;3NG100;          1;
+Sunday   ;;   85030;   85016;16:39   ;Northgate Station;nortc;          2;
+Sunday   ;;   85152;   85011;20:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85152;   85011;20:50   ;;3NG100;          2;
+Sunday   ;;   85041;   85017;18:39   ;;3NG100;          1;
+Sunday   ;;   85041;   85017;18:39   ;Northgate Station;nortc;          2;
+Sunday   ;;   85134;   85012;15:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85134;   85012;15:11   ;;3NG100;          2;
+Sunday   ;;   85057;   85015;23:28   ;;3NG100;          1;
+Sunday   ;;   85057;   85015;23:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85094;   85016;18:52   ;Everett Station;evtst;          1;
+Sunday   ;;   85094;   85016;19:26   ;;3NG100;          2;
+Sunday   ;;   85096;   85017;19:19   ;Everett Station;evtst;          1;
+Sunday   ;;   85096;   85017;19:53   ;;3NG100;          2;
+Sunday   ;;   85051;   85015;21:18   ;;3NG100;          1;
+Sunday   ;;   85051;   85015;21:19   ;Northgate Station;nortc;          2;
+Sunday   ;;   85156;   85017;22:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85156;   85017;22:10   ;;3NG100;          2;
+Sunday   ;;   85054;   85017;22:18   ;;3NG100;          1;
+Sunday   ;;   85054;   85017;22:19   ;Northgate Station;nortc;          2;
+Sunday   ;;   85058;   85017;24:02   ;;3NG100;          1;
+Sunday   ;;   85058;   85017;24:03   ;Northgate Station;nortc;          2;
+Sunday   ;;   85031;   85011;16:47   ;;3NG100;          1;
+Sunday   ;;   85031;   85011;16:49   ;Northgate Station;nortc;          2;
+Sunday   ;;   85024;   85012;15:37   ;;3NG100;          1;
+Sunday   ;;   85024;   85012;15:39   ;Northgate Station;nortc;          2;
+Sunday   ;;   85046;   85016;19:38   ;;3NG100;          1;
+Sunday   ;;   85046;   85016;19:39   ;Northgate Station;nortc;          2;
+Sunday   ;;   85044;   85011;19:08   ;;3NG100;          1;
+Sunday   ;;   85044;   85011;19:09   ;Northgate Station;nortc;          2;
+Sunday   ;;   85053;   85016;21:58   ;;3NG100;          1;
+Sunday   ;;   85053;   85016;21:59   ;Northgate Station;nortc;          2;
+Sunday   ;;   85050;   85011;20:58   ;;3NG100;          1;
+Sunday   ;;   85050;   85011;20:59   ;Northgate Station;nortc;          2;
+Sunday   ;;   85158;   85015;23:03   ;Northgate Station;nortc;          1;
+Sunday   ;;   85158;   85015;23:06   ;;3NG100;          2;
+Sunday   ;;   85136;   85015;15:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85136;   85015;15:51   ;;3NG100;          2;
+Sunday   ;;   85036;   85012;17:47   ;;3NG100;          1;
+Sunday   ;;   85036;   85012;17:49   ;Northgate Station;nortc;          2;
+Sunday   ;;   85043;   85015;18:58   ;;3NG100;          1;
+Sunday   ;;   85043;   85015;18:59   ;Northgate Station;nortc;          2;
+Sunday   ;;   85153;   85015;21:07   ;Northgate Station;nortc;          1;
+Sunday   ;;   85153;   85015;21:10   ;;3NG100;          2;
+Sunday   ;;   85087;   85015;16:42   ;Everett Station;evtst;          1;
+Sunday   ;;   85087;   85015;17:18   ;;3NG100;          2;
+Sunday   ;;   85101;   85017;22:58   ;Everett Station;evtst;          1;
+Sunday   ;;   85101;   85017;23:32   ;;3NG100;          2;
+Sunday   ;;   85034;   85015;17:27   ;;3NG100;          1;
+Sunday   ;;   85034;   85015;17:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85092;   85015;18:13   ;Everett Station;evtst;          1;
+Sunday   ;;   85092;   85015;18:49   ;;3NG100;          2;
+Sunday   ;;   85085;   85016;16:00   ;Everett Station;evtst;          1;
+Sunday   ;;   85085;   85016;16:36   ;;3NG100;          2;
+Sunday   ;;   85026;   85015;15:57   ;;3NG100;          1;
+Sunday   ;;   85026;   85015;15:59   ;Northgate Station;nortc;          2;
+Sunday   ;;   85139;   85017;16:37   ;Northgate Station;nortc;          1;
+Sunday   ;;   85139;   85017;16:41   ;;3NG100;          2;
+Sunday   ;;   85141;   85012;17:22   ;Northgate Station;nortc;          1;
+Sunday   ;;   85141;   85012;17:26   ;;3NG100;          2;
+Sunday   ;;   85089;   85016;17:23   ;Everett Station;evtst;          1;
+Sunday   ;;   85089;   85016;17:59   ;;3NG100;          2;
+Sunday   ;;   85033;   85017;17:17   ;;3NG100;          1;
+Sunday   ;;   85033;   85017;17:19   ;Northgate Station;nortc;          2;
+Sunday   ;;   85155;   85016;21:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85155;   85016;21:50   ;;3NG100;          2;
+Sunday   ;  512;   15106;   85019;16:53   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15106;   85019;17:01   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15106;   85019;17:09   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15106;   85019;17:16   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15106;   85019;17:20   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15106;   85019;17:24   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15106;   85019;17:28   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15106;   85019;17:37   ;Northgate Station;nortc;          8;South
+Sunday   ;;   85111;   85001; 7:01   ;Northgate Station;nortc;          1;
+Sunday   ;;   85111;   85001; 7:05   ;;3NG100;          2;
+Sunday   ;;   85123;   85001;11:27   ;Northgate Station;nortc;          1;
+Sunday   ;;   85123;   85001;11:30   ;;3NG100;          2;
+Sunday   ;  512;   15118;   85019;20:47   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15118;   85019;20:55   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15118;   85019;21:02   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15118;   85019;21:09   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15118;   85019;21:13   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15118;   85019;21:17   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15118;   85019;21:21   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15118;   85019;21:27   ;Northgate Station;nortc;          8;South
+Sunday   ;;   85008;   85001; 9:28   ;;3NG100;          1;
+Sunday   ;;   85008;   85001; 9:29   ;Northgate Station;nortc;          2;
+Sunday   ;;   85003;   85001; 7:09   ;;3NG100;          1;
+Sunday   ;;   85003;   85001; 7:11   ;Northgate Station;nortc;          2;
+Sunday   ;;   85108;   85001; 5:23   ;Northgate Station;nortc;          1;
+Sunday   ;;   85108;   85001; 5:51   ;Everett Station;evtst;          2;
+Sunday   ;  512;   15120;   85017;21:27   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15120;   85017;21:35   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15120;   85017;21:42   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15120;   85017;21:49   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15120;   85017;21:53   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15120;   85017;21:57   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15120;   85017;22:01   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15120;   85017;22:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15102;   85017;15:53   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15102;   85017;16:01   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15102;   85017;16:09   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15102;   85017;16:16   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15102;   85017;16:20   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15102;   85017;16:24   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15102;   85017;16:28   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15102;   85017;16:37   ;Northgate Station;nortc;          8;South
+Sunday   ;;   85015;   85001;12:08   ;;3NG100;          1;
+Sunday   ;;   85015;   85001;12:09   ;Northgate Station;nortc;          2;
+Sunday   ;;   85109;   85002; 5:49   ;Northgate Station;nortc;          1;
+Sunday   ;;   85109;   85002; 5:52   ;;3NG100;          2;
+Sunday   ;;   85112;   85002; 7:25   ;Northgate Station;nortc;          1;
+Sunday   ;;   85112;   85002; 7:29   ;;3NG100;          2;
+Sunday   ;;   85001;   85002; 5:54   ;;3NG100;          1;
+Sunday   ;;   85001;   85002; 5:55   ;Northgate Station;nortc;          2;
+Sunday   ;  512;   15117;   85015;20:27   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15117;   85015;20:35   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15117;   85015;20:42   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15117;   85015;20:49   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15117;   85015;20:53   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15117;   85015;20:57   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15117;   85015;21:01   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15117;   85015;21:07   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15122;   85015;22:24   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15122;   85015;22:32   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15122;   85015;22:39   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15122;   85015;22:46   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15122;   85015;22:50   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15122;   85015;22:53   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15122;   85015;22:57   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15122;   85015;23:03   ;Northgate Station;nortc;          8;South
+Sunday   ;;   85116;   85001; 8:47   ;Northgate Station;nortc;          1;
+Sunday   ;;   85116;   85001; 8:51   ;;3NG100;          2;
+Sunday   ;  512;   15121;   85018;21:54   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15121;   85018;22:02   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15121;   85018;22:09   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15121;   85018;22:16   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15121;   85018;22:20   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15121;   85018;22:23   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15121;   85018;22:27   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15121;   85018;22:33   ;Northgate Station;nortc;          8;South
+Sunday   ;  512;   15119;   85016;21:07   ;Everett Station;evtst;          1;South
+Sunday   ;  512;   15119;   85016;21:15   ;South Everett Freeway Station;sefs;          2;South
+Sunday   ;  512;   15119;   85016;21:22   ;Ash Way Park & Ride;awypr;          3;South
+Sunday   ;  512;   15119;   85016;21:29   ;Lynnwood Transit Center;lynntc;          4;South
+Sunday   ;  512;   15119;   85016;21:33   ;Mountlake Terrace Freeway Station;mltfs;          5;South
+Sunday   ;  512;   15119;   85016;21:37   ;I-5 & NE 195th St;195i5;          6;South
+Sunday   ;  512;   15119;   85016;21:41   ;I-5 & NE 117th St;117i5;          7;South
+Sunday   ;  512;   15119;   85016;21:47   ;Northgate Station;nortc;          8;South
+Sunday   ;;   85079;   85001;12:50   ;Everett Station;evtst;          1;
+Sunday   ;;   85079;   85001;13:05   ;Kasch Park Base;base2;          2;
