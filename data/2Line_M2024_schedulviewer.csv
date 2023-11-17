@@ -1,0 +1,1825 @@
+service_id,route_id,trip_id,block_id,sch_arr_time,stop_name,stop_id,stop_seq,direction_name
+Weekday  , S600,3024,600 - 35, 8:50   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3024,600 - 35, 8:51   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3024,600 - 35, 8:54   ,*East Main Station,9857,3,East
+Weekday  , S600,3024,600 - 35, 8:57   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3024,600 - 35, 8:59   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3024,600 - 35, 9:00   ,*Spring District Station,9851,6,East
+Weekday  , S600,3024,600 - 35, 9:02   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3024,600 - 35, 9:06   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3024,600 - 35, 9:08   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4052,600 - 32,13:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4052,600 - 32,13:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4052,600 - 32,13:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4052,600 - 32,13:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4052,600 - 32,13:44,*Spring District Station,9850,5,West
+Weekday  , S600,4052,600 - 32,13:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4052,600 - 32,13:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4052,600 - 32,13:50,*East Main Station,9856,8,West
+Weekday  , S600,4052,600 - 32,13:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,3016,600 - 31, 7:30   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3016,600 - 31, 7:31   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3016,600 - 31, 7:34   ,*East Main Station,9857,3,East
+Weekday  , S600,3016,600 - 31, 7:37   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3016,600 - 31, 7:39   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3016,600 - 31, 7:40   ,*Spring District Station,9851,6,East
+Weekday  , S600,3016,600 - 31, 7:42   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3016,600 - 31, 7:46   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3016,600 - 31, 7:48   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4013,600 - 31, 7:05   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4013,600 - 31, 7:06   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4013,600 - 31, 7:08   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4013,600 - 31, 7:12   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4013,600 - 31, 7:14   ,*Spring District Station,9850,5,West
+Weekday  , S600,4013,600 - 31, 7:16   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4013,600 - 31, 7:17   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4013,600 - 31, 7:20   ,*East Main Station,9856,8,West
+Weekday  , S600,4013,600 - 31, 7:23   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,3009,600 - 36, 6:20   ,*South Bellevue Station,9858,1,East
+Weekday  , S600,3009,600 - 36, 6:21   ,*South Bellevue Station,9858,2,East
+Weekday  , S600,3009,600 - 36, 6:24   ,*East Main Station,9857,3,East
+Weekday  , S600,3009,600 - 36, 6:27   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3009,600 - 36, 6:29   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3009,600 - 36, 6:30   ,*Spring District Station,9851,6,East
+Weekday  , S600,3009,600 - 36, 6:32   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3009,600 - 36, 6:36   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3009,600 - 36, 6:38   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3033,600 - 36,10:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3033,600 - 36,10:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3033,600 - 36,10:24,*East Main Station,9857,3,East
+Weekday  , S600,3033,600 - 36,10:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3033,600 - 36,10:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3033,600 - 36,10:30,*Spring District Station,9851,6,East
+Weekday  , S600,3033,600 - 36,10:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3033,600 - 36,10:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3033,600 - 36,10:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3027,600 - 36, 9:20   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3027,600 - 36, 9:21   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3027,600 - 36, 9:24   ,*East Main Station,9857,3,East
+Weekday  , S600,3027,600 - 36, 9:27   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3027,600 - 36, 9:29   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3027,600 - 36, 9:30   ,*Spring District Station,9851,6,East
+Weekday  , S600,3027,600 - 36, 9:32   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3027,600 - 36, 9:36   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3027,600 - 36, 9:38   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4009,600 - 35, 6:25   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4009,600 - 35, 6:26   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4009,600 - 35, 6:28   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4009,600 - 35, 6:32   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4009,600 - 35, 6:34   ,*Spring District Station,9850,5,West
+Weekday  , S600,4009,600 - 35, 6:36   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4009,600 - 35, 6:37   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4009,600 - 35, 6:40   ,*East Main Station,9856,8,West
+Weekday  , S600,4009,600 - 35, 6:43   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4012,600 - 36, 6:55   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4012,600 - 36, 6:56   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4012,600 - 36, 6:58   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4012,600 - 36, 7:02   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4012,600 - 36, 7:04   ,*Spring District Station,9850,5,West
+Weekday  , S600,4012,600 - 36, 7:06   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4012,600 - 36, 7:07   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4012,600 - 36, 7:10   ,*East Main Station,9856,8,West
+Weekday  , S600,4012,600 - 36, 7:13   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4015,600 - 35, 7:25   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4015,600 - 35, 7:26   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4015,600 - 35, 7:28   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4015,600 - 35, 7:32   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4015,600 - 35, 7:34   ,*Spring District Station,9850,5,West
+Weekday  , S600,4015,600 - 35, 7:36   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4015,600 - 35, 7:37   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4015,600 - 35, 7:40   ,*East Main Station,9856,8,West
+Weekday  , S600,4015,600 - 35, 7:43   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4027,600 - 35, 9:25   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4027,600 - 35, 9:26   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4027,600 - 35, 9:28   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4027,600 - 35, 9:32   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4027,600 - 35, 9:34   ,*Spring District Station,9850,5,West
+Weekday  , S600,4027,600 - 35, 9:36   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4027,600 - 35, 9:37   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4027,600 - 35, 9:40   ,*East Main Station,9856,8,West
+Weekday  , S600,4027,600 - 35, 9:43   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,3045,600 - 36,12:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3045,600 - 36,12:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3045,600 - 36,12:24,*East Main Station,9857,3,East
+Weekday  , S600,3045,600 - 36,12:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3045,600 - 36,12:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3045,600 - 36,12:30,*Spring District Station,9851,6,East
+Weekday  , S600,3045,600 - 36,12:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3045,600 - 36,12:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3045,600 - 36,12:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4028,600 - 32, 9:35   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4028,600 - 32, 9:36   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4028,600 - 32, 9:38   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4028,600 - 32, 9:42   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4028,600 - 32, 9:44   ,*Spring District Station,9850,5,West
+Weekday  , S600,4028,600 - 32, 9:46   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4028,600 - 32, 9:47   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4028,600 - 32, 9:50   ,*East Main Station,9856,8,West
+Weekday  , S600,4028,600 - 32, 9:53   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,3034,600 - 31,10:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3034,600 - 31,10:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3034,600 - 31,10:34,*East Main Station,9857,3,East
+Weekday  , S600,3034,600 - 31,10:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3034,600 - 31,10:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3034,600 - 31,10:40,*Spring District Station,9851,6,East
+Weekday  , S600,3034,600 - 31,10:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3034,600 - 31,10:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3034,600 - 31,10:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4043,600 - 31,12:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4043,600 - 31,12:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4043,600 - 31,12:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4043,600 - 31,12:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4043,600 - 31,12:14,*Spring District Station,9850,5,West
+Weekday  , S600,4043,600 - 31,12:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4043,600 - 31,12:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4043,600 - 31,12:20,*East Main Station,9856,8,West
+Weekday  , S600,4043,600 - 31,12:23,*South Bellevue Station,9859,9,West
+Weekday  , S600,3046,600 - 31,12:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3046,600 - 31,12:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3046,600 - 31,12:34,*East Main Station,9857,3,East
+Weekday  , S600,3046,600 - 31,12:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3046,600 - 31,12:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3046,600 - 31,12:40,*Spring District Station,9851,6,East
+Weekday  , S600,3046,600 - 31,12:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3046,600 - 31,12:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3046,600 - 31,12:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3052,600 - 31,13:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3052,600 - 31,13:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3052,600 - 31,13:34,*East Main Station,9857,3,East
+Weekday  , S600,3052,600 - 31,13:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3052,600 - 31,13:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3052,600 - 31,13:40,*Spring District Station,9851,6,East
+Weekday  , S600,3052,600 - 31,13:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3052,600 - 31,13:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3052,600 - 31,13:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3019,600 - 32, 8:00   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3019,600 - 32, 8:01   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3019,600 - 32, 8:04   ,*East Main Station,9857,3,East
+Weekday  , S600,3019,600 - 32, 8:07   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3019,600 - 32, 8:09   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3019,600 - 32, 8:10   ,*Spring District Station,9851,6,East
+Weekday  , S600,3019,600 - 32, 8:12   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3019,600 - 32, 8:16   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3019,600 - 32, 8:18   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4019,600 - 31, 8:05   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4019,600 - 31, 8:06   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4019,600 - 31, 8:08   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4019,600 - 31, 8:12   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4019,600 - 31, 8:14   ,*Spring District Station,9850,5,West
+Weekday  , S600,4019,600 - 31, 8:16   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4019,600 - 31, 8:17   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4019,600 - 31, 8:20   ,*East Main Station,9856,8,West
+Weekday  , S600,4019,600 - 31, 8:23   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4045,600 - 35,12:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4045,600 - 35,12:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4045,600 - 35,12:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4045,600 - 35,12:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4045,600 - 35,12:34,*Spring District Station,9850,5,West
+Weekday  , S600,4045,600 - 35,12:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4045,600 - 35,12:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4045,600 - 35,12:40,*East Main Station,9856,8,West
+Weekday  , S600,4045,600 - 35,12:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,3036,600 - 35,10:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3036,600 - 35,10:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3036,600 - 35,10:54,*East Main Station,9857,3,East
+Weekday  , S600,3036,600 - 35,10:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3036,600 - 35,10:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3036,600 - 35,11:00,*Spring District Station,9851,6,East
+Weekday  , S600,3036,600 - 35,11:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3036,600 - 35,11:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3036,600 - 35,11:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4049,600 - 31,13:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4049,600 - 31,13:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4049,600 - 31,13:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4049,600 - 31,13:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4049,600 - 31,13:14,*Spring District Station,9850,5,West
+Weekday  , S600,4049,600 - 31,13:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4049,600 - 31,13:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4049,600 - 31,13:20,*East Main Station,9856,8,West
+Weekday  , S600,4049,600 - 31,13:23,*South Bellevue Station,9859,9,West
+Weekday  , S600,4022,600 - 32, 8:35   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4022,600 - 32, 8:36   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4022,600 - 32, 8:38   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4022,600 - 32, 8:42   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4022,600 - 32, 8:44   ,*Spring District Station,9850,5,West
+Weekday  , S600,4022,600 - 32, 8:46   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4022,600 - 32, 8:47   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4022,600 - 32, 8:50   ,*East Main Station,9856,8,West
+Weekday  , S600,4022,600 - 32, 8:53   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,3013,600 - 32, 7:00   ,*South Bellevue Station,9858,1,East
+Weekday  , S600,3013,600 - 32, 7:01   ,*South Bellevue Station,9858,2,East
+Weekday  , S600,3013,600 - 32, 7:04   ,*East Main Station,9857,3,East
+Weekday  , S600,3013,600 - 32, 7:07   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3013,600 - 32, 7:09   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3013,600 - 32, 7:10   ,*Spring District Station,9851,6,East
+Weekday  , S600,3013,600 - 32, 7:12   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3013,600 - 32, 7:16   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3013,600 - 32, 7:18   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3040,600 - 31,11:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3040,600 - 31,11:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3040,600 - 31,11:34,*East Main Station,9857,3,East
+Weekday  , S600,3040,600 - 31,11:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3040,600 - 31,11:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3040,600 - 31,11:40,*Spring District Station,9851,6,East
+Weekday  , S600,3040,600 - 31,11:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3040,600 - 31,11:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3040,600 - 31,11:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3048,600 - 35,12:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3048,600 - 35,12:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3048,600 - 35,12:54,*East Main Station,9857,3,East
+Weekday  , S600,3048,600 - 35,12:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3048,600 - 35,12:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3048,600 - 35,13:00,*Spring District Station,9851,6,East
+Weekday  , S600,3048,600 - 35,13:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3048,600 - 35,13:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3048,600 - 35,13:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4016,600 - 32, 7:35   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4016,600 - 32, 7:36   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4016,600 - 32, 7:38   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4016,600 - 32, 7:42   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4016,600 - 32, 7:44   ,*Spring District Station,9850,5,West
+Weekday  , S600,4016,600 - 32, 7:46   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4016,600 - 32, 7:47   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4016,600 - 32, 7:50   ,*East Main Station,9856,8,West
+Weekday  , S600,4016,600 - 32, 7:53   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4039,600 - 35,11:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4039,600 - 35,11:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4039,600 - 35,11:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4039,600 - 35,11:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4039,600 - 35,11:34,*Spring District Station,9850,5,West
+Weekday  , S600,4039,600 - 35,11:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4039,600 - 35,11:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4039,600 - 35,11:40,*East Main Station,9856,8,West
+Weekday  , S600,4039,600 - 35,11:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,3025,600 - 32, 9:00   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3025,600 - 32, 9:01   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3025,600 - 32, 9:04   ,*East Main Station,9857,3,East
+Weekday  , S600,3025,600 - 32, 9:07   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3025,600 - 32, 9:09   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3025,600 - 32, 9:10   ,*Spring District Station,9851,6,East
+Weekday  , S600,3025,600 - 32, 9:12   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3025,600 - 32, 9:16   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3025,600 - 32, 9:18   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4037,600 - 31,11:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4037,600 - 31,11:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4037,600 - 31,11:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4037,600 - 31,11:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4037,600 - 31,11:14,*Spring District Station,9850,5,West
+Weekday  , S600,4037,600 - 31,11:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4037,600 - 31,11:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4037,600 - 31,11:20,*East Main Station,9856,8,West
+Weekday  , S600,4037,600 - 31,11:23,*South Bellevue Station,9859,9,West
+Weekday  , S600,3028,600 - 31, 9:30   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3028,600 - 31, 9:31   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3028,600 - 31, 9:34   ,*East Main Station,9857,3,East
+Weekday  , S600,3028,600 - 31, 9:37   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3028,600 - 31, 9:39   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3028,600 - 31, 9:40   ,*Spring District Station,9851,6,East
+Weekday  , S600,3028,600 - 31, 9:42   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3028,600 - 31, 9:46   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3028,600 - 31, 9:48   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4025,600 - 31, 9:05   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4025,600 - 31, 9:06   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4025,600 - 31, 9:08   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4025,600 - 31, 9:12   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4025,600 - 31, 9:14   ,*Spring District Station,9850,5,West
+Weekday  , S600,4025,600 - 31, 9:16   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4025,600 - 31, 9:17   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4025,600 - 31, 9:20   ,*East Main Station,9856,8,West
+Weekday  , S600,4025,600 - 31, 9:23   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,3022,600 - 31, 8:30   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3022,600 - 31, 8:31   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3022,600 - 31, 8:34   ,*East Main Station,9857,3,East
+Weekday  , S600,3022,600 - 31, 8:37   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3022,600 - 31, 8:39   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3022,600 - 31, 8:40   ,*Spring District Station,9851,6,East
+Weekday  , S600,3022,600 - 31, 8:42   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3022,600 - 31, 8:46   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3022,600 - 31, 8:48   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3030,600 - 35, 9:50   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3030,600 - 35, 9:51   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3030,600 - 35, 9:54   ,*East Main Station,9857,3,East
+Weekday  , S600,3030,600 - 35, 9:57   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3030,600 - 35, 9:59   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3030,600 - 35,10:00,*Spring District Station,9851,6,East
+Weekday  , S600,3030,600 - 35,10:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3030,600 - 35,10:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3030,600 - 35,10:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3042,600 - 35,11:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3042,600 - 35,11:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3042,600 - 35,11:54,*East Main Station,9857,3,East
+Weekday  , S600,3042,600 - 35,11:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3042,600 - 35,11:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3042,600 - 35,12:00,*Spring District Station,9851,6,East
+Weekday  , S600,3042,600 - 35,12:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3042,600 - 35,12:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3042,600 - 35,12:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4046,600 - 32,12:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4046,600 - 32,12:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4046,600 - 32,12:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4046,600 - 32,12:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4046,600 - 32,12:44,*Spring District Station,9850,5,West
+Weekday  , S600,4046,600 - 32,12:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4046,600 - 32,12:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4046,600 - 32,12:50,*East Main Station,9856,8,West
+Weekday  , S600,4046,600 - 32,12:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,4031,600 - 31,10:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4031,600 - 31,10:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4031,600 - 31,10:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4031,600 - 31,10:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4031,600 - 31,10:14,*Spring District Station,9850,5,West
+Weekday  , S600,4031,600 - 31,10:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4031,600 - 31,10:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4031,600 - 31,10:20,*East Main Station,9856,8,West
+Weekday  , S600,4031,600 - 31,10:23,*South Bellevue Station,9859,9,West
+Weekday  , S600,3018,600 - 35, 7:50   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3018,600 - 35, 7:51   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3018,600 - 35, 7:54   ,*East Main Station,9857,3,East
+Weekday  , S600,3018,600 - 35, 7:57   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3018,600 - 35, 7:59   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3018,600 - 35, 8:00   ,*Spring District Station,9851,6,East
+Weekday  , S600,3018,600 - 35, 8:02   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3018,600 - 35, 8:06   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3018,600 - 35, 8:08   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4021,600 - 35, 8:25   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4021,600 - 35, 8:26   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4021,600 - 35, 8:28   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4021,600 - 35, 8:32   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4021,600 - 35, 8:34   ,*Spring District Station,9850,5,West
+Weekday  , S600,4021,600 - 35, 8:36   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4021,600 - 35, 8:37   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4021,600 - 35, 8:40   ,*East Main Station,9856,8,West
+Weekday  , S600,4021,600 - 35, 8:43   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4033,600 - 35,10:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4033,600 - 35,10:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4033,600 - 35,10:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4033,600 - 35,10:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4033,600 - 35,10:34,*Spring District Station,9850,5,West
+Weekday  , S600,4033,600 - 35,10:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4033,600 - 35,10:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4033,600 - 35,10:40,*East Main Station,9856,8,West
+Weekday  , S600,4033,600 - 35,10:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,3012,600 - 35, 6:50   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3012,600 - 35, 6:51   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3012,600 - 35, 6:54   ,*East Main Station,9857,3,East
+Weekday  , S600,3012,600 - 35, 6:57   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3012,600 - 35, 6:59   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3012,600 - 35, 7:00   ,*Spring District Station,9851,6,East
+Weekday  , S600,3012,600 - 35, 7:02   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3012,600 - 35, 7:06   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3012,600 - 35, 7:08   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3010,600 - 31, 6:30   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3010,600 - 31, 6:31   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3010,600 - 31, 6:34   ,*East Main Station,9857,3,East
+Weekday  , S600,3010,600 - 31, 6:37   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3010,600 - 31, 6:39   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3010,600 - 31, 6:40   ,*Spring District Station,9851,6,East
+Weekday  , S600,3010,600 - 31, 6:42   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3010,600 - 31, 6:46   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3010,600 - 31, 6:48   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3021,600 - 36, 8:20   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3021,600 - 36, 8:21   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3021,600 - 36, 8:24   ,*East Main Station,9857,3,East
+Weekday  , S600,3021,600 - 36, 8:27   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3021,600 - 36, 8:29   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3021,600 - 36, 8:30   ,*Spring District Station,9851,6,East
+Weekday  , S600,3021,600 - 36, 8:32   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3021,600 - 36, 8:36   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3021,600 - 36, 8:38   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3015,600 - 36, 7:20   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3015,600 - 36, 7:21   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3015,600 - 36, 7:24   ,*East Main Station,9857,3,East
+Weekday  , S600,3015,600 - 36, 7:27   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3015,600 - 36, 7:29   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3015,600 - 36, 7:30   ,*Spring District Station,9851,6,East
+Weekday  , S600,3015,600 - 36, 7:32   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3015,600 - 36, 7:36   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3015,600 - 36, 7:38   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3039,600 - 36,11:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3039,600 - 36,11:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3039,600 - 36,11:24,*East Main Station,9857,3,East
+Weekday  , S600,3039,600 - 36,11:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3039,600 - 36,11:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3039,600 - 36,11:30,*Spring District Station,9851,6,East
+Weekday  , S600,3039,600 - 36,11:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3039,600 - 36,11:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3039,600 - 36,11:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4018,600 - 36, 7:55   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4018,600 - 36, 7:56   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4018,600 - 36, 7:58   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4018,600 - 36, 8:02   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4018,600 - 36, 8:04   ,*Spring District Station,9850,5,West
+Weekday  , S600,4018,600 - 36, 8:06   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4018,600 - 36, 8:07   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4018,600 - 36, 8:10   ,*East Main Station,9856,8,West
+Weekday  , S600,4018,600 - 36, 8:13   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4024,600 - 36, 8:55   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4024,600 - 36, 8:56   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4024,600 - 36, 8:58   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4024,600 - 36, 9:02   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4024,600 - 36, 9:04   ,*Spring District Station,9850,5,West
+Weekday  , S600,4024,600 - 36, 9:06   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4024,600 - 36, 9:07   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4024,600 - 36, 9:10   ,*East Main Station,9856,8,West
+Weekday  , S600,4024,600 - 36, 9:13   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4030,600 - 36, 9:55   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4030,600 - 36, 9:56   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4030,600 - 36, 9:58   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4030,600 - 36,10:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4030,600 - 36,10:04,*Spring District Station,9850,5,West
+Weekday  , S600,4030,600 - 36,10:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4030,600 - 36,10:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4030,600 - 36,10:10,*East Main Station,9856,8,West
+Weekday  , S600,4030,600 - 36,10:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,4048,600 - 36,12:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4048,600 - 36,12:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4048,600 - 36,12:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4048,600 - 36,13:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4048,600 - 36,13:04,*Spring District Station,9850,5,West
+Weekday  , S600,4048,600 - 36,13:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4048,600 - 36,13:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4048,600 - 36,13:10,*East Main Station,9856,8,West
+Weekday  , S600,4048,600 - 36,13:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,4004,600 - 35, 5:37   ,*Wilburton Station,9852,1,West
+Weekday  , S600,4004,600 - 35, 5:38   ,*Bellevue Downtown Station,9854,2,West
+Weekday  , S600,4004,600 - 35, 5:41   ,*East Main Station,9856,3,West
+Weekday  , S600,4004,600 - 35, 5:44   ,*South Bellevue Station,9859,4,West
+Weekday  , S600,4006,600 - 36, 5:55   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4006,600 - 36, 5:56   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4006,600 - 36, 5:58   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4006,600 - 36, 6:02   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4006,600 - 36, 6:04   ,*Spring District Station,9850,5,West
+Weekday  , S600,4006,600 - 36, 6:06   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4006,600 - 36, 6:07   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4006,600 - 36, 6:10   ,*East Main Station,9856,8,West
+Weekday  , S600,4006,600 - 36, 6:13   ,*South Bellevue Station,9858,9,West
+Weekday  , S600,3004,600 - 36, 5:37   ,*Spring District Station,9851,1,East
+Weekday  , S600,3004,600 - 36, 5:39   ,*Bel-Red / 130th Station,9849,2,East
+Weekday  , S600,3004,600 - 36, 5:43   ,*Overlake Village Station,9847,3,East
+Weekday  , S600,3004,600 - 36, 5:45   ,*Redmond Tech Station,9844,4,East
+Weekday  , S600,3002,600 - 34, 5:30   ,*Spring District Station,9851,1,East
+Weekday  , S600,3002,600 - 34, 5:32   ,*Bel-Red / 130th Station,9849,2,East
+Weekday  , S600,3002,600 - 34, 5:36   ,*Overlake Village Station,9847,3,East
+Weekday  , S600,3002,600 - 34, 5:38   ,*Redmond Tech Station,9845,4,East
+Weekday  , S600,4042,600 - 36,11:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4042,600 - 36,11:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4042,600 - 36,11:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4042,600 - 36,12:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4042,600 - 36,12:04,*Spring District Station,9850,5,West
+Weekday  , S600,4042,600 - 36,12:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4042,600 - 36,12:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4042,600 - 36,12:10,*East Main Station,9856,8,West
+Weekday  , S600,4042,600 - 36,12:13,*South Bellevue Station,9859,9,West
+Weekday  ,,352,600 - 34, 5:28   ,Smart Card Base,15,1,
+Weekday  ,,352,600 - 34, 5:30   ,*Spring District Station,9851,2,
+Weekday  ,,453,600 - 35, 5:35   ,Smart Card Base,15,1,
+Weekday  ,,453,600 - 35, 5:37   ,*Wilburton Station,9852,2,
+Weekday  ,,353,600 - 36, 5:35   ,Smart Card Base,15,1,
+Weekday  ,,353,600 - 36, 5:37   ,*Spring District Station,9851,2,
+Weekday  , S600,3008,600 - 34, 6:10   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3008,600 - 34, 6:11   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3008,600 - 34, 6:14   ,*East Main Station,9857,3,East
+Weekday  , S600,3008,600 - 34, 6:17   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3008,600 - 34, 6:19   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3008,600 - 34, 6:20   ,*Spring District Station,9851,6,East
+Weekday  , S600,3008,600 - 34, 6:22   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3008,600 - 34, 6:26   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3008,600 - 34, 6:28   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3020,600 - 34, 8:10   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3020,600 - 34, 8:11   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3020,600 - 34, 8:14   ,*East Main Station,9857,3,East
+Weekday  , S600,3020,600 - 34, 8:17   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3020,600 - 34, 8:19   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3020,600 - 34, 8:20   ,*Spring District Station,9851,6,East
+Weekday  , S600,3020,600 - 34, 8:22   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3020,600 - 34, 8:26   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3020,600 - 34, 8:28   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4036,600 - 36,10:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4036,600 - 36,10:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4036,600 - 36,10:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4036,600 - 36,11:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4036,600 - 36,11:04,*Spring District Station,9850,5,West
+Weekday  , S600,4036,600 - 36,11:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4036,600 - 36,11:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4036,600 - 36,11:10,*East Main Station,9856,8,West
+Weekday  , S600,4036,600 - 36,11:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,3014,600 - 34, 7:10   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3014,600 - 34, 7:11   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3014,600 - 34, 7:14   ,*East Main Station,9857,3,East
+Weekday  , S600,3014,600 - 34, 7:17   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3014,600 - 34, 7:19   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3014,600 - 34, 7:20   ,*Spring District Station,9851,6,East
+Weekday  , S600,3014,600 - 34, 7:22   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3014,600 - 34, 7:26   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3014,600 - 34, 7:28   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3006,600 - 35, 5:50   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3006,600 - 35, 5:51   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3006,600 - 35, 5:54   ,*East Main Station,9857,3,East
+Weekday  , S600,3006,600 - 35, 5:57   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3006,600 - 35, 5:59   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3006,600 - 35, 6:00   ,*Spring District Station,9851,6,East
+Weekday  , S600,3006,600 - 35, 6:02   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3006,600 - 35, 6:06   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3006,600 - 35, 6:08   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3026,600 - 34, 9:10   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3026,600 - 34, 9:11   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3026,600 - 34, 9:14   ,*East Main Station,9857,3,East
+Weekday  , S600,3026,600 - 34, 9:17   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3026,600 - 34, 9:19   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3026,600 - 34, 9:20   ,*Spring District Station,9851,6,East
+Weekday  , S600,3026,600 - 34, 9:22   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3026,600 - 34, 9:26   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3026,600 - 34, 9:28   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3032,600 - 34,10:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3032,600 - 34,10:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3032,600 - 34,10:14,*East Main Station,9857,3,East
+Weekday  , S600,3032,600 - 34,10:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3032,600 - 34,10:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3032,600 - 34,10:20,*Spring District Station,9851,6,East
+Weekday  , S600,3032,600 - 34,10:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3032,600 - 34,10:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3032,600 - 34,10:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3017,600 - 33, 7:40   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3017,600 - 33, 7:41   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3017,600 - 33, 7:44   ,*East Main Station,9857,3,East
+Weekday  , S600,3017,600 - 33, 7:47   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3017,600 - 33, 7:49   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3017,600 - 33, 7:50   ,*Spring District Station,9851,6,East
+Weekday  , S600,3017,600 - 33, 7:52   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3017,600 - 33, 7:56   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3017,600 - 33, 7:58   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4026,600 - 33, 9:15   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4026,600 - 33, 9:16   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4026,600 - 33, 9:18   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4026,600 - 33, 9:22   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4026,600 - 33, 9:24   ,*Spring District Station,9850,5,West
+Weekday  , S600,4026,600 - 33, 9:26   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4026,600 - 33, 9:27   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4026,600 - 33, 9:30   ,*East Main Station,9856,8,West
+Weekday  , S600,4026,600 - 33, 9:33   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,3038,600 - 34,11:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3038,600 - 34,11:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3038,600 - 34,11:14,*East Main Station,9857,3,East
+Weekday  , S600,3038,600 - 34,11:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3038,600 - 34,11:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3038,600 - 34,11:20,*Spring District Station,9851,6,East
+Weekday  , S600,3038,600 - 34,11:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3038,600 - 34,11:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3038,600 - 34,11:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4008,600 - 33, 6:15   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4008,600 - 33, 6:16   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4008,600 - 33, 6:18   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4008,600 - 33, 6:22   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4008,600 - 33, 6:24   ,*Spring District Station,9850,5,West
+Weekday  , S600,4008,600 - 33, 6:26   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4008,600 - 33, 6:27   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4008,600 - 33, 6:30   ,*East Main Station,9856,8,West
+Weekday  , S600,4008,600 - 33, 6:33   ,*South Bellevue Station,9858,9,West
+Weekday  , S600,4002,600 - 33, 5:27   ,*Wilburton Station,9852,1,West
+Weekday  , S600,4002,600 - 33, 5:28   ,*Bellevue Downtown Station,9854,2,West
+Weekday  , S600,4002,600 - 33, 5:31   ,*East Main Station,9856,3,West
+Weekday  , S600,4002,600 - 33, 5:34   ,*South Bellevue Station,9859,4,West
+Weekday  , S600,4011,600 - 34, 6:45   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4011,600 - 34, 6:46   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4011,600 - 34, 6:48   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4011,600 - 34, 6:52   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4011,600 - 34, 6:54   ,*Spring District Station,9850,5,West
+Weekday  , S600,4011,600 - 34, 6:56   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4011,600 - 34, 6:57   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4011,600 - 34, 7:00   ,*East Main Station,9856,8,West
+Weekday  , S600,4011,600 - 34, 7:03   ,*South Bellevue Station,9859,9,West
+Weekday  ,,452,600 - 33, 5:25   ,Smart Card Base,15,1,
+Weekday  ,,452,600 - 33, 5:27   ,*Wilburton Station,9852,2,
+Weekday  , S600,3005,600 - 33, 5:40   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3005,600 - 33, 5:41   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3005,600 - 33, 5:44   ,*East Main Station,9857,3,East
+Weekday  , S600,3005,600 - 33, 5:47   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3005,600 - 33, 5:49   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3005,600 - 33, 5:50   ,*Spring District Station,9851,6,East
+Weekday  , S600,3005,600 - 33, 5:52   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3005,600 - 33, 5:56   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3005,600 - 33, 5:58   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4017,600 - 34, 7:45   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4017,600 - 34, 7:46   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4017,600 - 34, 7:48   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4017,600 - 34, 7:52   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4017,600 - 34, 7:54   ,*Spring District Station,9850,5,West
+Weekday  , S600,4017,600 - 34, 7:56   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4017,600 - 34, 7:57   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4017,600 - 34, 8:00   ,*East Main Station,9856,8,West
+Weekday  , S600,4017,600 - 34, 8:03   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4023,600 - 34, 8:45   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4023,600 - 34, 8:46   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4023,600 - 34, 8:48   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4023,600 - 34, 8:52   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4023,600 - 34, 8:54   ,*Spring District Station,9850,5,West
+Weekday  , S600,4023,600 - 34, 8:56   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4023,600 - 34, 8:57   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4023,600 - 34, 9:00   ,*East Main Station,9856,8,West
+Weekday  , S600,4023,600 - 34, 9:03   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,3029,600 - 33, 9:40   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3029,600 - 33, 9:41   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3029,600 - 33, 9:44   ,*East Main Station,9857,3,East
+Weekday  , S600,3029,600 - 33, 9:47   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3029,600 - 33, 9:49   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3029,600 - 33, 9:50   ,*Spring District Station,9851,6,East
+Weekday  , S600,3029,600 - 33, 9:52   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3029,600 - 33, 9:56   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3029,600 - 33, 9:58   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3035,600 - 33,10:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3035,600 - 33,10:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3035,600 - 33,10:44,*East Main Station,9857,3,East
+Weekday  , S600,3035,600 - 33,10:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3035,600 - 33,10:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3035,600 - 33,10:50,*Spring District Station,9851,6,East
+Weekday  , S600,3035,600 - 33,10:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3035,600 - 33,10:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3035,600 - 33,10:58,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4005,600 - 34, 5:45   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4005,600 - 34, 5:46   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4005,600 - 34, 5:48   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4005,600 - 34, 5:52   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4005,600 - 34, 5:54   ,*Spring District Station,9850,5,West
+Weekday  , S600,4005,600 - 34, 5:56   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4005,600 - 34, 5:57   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4005,600 - 34, 6:00   ,*East Main Station,9856,8,West
+Weekday  , S600,4005,600 - 34, 6:03   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,3023,600 - 33, 8:40   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3023,600 - 33, 8:41   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3023,600 - 33, 8:44   ,*East Main Station,9857,3,East
+Weekday  , S600,3023,600 - 33, 8:47   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3023,600 - 33, 8:49   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3023,600 - 33, 8:50   ,*Spring District Station,9851,6,East
+Weekday  , S600,3023,600 - 33, 8:52   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3023,600 - 33, 8:56   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3023,600 - 33, 8:58   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4047,600 - 34,12:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4047,600 - 34,12:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4047,600 - 34,12:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4047,600 - 34,12:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4047,600 - 34,12:54,*Spring District Station,9850,5,West
+Weekday  , S600,4047,600 - 34,12:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4047,600 - 34,12:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4047,600 - 34,13:00,*East Main Station,9856,8,West
+Weekday  , S600,4047,600 - 34,13:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,3011,600 - 33, 6:40   ,*South Bellevue Station,9858,1,East
+Weekday  , S600,3011,600 - 33, 6:41   ,*South Bellevue Station,9858,2,East
+Weekday  , S600,3011,600 - 33, 6:44   ,*East Main Station,9857,3,East
+Weekday  , S600,3011,600 - 33, 6:47   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3011,600 - 33, 6:49   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3011,600 - 33, 6:50   ,*Spring District Station,9851,6,East
+Weekday  , S600,3011,600 - 33, 6:52   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3011,600 - 33, 6:56   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3011,600 - 33, 6:58   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3047,600 - 33,12:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3047,600 - 33,12:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3047,600 - 33,12:44,*East Main Station,9857,3,East
+Weekday  , S600,3047,600 - 33,12:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3047,600 - 33,12:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3047,600 - 33,12:50,*Spring District Station,9851,6,East
+Weekday  , S600,3047,600 - 33,12:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3047,600 - 33,12:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3047,600 - 33,12:58,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4014,600 - 33, 7:15   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4014,600 - 33, 7:16   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4014,600 - 33, 7:18   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4014,600 - 33, 7:22   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4014,600 - 33, 7:24   ,*Spring District Station,9850,5,West
+Weekday  , S600,4014,600 - 33, 7:26   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4014,600 - 33, 7:27   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4014,600 - 33, 7:30   ,*East Main Station,9856,8,West
+Weekday  , S600,4014,600 - 33, 7:33   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4020,600 - 33, 8:15   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4020,600 - 33, 8:16   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4020,600 - 33, 8:18   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4020,600 - 33, 8:22   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4020,600 - 33, 8:24   ,*Spring District Station,9850,5,West
+Weekday  , S600,4020,600 - 33, 8:26   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4020,600 - 33, 8:27   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4020,600 - 33, 8:30   ,*East Main Station,9856,8,West
+Weekday  , S600,4020,600 - 33, 8:33   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4029,600 - 34, 9:45   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4029,600 - 34, 9:46   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4029,600 - 34, 9:48   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4029,600 - 34, 9:52   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4029,600 - 34, 9:54   ,*Spring District Station,9850,5,West
+Weekday  , S600,4029,600 - 34, 9:56   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4029,600 - 34, 9:57   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4029,600 - 34,10:00,*East Main Station,9856,8,West
+Weekday  , S600,4029,600 - 34,10:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,3044,600 - 34,12:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3044,600 - 34,12:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3044,600 - 34,12:14,*East Main Station,9857,3,East
+Weekday  , S600,3044,600 - 34,12:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3044,600 - 34,12:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3044,600 - 34,12:20,*Spring District Station,9851,6,East
+Weekday  , S600,3044,600 - 34,12:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3044,600 - 34,12:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3044,600 - 34,12:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4035,600 - 34,10:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4035,600 - 34,10:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4035,600 - 34,10:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4035,600 - 34,10:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4035,600 - 34,10:54,*Spring District Station,9850,5,West
+Weekday  , S600,4035,600 - 34,10:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4035,600 - 34,10:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4035,600 - 34,11:00,*East Main Station,9856,8,West
+Weekday  , S600,4035,600 - 34,11:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,4041,600 - 34,11:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4041,600 - 34,11:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4041,600 - 34,11:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4041,600 - 34,11:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4041,600 - 34,11:54,*Spring District Station,9850,5,West
+Weekday  , S600,4041,600 - 34,11:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4041,600 - 34,11:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4041,600 - 34,12:00,*East Main Station,9856,8,West
+Weekday  , S600,4041,600 - 34,12:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,3041,600 - 33,11:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3041,600 - 33,11:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3041,600 - 33,11:44,*East Main Station,9857,3,East
+Weekday  , S600,3041,600 - 33,11:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3041,600 - 33,11:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3041,600 - 33,11:50,*Spring District Station,9851,6,East
+Weekday  , S600,3041,600 - 33,11:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3041,600 - 33,11:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3041,600 - 33,11:58,*Redmond Tech Station,9844,9,East
+Weekday  ,,351,600 - 32, 5:10   ,Smart Card Base,15,1,
+Weekday  ,,351,600 - 32, 5:12   ,*Spring District Station,9851,2,
+Weekday  , S600,3007,600 - 32, 6:00   ,*South Bellevue Station,9858,1,East
+Weekday  , S600,3007,600 - 32, 6:01   ,*South Bellevue Station,9858,2,East
+Weekday  , S600,3007,600 - 32, 6:04   ,*East Main Station,9857,3,East
+Weekday  , S600,3007,600 - 32, 6:07   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3007,600 - 32, 6:09   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3007,600 - 32, 6:10   ,*Spring District Station,9851,6,East
+Weekday  , S600,3007,600 - 32, 6:12   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3007,600 - 32, 6:16   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3007,600 - 32, 6:18   ,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4010,600 - 32, 6:35   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4010,600 - 32, 6:36   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4010,600 - 32, 6:38   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4010,600 - 32, 6:42   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4010,600 - 32, 6:44   ,*Spring District Station,9850,5,West
+Weekday  , S600,4010,600 - 32, 6:46   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4010,600 - 32, 6:47   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4010,600 - 32, 6:50   ,*East Main Station,9856,8,West
+Weekday  , S600,4010,600 - 32, 6:53   ,*South Bellevue Station,9858,9,West
+Weekday  , S600,4001,600 - 31, 5:10   ,*Wilburton Station,9852,1,West
+Weekday  , S600,4001,600 - 31, 5:12   ,*Bellevue Downtown Station,9854,2,West
+Weekday  , S600,4001,600 - 31, 5:18   ,*East Main Station,9856,3,West
+Weekday  , S600,4001,600 - 31, 5:24   ,*South Bellevue Station,9859,4,West
+Weekday  , S600,4032,600 - 33,10:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4032,600 - 33,10:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4032,600 - 33,10:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4032,600 - 33,10:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4032,600 - 33,10:24,*Spring District Station,9850,5,West
+Weekday  , S600,4032,600 - 33,10:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4032,600 - 33,10:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4032,600 - 33,10:30,*East Main Station,9856,8,West
+Weekday  , S600,4032,600 - 33,10:33,*South Bellevue Station,9859,9,West
+Weekday  , S600,4044,600 - 33,12:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4044,600 - 33,12:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4044,600 - 33,12:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4044,600 - 33,12:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4044,600 - 33,12:24,*Spring District Station,9850,5,West
+Weekday  , S600,4044,600 - 33,12:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4044,600 - 33,12:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4044,600 - 33,12:30,*East Main Station,9856,8,West
+Weekday  , S600,4044,600 - 33,12:33,*South Bellevue Station,9859,9,West
+Weekday  ,,451,600 - 31, 5:08   ,Smart Card Base,15,1,
+Weekday  ,,451,600 - 31, 5:10   ,*Wilburton Station,9852,2,
+Weekday  , S600,3003,600 - 31, 5:30   ,*South Bellevue Station,9859,1,East
+Weekday  , S600,3003,600 - 31, 5:31   ,*South Bellevue Station,9859,2,East
+Weekday  , S600,3003,600 - 31, 5:34   ,*East Main Station,9857,3,East
+Weekday  , S600,3003,600 - 31, 5:37   ,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3003,600 - 31, 5:39   ,*Wilburton Station,9853,5,East
+Weekday  , S600,3003,600 - 31, 5:40   ,*Spring District Station,9851,6,East
+Weekday  , S600,3003,600 - 31, 5:42   ,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3003,600 - 31, 5:46   ,*Overlake Village Station,9847,8,East
+Weekday  , S600,3003,600 - 31, 5:48   ,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4007,600 - 31, 6:05   ,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4007,600 - 31, 6:06   ,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4007,600 - 31, 6:08   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4007,600 - 31, 6:12   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4007,600 - 31, 6:14   ,*Spring District Station,9850,5,West
+Weekday  , S600,4007,600 - 31, 6:16   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4007,600 - 31, 6:17   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4007,600 - 31, 6:20   ,*East Main Station,9856,8,West
+Weekday  , S600,4007,600 - 31, 6:23   ,*South Bellevue Station,9859,9,West
+Weekday  , S600,4038,600 - 33,11:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4038,600 - 33,11:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4038,600 - 33,11:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4038,600 - 33,11:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4038,600 - 33,11:24,*Spring District Station,9850,5,West
+Weekday  , S600,4038,600 - 33,11:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4038,600 - 33,11:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4038,600 - 33,11:30,*East Main Station,9856,8,West
+Weekday  , S600,4038,600 - 33,11:33,*South Bellevue Station,9859,9,West
+Weekday  , S600,3001,600 - 32, 5:12   ,*Spring District Station,9851,1,East
+Weekday  , S600,3001,600 - 32, 5:16   ,*Bel-Red / 130th Station,9849,2,East
+Weekday  , S600,3001,600 - 32, 5:24   ,*Overlake Village Station,9847,3,East
+Weekday  , S600,3001,600 - 32, 5:28   ,*Redmond Tech Station,9844,4,East
+Weekday  , S600,4003,600 - 32, 5:35   ,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4003,600 - 32, 5:36   ,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4003,600 - 32, 5:38   ,*Overlake Village Station,9846,3,West
+Weekday  , S600,4003,600 - 32, 5:42   ,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4003,600 - 32, 5:44   ,*Spring District Station,9850,5,West
+Weekday  , S600,4003,600 - 32, 5:46   ,*Wilburton Station,9852,6,West
+Weekday  , S600,4003,600 - 32, 5:47   ,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4003,600 - 32, 5:50   ,*East Main Station,9856,8,West
+Weekday  , S600,4003,600 - 32, 5:53   ,*South Bellevue Station,9858,9,West
+Weekday  , S600,3074,600 - 34,17:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3074,600 - 34,17:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3074,600 - 34,17:14,*East Main Station,9857,3,East
+Weekday  , S600,3074,600 - 34,17:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3074,600 - 34,17:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3074,600 - 34,17:20,*Spring District Station,9851,6,East
+Weekday  , S600,3074,600 - 34,17:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3074,600 - 34,17:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3074,600 - 34,17:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3092,600 - 34,20:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3092,600 - 34,20:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3092,600 - 34,20:14,*East Main Station,9857,3,East
+Weekday  , S600,3092,600 - 34,20:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3092,600 - 34,20:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3092,600 - 34,20:20,*Spring District Station,9851,6,East
+Weekday  , S600,3092,600 - 34,20:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3092,600 - 34,20:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3092,600 - 34,20:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4078,600 - 36,17:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4078,600 - 36,17:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4078,600 - 36,17:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4078,600 - 36,18:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4078,600 - 36,18:04,*Spring District Station,9850,5,West
+Weekday  , S600,4078,600 - 36,18:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4078,600 - 36,18:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4078,600 - 36,18:10,*East Main Station,9856,8,West
+Weekday  , S600,4078,600 - 36,18:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,3062,600 - 34,15:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3062,600 - 34,15:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3062,600 - 34,15:14,*East Main Station,9857,3,East
+Weekday  , S600,3062,600 - 34,15:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3062,600 - 34,15:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3062,600 - 34,15:20,*Spring District Station,9851,6,East
+Weekday  , S600,3062,600 - 34,15:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3062,600 - 34,15:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3062,600 - 34,15:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4092,600 - 33,20:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4092,600 - 33,20:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4092,600 - 33,20:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4092,600 - 33,20:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4092,600 - 33,20:24,*Spring District Station,9850,5,West
+Weekday  , S600,4092,600 - 33,20:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4092,600 - 33,20:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4092,600 - 33,20:30,*East Main Station,9856,8,West
+Weekday  , S600,4092,600 - 33,20:33,*South Bellevue Station,9859,9,West
+Weekday  , S600,3056,600 - 34,14:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3056,600 - 34,14:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3056,600 - 34,14:14,*East Main Station,9857,3,East
+Weekday  , S600,3056,600 - 34,14:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3056,600 - 34,14:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3056,600 - 34,14:20,*Spring District Station,9851,6,East
+Weekday  , S600,3056,600 - 34,14:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3056,600 - 34,14:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3056,600 - 34,14:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3068,600 - 34,16:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3068,600 - 34,16:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3068,600 - 34,16:14,*East Main Station,9857,3,East
+Weekday  , S600,3068,600 - 34,16:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3068,600 - 34,16:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3068,600 - 34,16:20,*Spring District Station,9851,6,East
+Weekday  , S600,3068,600 - 34,16:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3068,600 - 34,16:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3068,600 - 34,16:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4054,600 - 36,13:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4054,600 - 36,13:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4054,600 - 36,13:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4054,600 - 36,14:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4054,600 - 36,14:04,*Spring District Station,9850,5,West
+Weekday  , S600,4054,600 - 36,14:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4054,600 - 36,14:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4054,600 - 36,14:10,*East Main Station,9856,8,West
+Weekday  , S600,4054,600 - 36,14:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,3050,600 - 34,13:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3050,600 - 34,13:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3050,600 - 34,13:14,*East Main Station,9857,3,East
+Weekday  , S600,3050,600 - 34,13:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3050,600 - 34,13:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3050,600 - 34,13:20,*Spring District Station,9851,6,East
+Weekday  , S600,3050,600 - 34,13:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3050,600 - 34,13:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3050,600 - 34,13:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4086,600 - 33,19:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4086,600 - 33,19:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4086,600 - 33,19:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4086,600 - 33,19:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4086,600 - 33,19:24,*Spring District Station,9850,5,West
+Weekday  , S600,4086,600 - 33,19:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4086,600 - 33,19:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4086,600 - 33,19:30,*East Main Station,9856,8,West
+Weekday  , S600,4086,600 - 33,19:33,*South Bellevue Station,9859,9,West
+Weekday  , S600,4089,600 - 34,19:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4089,600 - 34,19:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4089,600 - 34,19:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4089,600 - 34,19:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4089,600 - 34,19:54,*Spring District Station,9850,5,West
+Weekday  , S600,4089,600 - 34,19:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4089,600 - 34,19:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4089,600 - 34,20:00,*East Main Station,9856,8,West
+Weekday  , S600,4089,600 - 34,20:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,3055,600 - 32,14:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3055,600 - 32,14:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3055,600 - 32,14:04,*East Main Station,9857,3,East
+Weekday  , S600,3055,600 - 32,14:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3055,600 - 32,14:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3055,600 - 32,14:10,*Spring District Station,9851,6,East
+Weekday  , S600,3055,600 - 32,14:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3055,600 - 32,14:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3055,600 - 32,14:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3086,600 - 34,19:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3086,600 - 34,19:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3086,600 - 34,19:14,*East Main Station,9857,3,East
+Weekday  , S600,3086,600 - 34,19:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3086,600 - 34,19:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3086,600 - 34,19:20,*Spring District Station,9851,6,East
+Weekday  , S600,3086,600 - 34,19:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3086,600 - 34,19:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3086,600 - 34,19:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4062,600 - 33,15:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4062,600 - 33,15:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4062,600 - 33,15:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4062,600 - 33,15:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4062,600 - 33,15:24,*Spring District Station,9850,5,West
+Weekday  , S600,4062,600 - 33,15:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4062,600 - 33,15:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4062,600 - 33,15:30,*East Main Station,9856,8,West
+Weekday  , S600,4062,600 - 33,15:33,*South Bellevue Station,9859,9,West
+Weekday  , S600,3095,600 - 33,20:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3095,600 - 33,20:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3095,600 - 33,20:44,*East Main Station,9857,3,East
+Weekday  , S600,3095,600 - 33,20:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3095,600 - 33,20:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3095,600 - 33,20:50,*Spring District Station,9851,6,East
+Weekday  , S600,3095,600 - 33,20:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3095,600 - 33,20:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3095,600 - 33,20:58,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4060,600 - 36,14:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4060,600 - 36,14:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4060,600 - 36,14:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4060,600 - 36,15:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4060,600 - 36,15:04,*Spring District Station,9850,5,West
+Weekday  , S600,4060,600 - 36,15:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4060,600 - 36,15:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4060,600 - 36,15:10,*East Main Station,9856,8,West
+Weekday  , S600,4060,600 - 36,15:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,4098,600 - 33,21:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4098,600 - 33,21:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4098,600 - 33,21:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4098,600 - 33,21:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4098,600 - 33,21:24,*Spring District Station,9850,5,West
+Weekday  , S600,4098,600 - 33,21:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4098,600 - 33,21:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4098,600 - 33,21:30,*East Main Station,9856,8,West
+Weekday  , S600,4098,600 - 33,21:33,*South Bellevue Station,9859,9,West
+Weekday  , S600,3053,600 - 33,13:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3053,600 - 33,13:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3053,600 - 33,13:44,*East Main Station,9857,3,East
+Weekday  , S600,3053,600 - 33,13:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3053,600 - 33,13:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3053,600 - 33,13:50,*Spring District Station,9851,6,East
+Weekday  , S600,3053,600 - 33,13:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3053,600 - 33,13:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3053,600 - 33,13:58,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4050,600 - 33,13:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4050,600 - 33,13:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4050,600 - 33,13:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4050,600 - 33,13:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4050,600 - 33,13:24,*Spring District Station,9850,5,West
+Weekday  , S600,4050,600 - 33,13:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4050,600 - 33,13:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4050,600 - 33,13:30,*East Main Station,9856,8,West
+Weekday  , S600,4050,600 - 33,13:33,*South Bellevue Station,9859,9,West
+Weekday  , S600,4068,600 - 33,16:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4068,600 - 33,16:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4068,600 - 33,16:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4068,600 - 33,16:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4068,600 - 33,16:24,*Spring District Station,9850,5,West
+Weekday  , S600,4068,600 - 33,16:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4068,600 - 33,16:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4068,600 - 33,16:30,*East Main Station,9856,8,West
+Weekday  , S600,4068,600 - 33,16:33,*South Bellevue Station,9859,9,West
+Weekday  , S600,3071,600 - 33,16:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3071,600 - 33,16:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3071,600 - 33,16:44,*East Main Station,9857,3,East
+Weekday  , S600,3071,600 - 33,16:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3071,600 - 33,16:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3071,600 - 33,16:50,*Spring District Station,9851,6,East
+Weekday  , S600,3071,600 - 33,16:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3071,600 - 33,16:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3071,600 - 33,16:58,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4051,600 - 35,13:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4051,600 - 35,13:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4051,600 - 35,13:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4051,600 - 35,13:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4051,600 - 35,13:34,*Spring District Station,9850,5,West
+Weekday  , S600,4051,600 - 35,13:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4051,600 - 35,13:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4051,600 - 35,13:40,*East Main Station,9856,8,West
+Weekday  , S600,4051,600 - 35,13:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,3077,600 - 33,17:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3077,600 - 33,17:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3077,600 - 33,17:44,*East Main Station,9857,3,East
+Weekday  , S600,3077,600 - 33,17:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3077,600 - 33,17:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3077,600 - 33,17:50,*Spring District Station,9851,6,East
+Weekday  , S600,3077,600 - 33,17:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3077,600 - 33,17:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3077,600 - 33,17:58,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4056,600 - 33,14:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4056,600 - 33,14:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4056,600 - 33,14:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4056,600 - 33,14:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4056,600 - 33,14:24,*Spring District Station,9850,5,West
+Weekday  , S600,4056,600 - 33,14:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4056,600 - 33,14:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4056,600 - 33,14:30,*East Main Station,9856,8,West
+Weekday  , S600,4056,600 - 33,14:33,*South Bellevue Station,9859,9,West
+Weekday  , S600,4080,600 - 33,18:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4080,600 - 33,18:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4080,600 - 33,18:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4080,600 - 33,18:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4080,600 - 33,18:24,*Spring District Station,9850,5,West
+Weekday  , S600,4080,600 - 33,18:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4080,600 - 33,18:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4080,600 - 33,18:30,*East Main Station,9856,8,West
+Weekday  , S600,4080,600 - 33,18:33,*South Bellevue Station,9859,9,West
+Weekday  ,,454,600 - 34,21:47,*Spring District Station,9850,1,
+Weekday  ,,454,600 - 34,21:49,Smart Card Base,15,2,
+Weekday  , S600,401,600 - 34,21:38,*Redmond Tech Station,9845,1,West
+Weekday  , S600,401,600 - 34,21:39,*Redmond Tech Station,9845,2,West
+Weekday  , S600,401,600 - 34,21:41,*Overlake Village Station,9846,3,West
+Weekday  , S600,401,600 - 34,21:45,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,401,600 - 34,21:47,*Spring District Station,9850,5,West
+Weekday  , S600,3065,600 - 33,15:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3065,600 - 33,15:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3065,600 - 33,15:44,*East Main Station,9857,3,East
+Weekday  , S600,3065,600 - 33,15:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3065,600 - 33,15:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3065,600 - 33,15:50,*Spring District Station,9851,6,East
+Weekday  , S600,3065,600 - 33,15:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3065,600 - 33,15:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3065,600 - 33,15:58,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4072,600 - 36,16:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4072,600 - 36,16:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4072,600 - 36,16:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4072,600 - 36,17:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4072,600 - 36,17:04,*Spring District Station,9850,5,West
+Weekday  , S600,4072,600 - 36,17:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4072,600 - 36,17:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4072,600 - 36,17:10,*East Main Station,9856,8,West
+Weekday  , S600,4072,600 - 36,17:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,4066,600 - 36,15:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4066,600 - 36,15:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4066,600 - 36,15:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4066,600 - 36,16:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4066,600 - 36,16:04,*Spring District Station,9850,5,West
+Weekday  , S600,4066,600 - 36,16:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4066,600 - 36,16:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4066,600 - 36,16:10,*East Main Station,9856,8,West
+Weekday  , S600,4066,600 - 36,16:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,301,600 - 33,21:39,*South Bellevue Station,9859,1,East
+Weekday  , S600,301,600 - 33,21:40,*South Bellevue Station,9859,2,East
+Weekday  , S600,301,600 - 33,21:43,*East Main Station,9857,3,East
+Weekday  , S600,301,600 - 33,21:46,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,301,600 - 33,21:48,*Wilburton Station,9853,5,East
+Weekday  , S600,3098,600 - 34,21:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3098,600 - 34,21:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3098,600 - 34,21:14,*East Main Station,9857,3,East
+Weekday  , S600,3098,600 - 34,21:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3098,600 - 34,21:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3098,600 - 34,21:20,*Spring District Station,9851,6,East
+Weekday  , S600,3098,600 - 34,21:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3098,600 - 34,21:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3098,600 - 34,21:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4095,600 - 34,20:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4095,600 - 34,20:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4095,600 - 34,20:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4095,600 - 34,20:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4095,600 - 34,20:54,*Spring District Station,9850,5,West
+Weekday  , S600,4095,600 - 34,20:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4095,600 - 34,20:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4095,600 - 34,21:00,*East Main Station,9856,8,West
+Weekday  , S600,4095,600 - 34,21:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,3059,600 - 33,14:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3059,600 - 33,14:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3059,600 - 33,14:44,*East Main Station,9857,3,East
+Weekday  , S600,3059,600 - 33,14:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3059,600 - 33,14:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3059,600 - 33,14:50,*Spring District Station,9851,6,East
+Weekday  , S600,3059,600 - 33,14:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3059,600 - 33,14:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3059,600 - 33,14:58,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4074,600 - 33,17:15,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4074,600 - 33,17:16,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4074,600 - 33,17:18,*Overlake Village Station,9846,3,West
+Weekday  , S600,4074,600 - 33,17:22,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4074,600 - 33,17:24,*Spring District Station,9850,5,West
+Weekday  , S600,4074,600 - 33,17:26,*Wilburton Station,9852,6,West
+Weekday  , S600,4074,600 - 33,17:27,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4074,600 - 33,17:30,*East Main Station,9856,8,West
+Weekday  , S600,4074,600 - 33,17:33,*South Bellevue Station,9859,9,West
+Weekday  ,,354,600 - 33,21:48,*Wilburton Station,9853,1,
+Weekday  ,,354,600 - 33,21:50,Smart Card Base,15,2,
+Weekday  , S600,3089,600 - 33,19:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3089,600 - 33,19:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3089,600 - 33,19:44,*East Main Station,9857,3,East
+Weekday  , S600,3089,600 - 33,19:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3089,600 - 33,19:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3089,600 - 33,19:50,*Spring District Station,9851,6,East
+Weekday  , S600,3089,600 - 33,19:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3089,600 - 33,19:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3089,600 - 33,19:58,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3083,600 - 33,18:40,*South Bellevue Station,9859,1,East
+Weekday  , S600,3083,600 - 33,18:41,*South Bellevue Station,9859,2,East
+Weekday  , S600,3083,600 - 33,18:44,*East Main Station,9857,3,East
+Weekday  , S600,3083,600 - 33,18:47,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3083,600 - 33,18:49,*Wilburton Station,9853,5,East
+Weekday  , S600,3083,600 - 33,18:50,*Spring District Station,9851,6,East
+Weekday  , S600,3083,600 - 33,18:52,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3083,600 - 33,18:56,*Overlake Village Station,9847,8,East
+Weekday  , S600,3083,600 - 33,18:58,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3080,600 - 34,18:10,*South Bellevue Station,9859,1,East
+Weekday  , S600,3080,600 - 34,18:11,*South Bellevue Station,9859,2,East
+Weekday  , S600,3080,600 - 34,18:14,*East Main Station,9857,3,East
+Weekday  , S600,3080,600 - 34,18:17,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3080,600 - 34,18:19,*Wilburton Station,9853,5,East
+Weekday  , S600,3080,600 - 34,18:20,*Spring District Station,9851,6,East
+Weekday  , S600,3080,600 - 34,18:22,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3080,600 - 34,18:26,*Overlake Village Station,9847,8,East
+Weekday  , S600,3080,600 - 34,18:28,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4071,600 - 34,16:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4071,600 - 34,16:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4071,600 - 34,16:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4071,600 - 34,16:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4071,600 - 34,16:54,*Spring District Station,9850,5,West
+Weekday  , S600,4071,600 - 34,16:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4071,600 - 34,16:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4071,600 - 34,17:00,*East Main Station,9856,8,West
+Weekday  , S600,4071,600 - 34,17:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,4053,600 - 34,13:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4053,600 - 34,13:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4053,600 - 34,13:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4053,600 - 34,13:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4053,600 - 34,13:54,*Spring District Station,9850,5,West
+Weekday  , S600,4053,600 - 34,13:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4053,600 - 34,13:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4053,600 - 34,14:00,*East Main Station,9856,8,West
+Weekday  , S600,4053,600 - 34,14:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,4059,600 - 34,14:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4059,600 - 34,14:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4059,600 - 34,14:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4059,600 - 34,14:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4059,600 - 34,14:54,*Spring District Station,9850,5,West
+Weekday  , S600,4059,600 - 34,14:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4059,600 - 34,14:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4059,600 - 34,15:00,*East Main Station,9856,8,West
+Weekday  , S600,4059,600 - 34,15:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,4065,600 - 34,15:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4065,600 - 34,15:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4065,600 - 34,15:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4065,600 - 34,15:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4065,600 - 34,15:54,*Spring District Station,9850,5,West
+Weekday  , S600,4065,600 - 34,15:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4065,600 - 34,15:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4065,600 - 34,16:00,*East Main Station,9856,8,West
+Weekday  , S600,4065,600 - 34,16:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,4077,600 - 34,17:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4077,600 - 34,17:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4077,600 - 34,17:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4077,600 - 34,17:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4077,600 - 34,17:54,*Spring District Station,9850,5,West
+Weekday  , S600,4077,600 - 34,17:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4077,600 - 34,17:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4077,600 - 34,18:00,*East Main Station,9856,8,West
+Weekday  , S600,4077,600 - 34,18:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,4083,600 - 34,18:45,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4083,600 - 34,18:46,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4083,600 - 34,18:48,*Overlake Village Station,9846,3,West
+Weekday  , S600,4083,600 - 34,18:52,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4083,600 - 34,18:54,*Spring District Station,9850,5,West
+Weekday  , S600,4083,600 - 34,18:56,*Wilburton Station,9852,6,West
+Weekday  , S600,4083,600 - 34,18:57,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4083,600 - 34,19:00,*East Main Station,9856,8,West
+Weekday  , S600,4083,600 - 34,19:03,*South Bellevue Station,9859,9,West
+Weekday  , S600,3031,600 - 32,10:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3031,600 - 32,10:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3031,600 - 32,10:04,*East Main Station,9857,3,East
+Weekday  , S600,3031,600 - 32,10:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3031,600 - 32,10:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3031,600 - 32,10:10,*Spring District Station,9851,6,East
+Weekday  , S600,3031,600 - 32,10:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3031,600 - 32,10:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3031,600 - 32,10:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3043,600 - 32,12:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3043,600 - 32,12:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3043,600 - 32,12:04,*East Main Station,9857,3,East
+Weekday  , S600,3043,600 - 32,12:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3043,600 - 32,12:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3043,600 - 32,12:10,*Spring District Station,9851,6,East
+Weekday  , S600,3043,600 - 32,12:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3043,600 - 32,12:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3043,600 - 32,12:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3049,600 - 32,13:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3049,600 - 32,13:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3049,600 - 32,13:04,*East Main Station,9857,3,East
+Weekday  , S600,3049,600 - 32,13:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3049,600 - 32,13:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3049,600 - 32,13:10,*Spring District Station,9851,6,East
+Weekday  , S600,3049,600 - 32,13:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3049,600 - 32,13:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3049,600 - 32,13:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3037,600 - 32,11:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3037,600 - 32,11:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3037,600 - 32,11:04,*East Main Station,9857,3,East
+Weekday  , S600,3037,600 - 32,11:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3037,600 - 32,11:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3037,600 - 32,11:10,*Spring District Station,9851,6,East
+Weekday  , S600,3037,600 - 32,11:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3037,600 - 32,11:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3037,600 - 32,11:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4034,600 - 32,10:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4034,600 - 32,10:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4034,600 - 32,10:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4034,600 - 32,10:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4034,600 - 32,10:44,*Spring District Station,9850,5,West
+Weekday  , S600,4034,600 - 32,10:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4034,600 - 32,10:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4034,600 - 32,10:50,*East Main Station,9856,8,West
+Weekday  , S600,4034,600 - 32,10:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,4040,600 - 32,11:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4040,600 - 32,11:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4040,600 - 32,11:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4040,600 - 32,11:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4040,600 - 32,11:44,*Spring District Station,9850,5,West
+Weekday  , S600,4040,600 - 32,11:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4040,600 - 32,11:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4040,600 - 32,11:50,*East Main Station,9856,8,West
+Weekday  , S600,4040,600 - 32,11:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,3097,600 - 32,21:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3097,600 - 32,21:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3097,600 - 32,21:04,*East Main Station,9857,3,East
+Weekday  , S600,3097,600 - 32,21:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3097,600 - 32,21:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3097,600 - 32,21:10,*Spring District Station,9851,6,East
+Weekday  , S600,3097,600 - 32,21:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3097,600 - 32,21:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3097,600 - 32,21:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4091,600 - 31,20:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4091,600 - 31,20:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4091,600 - 31,20:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4091,600 - 31,20:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4091,600 - 31,20:14,*Spring District Station,9850,5,West
+Weekday  , S600,4091,600 - 31,20:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4091,600 - 31,20:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4091,600 - 31,20:20,*East Main Station,9856,8,West
+Weekday  , S600,4091,600 - 31,20:23,*South Bellevue Station,9859,9,West
+Weekday  ,,456,600 - 31,22:03,*Spring District Station,9850,1,
+Weekday  ,,456,600 - 31,22:05,Smart Card Base,15,2,
+Weekday  , S600,4085,600 - 31,19:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4085,600 - 31,19:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4085,600 - 31,19:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4085,600 - 31,19:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4085,600 - 31,19:14,*Spring District Station,9850,5,West
+Weekday  , S600,4085,600 - 31,19:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4085,600 - 31,19:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4085,600 - 31,19:20,*East Main Station,9856,8,West
+Weekday  , S600,4085,600 - 31,19:23,*South Bellevue Station,9859,9,West
+Weekday  , S600,3061,600 - 32,15:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3061,600 - 32,15:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3061,600 - 32,15:04,*East Main Station,9857,3,East
+Weekday  , S600,3061,600 - 32,15:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3061,600 - 32,15:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3061,600 - 32,15:10,*Spring District Station,9851,6,East
+Weekday  , S600,3061,600 - 32,15:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3061,600 - 32,15:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3061,600 - 32,15:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4061,600 - 31,15:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4061,600 - 31,15:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4061,600 - 31,15:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4061,600 - 31,15:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4061,600 - 31,15:14,*Spring District Station,9850,5,West
+Weekday  , S600,4061,600 - 31,15:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4061,600 - 31,15:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4061,600 - 31,15:20,*East Main Station,9856,8,West
+Weekday  , S600,4061,600 - 31,15:23,*South Bellevue Station,9859,9,West
+Weekday  , S600,4088,600 - 32,19:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4088,600 - 32,19:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4088,600 - 32,19:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4088,600 - 32,19:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4088,600 - 32,19:44,*Spring District Station,9850,5,West
+Weekday  , S600,4088,600 - 32,19:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4088,600 - 32,19:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4088,600 - 32,19:50,*East Main Station,9856,8,West
+Weekday  , S600,4088,600 - 32,19:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,4087,600 - 35,19:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4087,600 - 35,19:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4087,600 - 35,19:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4087,600 - 35,19:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4087,600 - 35,19:34,*Spring District Station,9850,5,West
+Weekday  , S600,4087,600 - 35,19:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4087,600 - 35,19:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4087,600 - 35,19:40,*East Main Station,9856,8,West
+Weekday  , S600,4087,600 - 35,19:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,4099,600 - 35,21:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4099,600 - 35,21:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4099,600 - 35,21:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4099,600 - 35,21:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4099,600 - 35,21:34,*Spring District Station,9850,5,West
+Weekday  , S600,4099,600 - 35,21:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4099,600 - 35,21:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4099,600 - 35,21:40,*East Main Station,9856,8,West
+Weekday  , S600,4099,600 - 35,21:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,3079,600 - 32,18:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3079,600 - 32,18:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3079,600 - 32,18:04,*East Main Station,9857,3,East
+Weekday  , S600,3079,600 - 32,18:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3079,600 - 32,18:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3079,600 - 32,18:10,*Spring District Station,9851,6,East
+Weekday  , S600,3079,600 - 32,18:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3079,600 - 32,18:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3079,600 - 32,18:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3094,600 - 31,20:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3094,600 - 31,20:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3094,600 - 31,20:34,*East Main Station,9857,3,East
+Weekday  , S600,3094,600 - 31,20:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3094,600 - 31,20:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3094,600 - 31,20:40,*Spring District Station,9851,6,East
+Weekday  , S600,3094,600 - 31,20:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3094,600 - 31,20:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3094,600 - 31,20:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3085,600 - 32,19:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3085,600 - 32,19:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3085,600 - 32,19:04,*East Main Station,9857,3,East
+Weekday  , S600,3085,600 - 32,19:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3085,600 - 32,19:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3085,600 - 32,19:10,*Spring District Station,9851,6,East
+Weekday  , S600,3085,600 - 32,19:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3085,600 - 32,19:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3085,600 - 32,19:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3070,600 - 31,16:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3070,600 - 31,16:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3070,600 - 31,16:34,*East Main Station,9857,3,East
+Weekday  , S600,3070,600 - 31,16:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3070,600 - 31,16:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3070,600 - 31,16:40,*Spring District Station,9851,6,East
+Weekday  , S600,3070,600 - 31,16:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3070,600 - 31,16:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3070,600 - 31,16:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3090,600 - 35,19:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3090,600 - 35,19:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3090,600 - 35,19:54,*East Main Station,9857,3,East
+Weekday  , S600,3090,600 - 35,19:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3090,600 - 35,19:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3090,600 - 35,20:00,*Spring District Station,9851,6,East
+Weekday  , S600,3090,600 - 35,20:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3090,600 - 35,20:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3090,600 - 35,20:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3096,600 - 35,20:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3096,600 - 35,20:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3096,600 - 35,20:54,*East Main Station,9857,3,East
+Weekday  , S600,3096,600 - 35,20:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3096,600 - 35,20:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3096,600 - 35,21:00,*Spring District Station,9851,6,East
+Weekday  , S600,3096,600 - 35,21:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3096,600 - 35,21:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3096,600 - 35,21:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3082,600 - 31,18:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3082,600 - 31,18:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3082,600 - 31,18:34,*East Main Station,9857,3,East
+Weekday  , S600,3082,600 - 31,18:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3082,600 - 31,18:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3082,600 - 31,18:40,*Spring District Station,9851,6,East
+Weekday  , S600,3082,600 - 31,18:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3082,600 - 31,18:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3082,600 - 31,18:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3072,600 - 35,16:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3072,600 - 35,16:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3072,600 - 35,16:54,*East Main Station,9857,3,East
+Weekday  , S600,3072,600 - 35,16:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3072,600 - 35,16:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3072,600 - 35,17:00,*Spring District Station,9851,6,East
+Weekday  , S600,3072,600 - 35,17:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3072,600 - 35,17:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3072,600 - 35,17:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3100,600 - 31,21:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3100,600 - 31,21:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3100,600 - 31,21:34,*East Main Station,9857,3,East
+Weekday  , S600,3100,600 - 31,21:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3100,600 - 31,21:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3100,600 - 31,21:40,*Spring District Station,9851,6,East
+Weekday  , S600,3100,600 - 31,21:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3100,600 - 31,21:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3100,600 - 31,21:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4097,600 - 31,21:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4097,600 - 31,21:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4097,600 - 31,21:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4097,600 - 31,21:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4097,600 - 31,21:14,*Spring District Station,9850,5,West
+Weekday  , S600,4097,600 - 31,21:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4097,600 - 31,21:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4097,600 - 31,21:20,*East Main Station,9856,8,West
+Weekday  , S600,4097,600 - 31,21:23,*South Bellevue Station,9859,9,West
+Weekday  , S600,4079,600 - 31,18:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4079,600 - 31,18:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4079,600 - 31,18:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4079,600 - 31,18:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4079,600 - 31,18:14,*Spring District Station,9850,5,West
+Weekday  , S600,4079,600 - 31,18:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4079,600 - 31,18:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4079,600 - 31,18:20,*East Main Station,9856,8,West
+Weekday  , S600,4079,600 - 31,18:23,*South Bellevue Station,9859,9,West
+Weekday  , S600,4094,600 - 32,20:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4094,600 - 32,20:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4094,600 - 32,20:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4094,600 - 32,20:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4094,600 - 32,20:44,*Spring District Station,9850,5,West
+Weekday  , S600,4094,600 - 32,20:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4094,600 - 32,20:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4094,600 - 32,20:50,*East Main Station,9856,8,West
+Weekday  , S600,4094,600 - 32,20:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,3091,600 - 32,20:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3091,600 - 32,20:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3091,600 - 32,20:04,*East Main Station,9857,3,East
+Weekday  , S600,3091,600 - 32,20:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3091,600 - 32,20:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3091,600 - 32,20:10,*Spring District Station,9851,6,East
+Weekday  , S600,3091,600 - 32,20:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3091,600 - 32,20:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3091,600 - 32,20:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,303,600 - 32,21:59,*South Bellevue Station,9859,1,East
+Weekday  , S600,303,600 - 32,22:00,*South Bellevue Station,9859,2,East
+Weekday  , S600,303,600 - 32,22:03,*East Main Station,9857,3,East
+Weekday  , S600,303,600 - 32,22:06,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,303,600 - 32,22:08,*Wilburton Station,9853,5,East
+Weekday  , S600,4100,600 - 32,21:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4100,600 - 32,21:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4100,600 - 32,21:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4100,600 - 32,21:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4100,600 - 32,21:44,*Spring District Station,9850,5,West
+Weekday  , S600,4100,600 - 32,21:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4100,600 - 32,21:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4100,600 - 32,21:50,*East Main Station,9856,8,West
+Weekday  , S600,4100,600 - 32,21:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,4082,600 - 32,18:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4082,600 - 32,18:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4082,600 - 32,18:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4082,600 - 32,18:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4082,600 - 32,18:44,*Spring District Station,9850,5,West
+Weekday  , S600,4082,600 - 32,18:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4082,600 - 32,18:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4082,600 - 32,18:50,*East Main Station,9856,8,West
+Weekday  , S600,4082,600 - 32,18:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,4073,600 - 31,17:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4073,600 - 31,17:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4073,600 - 31,17:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4073,600 - 31,17:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4073,600 - 31,17:14,*Spring District Station,9850,5,West
+Weekday  , S600,4073,600 - 31,17:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4073,600 - 31,17:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4073,600 - 31,17:20,*East Main Station,9856,8,West
+Weekday  , S600,4073,600 - 31,17:23,*South Bellevue Station,9859,9,West
+Weekday  ,,356,600 - 32,22:08,*Wilburton Station,9853,1,
+Weekday  ,,356,600 - 32,22:10,Smart Card Base,15,2,
+Weekday  , S600,403,600 - 31,21:54,*Redmond Tech Station,9845,1,West
+Weekday  , S600,403,600 - 31,21:55,*Redmond Tech Station,9845,2,West
+Weekday  , S600,403,600 - 31,21:57,*Overlake Village Station,9846,3,West
+Weekday  , S600,403,600 - 31,22:01,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,403,600 - 31,22:03,*Spring District Station,9850,5,West
+Weekday  , S600,3076,600 - 31,17:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3076,600 - 31,17:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3076,600 - 31,17:34,*East Main Station,9857,3,East
+Weekday  , S600,3076,600 - 31,17:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3076,600 - 31,17:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3076,600 - 31,17:40,*Spring District Station,9851,6,East
+Weekday  , S600,3076,600 - 31,17:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3076,600 - 31,17:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3076,600 - 31,17:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3073,600 - 32,17:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3073,600 - 32,17:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3073,600 - 32,17:04,*East Main Station,9857,3,East
+Weekday  , S600,3073,600 - 32,17:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3073,600 - 32,17:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3073,600 - 32,17:10,*Spring District Station,9851,6,East
+Weekday  , S600,3073,600 - 32,17:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3073,600 - 32,17:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3073,600 - 32,17:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4070,600 - 32,16:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4070,600 - 32,16:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4070,600 - 32,16:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4070,600 - 32,16:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4070,600 - 32,16:44,*Spring District Station,9850,5,West
+Weekday  , S600,4070,600 - 32,16:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4070,600 - 32,16:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4070,600 - 32,16:50,*East Main Station,9856,8,West
+Weekday  , S600,4070,600 - 32,16:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,4076,600 - 32,17:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4076,600 - 32,17:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4076,600 - 32,17:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4076,600 - 32,17:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4076,600 - 32,17:44,*Spring District Station,9850,5,West
+Weekday  , S600,4076,600 - 32,17:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4076,600 - 32,17:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4076,600 - 32,17:50,*East Main Station,9856,8,West
+Weekday  , S600,4076,600 - 32,17:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,3067,600 - 32,16:00,*South Bellevue Station,9859,1,East
+Weekday  , S600,3067,600 - 32,16:01,*South Bellevue Station,9859,2,East
+Weekday  , S600,3067,600 - 32,16:04,*East Main Station,9857,3,East
+Weekday  , S600,3067,600 - 32,16:07,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3067,600 - 32,16:09,*Wilburton Station,9853,5,East
+Weekday  , S600,3067,600 - 32,16:10,*Spring District Station,9851,6,East
+Weekday  , S600,3067,600 - 32,16:12,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3067,600 - 32,16:16,*Overlake Village Station,9847,8,East
+Weekday  , S600,3067,600 - 32,16:18,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4067,600 - 31,16:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4067,600 - 31,16:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4067,600 - 31,16:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4067,600 - 31,16:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4067,600 - 31,16:14,*Spring District Station,9850,5,West
+Weekday  , S600,4067,600 - 31,16:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4067,600 - 31,16:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4067,600 - 31,16:20,*East Main Station,9856,8,West
+Weekday  , S600,4067,600 - 31,16:23,*South Bellevue Station,9859,9,West
+Weekday  , S600,3088,600 - 31,19:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3088,600 - 31,19:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3088,600 - 31,19:34,*East Main Station,9857,3,East
+Weekday  , S600,3088,600 - 31,19:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3088,600 - 31,19:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3088,600 - 31,19:40,*Spring District Station,9851,6,East
+Weekday  , S600,3088,600 - 31,19:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3088,600 - 31,19:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3088,600 - 31,19:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3064,600 - 31,15:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3064,600 - 31,15:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3064,600 - 31,15:34,*East Main Station,9857,3,East
+Weekday  , S600,3064,600 - 31,15:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3064,600 - 31,15:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3064,600 - 31,15:40,*Spring District Station,9851,6,East
+Weekday  , S600,3064,600 - 31,15:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3064,600 - 31,15:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3064,600 - 31,15:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4064,600 - 32,15:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4064,600 - 32,15:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4064,600 - 32,15:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4064,600 - 32,15:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4064,600 - 32,15:44,*Spring District Station,9850,5,West
+Weekday  , S600,4064,600 - 32,15:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4064,600 - 32,15:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4064,600 - 32,15:50,*East Main Station,9856,8,West
+Weekday  , S600,4064,600 - 32,15:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,4093,600 - 35,20:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4093,600 - 35,20:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4093,600 - 35,20:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4093,600 - 35,20:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4093,600 - 35,20:34,*Spring District Station,9850,5,West
+Weekday  , S600,4093,600 - 35,20:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4093,600 - 35,20:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4093,600 - 35,20:40,*East Main Station,9856,8,West
+Weekday  , S600,4093,600 - 35,20:43,*South Bellevue Station,9859,9,West
+Weekday  ,,355,600 - 35,21:58,*Wilburton Station,9853,1,
+Weekday  ,,355,600 - 35,22:00,Smart Card Base,15,2,
+Weekday  , S600,302,600 - 35,21:49,*South Bellevue Station,9859,1,East
+Weekday  , S600,302,600 - 35,21:50,*South Bellevue Station,9859,2,East
+Weekday  , S600,302,600 - 35,21:53,*East Main Station,9857,3,East
+Weekday  , S600,302,600 - 35,21:56,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,302,600 - 35,21:58,*Wilburton Station,9853,5,East
+Weekday  , S600,3060,600 - 35,14:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3060,600 - 35,14:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3060,600 - 35,14:54,*East Main Station,9857,3,East
+Weekday  , S600,3060,600 - 35,14:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3060,600 - 35,14:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3060,600 - 35,15:00,*Spring District Station,9851,6,East
+Weekday  , S600,3060,600 - 35,15:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3060,600 - 35,15:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3060,600 - 35,15:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3058,600 - 31,14:30,*South Bellevue Station,9859,1,East
+Weekday  , S600,3058,600 - 31,14:31,*South Bellevue Station,9859,2,East
+Weekday  , S600,3058,600 - 31,14:34,*East Main Station,9857,3,East
+Weekday  , S600,3058,600 - 31,14:37,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3058,600 - 31,14:39,*Wilburton Station,9853,5,East
+Weekday  , S600,3058,600 - 31,14:40,*Spring District Station,9851,6,East
+Weekday  , S600,3058,600 - 31,14:42,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3058,600 - 31,14:46,*Overlake Village Station,9847,8,East
+Weekday  , S600,3058,600 - 31,14:48,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3066,600 - 35,15:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3066,600 - 35,15:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3066,600 - 35,15:54,*East Main Station,9857,3,East
+Weekday  , S600,3066,600 - 35,15:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3066,600 - 35,15:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3066,600 - 35,16:00,*Spring District Station,9851,6,East
+Weekday  , S600,3066,600 - 35,16:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3066,600 - 35,16:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3066,600 - 35,16:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3078,600 - 35,17:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3078,600 - 35,17:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3078,600 - 35,17:54,*East Main Station,9857,3,East
+Weekday  , S600,3078,600 - 35,17:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3078,600 - 35,17:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3078,600 - 35,18:00,*Spring District Station,9851,6,East
+Weekday  , S600,3078,600 - 35,18:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3078,600 - 35,18:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3078,600 - 35,18:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3084,600 - 35,18:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3084,600 - 35,18:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3084,600 - 35,18:54,*East Main Station,9857,3,East
+Weekday  , S600,3084,600 - 35,18:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3084,600 - 35,18:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3084,600 - 35,19:00,*Spring District Station,9851,6,East
+Weekday  , S600,3084,600 - 35,19:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3084,600 - 35,19:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3084,600 - 35,19:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,4069,600 - 35,16:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4069,600 - 35,16:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4069,600 - 35,16:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4069,600 - 35,16:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4069,600 - 35,16:34,*Spring District Station,9850,5,West
+Weekday  , S600,4069,600 - 35,16:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4069,600 - 35,16:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4069,600 - 35,16:40,*East Main Station,9856,8,West
+Weekday  , S600,4069,600 - 35,16:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,4063,600 - 35,15:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4063,600 - 35,15:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4063,600 - 35,15:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4063,600 - 35,15:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4063,600 - 35,15:34,*Spring District Station,9850,5,West
+Weekday  , S600,4063,600 - 35,15:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4063,600 - 35,15:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4063,600 - 35,15:40,*East Main Station,9856,8,West
+Weekday  , S600,4063,600 - 35,15:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,4058,600 - 32,14:35,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4058,600 - 32,14:36,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4058,600 - 32,14:38,*Overlake Village Station,9846,3,West
+Weekday  , S600,4058,600 - 32,14:42,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4058,600 - 32,14:44,*Spring District Station,9850,5,West
+Weekday  , S600,4058,600 - 32,14:46,*Wilburton Station,9852,6,West
+Weekday  , S600,4058,600 - 32,14:47,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4058,600 - 32,14:50,*East Main Station,9856,8,West
+Weekday  , S600,4058,600 - 32,14:53,*South Bellevue Station,9859,9,West
+Weekday  , S600,4075,600 - 35,17:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4075,600 - 35,17:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4075,600 - 35,17:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4075,600 - 35,17:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4075,600 - 35,17:34,*Spring District Station,9850,5,West
+Weekday  , S600,4075,600 - 35,17:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4075,600 - 35,17:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4075,600 - 35,17:40,*East Main Station,9856,8,West
+Weekday  , S600,4075,600 - 35,17:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,4055,600 - 31,14:05,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4055,600 - 31,14:06,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4055,600 - 31,14:08,*Overlake Village Station,9846,3,West
+Weekday  , S600,4055,600 - 31,14:12,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4055,600 - 31,14:14,*Spring District Station,9850,5,West
+Weekday  , S600,4055,600 - 31,14:16,*Wilburton Station,9852,6,West
+Weekday  , S600,4055,600 - 31,14:17,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4055,600 - 31,14:20,*East Main Station,9856,8,West
+Weekday  , S600,4055,600 - 31,14:23,*South Bellevue Station,9859,9,West
+Weekday  , S600,4057,600 - 35,14:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4057,600 - 35,14:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4057,600 - 35,14:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4057,600 - 35,14:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4057,600 - 35,14:34,*Spring District Station,9850,5,West
+Weekday  , S600,4057,600 - 35,14:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4057,600 - 35,14:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4057,600 - 35,14:40,*East Main Station,9856,8,West
+Weekday  , S600,4057,600 - 35,14:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,4081,600 - 35,18:25,*Redmond Tech Station,9845,1,West
+Weekday  , S600,4081,600 - 35,18:26,*Redmond Tech Station,9845,2,West
+Weekday  , S600,4081,600 - 35,18:28,*Overlake Village Station,9846,3,West
+Weekday  , S600,4081,600 - 35,18:32,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4081,600 - 35,18:34,*Spring District Station,9850,5,West
+Weekday  , S600,4081,600 - 35,18:36,*Wilburton Station,9852,6,West
+Weekday  , S600,4081,600 - 35,18:37,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4081,600 - 35,18:40,*East Main Station,9856,8,West
+Weekday  , S600,4081,600 - 35,18:43,*South Bellevue Station,9859,9,West
+Weekday  , S600,3054,600 - 35,13:50,*South Bellevue Station,9859,1,East
+Weekday  , S600,3054,600 - 35,13:51,*South Bellevue Station,9859,2,East
+Weekday  , S600,3054,600 - 35,13:54,*East Main Station,9857,3,East
+Weekday  , S600,3054,600 - 35,13:57,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3054,600 - 35,13:59,*Wilburton Station,9853,5,East
+Weekday  , S600,3054,600 - 35,14:00,*Spring District Station,9851,6,East
+Weekday  , S600,3054,600 - 35,14:02,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3054,600 - 35,14:06,*Overlake Village Station,9847,8,East
+Weekday  , S600,3054,600 - 35,14:08,*Redmond Tech Station,9845,9,East
+Weekday  , S600,3051,600 - 36,13:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3051,600 - 36,13:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3051,600 - 36,13:24,*East Main Station,9857,3,East
+Weekday  , S600,3051,600 - 36,13:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3051,600 - 36,13:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3051,600 - 36,13:30,*Spring District Station,9851,6,East
+Weekday  , S600,3051,600 - 36,13:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3051,600 - 36,13:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3051,600 - 36,13:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3069,600 - 36,16:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3069,600 - 36,16:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3069,600 - 36,16:24,*East Main Station,9857,3,East
+Weekday  , S600,3069,600 - 36,16:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3069,600 - 36,16:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3069,600 - 36,16:30,*Spring District Station,9851,6,East
+Weekday  , S600,3069,600 - 36,16:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3069,600 - 36,16:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3069,600 - 36,16:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4096,600 - 36,20:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4096,600 - 36,20:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4096,600 - 36,20:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4096,600 - 36,21:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4096,600 - 36,21:04,*Spring District Station,9850,5,West
+Weekday  , S600,4096,600 - 36,21:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4096,600 - 36,21:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4096,600 - 36,21:10,*East Main Station,9856,8,West
+Weekday  , S600,4096,600 - 36,21:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,4084,600 - 36,18:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4084,600 - 36,18:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4084,600 - 36,18:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4084,600 - 36,19:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4084,600 - 36,19:04,*Spring District Station,9850,5,West
+Weekday  , S600,4084,600 - 36,19:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4084,600 - 36,19:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4084,600 - 36,19:10,*East Main Station,9856,8,West
+Weekday  , S600,4084,600 - 36,19:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,402,600 - 36,21:44,*Redmond Tech Station,9844,1,West
+Weekday  , S600,402,600 - 36,21:45,*Redmond Tech Station,9844,2,West
+Weekday  , S600,402,600 - 36,21:47,*Overlake Village Station,9846,3,West
+Weekday  , S600,402,600 - 36,21:51,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,402,600 - 36,21:53,*Spring District Station,9850,5,West
+Weekday  ,,455,600 - 36,21:53,*Spring District Station,9850,1,
+Weekday  ,,455,600 - 36,21:55,Smart Card Base,15,2,
+Weekday  , S600,3063,600 - 36,15:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3063,600 - 36,15:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3063,600 - 36,15:24,*East Main Station,9857,3,East
+Weekday  , S600,3063,600 - 36,15:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3063,600 - 36,15:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3063,600 - 36,15:30,*Spring District Station,9851,6,East
+Weekday  , S600,3063,600 - 36,15:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3063,600 - 36,15:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3063,600 - 36,15:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3057,600 - 36,14:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3057,600 - 36,14:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3057,600 - 36,14:24,*East Main Station,9857,3,East
+Weekday  , S600,3057,600 - 36,14:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3057,600 - 36,14:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3057,600 - 36,14:30,*Spring District Station,9851,6,East
+Weekday  , S600,3057,600 - 36,14:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3057,600 - 36,14:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3057,600 - 36,14:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3075,600 - 36,17:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3075,600 - 36,17:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3075,600 - 36,17:24,*East Main Station,9857,3,East
+Weekday  , S600,3075,600 - 36,17:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3075,600 - 36,17:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3075,600 - 36,17:30,*Spring District Station,9851,6,East
+Weekday  , S600,3075,600 - 36,17:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3075,600 - 36,17:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3075,600 - 36,17:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3087,600 - 36,19:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3087,600 - 36,19:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3087,600 - 36,19:24,*East Main Station,9857,3,East
+Weekday  , S600,3087,600 - 36,19:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3087,600 - 36,19:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3087,600 - 36,19:30,*Spring District Station,9851,6,East
+Weekday  , S600,3087,600 - 36,19:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3087,600 - 36,19:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3087,600 - 36,19:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,4090,600 - 36,19:55,*Redmond Tech Station,9844,1,West
+Weekday  , S600,4090,600 - 36,19:56,*Redmond Tech Station,9844,2,West
+Weekday  , S600,4090,600 - 36,19:58,*Overlake Village Station,9846,3,West
+Weekday  , S600,4090,600 - 36,20:02,*Bel-Red / 130th Station,9848,4,West
+Weekday  , S600,4090,600 - 36,20:04,*Spring District Station,9850,5,West
+Weekday  , S600,4090,600 - 36,20:06,*Wilburton Station,9852,6,West
+Weekday  , S600,4090,600 - 36,20:07,*Bellevue Downtown Station,9854,7,West
+Weekday  , S600,4090,600 - 36,20:10,*East Main Station,9856,8,West
+Weekday  , S600,4090,600 - 36,20:13,*South Bellevue Station,9859,9,West
+Weekday  , S600,3093,600 - 36,20:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3093,600 - 36,20:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3093,600 - 36,20:24,*East Main Station,9857,3,East
+Weekday  , S600,3093,600 - 36,20:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3093,600 - 36,20:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3093,600 - 36,20:30,*Spring District Station,9851,6,East
+Weekday  , S600,3093,600 - 36,20:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3093,600 - 36,20:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3093,600 - 36,20:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3099,600 - 36,21:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3099,600 - 36,21:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3099,600 - 36,21:24,*East Main Station,9857,3,East
+Weekday  , S600,3099,600 - 36,21:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3099,600 - 36,21:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3099,600 - 36,21:30,*Spring District Station,9851,6,East
+Weekday  , S600,3099,600 - 36,21:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3099,600 - 36,21:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3099,600 - 36,21:38,*Redmond Tech Station,9844,9,East
+Weekday  , S600,3081,600 - 36,18:20,*South Bellevue Station,9859,1,East
+Weekday  , S600,3081,600 - 36,18:21,*South Bellevue Station,9859,2,East
+Weekday  , S600,3081,600 - 36,18:24,*East Main Station,9857,3,East
+Weekday  , S600,3081,600 - 36,18:27,*Bellevue Downtown Station,9855,4,East
+Weekday  , S600,3081,600 - 36,18:29,*Wilburton Station,9853,5,East
+Weekday  , S600,3081,600 - 36,18:30,*Spring District Station,9851,6,East
+Weekday  , S600,3081,600 - 36,18:32,*Bel-Red / 130th Station,9849,7,East
+Weekday  , S600,3081,600 - 36,18:36,*Overlake Village Station,9847,8,East
+Weekday  , S600,3081,600 - 36,18:38,*Redmond Tech Station,9844,9,East
