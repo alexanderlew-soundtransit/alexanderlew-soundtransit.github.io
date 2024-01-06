@@ -26,3 +26,6 @@ service_change,url_endpoint,description
 2023-09,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_Sep23_AllDays_scada.csv,PT (Sep 2023)
 2023-09,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/TLink_AllDays_Sep162023_HTLE_12mins_scada.csv,TLink (Sep16-2023)
 2024-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/2Line_M2024_schedulviewer.csv,Link March 2024
+2024-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/LR1_02_WK_MAR24_SCADA_Weekday.csv,Link March 2024
+2024-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/LR1_02_SA_MAR24_SCADA_Weekday.csv,Link March 2024
+2024-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/LR1_02_SU_MAR24_SCADA_Weekday.csv,Link March 2024
