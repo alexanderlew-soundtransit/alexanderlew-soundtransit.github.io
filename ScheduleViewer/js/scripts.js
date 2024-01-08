@@ -825,6 +825,8 @@ function getTripsByRoutes(routes, service_id, data){
 			obj["trip_start_time"] = obj["stops"][0]["sch_arr_time"];
 			obj["trip_start_time_24h"] = obj["stops"][0]["sch_arr_time_24h"];
 			
+			console.log(obj["trip_id"]);
+			
 			var tripSortException = tripSortExceptions.filter(function(d){return routeData[i].route_id === d.route_id  &&  routeData[i].direction_name === d.direction_name;});
 			var tripSort;		
 			if (tripSortException.length > 0){
@@ -832,7 +834,7 @@ function getTripsByRoutes(routes, service_id, data){
 				var sortStop = stopTimes.filter(function(d){
 					return d.stop_id === tripSortException[0].stop_id;
 				});
-				
+				console.log(tripSort = sortStop[0].sch_arr_time_sort);
 				tripSort = sortStop[0].sch_arr_time_sort;
 				
 			}
