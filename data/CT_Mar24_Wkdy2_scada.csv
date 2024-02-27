@@ -1,0 +1,2900 @@
+service_id,route_id,trip_id,block_id,sch_arr_time,stop_name,stop_id,stop_seq,direction_name
+Weekday,532,25184,85004, 4:30   ,Everett Station,evtst,1,South
+Weekday,532,25184,85004, 4:39   ,South Everett Freeway Station,sefs,2,South
+Weekday,532,25184,85004, 4:47   ,Ash Way Park & Ride,awypr,3,South
+Weekday,532,25184,85004, 4:54   ,Canyon Park Park & Ride,cpkpr,4,South
+Weekday,532,25184,85004, 5:00   ,Totem Lake Freeway Station,405tl,5,South
+Weekday,532,25184,85004, 5:05   ,I-405 & NE 70th Pl,40570,6,South
+Weekday,532,25184,85004, 5:12   ,Bellevue Transit Center,blvtc,7,South
+Weekday,532,25184,85004, 5:18   ,NE 10th St & 102nd Ave NE,10102,8,South
+Weekday,532,25185,85008, 5:00   ,Everett Station,evtst,1,South
+Weekday,532,25185,85008, 5:09   ,South Everett Freeway Station,sefs,2,South
+Weekday,532,25185,85008, 5:17   ,Ash Way Park & Ride,awypr,3,South
+Weekday,532,25185,85008, 5:25   ,Canyon Park Park & Ride,cpkpr,4,South
+Weekday,532,25185,85008, 5:33   ,Totem Lake Freeway Station,405tl,5,South
+Weekday,532,25185,85008, 5:38   ,I-405 & NE 70th Pl,40570,6,South
+Weekday,532,25185,85008, 5:45   ,Bellevue Transit Center,blvtc,7,South
+Weekday,532,25185,85008, 5:52   ,NE 10th St & 102nd Ave NE,10102,8,South
+Weekday,510,25028,85002, 4:06   ,Hewitt Ave & Fulton St,hwful,1,South
+Weekday,510,25028,85002, 4:12   ,Everett Station,evtst,2,South
+Weekday,510,25028,85002, 4:21   ,South Everett Freeway Station,sefs,3,South
+Weekday,510,25028,85002, 4:32   ,Mountlake Terrace Freeway Station,mltfs,4,South
+Weekday,510,25028,85002, 4:35   ,I-5 & NE 195th St,195i5,5,South
+Weekday,510,25028,85002, 4:39   ,I-5 & NE 117th St,117i5,6,South
+Weekday,510,25028,85002, 4:49   ,Stewart/9th,9stew,7,South
+Weekday,510,25028,85002, 4:53   ,5th Ave & Pine St,5pine,8,South
+Weekday,510,25028,85002, 5:00   ,5th Ave S & S Jackson St,5jack,9,South
+Weekday,510,25029,85003, 4:28   ,Hewitt Ave & Fulton St,hwful,1,South
+Weekday,510,25029,85003, 4:34   ,Everett Station,evtst,2,South
+Weekday,510,25029,85003, 4:43   ,South Everett Freeway Station,sefs,3,South
+Weekday,510,25029,85003, 4:54   ,Mountlake Terrace Freeway Station,mltfs,4,South
+Weekday,510,25029,85003, 4:57   ,I-5 & NE 195th St,195i5,5,South
+Weekday,510,25029,85003, 5:01   ,I-5 & NE 117th St,117i5,6,South
+Weekday,510,25029,85003, 5:11   ,Stewart/9th,9stew,7,South
+Weekday,510,25029,85003, 5:15   ,5th Ave & Pine St,5pine,8,South
+Weekday,510,25029,85003, 5:22   ,5th Ave S & S Jackson St,5jack,9,South
+Weekday,510,25022,85007, 6:45   ,Everett Station,evtst,1,South
+Weekday,510,25022,85007, 6:55   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25022,85007, 7:08   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25022,85007, 7:15   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25022,85007, 7:21   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25022,85007, 7:35   ,Stewart/9th,9stew,6,South
+Weekday,510,25022,85007, 7:41   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25022,85007, 7:53   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,510,25024,85014, 7:20   ,Everett Station,evtst,1,South
+Weekday,510,25024,85014, 7:30   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25024,85014, 7:45   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25024,85014, 7:52   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25024,85014, 7:58   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25024,85014, 8:14   ,Stewart/9th,9stew,6,South
+Weekday,510,25024,85014, 8:20   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25024,85014, 8:38   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,532,25193,85016, 7:55   ,Everett Station,evtst,1,South
+Weekday,532,25193,85016, 8:04   ,South Everett Freeway Station,sefs,2,South
+Weekday,532,25193,85016, 8:14   ,Ash Way Park & Ride,awypr,3,South
+Weekday,532,25193,85016, 8:26   ,Canyon Park Park & Ride,cpkpr,4,South
+Weekday,532,25193,85016, 8:37   ,Totem Lake Freeway Station,405tl,5,South
+Weekday,532,25193,85016, 8:47   ,I-405 & NE 70th Pl,40570,6,South
+Weekday,532,25193,85016, 9:03   ,Bellevue Transit Center,blvtc,7,South
+Weekday,532,25193,85016, 9:09   ,NE 10th St & 102nd Ave NE,10102,8,South
+Weekday,510,25025,85017, 7:40   ,Everett Station,evtst,1,South
+Weekday,510,25025,85017, 7:50   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25025,85017, 8:05   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25025,85017, 8:12   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25025,85017, 8:18   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25025,85017, 8:34   ,Stewart/9th,9stew,6,South
+Weekday,510,25025,85017, 8:40   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25025,85017, 8:59   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,510,25016,85012, 5:15   ,Everett Station,evtst,1,South
+Weekday,510,25016,85012, 5:25   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25016,85012, 5:36   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25016,85012, 5:39   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25016,85012, 5:43   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25016,85012, 5:53   ,Stewart/9th,9stew,6,South
+Weekday,510,25016,85012, 5:59   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25016,85012, 6:08   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,510,25017,85014, 5:30   ,Everett Station,evtst,1,South
+Weekday,510,25017,85014, 5:40   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25017,85014, 5:51   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25017,85014, 5:54   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25017,85014, 5:58   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25017,85014, 6:09   ,Stewart/9th,9stew,6,South
+Weekday,510,25017,85014, 6:15   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25017,85014, 6:25   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,532,25180,85053,16:47,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,532,25180,85053,16:54,Bellevue Transit Center,blvtc,2,North
+Weekday,532,25180,85053,17:03,I-405 & NE 70th Pl,40570,3,North
+Weekday,532,25180,85053,17:07,Totem Lake Freeway Station,405tl,4,North
+Weekday,532,25180,85053,17:17,Canyon Park Park & Ride,cpkpr,5,North
+Weekday,532,25180,85053,17:34,Ash Way Park & Ride,awypr,6,North
+Weekday,532,25180,85053,17:55,South Everett Freeway Station,sefs,7,North
+Weekday,532,25180,85053,18:10,Everett Station,evtst,8,North
+Weekday,532,25192,85019, 7:20   ,Everett Station,evtst,1,South
+Weekday,532,25192,85019, 7:29   ,South Everett Freeway Station,sefs,2,South
+Weekday,532,25192,85019, 7:39   ,Ash Way Park & Ride,awypr,3,South
+Weekday,532,25192,85019, 7:51   ,Canyon Park Park & Ride,cpkpr,4,South
+Weekday,532,25192,85019, 8:02   ,Totem Lake Freeway Station,405tl,5,South
+Weekday,532,25192,85019, 8:12   ,I-405 & NE 70th Pl,40570,6,South
+Weekday,532,25192,85019, 8:28   ,Bellevue Transit Center,blvtc,7,South
+Weekday,532,25192,85019, 8:35   ,NE 10th St & 102nd Ave NE,10102,8,South
+Weekday,532,25187,85001, 5:50   ,Everett Station,evtst,1,South
+Weekday,532,25187,85001, 5:59   ,South Everett Freeway Station,sefs,2,South
+Weekday,532,25187,85001, 6:07   ,Ash Way Park & Ride,awypr,3,South
+Weekday,532,25187,85001, 6:17   ,Canyon Park Park & Ride,cpkpr,4,South
+Weekday,532,25187,85001, 6:25   ,Totem Lake Freeway Station,405tl,5,South
+Weekday,532,25187,85001, 6:30   ,I-405 & NE 70th Pl,40570,6,South
+Weekday,532,25187,85001, 6:40   ,Bellevue Transit Center,blvtc,7,South
+Weekday,532,25187,85001, 6:47   ,NE 10th St & 102nd Ave NE,10102,8,South
+Weekday,535,25250,85059,17:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25250,85059,17:28,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25250,85059,17:37,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25250,85059,17:44,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25250,85059,17:52,Brickyard Fwy Station,by405,5,South
+Weekday,535,25250,85059,17:55,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25250,85059,18:01,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25250,85059,18:13,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25250,85059,18:21,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,510,25020,85005, 6:15   ,Everett Station,evtst,1,South
+Weekday,510,25020,85005, 6:25   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25020,85005, 6:38   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25020,85005, 6:42   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25020,85005, 6:46   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25020,85005, 7:00   ,Stewart/9th,9stew,6,South
+Weekday,510,25020,85005, 7:06   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25020,85005, 7:17   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,510,25021,85023, 6:30   ,Everett Station,evtst,1,South
+Weekday,510,25021,85023, 6:40   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25021,85023, 6:53   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25021,85023, 6:57   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25021,85023, 7:02   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25021,85023, 7:16   ,Stewart/9th,9stew,6,South
+Weekday,510,25021,85023, 7:22   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25021,85023, 7:33   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,535,25255,85056,21:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25255,85056,21:26,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25255,85056,21:34,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25255,85056,21:39,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25255,85056,21:46,Brickyard Fwy Station,by405,5,South
+Weekday,535,25255,85056,21:49,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25255,85056,21:54,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25255,85056,22:03,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25255,85056,22:09,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25206,85002,11:50,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25206,85002,11:55,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25206,85002,12:03,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25206,85002,12:06,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25206,85002,12:09,Brickyard Fwy Station,by405,5,North
+Weekday,535,25206,85002,12:17,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25206,85002,12:19,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25206,85002,12:22,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25206,85002,12:31,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25206,85002,12:47,Lynnwood Transit Center,lynntc,10,North
+Weekday,510,25018,85017, 5:45   ,Everett Station,evtst,1,South
+Weekday,510,25018,85017, 5:55   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25018,85017, 6:07   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25018,85017, 6:10   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25018,85017, 6:14   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25018,85017, 6:28   ,Stewart/9th,9stew,6,South
+Weekday,510,25018,85017, 6:34   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25018,85017, 6:44   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,510,25004,85045,15:30,4thAv/Jacksn,4jack,1,North
+Weekday,510,25004,85045,15:36,4th Ave & Pine St,4unio,2,North
+Weekday,510,25004,85045,15:40,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25004,85045,15:55,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25004,85045,15:59,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25004,85045,16:03,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25004,85045,16:24,South Everett Freeway Station,sefs,7,North
+Weekday,510,25004,85045,16:49,Everett Station,evtst,8,North
+Weekday,510,25008,85063,16:35,4thAv/Jacksn,4jack,1,North
+Weekday,510,25008,85063,16:41,4th Ave & Pine St,4unio,2,North
+Weekday,510,25008,85063,16:45,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25008,85063,17:00,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25008,85063,17:05,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25008,85063,17:08,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25008,85063,17:31,South Everett Freeway Station,sefs,7,North
+Weekday,510,25008,85063,17:56,Everett Station,evtst,8,North
+Weekday,535,25218,85041,17:50,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25218,85041,17:56,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25218,85041,18:04,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25218,85041,18:07,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25218,85041,18:11,Brickyard Fwy Station,by405,5,North
+Weekday,535,25218,85041,18:20,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25218,85041,18:23,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25218,85041,18:26,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25218,85041,18:36,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25218,85041,18:54,Lynnwood Transit Center,lynntc,10,North
+Weekday,532,25175,85049,14:57,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,532,25175,85049,15:03,Bellevue Transit Center,blvtc,2,North
+Weekday,532,25175,85049,15:11,I-405 & NE 70th Pl,40570,3,North
+Weekday,532,25175,85049,15:15,Totem Lake Freeway Station,405tl,4,North
+Weekday,532,25175,85049,15:24,Canyon Park Park & Ride,cpkpr,5,North
+Weekday,532,25175,85049,15:41,Ash Way Park & Ride,awypr,6,North
+Weekday,532,25175,85049,15:57,South Everett Freeway Station,sefs,7,North
+Weekday,532,25175,85049,16:13,Everett Station,evtst,8,North
+Weekday,510,25010,85060,17:05,4thAv/Jacksn,4jack,1,North
+Weekday,510,25010,85060,17:11,4th Ave & Pine St,4unio,2,North
+Weekday,510,25010,85060,17:15,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25010,85060,17:30,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25010,85060,17:34,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25010,85060,17:37,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25010,85060,18:00,South Everett Freeway Station,sefs,7,North
+Weekday,510,25010,85060,18:16,Everett Station,evtst,8,North
+Weekday,510,25005,85054,15:50,4thAv/Jacksn,4jack,1,North
+Weekday,510,25005,85054,15:56,4th Ave & Pine St,4unio,2,North
+Weekday,510,25005,85054,16:00,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25005,85054,16:15,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25005,85054,16:20,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25005,85054,16:24,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25005,85054,16:47,South Everett Freeway Station,sefs,7,North
+Weekday,510,25005,85054,17:12,Everett Station,evtst,8,North
+Weekday,510,25027,85025, 8:20   ,Everett Station,evtst,1,South
+Weekday,510,25027,85025, 8:31   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25027,85025, 8:43   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25027,85025, 8:50   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25027,85025, 8:56   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25027,85025, 9:12   ,Stewart/9th,9stew,6,South
+Weekday,510,25027,85025, 9:18   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25027,85025, 9:35   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,535,25248,85041,16:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25248,85041,16:28,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25248,85041,16:37,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25248,85041,16:44,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25248,85041,16:52,Brickyard Fwy Station,by405,5,South
+Weekday,535,25248,85041,16:55,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25248,85041,17:02,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25248,85041,17:14,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25248,85041,17:22,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,532,25176,85029,15:27,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,532,25176,85029,15:33,Bellevue Transit Center,blvtc,2,North
+Weekday,532,25176,85029,15:42,I-405 & NE 70th Pl,40570,3,North
+Weekday,532,25176,85029,15:46,Totem Lake Freeway Station,405tl,4,North
+Weekday,532,25176,85029,15:56,Canyon Park Park & Ride,cpkpr,5,North
+Weekday,532,25176,85029,16:13,Ash Way Park & Ride,awypr,6,North
+Weekday,532,25176,85029,16:32,South Everett Freeway Station,sefs,7,North
+Weekday,532,25176,85029,16:48,Everett Station,evtst,8,North
+Weekday,535,25235,85006, 9:50   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25235,85006, 9:56   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25235,85006,10:05,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25235,85006,10:11,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25235,85006,10:19,Brickyard Fwy Station,by405,5,South
+Weekday,535,25235,85006,10:22,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25235,85006,10:29,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25235,85006,10:39,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25235,85006,10:47,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,510,25006,85058,16:05,4thAv/Jacksn,4jack,1,North
+Weekday,510,25006,85058,16:11,4th Ave & Pine St,4unio,2,North
+Weekday,510,25006,85058,16:15,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25006,85058,16:30,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25006,85058,16:35,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25006,85058,16:39,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25006,85058,17:02,South Everett Freeway Station,sefs,7,North
+Weekday,510,25006,85058,17:27,Everett Station,evtst,8,North
+Weekday,535,25247,85039,15:50,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25247,85039,15:58,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25247,85039,16:07,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25247,85039,16:14,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25247,85039,16:22,Brickyard Fwy Station,by405,5,South
+Weekday,535,25247,85039,16:25,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25247,85039,16:32,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25247,85039,16:44,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25247,85039,16:52,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,532,25181,85039,17:07,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,532,25181,85039,17:14,Bellevue Transit Center,blvtc,2,North
+Weekday,532,25181,85039,17:23,I-405 & NE 70th Pl,40570,3,North
+Weekday,532,25181,85039,17:27,Totem Lake Freeway Station,405tl,4,North
+Weekday,532,25181,85039,17:37,Canyon Park Park & Ride,cpkpr,5,North
+Weekday,532,25181,85039,17:54,Ash Way Park & Ride,awypr,6,North
+Weekday,532,25181,85039,18:11,South Everett Freeway Station,sefs,7,North
+Weekday,532,25181,85039,18:26,Everett Station,evtst,8,North
+Weekday,535,25198,85003, 7:50   ,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25198,85003, 7:55   ,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25198,85003, 8:03   ,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25198,85003, 8:06   ,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25198,85003, 8:09   ,Brickyard Fwy Station,by405,5,North
+Weekday,535,25198,85003, 8:17   ,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25198,85003, 8:19   ,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25198,85003, 8:23   ,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25198,85003, 8:33   ,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25198,85003, 8:45   ,Lynnwood Transit Center,lynntc,10,North
+Weekday,510,25015,85044,18:50,4thAv/Jacksn,4jack,1,North
+Weekday,510,25015,85044,18:56,4th Ave & Pine St,4unio,2,North
+Weekday,510,25015,85044,19:00,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25015,85044,19:12,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25015,85044,19:16,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25015,85044,19:17,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25015,85044,19:32,South Everett Freeway Station,sefs,7,North
+Weekday,510,25015,85044,19:42,Everett Station,evtst,8,North
+Weekday,510,25007,85047,16:20,4thAv/Jacksn,4jack,1,North
+Weekday,510,25007,85047,16:26,4th Ave & Pine St,4unio,2,North
+Weekday,510,25007,85047,16:30,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25007,85047,16:45,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25007,85047,16:50,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25007,85047,16:54,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25007,85047,17:17,South Everett Freeway Station,sefs,7,North
+Weekday,510,25007,85047,17:42,Everett Station,evtst,8,North
+Weekday,535,25217,85064,17:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25217,85064,17:27,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25217,85064,17:36,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25217,85064,17:39,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25217,85064,17:44,Brickyard Fwy Station,by405,5,North
+Weekday,535,25217,85064,17:53,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25217,85064,17:57,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25217,85064,18:02,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25217,85064,18:13,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25217,85064,18:31,Lynnwood Transit Center,lynntc,10,North
+Weekday,532,25182,85065,17:37,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,532,25182,85065,17:44,Bellevue Transit Center,blvtc,2,North
+Weekday,532,25182,85065,17:53,I-405 & NE 70th Pl,40570,3,North
+Weekday,532,25182,85065,17:57,Totem Lake Freeway Station,405tl,4,North
+Weekday,532,25182,85065,18:06,Canyon Park Park & Ride,cpkpr,5,North
+Weekday,532,25182,85065,18:21,Ash Way Park & Ride,awypr,6,North
+Weekday,532,25182,85065,18:36,South Everett Freeway Station,sefs,7,North
+Weekday,532,25182,85065,18:47,Everett Station,evtst,8,North
+Weekday,535,25225,85006, 4:50   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25225,85006, 4:55   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25225,85006, 5:02   ,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25225,85006, 5:07   ,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25225,85006, 5:13   ,Brickyard Fwy Station,by405,5,South
+Weekday,535,25225,85006, 5:16   ,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25225,85006, 5:21   ,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25225,85006, 5:28   ,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25225,85006, 5:35   ,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,532,25178,85031,16:07,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,532,25178,85031,16:13,Bellevue Transit Center,blvtc,2,North
+Weekday,532,25178,85031,16:22,I-405 & NE 70th Pl,40570,3,North
+Weekday,532,25178,85031,16:26,Totem Lake Freeway Station,405tl,4,North
+Weekday,532,25178,85031,16:36,Canyon Park Park & Ride,cpkpr,5,North
+Weekday,532,25178,85031,16:53,Ash Way Park & Ride,awypr,6,North
+Weekday,532,25178,85031,17:14,South Everett Freeway Station,sefs,7,North
+Weekday,532,25178,85031,17:30,Everett Station,evtst,8,North
+Weekday,535,25194,85006, 5:50   ,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25194,85006, 5:54   ,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25194,85006, 6:01   ,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25194,85006, 6:04   ,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25194,85006, 6:07   ,Brickyard Fwy Station,by405,5,North
+Weekday,535,25194,85006, 6:13   ,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25194,85006, 6:15   ,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25194,85006, 6:18   ,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25194,85006, 6:25   ,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25194,85006, 6:37   ,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25229,85006, 6:50   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25229,85006, 6:56   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25229,85006, 7:05   ,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25229,85006, 7:12   ,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25229,85006, 7:20   ,Brickyard Fwy Station,by405,5,South
+Weekday,535,25229,85006, 7:23   ,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25229,85006, 7:29   ,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25229,85006, 7:40   ,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25229,85006, 7:49   ,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25214,85059,15:50,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25214,85059,15:56,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25214,85059,16:05,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25214,85059,16:08,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25214,85059,16:12,Brickyard Fwy Station,by405,5,North
+Weekday,535,25214,85059,16:23,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25214,85059,16:27,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25214,85059,16:33,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25214,85059,16:45,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25214,85059,17:03,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25237,85034,10:50,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25237,85034,10:56,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25237,85034,11:04,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25237,85034,11:10,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25237,85034,11:18,Brickyard Fwy Station,by405,5,South
+Weekday,535,25237,85034,11:21,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25237,85034,11:28,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25237,85034,11:38,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25237,85034,11:46,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,532,25183,85059,18:37,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,532,25183,85059,18:43,Bellevue Transit Center,blvtc,2,North
+Weekday,532,25183,85059,18:50,I-405 & NE 70th Pl,40570,3,North
+Weekday,532,25183,85059,18:53,Totem Lake Freeway Station,405tl,4,North
+Weekday,532,25183,85059,19:02,Canyon Park Park & Ride,cpkpr,5,North
+Weekday,532,25183,85059,19:14,Ash Way Park & Ride,awypr,6,North
+Weekday,532,25183,85059,19:27,South Everett Freeway Station,sefs,7,North
+Weekday,532,25183,85059,19:37,Everett Station,evtst,8,North
+Weekday,535,25212,85041,14:50,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25212,85041,14:56,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25212,85041,15:04,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25212,85041,15:07,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25212,85041,15:11,Brickyard Fwy Station,by405,5,North
+Weekday,535,25212,85041,15:21,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25212,85041,15:23,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25212,85041,15:28,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25212,85041,15:40,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25212,85041,15:57,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25200,85026, 8:50   ,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25200,85026, 8:55   ,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25200,85026, 9:03   ,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25200,85026, 9:06   ,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25200,85026, 9:09   ,Brickyard Fwy Station,by405,5,North
+Weekday,535,25200,85026, 9:16   ,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25200,85026, 9:18   ,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25200,85026, 9:22   ,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25200,85026, 9:32   ,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25200,85026, 9:46   ,Lynnwood Transit Center,lynntc,10,North
+Weekday,532,25174,85034,14:12,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,532,25174,85034,14:18,Bellevue Transit Center,blvtc,2,North
+Weekday,532,25174,85034,14:26,I-405 & NE 70th Pl,40570,3,North
+Weekday,532,25174,85034,14:29,Totem Lake Freeway Station,405tl,4,North
+Weekday,532,25174,85034,14:37,Canyon Park Park & Ride,cpkpr,5,North
+Weekday,532,25174,85034,14:50,Ash Way Park & Ride,awypr,6,North
+Weekday,532,25174,85034,15:06,South Everett Freeway Station,sefs,7,North
+Weekday,532,25174,85034,15:22,Everett Station,evtst,8,North
+Weekday,535,25220,85050,18:50,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25220,85050,18:55,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25220,85050,19:03,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25220,85050,19:06,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25220,85050,19:09,Brickyard Fwy Station,by405,5,North
+Weekday,535,25220,85050,19:16,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25220,85050,19:18,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25220,85050,19:21,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25220,85050,19:30,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25220,85050,19:41,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25234,85003, 9:20   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25234,85003, 9:26   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25234,85003, 9:35   ,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25234,85003, 9:42   ,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25234,85003, 9:50   ,Brickyard Fwy Station,by405,5,South
+Weekday,535,25234,85003, 9:53   ,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25234,85003,10:00,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25234,85003,10:10,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25234,85003,10:19,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25233,85010, 8:50   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25233,85010, 8:56   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25233,85010, 9:06   ,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25233,85010, 9:14   ,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25233,85010, 9:23   ,Brickyard Fwy Station,by405,5,South
+Weekday,535,25233,85010, 9:26   ,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25233,85010, 9:33   ,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25233,85010, 9:45   ,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25233,85010, 9:54   ,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25223,85062,21:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25223,85062,21:24,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25223,85062,21:31,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25223,85062,21:34,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25223,85062,21:37,Brickyard Fwy Station,by405,5,North
+Weekday,535,25223,85062,21:44,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25223,85062,21:46,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25223,85062,21:49,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25223,85062,21:58,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25223,85062,22:08,Lynnwood Transit Center,lynntc,10,North
+Weekday,510,25023,85008, 7:00   ,Everett Station,evtst,1,South
+Weekday,510,25023,85008, 7:10   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25023,85008, 7:24   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25023,85008, 7:31   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25023,85008, 7:37   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25023,85008, 7:52   ,Stewart/9th,9stew,6,South
+Weekday,510,25023,85008, 7:58   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25023,85008, 8:13   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,535,25232,85001, 8:20   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25232,85001, 8:26   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25232,85001, 8:37   ,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25232,85001, 8:45   ,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25232,85001, 8:55   ,Brickyard Fwy Station,by405,5,South
+Weekday,535,25232,85001, 8:58   ,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25232,85001, 9:05   ,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25232,85001, 9:17   ,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25232,85001, 9:26   ,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25243,85044,13:50,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25243,85044,13:57,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25243,85044,14:06,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25243,85044,14:13,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25243,85044,14:21,Brickyard Fwy Station,by405,5,South
+Weekday,535,25243,85044,14:24,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25243,85044,14:31,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25243,85044,14:42,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25243,85044,14:50,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,513,25169,85004, 6:08   ,Seaway Transit Center,seaway,1,South
+Weekday,513,25169,85004, 6:19   ,Eastmont Park & Ride,emtpr,2,South
+Weekday,513,25169,85004, 6:32   ,Ash Way Park & Ride,awypr,3,South
+Weekday,513,25169,85004, 6:40   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,513,25169,85004, 6:45   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,513,25169,85004, 6:50   ,I-5 & NE 195th St,195i5,6,South
+Weekday,513,25169,85004, 6:56   ,I-5 & NE 117th St,117i5,7,South
+Weekday,513,25169,85004, 7:06   ,Northgate Station,nortc,8,South
+Weekday,535,25215,85062,16:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25215,85062,16:26,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25215,85062,16:35,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25215,85062,16:38,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25215,85062,16:43,Brickyard Fwy Station,by405,5,North
+Weekday,535,25215,85062,16:54,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25215,85062,16:58,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25215,85062,17:04,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25215,85062,17:16,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25215,85062,17:34,Lynnwood Transit Center,lynntc,10,North
+Weekday,513,25166,85009, 4:49   ,Seaway Transit Center,seaway,1,South
+Weekday,513,25166,85009, 5:00   ,Eastmont Park & Ride,emtpr,2,South
+Weekday,513,25166,85009, 5:11   ,Ash Way Park & Ride,awypr,3,South
+Weekday,513,25166,85009, 5:18   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,513,25166,85009, 5:22   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,513,25166,85009, 5:26   ,I-5 & NE 195th St,195i5,6,South
+Weekday,513,25166,85009, 5:30   ,I-5 & NE 117th St,117i5,7,South
+Weekday,513,25166,85009, 5:37   ,Northgate Station,nortc,8,South
+Weekday,535,25241,85039,12:50,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25241,85039,12:57,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25241,85039,13:06,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25241,85039,13:13,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25241,85039,13:21,Brickyard Fwy Station,by405,5,South
+Weekday,535,25241,85039,13:24,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25241,85039,13:31,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25241,85039,13:41,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25241,85039,13:49,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,532,25189,85003, 6:20   ,Everett Station,evtst,1,South
+Weekday,532,25189,85003, 6:29   ,South Everett Freeway Station,sefs,2,South
+Weekday,532,25189,85003, 6:38   ,Ash Way Park & Ride,awypr,3,South
+Weekday,532,25189,85003, 6:50   ,Canyon Park Park & Ride,cpkpr,4,South
+Weekday,532,25189,85003, 6:59   ,Totem Lake Freeway Station,405tl,5,South
+Weekday,532,25189,85003, 7:08   ,I-405 & NE 70th Pl,40570,6,South
+Weekday,532,25189,85003, 7:23   ,Bellevue Transit Center,blvtc,7,South
+Weekday,532,25189,85003, 7:30   ,NE 10th St & 102nd Ave NE,10102,8,South
+Weekday,535,25231,85018, 7:50   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25231,85018, 7:56   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25231,85018, 8:07   ,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25231,85018, 8:15   ,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25231,85018, 8:25   ,Brickyard Fwy Station,by405,5,South
+Weekday,535,25231,85018, 8:28   ,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25231,85018, 8:35   ,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25231,85018, 8:47   ,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25231,85018, 8:56   ,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25245,85036,14:50,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25245,85036,14:57,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25245,85036,15:06,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25245,85036,15:13,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25245,85036,15:21,Brickyard Fwy Station,by405,5,South
+Weekday,535,25245,85036,15:24,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25245,85036,15:31,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25245,85036,15:43,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25245,85036,15:51,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,510,25009,85055,16:50,4thAv/Jacksn,4jack,1,North
+Weekday,510,25009,85055,16:56,4th Ave & Pine St,4unio,2,North
+Weekday,510,25009,85055,17:00,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25009,85055,17:15,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25009,85055,17:19,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25009,85055,17:22,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25009,85055,17:45,South Everett Freeway Station,sefs,7,North
+Weekday,510,25009,85055,18:06,Everett Station,evtst,8,North
+Weekday,535,25239,85031,11:50,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25239,85031,11:57,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25239,85031,12:05,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25239,85031,12:11,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25239,85031,12:19,Brickyard Fwy Station,by405,5,South
+Weekday,535,25239,85031,12:22,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25239,85031,12:29,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25239,85031,12:39,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25239,85031,12:47,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25221,85062,19:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25221,85062,19:25,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25221,85062,19:32,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25221,85062,19:35,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25221,85062,19:38,Brickyard Fwy Station,by405,5,North
+Weekday,535,25221,85062,19:45,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25221,85062,19:47,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25221,85062,19:50,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25221,85062,19:59,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25221,85062,20:10,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25254,85062,20:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25254,85062,20:26,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25254,85062,20:34,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25254,85062,20:40,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25254,85062,20:47,Brickyard Fwy Station,by405,5,South
+Weekday,535,25254,85062,20:50,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25254,85062,20:55,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25254,85062,21:04,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25254,85062,21:10,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,510,25011,85049,17:20,4thAv/Jacksn,4jack,1,North
+Weekday,510,25011,85049,17:26,4th Ave & Pine St,4unio,2,North
+Weekday,510,25011,85049,17:30,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25011,85049,17:44,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25011,85049,17:48,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25011,85049,17:51,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25011,85049,18:14,South Everett Freeway Station,sefs,7,North
+Weekday,510,25011,85049,18:30,Everett Station,evtst,8,North
+Weekday,535,25197,85001, 7:20   ,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25197,85001, 7:25   ,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25197,85001, 7:33   ,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25197,85001, 7:36   ,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25197,85001, 7:39   ,Brickyard Fwy Station,by405,5,North
+Weekday,535,25197,85001, 7:47   ,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25197,85001, 7:49   ,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25197,85001, 7:53   ,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25197,85001, 8:02   ,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25197,85001, 8:14   ,Lynnwood Transit Center,lynntc,10,North
+Weekday,532,25190,85024, 6:35   ,Everett Station,evtst,1,South
+Weekday,532,25190,85024, 6:44   ,South Everett Freeway Station,sefs,2,South
+Weekday,532,25190,85024, 6:53   ,Ash Way Park & Ride,awypr,3,South
+Weekday,532,25190,85024, 7:05   ,Canyon Park Park & Ride,cpkpr,4,South
+Weekday,532,25190,85024, 7:14   ,Totem Lake Freeway Station,405tl,5,South
+Weekday,532,25190,85024, 7:23   ,I-405 & NE 70th Pl,40570,6,South
+Weekday,532,25190,85024, 7:38   ,Bellevue Transit Center,blvtc,7,South
+Weekday,532,25190,85024, 7:45   ,NE 10th St & 102nd Ave NE,10102,8,South
+Weekday,532,25188,85022, 6:05   ,Everett Station,evtst,1,South
+Weekday,532,25188,85022, 6:14   ,South Everett Freeway Station,sefs,2,South
+Weekday,532,25188,85022, 6:23   ,Ash Way Park & Ride,awypr,3,South
+Weekday,532,25188,85022, 6:35   ,Canyon Park Park & Ride,cpkpr,4,South
+Weekday,532,25188,85022, 6:44   ,Totem Lake Freeway Station,405tl,5,South
+Weekday,532,25188,85022, 6:53   ,I-405 & NE 70th Pl,40570,6,South
+Weekday,532,25188,85022, 7:05   ,Bellevue Transit Center,blvtc,7,South
+Weekday,532,25188,85022, 7:12   ,NE 10th St & 102nd Ave NE,10102,8,South
+Weekday,510,25014,85054,18:20,4thAv/Jacksn,4jack,1,North
+Weekday,510,25014,85054,18:26,4th Ave & Pine St,4unio,2,North
+Weekday,510,25014,85054,18:30,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25014,85054,18:42,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25014,85054,18:46,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25014,85054,18:47,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25014,85054,19:03,South Everett Freeway Station,sefs,7,North
+Weekday,510,25014,85054,19:13,Everett Station,evtst,8,North
+Weekday,535,25252,85056,18:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25252,85056,18:27,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25252,85056,18:36,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25252,85056,18:42,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25252,85056,18:50,Brickyard Fwy Station,by405,5,South
+Weekday,535,25252,85056,18:53,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25252,85056,18:58,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25252,85056,19:08,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25252,85056,19:16,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,510,25003,85048,15:10,4thAv/Jacksn,4jack,1,North
+Weekday,510,25003,85048,15:16,4th Ave & Pine St,4unio,2,North
+Weekday,510,25003,85048,15:20,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25003,85048,15:34,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25003,85048,15:38,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25003,85048,15:42,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25003,85048,16:02,South Everett Freeway Station,sefs,7,North
+Weekday,510,25003,85048,16:27,Everett Station,evtst,8,North
+Weekday,535,25195,85011, 6:20   ,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25195,85011, 6:24   ,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25195,85011, 6:31   ,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25195,85011, 6:34   ,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25195,85011, 6:37   ,Brickyard Fwy Station,by405,5,North
+Weekday,535,25195,85011, 6:45   ,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25195,85011, 6:47   ,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25195,85011, 6:50   ,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25195,85011, 6:57   ,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25195,85011, 7:09   ,Lynnwood Transit Center,lynntc,10,North
+Weekday,510,25001,85033,14:30,4thAv/Jacksn,4jack,1,North
+Weekday,510,25001,85033,14:36,4th Ave & Pine St,4unio,2,North
+Weekday,510,25001,85033,14:40,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25001,85033,14:54,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25001,85033,14:58,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25001,85033,15:02,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25001,85033,15:19,South Everett Freeway Station,sefs,7,North
+Weekday,510,25001,85033,15:40,Everett Station,evtst,8,North
+Weekday,535,25222,85056,20:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25222,85056,20:25,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25222,85056,20:32,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25222,85056,20:35,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25222,85056,20:38,Brickyard Fwy Station,by405,5,North
+Weekday,535,25222,85056,20:45,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25222,85056,20:47,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25222,85056,20:50,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25222,85056,20:59,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25222,85056,21:09,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25230,85011, 7:20   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25230,85011, 7:26   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25230,85011, 7:37   ,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25230,85011, 7:45   ,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25230,85011, 7:55   ,Brickyard Fwy Station,by405,5,South
+Weekday,535,25230,85011, 7:58   ,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25230,85011, 8:05   ,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25230,85011, 8:17   ,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25230,85011, 8:26   ,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25213,85044,15:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25213,85044,15:26,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25213,85044,15:35,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25213,85044,15:38,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25213,85044,15:42,Brickyard Fwy Station,by405,5,North
+Weekday,535,25213,85044,15:52,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25213,85044,15:54,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25213,85044,15:59,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25213,85044,16:11,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25213,85044,16:28,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25251,85062,17:50,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25251,85062,17:57,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25251,85062,18:06,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25251,85062,18:12,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25251,85062,18:20,Brickyard Fwy Station,by405,5,South
+Weekday,535,25251,85062,18:23,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25251,85062,18:28,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25251,85062,18:40,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25251,85062,18:48,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25202,85001, 9:50   ,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25202,85001, 9:54   ,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25202,85001,10:02,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25202,85001,10:05,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25202,85001,10:08,Brickyard Fwy Station,by405,5,North
+Weekday,535,25202,85001,10:15,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25202,85001,10:17,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25202,85001,10:21,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25202,85001,10:30,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25202,85001,10:44,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25208,85029,12:50,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25208,85029,12:55,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25208,85029,13:03,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25208,85029,13:06,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25208,85029,13:10,Brickyard Fwy Station,by405,5,North
+Weekday,535,25208,85029,13:19,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25208,85029,13:21,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25208,85029,13:24,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25208,85029,13:34,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25208,85029,13:50,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25216,85056,16:50,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25216,85056,16:57,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25216,85056,17:06,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25216,85056,17:09,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25216,85056,17:14,Brickyard Fwy Station,by405,5,North
+Weekday,535,25216,85056,17:24,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25216,85056,17:28,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25216,85056,17:34,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25216,85056,17:46,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25216,85056,18:04,Lynnwood Transit Center,lynntc,10,North
+Weekday,532,25179,85036,16:27,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,532,25179,85036,16:33,Bellevue Transit Center,blvtc,2,North
+Weekday,532,25179,85036,16:42,I-405 & NE 70th Pl,40570,3,North
+Weekday,532,25179,85036,16:46,Totem Lake Freeway Station,405tl,4,North
+Weekday,532,25179,85036,16:56,Canyon Park Park & Ride,cpkpr,5,North
+Weekday,532,25179,85036,17:13,Ash Way Park & Ride,awypr,6,North
+Weekday,532,25179,85036,17:34,South Everett Freeway Station,sefs,7,North
+Weekday,532,25179,85036,17:50,Everett Station,evtst,8,North
+Weekday,535,25224,85056,22:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25224,85056,22:24,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25224,85056,22:31,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25224,85056,22:34,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25224,85056,22:37,Brickyard Fwy Station,by405,5,North
+Weekday,535,25224,85056,22:44,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25224,85056,22:46,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25224,85056,22:49,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25224,85056,22:58,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25224,85056,23:07,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25227,85018, 5:50   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25227,85018, 5:55   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25227,85018, 6:02   ,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25227,85018, 6:08   ,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25227,85018, 6:15   ,Brickyard Fwy Station,by405,5,South
+Weekday,535,25227,85018, 6:18   ,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25227,85018, 6:24   ,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25227,85018, 6:33   ,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25227,85018, 6:40   ,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,510,25012,85046,17:40,4thAv/Jacksn,4jack,1,North
+Weekday,510,25012,85046,17:46,4th Ave & Pine St,4unio,2,North
+Weekday,510,25012,85046,17:50,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25012,85046,18:03,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25012,85046,18:07,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25012,85046,18:08,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25012,85046,18:28,South Everett Freeway Station,sefs,7,North
+Weekday,510,25012,85046,18:40,Everett Station,evtst,8,North
+Weekday,535,25196,85018, 6:50   ,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25196,85018, 6:54   ,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25196,85018, 7:01   ,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25196,85018, 7:04   ,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25196,85018, 7:07   ,Brickyard Fwy Station,by405,5,North
+Weekday,535,25196,85018, 7:15   ,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25196,85018, 7:17   ,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25196,85018, 7:21   ,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25196,85018, 7:30   ,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25196,85018, 7:42   ,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25253,85037,19:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25253,85037,19:27,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25253,85037,19:35,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25253,85037,19:41,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25253,85037,19:49,Brickyard Fwy Station,by405,5,South
+Weekday,535,25253,85037,19:52,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25253,85037,19:57,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25253,85037,20:06,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25253,85037,20:14,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25204,85032,10:50,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25204,85032,10:54,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25204,85032,11:02,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25204,85032,11:05,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25204,85032,11:08,Brickyard Fwy Station,by405,5,North
+Weekday,535,25204,85032,11:15,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25204,85032,11:17,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25204,85032,11:21,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25204,85032,11:30,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25204,85032,11:45,Lynnwood Transit Center,lynntc,10,North
+Weekday,532,25186,85015, 5:30   ,Everett Station,evtst,1,South
+Weekday,532,25186,85015, 5:39   ,South Everett Freeway Station,sefs,2,South
+Weekday,532,25186,85015, 5:47   ,Ash Way Park & Ride,awypr,3,South
+Weekday,532,25186,85015, 5:57   ,Canyon Park Park & Ride,cpkpr,4,South
+Weekday,532,25186,85015, 6:05   ,Totem Lake Freeway Station,405tl,5,South
+Weekday,532,25186,85015, 6:10   ,I-405 & NE 70th Pl,40570,6,South
+Weekday,532,25186,85015, 6:18   ,Bellevue Transit Center,blvtc,7,South
+Weekday,532,25186,85015, 6:25   ,NE 10th St & 102nd Ave NE,10102,8,South
+Weekday,510,25030,85007, 4:49   ,Hewitt Ave & Fulton St,hwful,1,South
+Weekday,510,25030,85007, 4:55   ,Everett Station,evtst,2,South
+Weekday,510,25030,85007, 5:05   ,South Everett Freeway Station,sefs,3,South
+Weekday,510,25030,85007, 5:16   ,Mountlake Terrace Freeway Station,mltfs,4,South
+Weekday,510,25030,85007, 5:19   ,I-5 & NE 195th St,195i5,5,South
+Weekday,510,25030,85007, 5:23   ,I-5 & NE 117th St,117i5,6,South
+Weekday,510,25030,85007, 5:33   ,Stewart/9th,9stew,7,South
+Weekday,510,25030,85007, 5:39   ,5th Ave & Pine St,5pine,8,South
+Weekday,510,25030,85007, 5:49   ,5th Ave S & S Jackson St,5jack,9,South
+Weekday,510,25002,85046,14:50,4thAv/Jacksn,4jack,1,North
+Weekday,510,25002,85046,14:56,4th Ave & Pine St,4unio,2,North
+Weekday,510,25002,85046,15:00,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25002,85046,15:14,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25002,85046,15:18,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25002,85046,15:22,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25002,85046,15:41,South Everett Freeway Station,sefs,7,North
+Weekday,510,25002,85046,16:03,Everett Station,evtst,8,North
+Weekday,510,25013,85066,18:00,4thAv/Jacksn,4jack,1,North
+Weekday,510,25013,85066,18:06,4th Ave & Pine St,4unio,2,North
+Weekday,510,25013,85066,18:10,Howell St & 9th Ave,hwll9,3,North
+Weekday,510,25013,85066,18:22,I-5 & NE 117th St,117i5,4,North
+Weekday,510,25013,85066,18:26,I-5 & NE 195th St,195i5,5,North
+Weekday,510,25013,85066,18:27,Mountlake Terrace Freeway Station,mltfs,6,North
+Weekday,510,25013,85066,18:43,South Everett Freeway Station,sefs,7,North
+Weekday,510,25013,85066,18:54,Everett Station,evtst,8,North
+Weekday,513,25168,85019, 5:42   ,Seaway Transit Center,seaway,1,South
+Weekday,513,25168,85019, 5:53   ,Eastmont Park & Ride,emtpr,2,South
+Weekday,513,25168,85019, 6:05   ,Ash Way Park & Ride,awypr,3,South
+Weekday,513,25168,85019, 6:13   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,513,25168,85019, 6:18   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,513,25168,85019, 6:22   ,I-5 & NE 195th St,195i5,6,South
+Weekday,513,25168,85019, 6:27   ,I-5 & NE 117th St,117i5,7,South
+Weekday,513,25168,85019, 6:36   ,Northgate Station,nortc,8,South
+Weekday,513,25170,85025, 6:36   ,Seaway Transit Center,seaway,1,South
+Weekday,513,25170,85025, 6:47   ,Eastmont Park & Ride,emtpr,2,South
+Weekday,513,25170,85025, 7:00   ,Ash Way Park & Ride,awypr,3,South
+Weekday,513,25170,85025, 7:10   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,513,25170,85025, 7:15   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,513,25170,85025, 7:20   ,I-5 & NE 195th St,195i5,6,South
+Weekday,513,25170,85025, 7:26   ,I-5 & NE 117th St,117i5,7,South
+Weekday,513,25170,85025, 7:36   ,Northgate Station,nortc,8,South
+Weekday,513,25171,85027, 7:03   ,Seaway Transit Center,seaway,1,South
+Weekday,513,25171,85027, 7:14   ,Eastmont Park & Ride,emtpr,2,South
+Weekday,513,25171,85027, 7:27   ,Ash Way Park & Ride,awypr,3,South
+Weekday,513,25171,85027, 7:37   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,513,25171,85027, 7:42   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,513,25171,85027, 7:48   ,I-5 & NE 195th St,195i5,6,South
+Weekday,513,25171,85027, 7:54   ,I-5 & NE 117th St,117i5,7,South
+Weekday,513,25171,85027, 8:06   ,Northgate Station,nortc,8,South
+Weekday,513,25173,85029, 8:09   ,Seaway Transit Center,seaway,1,South
+Weekday,513,25173,85029, 8:20   ,Eastmont Park & Ride,emtpr,2,South
+Weekday,513,25173,85029, 8:32   ,Ash Way Park & Ride,awypr,3,South
+Weekday,513,25173,85029, 8:40   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,513,25173,85029, 8:45   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,513,25173,85029, 8:50   ,I-5 & NE 195th St,195i5,6,South
+Weekday,513,25173,85029, 8:56   ,I-5 & NE 117th St,117i5,7,South
+Weekday,513,25173,85029, 9:06   ,Northgate Station,nortc,8,South
+Weekday,513,25157,85052,15:04,Northgate Station,nortc,1,North
+Weekday,513,25157,85052,15:07,I-5 & NE 117th St,117i5,2,North
+Weekday,513,25157,85052,15:13,I-5 & NE 195th St,195i5,3,North
+Weekday,513,25157,85052,15:14,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,513,25157,85052,15:20,Lynnwood Transit Center,lynntc,5,North
+Weekday,513,25157,85052,15:28,Ash Way Park & Ride,awypr,6,North
+Weekday,513,25157,85052,15:49,Eastmont Park & Ride,emtpr,7,North
+Weekday,513,25157,85052,16:06,Seaway Transit Center,seaway,8,North
+Weekday,513,25158,85042,15:34,Northgate Station,nortc,1,North
+Weekday,513,25158,85042,15:37,I-5 & NE 117th St,117i5,2,North
+Weekday,513,25158,85042,15:45,I-5 & NE 195th St,195i5,3,North
+Weekday,513,25158,85042,15:46,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,513,25158,85042,15:52,Lynnwood Transit Center,lynntc,5,North
+Weekday,513,25158,85042,16:00,Ash Way Park & Ride,awypr,6,North
+Weekday,513,25158,85042,16:22,Eastmont Park & Ride,emtpr,7,North
+Weekday,513,25158,85042,16:40,Seaway Transit Center,seaway,8,North
+Weekday,513,25159,85037,16:04,Northgate Station,nortc,1,North
+Weekday,513,25159,85037,16:07,I-5 & NE 117th St,117i5,2,North
+Weekday,513,25159,85037,16:17,I-5 & NE 195th St,195i5,3,North
+Weekday,513,25159,85037,16:18,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,513,25159,85037,16:24,Lynnwood Transit Center,lynntc,5,North
+Weekday,513,25159,85037,16:33,Ash Way Park & Ride,awypr,6,North
+Weekday,513,25159,85037,16:55,Eastmont Park & Ride,emtpr,7,North
+Weekday,513,25159,85037,17:14,Seaway Transit Center,seaway,8,North
+Weekday,513,25172,85015, 7:31   ,Seaway Transit Center,seaway,1,South
+Weekday,513,25172,85015, 7:42   ,Eastmont Park & Ride,emtpr,2,South
+Weekday,513,25172,85015, 7:56   ,Ash Way Park & Ride,awypr,3,South
+Weekday,513,25172,85015, 8:06   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,513,25172,85015, 8:13   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,513,25172,85015, 8:19   ,I-5 & NE 195th St,195i5,6,South
+Weekday,513,25172,85015, 8:25   ,I-5 & NE 117th St,117i5,7,South
+Weekday,513,25172,85015, 8:36   ,Northgate Station,nortc,8,South
+Weekday,513,25163,85032,18:04,Northgate Station,nortc,1,North
+Weekday,513,25163,85032,18:07,I-5 & NE 117th St,117i5,2,North
+Weekday,513,25163,85032,18:13,I-5 & NE 195th St,195i5,3,North
+Weekday,513,25163,85032,18:14,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,513,25163,85032,18:20,Lynnwood Transit Center,lynntc,5,North
+Weekday,513,25163,85032,18:27,Ash Way Park & Ride,awypr,6,North
+Weekday,513,25163,85032,18:49,Eastmont Park & Ride,emtpr,7,North
+Weekday,513,25163,85032,19:05,Seaway Transit Center,seaway,8,North
+Weekday,513,25160,85050,16:34,Northgate Station,nortc,1,North
+Weekday,513,25160,85050,16:37,I-5 & NE 117th St,117i5,2,North
+Weekday,513,25160,85050,16:47,I-5 & NE 195th St,195i5,3,North
+Weekday,513,25160,85050,16:48,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,513,25160,85050,16:54,Lynnwood Transit Center,lynntc,5,North
+Weekday,513,25160,85050,17:03,Ash Way Park & Ride,awypr,6,North
+Weekday,513,25160,85050,17:25,Eastmont Park & Ride,emtpr,7,North
+Weekday,513,25160,85050,17:43,Seaway Transit Center,seaway,8,North
+Weekday,513,25167,85013, 5:18   ,Seaway Transit Center,seaway,1,South
+Weekday,513,25167,85013, 5:29   ,Eastmont Park & Ride,emtpr,2,South
+Weekday,513,25167,85013, 5:40   ,Ash Way Park & Ride,awypr,3,South
+Weekday,513,25167,85013, 5:47   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,513,25167,85013, 5:51   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,513,25167,85013, 5:55   ,I-5 & NE 195th St,195i5,6,South
+Weekday,513,25167,85013, 5:59   ,I-5 & NE 117th St,117i5,7,South
+Weekday,513,25167,85013, 6:06   ,Northgate Station,nortc,8,South
+Weekday,513,25161,85052,17:04,Northgate Station,nortc,1,North
+Weekday,513,25161,85052,17:07,I-5 & NE 117th St,117i5,2,North
+Weekday,513,25161,85052,17:17,I-5 & NE 195th St,195i5,3,North
+Weekday,513,25161,85052,17:18,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,513,25161,85052,17:24,Lynnwood Transit Center,lynntc,5,North
+Weekday,513,25161,85052,17:33,Ash Way Park & Ride,awypr,6,North
+Weekday,513,25161,85052,17:55,Eastmont Park & Ride,emtpr,7,North
+Weekday,513,25161,85052,18:13,Seaway Transit Center,seaway,8,North
+Weekday,513,25162,85034,17:34,Northgate Station,nortc,1,North
+Weekday,513,25162,85034,17:37,I-5 & NE 117th St,117i5,2,North
+Weekday,513,25162,85034,17:45,I-5 & NE 195th St,195i5,3,North
+Weekday,513,25162,85034,17:46,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,513,25162,85034,17:52,Lynnwood Transit Center,lynntc,5,North
+Weekday,513,25162,85034,18:01,Ash Way Park & Ride,awypr,6,North
+Weekday,513,25162,85034,18:23,Eastmont Park & Ride,emtpr,7,North
+Weekday,513,25162,85034,18:40,Seaway Transit Center,seaway,8,North
+Weekday,513,25164,85061,18:34,Northgate Station,nortc,1,North
+Weekday,513,25164,85061,18:37,I-5 & NE 117th St,117i5,2,North
+Weekday,513,25164,85061,18:42,I-5 & NE 195th St,195i5,3,North
+Weekday,513,25164,85061,18:43,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,513,25164,85061,18:49,Lynnwood Transit Center,lynntc,5,North
+Weekday,513,25164,85061,18:56,Ash Way Park & Ride,awypr,6,North
+Weekday,513,25164,85061,19:16,Eastmont Park & Ride,emtpr,7,North
+Weekday,513,25164,85061,19:29,Seaway Transit Center,seaway,8,North
+Weekday,513,25165,85036,19:04,Northgate Station,nortc,1,North
+Weekday,513,25165,85036,19:07,I-5 & NE 117th St,117i5,2,North
+Weekday,513,25165,85036,19:11,I-5 & NE 195th St,195i5,3,North
+Weekday,513,25165,85036,19:12,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,513,25165,85036,19:18,Lynnwood Transit Center,lynntc,5,North
+Weekday,513,25165,85036,19:25,Ash Way Park & Ride,awypr,6,North
+Weekday,513,25165,85036,19:42,Eastmont Park & Ride,emtpr,7,North
+Weekday,513,25165,85036,19:55,Seaway Transit Center,seaway,8,North
+Weekday,512,25103,85020, 8:29   ,Everett Station,evtst,1,South
+Weekday,512,25103,85020, 8:38   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25103,85020, 8:46   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25103,85020, 8:55   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25103,85020, 9:00   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25103,85020, 9:03   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25103,85020, 9:10   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25103,85020, 9:21   ,Northgate Station,nortc,8,South
+Weekday,512,25124,85045,13:56,Everett Station,evtst,1,South
+Weekday,512,25124,85045,14:05,South Everett Freeway Station,sefs,2,South
+Weekday,512,25124,85045,14:14,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25124,85045,14:21,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25124,85045,14:25,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25124,85045,14:28,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25124,85045,14:36,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25124,85045,14:45,Northgate Station,nortc,8,South
+Weekday,512,25125,85037,14:13,Everett Station,evtst,1,South
+Weekday,512,25125,85037,14:22,South Everett Freeway Station,sefs,2,South
+Weekday,512,25125,85037,14:31,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25125,85037,14:39,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25125,85037,14:43,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25125,85037,14:46,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25125,85037,14:54,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25125,85037,15:03,Northgate Station,nortc,8,South
+Weekday,512,25126,85047,14:28,Everett Station,evtst,1,South
+Weekday,512,25126,85047,14:37,South Everett Freeway Station,sefs,2,South
+Weekday,512,25126,85047,14:46,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25126,85047,14:54,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25126,85047,14:58,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25126,85047,15:01,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25126,85047,15:09,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25126,85047,15:19,Northgate Station,nortc,8,South
+Weekday,512,25127,85051,14:44,Everett Station,evtst,1,South
+Weekday,512,25127,85051,14:53,South Everett Freeway Station,sefs,2,South
+Weekday,512,25127,85051,15:02,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25127,85051,15:10,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25127,85051,15:14,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25127,85051,15:17,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25127,85051,15:25,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25127,85051,15:35,Northgate Station,nortc,8,South
+Weekday,512,25131,85040,15:43,Everett Station,evtst,1,South
+Weekday,512,25131,85040,15:52,South Everett Freeway Station,sefs,2,South
+Weekday,512,25131,85040,16:01,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25131,85040,16:09,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25131,85040,16:14,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25131,85040,16:17,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25131,85040,16:25,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25131,85040,16:36,Northgate Station,nortc,8,South
+Weekday,512,25128,85053,15:00,Everett Station,evtst,1,South
+Weekday,512,25128,85053,15:09,South Everett Freeway Station,sefs,2,South
+Weekday,512,25128,85053,15:18,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25128,85053,15:26,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25128,85053,15:30,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25128,85053,15:33,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25128,85053,15:41,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25128,85053,15:51,Northgate Station,nortc,8,South
+Weekday,512,25132,85043,15:58,Everett Station,evtst,1,South
+Weekday,512,25132,85043,16:07,South Everett Freeway Station,sefs,2,South
+Weekday,512,25132,85043,16:16,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25132,85043,16:24,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25132,85043,16:29,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25132,85043,16:32,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25132,85043,16:40,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25132,85043,16:51,Northgate Station,nortc,8,South
+Weekday,512,25136,85048,16:56,Everett Station,evtst,1,South
+Weekday,512,25136,85048,17:05,South Everett Freeway Station,sefs,2,South
+Weekday,512,25136,85048,17:15,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25136,85048,17:23,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25136,85048,17:28,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25136,85048,17:31,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25136,85048,17:39,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25136,85048,17:51,Northgate Station,nortc,8,South
+Weekday,512,25138,85057,17:27,Everett Station,evtst,1,South
+Weekday,512,25138,85057,17:36,South Everett Freeway Station,sefs,2,South
+Weekday,512,25138,85057,17:46,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25138,85057,17:54,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25138,85057,17:59,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25138,85057,18:02,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25138,85057,18:10,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25138,85057,18:21,Northgate Station,nortc,8,South
+Weekday,512,25139,85058,17:44,Everett Station,evtst,1,South
+Weekday,512,25139,85058,17:53,South Everett Freeway Station,sefs,2,South
+Weekday,512,25139,85058,18:02,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25139,85058,18:10,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25139,85058,18:15,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25139,85058,18:18,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25139,85058,18:26,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25139,85058,18:36,Northgate Station,nortc,8,South
+Weekday,512,25140,85036,18:01,Everett Station,evtst,1,South
+Weekday,512,25140,85036,18:10,South Everett Freeway Station,sefs,2,South
+Weekday,512,25140,85036,18:19,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25140,85036,18:26,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25140,85036,18:31,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25140,85036,18:34,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25140,85036,18:41,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25140,85036,18:51,Northgate Station,nortc,8,South
+Weekday,512,25133,85034,16:13,Everett Station,evtst,1,South
+Weekday,512,25133,85034,16:22,South Everett Freeway Station,sefs,2,South
+Weekday,512,25133,85034,16:31,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25133,85034,16:39,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25133,85034,16:44,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25133,85034,16:47,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25133,85034,16:55,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25133,85034,17:06,Northgate Station,nortc,8,South
+Weekday,512,25134,85033,16:26,Everett Station,evtst,1,South
+Weekday,512,25134,85033,16:35,South Everett Freeway Station,sefs,2,South
+Weekday,512,25134,85033,16:45,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25134,85033,16:53,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25134,85033,16:58,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25134,85033,17:01,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25134,85033,17:09,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25134,85033,17:21,Northgate Station,nortc,8,South
+Weekday,512,25137,85061,17:12,Everett Station,evtst,1,South
+Weekday,512,25137,85061,17:21,South Everett Freeway Station,sefs,2,South
+Weekday,512,25137,85061,17:31,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25137,85061,17:39,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25137,85061,17:44,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25137,85061,17:47,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25137,85061,17:55,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25137,85061,18:06,Northgate Station,nortc,8,South
+Weekday,512,25130,85060,15:29,Everett Station,evtst,1,South
+Weekday,512,25130,85060,15:38,South Everett Freeway Station,sefs,2,South
+Weekday,512,25130,85060,15:47,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25130,85060,15:55,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25130,85060,15:59,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25130,85060,16:02,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25130,85060,16:10,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25130,85060,16:21,Northgate Station,nortc,8,South
+Weekday,512,25129,85055,15:14,Everett Station,evtst,1,South
+Weekday,512,25129,85055,15:23,South Everett Freeway Station,sefs,2,South
+Weekday,512,25129,85055,15:32,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25129,85055,15:40,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25129,85055,15:44,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25129,85055,15:47,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25129,85055,15:55,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25129,85055,16:06,Northgate Station,nortc,8,South
+Weekday,512,25135,85032,16:41,Everett Station,evtst,1,South
+Weekday,512,25135,85032,16:50,South Everett Freeway Station,sefs,2,South
+Weekday,512,25135,85032,17:00,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25135,85032,17:08,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25135,85032,17:13,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25135,85032,17:16,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25135,85032,17:24,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25135,85032,17:36,Northgate Station,nortc,8,South
+Weekday,512,25069,85032,15:19,Northgate Station,nortc,1,North
+Weekday,512,25069,85032,15:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25069,85032,15:29,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25069,85032,15:30,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25069,85032,15:36,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25069,85032,15:44,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25069,85032,15:57,South Everett Freeway Station,sefs,7,North
+Weekday,512,25069,85032,16:18,Everett Station,evtst,8,North
+Weekday,512,25155,85065,23:10,Everett Station,evtst,1,South
+Weekday,512,25155,85065,23:18,South Everett Freeway Station,sefs,2,South
+Weekday,512,25155,85065,23:25,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25155,85065,23:32,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25155,85065,23:36,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25155,85065,23:39,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25155,85065,23:45,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25155,85065,23:51,Northgate Station,nortc,8,South
+Weekday,512,25041,85002, 8:04   ,Northgate Station,nortc,1,North
+Weekday,512,25041,85002, 8:07   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25041,85002, 8:11   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25041,85002, 8:12   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25041,85002, 8:17   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25041,85002, 8:24   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25041,85002, 8:33   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25041,85002, 8:45   ,Everett Station,evtst,8,North
+Weekday,512,25031,85001, 5:07   ,Northgate Station,nortc,1,North
+Weekday,512,25031,85001, 5:10   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25031,85001, 5:14   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25031,85001, 5:15   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25031,85001, 5:20   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25031,85001, 5:27   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25031,85001, 5:34   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25031,85001, 5:44   ,Everett Station,evtst,8,North
+Weekday,512,25091,85063,23:44,Northgate Station,nortc,1,North
+Weekday,512,25091,85063,23:46,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25091,85063,23:50,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25091,85063,23:51,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25091,85063,23:56,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25091,85063,24:03:00,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25091,85063,24:11:00,South Everett Freeway Station,sefs,7,North
+Weekday,512,25091,85063,24:25:00,Everett Station,evtst,8,North
+Weekday,512,25091,85063,24:34:00,Hewitt Ave & Virginia Ave,hwvg,9,North
+Weekday,535,25228,85010, 6:20   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25228,85010, 6:26   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25228,85010, 6:34   ,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25228,85010, 6:40   ,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25228,85010, 6:48   ,Brickyard Fwy Station,by405,5,South
+Weekday,535,25228,85010, 6:51   ,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25228,85010, 6:57   ,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25228,85010, 7:07   ,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25228,85010, 7:15   ,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25244,85029,14:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25244,85029,14:27,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25244,85029,14:36,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25244,85029,14:43,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25244,85029,14:51,Brickyard Fwy Station,by405,5,South
+Weekday,535,25244,85029,14:54,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25244,85029,15:01,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25244,85029,15:12,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25244,85029,15:20,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25246,85056,15:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25246,85056,15:28,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25246,85056,15:37,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25246,85056,15:44,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25246,85056,15:52,Brickyard Fwy Station,by405,5,South
+Weekday,535,25246,85056,15:55,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25246,85056,16:02,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25246,85056,16:14,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25246,85056,16:22,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,512,25152,85050,21:39,Everett Station,evtst,1,South
+Weekday,512,25152,85050,21:47,South Everett Freeway Station,sefs,2,South
+Weekday,512,25152,85050,21:55,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25152,85050,22:02,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25152,85050,22:06,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25152,85050,22:09,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25152,85050,22:15,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25152,85050,22:21,Northgate Station,nortc,8,South
+Weekday,512,25143,85043,18:49,Everett Station,evtst,1,South
+Weekday,512,25143,85043,18:57,South Everett Freeway Station,sefs,2,South
+Weekday,512,25143,85043,19:05,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25143,85043,19:12,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25143,85043,19:17,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25143,85043,19:20,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25143,85043,19:27,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25143,85043,19:36,Northgate Station,nortc,8,South
+Weekday,512,25032,85005, 5:25   ,Northgate Station,nortc,1,North
+Weekday,512,25032,85005, 5:28   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25032,85005, 5:32   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25032,85005, 5:33   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25032,85005, 5:38   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25032,85005, 5:45   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25032,85005, 5:52   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25032,85005, 6:04   ,Everett Station,evtst,8,North
+Weekday,512,25142,85047,18:34,Everett Station,evtst,1,South
+Weekday,512,25142,85047,18:42,South Everett Freeway Station,sefs,2,South
+Weekday,512,25142,85047,18:50,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25142,85047,18:57,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25142,85047,19:02,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25142,85047,19:05,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25142,85047,19:12,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25142,85047,19:21,Northgate Station,nortc,8,South
+Weekday,512,25153,85058,22:10,Everett Station,evtst,1,South
+Weekday,512,25153,85058,22:18,South Everett Freeway Station,sefs,2,South
+Weekday,512,25153,85058,22:25,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25153,85058,22:32,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25153,85058,22:36,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25153,85058,22:39,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25153,85058,22:45,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25153,85058,22:51,Northgate Station,nortc,8,South
+Weekday,512,25033,85002, 5:43   ,Northgate Station,nortc,1,North
+Weekday,512,25033,85002, 5:46   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25033,85002, 5:50   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25033,85002, 5:51   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25033,85002, 5:56   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25033,85002, 6:03   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25033,85002, 6:10   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25033,85002, 6:22   ,Everett Station,evtst,8,North
+Weekday,512,25039,85020, 7:31   ,Northgate Station,nortc,1,North
+Weekday,512,25039,85020, 7:34   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25039,85020, 7:38   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25039,85020, 7:39   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25039,85020, 7:44   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25039,85020, 7:52   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25039,85020, 8:02   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25039,85020, 8:14   ,Everett Station,evtst,8,North
+Weekday,512,25040,85004, 7:49   ,Northgate Station,nortc,1,North
+Weekday,512,25040,85004, 7:52   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25040,85004, 7:56   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25040,85004, 7:57   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25040,85004, 8:02   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25040,85004, 8:10   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25040,85004, 8:20   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25040,85004, 8:32   ,Everett Station,evtst,8,North
+Weekday,512,25147,85044,19:51,Everett Station,evtst,1,South
+Weekday,512,25147,85044,19:59,South Everett Freeway Station,sefs,2,South
+Weekday,512,25147,85044,20:07,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25147,85044,20:14,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25147,85044,20:19,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25147,85044,20:22,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25147,85044,20:28,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25147,85044,20:36,Northgate Station,nortc,8,South
+Weekday,512,25089,85062,22:49,Northgate Station,nortc,1,North
+Weekday,512,25089,85062,22:51,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25089,85062,22:55,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25089,85062,22:56,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25089,85062,23:01,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25089,85062,23:08,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25089,85062,23:16,South Everett Freeway Station,sefs,7,North
+Weekday,512,25089,85062,23:30,Everett Station,evtst,8,North
+Weekday,512,25089,85062,23:39,Hewitt Ave & Virginia Ave,hwvg,9,North
+Weekday,512,25086,85063,21:39,Northgate Station,nortc,1,North
+Weekday,512,25086,85063,21:42,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25086,85063,21:46,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25086,85063,21:47,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25086,85063,21:52,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25086,85063,21:59,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25086,85063,22:07,South Everett Freeway Station,sefs,7,North
+Weekday,512,25086,85063,22:19,Everett Station,evtst,8,North
+Weekday,512,25092,85065,24:14:00,Northgate Station,nortc,1,North
+Weekday,512,25092,85065,24:16:00,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25092,85065,24:20:00,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25092,85065,24:21:00,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25092,85065,24:26:00,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25092,85065,24:32:00,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25092,85065,24:40:00,South Everett Freeway Station,sefs,7,North
+Weekday,512,25092,85065,24:54:00,Everett Station,evtst,8,North
+Weekday,512,25092,85065,25:03:00,Hewitt Ave & Virginia Ave,hwvg,9,North
+Weekday,512,25093,85066,24:48:00,Northgate Station,nortc,1,North
+Weekday,512,25093,85066,24:50:00,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25093,85066,24:54:00,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25093,85066,24:55:00,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25093,85066,25:00:00,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25093,85066,25:06:00,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25093,85066,25:14:00,South Everett Freeway Station,sefs,7,North
+Weekday,512,25093,85066,25:28:00,Everett Station,evtst,8,North
+Weekday,512,25093,85066,25:37:00,Hewitt Ave & Virginia Ave,hwvg,9,North
+Weekday,512,25049,85002,10:04,Northgate Station,nortc,1,North
+Weekday,512,25049,85002,10:07,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25049,85002,10:11,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25049,85002,10:12,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25049,85002,10:17,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25049,85002,10:24,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25049,85002,10:32,South Everett Freeway Station,sefs,7,North
+Weekday,512,25049,85002,10:44,Everett Station,evtst,8,North
+Weekday,535,25242,85041,13:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25242,85041,13:27,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25242,85041,13:36,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25242,85041,13:43,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25242,85041,13:51,Brickyard Fwy Station,by405,5,South
+Weekday,535,25242,85041,13:54,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25242,85041,14:01,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25242,85041,14:11,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25242,85041,14:19,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,512,25156,85066,23:32,Everett Station,evtst,1,South
+Weekday,512,25156,85066,23:40,South Everett Freeway Station,sefs,2,South
+Weekday,512,25156,85066,23:47,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25156,85066,23:54,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25156,85066,23:58,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25156,85066,24:01:00,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25156,85066,24:07:00,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25156,85066,24:13:00,Northgate Station,nortc,8,South
+Weekday,512,25035,85013, 6:19   ,Northgate Station,nortc,1,North
+Weekday,512,25035,85013, 6:22   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25035,85013, 6:26   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25035,85013, 6:27   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25035,85013, 6:32   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25035,85013, 6:39   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25035,85013, 6:49   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25035,85013, 7:02   ,Everett Station,evtst,8,North
+Weekday,512,25038,85021, 7:13   ,Northgate Station,nortc,1,North
+Weekday,512,25038,85021, 7:16   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25038,85021, 7:20   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25038,85021, 7:21   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25038,85021, 7:26   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25038,85021, 7:34   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25038,85021, 7:44   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25038,85021, 7:57   ,Everett Station,evtst,8,North
+Weekday,512,25042,85005, 8:19   ,Northgate Station,nortc,1,North
+Weekday,512,25042,85005, 8:22   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25042,85005, 8:26   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25042,85005, 8:27   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25042,85005, 8:32   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25042,85005, 8:39   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25042,85005, 8:48   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25042,85005, 9:00   ,Everett Station,evtst,8,North
+Weekday,512,25146,85065,19:35,Everett Station,evtst,1,South
+Weekday,512,25146,85065,19:43,South Everett Freeway Station,sefs,2,South
+Weekday,512,25146,85065,19:51,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25146,85065,19:58,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25146,85065,20:03,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25146,85065,20:06,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25146,85065,20:13,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25146,85065,20:21,Northgate Station,nortc,8,South
+Weekday,512,25145,85066,19:20,Everett Station,evtst,1,South
+Weekday,512,25145,85066,19:28,South Everett Freeway Station,sefs,2,South
+Weekday,512,25145,85066,19:36,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25145,85066,19:43,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25145,85066,19:48,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25145,85066,19:51,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25145,85066,19:58,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25145,85066,20:06,Northgate Station,nortc,8,South
+Weekday,512,25036,85016, 6:37   ,Northgate Station,nortc,1,North
+Weekday,512,25036,85016, 6:40   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25036,85016, 6:44   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25036,85016, 6:45   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25036,85016, 6:50   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25036,85016, 6:58   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25036,85016, 7:08   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25036,85016, 7:21   ,Everett Station,evtst,8,North
+Weekday,512,25037,85012, 6:55   ,Northgate Station,nortc,1,North
+Weekday,512,25037,85012, 6:58   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25037,85012, 7:02   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25037,85012, 7:03   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25037,85012, 7:08   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25037,85012, 7:16   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25037,85012, 7:26   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25037,85012, 7:39   ,Everett Station,evtst,8,North
+Weekday,512,25046,85029, 9:19   ,Northgate Station,nortc,1,North
+Weekday,512,25046,85029, 9:22   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25046,85029, 9:26   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25046,85029, 9:27   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25046,85029, 9:32   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25046,85029, 9:39   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25046,85029, 9:47   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25046,85029, 9:59   ,Everett Station,evtst,8,North
+Weekday,512,25141,85063,18:17,Everett Station,evtst,1,South
+Weekday,512,25141,85063,18:26,South Everett Freeway Station,sefs,2,South
+Weekday,512,25141,85063,18:34,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25141,85063,18:41,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25141,85063,18:46,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25141,85063,18:49,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25141,85063,18:56,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25141,85063,19:06,Northgate Station,nortc,8,South
+Weekday,512,25154,85063,22:40,Everett Station,evtst,1,South
+Weekday,512,25154,85063,22:48,South Everett Freeway Station,sefs,2,South
+Weekday,512,25154,85063,22:55,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25154,85063,23:02,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25154,85063,23:06,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25154,85063,23:09,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25154,85063,23:15,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25154,85063,23:21,Northgate Station,nortc,8,South
+Weekday,512,25044,85027, 8:49   ,Northgate Station,nortc,1,North
+Weekday,512,25044,85027, 8:52   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25044,85027, 8:56   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25044,85027, 8:57   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25044,85027, 9:02   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25044,85027, 9:09   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25044,85027, 9:18   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25044,85027, 9:30   ,Everett Station,evtst,8,North
+Weekday,512,25047,85011, 9:34   ,Northgate Station,nortc,1,North
+Weekday,512,25047,85011, 9:37   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25047,85011, 9:41   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25047,85011, 9:42   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25047,85011, 9:47   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25047,85011, 9:54   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25047,85011,10:02,South Everett Freeway Station,sefs,7,North
+Weekday,512,25047,85011,10:14,Everett Station,evtst,8,North
+Weekday,512,25048,85004, 9:49   ,Northgate Station,nortc,1,North
+Weekday,512,25048,85004, 9:52   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25048,85004, 9:56   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25048,85004, 9:57   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25048,85004,10:02,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25048,85004,10:09,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25048,85004,10:17,South Everett Freeway Station,sefs,7,North
+Weekday,512,25048,85004,10:29,Everett Station,evtst,8,North
+Weekday,512,25043,85009, 8:34   ,Northgate Station,nortc,1,North
+Weekday,512,25043,85009, 8:37   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25043,85009, 8:41   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25043,85009, 8:42   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25043,85009, 8:47   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25043,85009, 8:54   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25043,85009, 9:03   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25043,85009, 9:15   ,Everett Station,evtst,8,North
+Weekday,512,25087,85065,21:59,Northgate Station,nortc,1,North
+Weekday,512,25087,85065,22:02,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25087,85065,22:06,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25087,85065,22:07,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25087,85065,22:12,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25087,85065,22:19,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25087,85065,22:27,South Everett Freeway Station,sefs,7,North
+Weekday,512,25087,85065,22:39,Everett Station,evtst,8,North
+Weekday,512,25077,85058,19:19,Northgate Station,nortc,1,North
+Weekday,512,25077,85058,19:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25077,85058,19:26,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25077,85058,19:27,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25077,85058,19:33,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25077,85058,19:40,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25077,85058,19:48,South Everett Freeway Station,sefs,7,North
+Weekday,512,25077,85058,20:01,Everett Station,evtst,8,North
+Weekday,512,25088,85066,22:29,Northgate Station,nortc,1,North
+Weekday,512,25088,85066,22:32,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25088,85066,22:36,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25088,85066,22:37,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25088,85066,22:42,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25088,85066,22:49,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25088,85066,22:57,South Everett Freeway Station,sefs,7,North
+Weekday,512,25088,85066,23:09,Everett Station,evtst,8,North
+Weekday,512,25090,85058,23:14,Northgate Station,nortc,1,North
+Weekday,512,25090,85058,23:16,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25090,85058,23:20,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25090,85058,23:21,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25090,85058,23:26,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25090,85058,23:33,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25090,85058,23:41,South Everett Freeway Station,sefs,7,North
+Weekday,512,25090,85058,23:55,Everett Station,evtst,8,North
+Weekday,512,25090,85058,24:04:00,Hewitt Ave & Virginia Ave,hwvg,9,North
+Weekday,535,25236,85026,10:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25236,85026,10:26,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25236,85026,10:35,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25236,85026,10:41,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25236,85026,10:49,Brickyard Fwy Station,by405,5,South
+Weekday,535,25236,85026,10:52,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25236,85026,10:59,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25236,85026,11:09,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25236,85026,11:17,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25238,85029,11:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25238,85029,11:26,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25238,85029,11:34,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25238,85029,11:40,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25238,85029,11:48,Brickyard Fwy Station,by405,5,South
+Weekday,535,25238,85029,11:51,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25238,85029,11:58,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25238,85029,12:08,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25238,85029,12:16,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,535,25203,85003,10:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25203,85003,10:24,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25203,85003,10:32,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25203,85003,10:35,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25203,85003,10:38,Brickyard Fwy Station,by405,5,North
+Weekday,535,25203,85003,10:45,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25203,85003,10:47,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25203,85003,10:51,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25203,85003,11:00,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25203,85003,11:15,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25201,85007, 9:20   ,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25201,85007, 9:24   ,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25201,85007, 9:32   ,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25201,85007, 9:35   ,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25201,85007, 9:38   ,Brickyard Fwy Station,by405,5,North
+Weekday,535,25201,85007, 9:45   ,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25201,85007, 9:47   ,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25201,85007, 9:51   ,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25201,85007,10:00,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25201,85007,10:14,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25207,85034,12:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25207,85034,12:25,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25207,85034,12:33,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25207,85034,12:36,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25207,85034,12:39,Brickyard Fwy Station,by405,5,North
+Weekday,535,25207,85034,12:47,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25207,85034,12:49,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25207,85034,12:52,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25207,85034,13:02,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25207,85034,13:18,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25219,85037,18:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25219,85037,18:26,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25219,85037,18:34,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25219,85037,18:37,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25219,85037,18:41,Brickyard Fwy Station,by405,5,North
+Weekday,535,25219,85037,18:48,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25219,85037,18:51,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25219,85037,18:54,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25219,85037,19:04,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25219,85037,19:16,Lynnwood Transit Center,lynntc,10,North
+Weekday,535,25199,85006, 8:20   ,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25199,85006, 8:25   ,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25199,85006, 8:33   ,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25199,85006, 8:36   ,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25199,85006, 8:39   ,Brickyard Fwy Station,by405,5,North
+Weekday,535,25199,85006, 8:47   ,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25199,85006, 8:49   ,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25199,85006, 8:53   ,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25199,85006, 9:03   ,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25199,85006, 9:15   ,Lynnwood Transit Center,lynntc,10,North
+Weekday,512,25123,85043,13:32,Everett Station,evtst,1,South
+Weekday,512,25123,85043,13:41,South Everett Freeway Station,sefs,2,South
+Weekday,512,25123,85043,13:50,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25123,85043,13:57,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25123,85043,14:01,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25123,85043,14:04,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25123,85043,14:12,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25123,85043,14:21,Northgate Station,nortc,8,South
+Weekday,512,25099,85002, 6:29   ,Everett Station,evtst,1,South
+Weekday,512,25099,85002, 6:38   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25099,85002, 6:46   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25099,85002, 6:55   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25099,85002, 6:59   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25099,85002, 7:02   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25099,85002, 7:08   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25099,85002, 7:21   ,Northgate Station,nortc,8,South
+Weekday,512,25096,85010, 5:08   ,Everett Station,evtst,1,South
+Weekday,512,25096,85010, 5:17   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25096,85010, 5:24   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25096,85010, 5:32   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25096,85010, 5:36   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25096,85010, 5:39   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25096,85010, 5:44   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25096,85010, 5:51   ,Northgate Station,nortc,8,South
+Weekday,535,25209,85032,13:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25209,85032,13:25,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25209,85032,13:33,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25209,85032,13:36,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25209,85032,13:40,Brickyard Fwy Station,by405,5,North
+Weekday,535,25209,85032,13:49,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25209,85032,13:51,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25209,85032,13:54,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25209,85032,14:04,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25209,85032,14:20,Lynnwood Transit Center,lynntc,10,North
+Weekday,512,25149,85047,20:21,Everett Station,evtst,1,South
+Weekday,512,25149,85047,20:29,South Everett Freeway Station,sefs,2,South
+Weekday,512,25149,85047,20:37,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25149,85047,20:44,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25149,85047,20:49,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25149,85047,20:52,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25149,85047,20:58,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25149,85047,21:06,Northgate Station,nortc,8,South
+Weekday,535,25211,85039,14:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25211,85039,14:26,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25211,85039,14:34,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25211,85039,14:37,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25211,85039,14:41,Brickyard Fwy Station,by405,5,North
+Weekday,535,25211,85039,14:50,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25211,85039,14:52,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25211,85039,14:56,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25211,85039,15:08,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25211,85039,15:24,Lynnwood Transit Center,lynntc,10,North
+Weekday,512,25119,85038,12:33,Everett Station,evtst,1,South
+Weekday,512,25119,85038,12:42,South Everett Freeway Station,sefs,2,South
+Weekday,512,25119,85038,12:50,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25119,85038,12:57,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25119,85038,13:01,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25119,85038,13:04,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25119,85038,13:12,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25119,85038,13:21,Northgate Station,nortc,8,South
+Weekday,512,25118,85037,12:19,Everett Station,evtst,1,South
+Weekday,512,25118,85037,12:28,South Everett Freeway Station,sefs,2,South
+Weekday,512,25118,85037,12:36,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25118,85037,12:43,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25118,85037,12:47,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25118,85037,12:50,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25118,85037,12:57,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25118,85037,13:06,Northgate Station,nortc,8,South
+Weekday,512,25100,85009, 6:53   ,Everett Station,evtst,1,South
+Weekday,512,25100,85009, 7:02   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25100,85009, 7:12   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25100,85009, 7:21   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25100,85009, 7:26   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25100,85009, 7:29   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25100,85009, 7:38   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25100,85009, 7:51   ,Northgate Station,nortc,8,South
+Weekday,512,25102,85012, 7:52   ,Everett Station,evtst,1,South
+Weekday,512,25102,85012, 8:01   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25102,85012, 8:11   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25102,85012, 8:20   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25102,85012, 8:25   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25102,85012, 8:28   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25102,85012, 8:37   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25102,85012, 8:51   ,Northgate Station,nortc,8,South
+Weekday,512,25101,85013, 7:22   ,Everett Station,evtst,1,South
+Weekday,512,25101,85013, 7:31   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25101,85013, 7:41   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25101,85013, 7:50   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25101,85013, 7:55   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25101,85013, 7:58   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25101,85013, 8:07   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25101,85013, 8:21   ,Northgate Station,nortc,8,South
+Weekday,512,25098,85021, 6:01   ,Everett Station,evtst,1,South
+Weekday,512,25098,85021, 6:10   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25098,85021, 6:18   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25098,85021, 6:27   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25098,85021, 6:31   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25098,85021, 6:34   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25098,85021, 6:40   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25098,85021, 6:51   ,Northgate Station,nortc,8,South
+Weekday,512,25148,85058,20:06,Everett Station,evtst,1,South
+Weekday,512,25148,85058,20:14,South Everett Freeway Station,sefs,2,South
+Weekday,512,25148,85058,20:22,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25148,85058,20:29,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25148,85058,20:34,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25148,85058,20:37,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25148,85058,20:43,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25148,85058,20:51,Northgate Station,nortc,8,South
+Weekday,535,25249,85044,16:50,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25249,85044,16:58,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25249,85044,17:07,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25249,85044,17:14,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25249,85044,17:22,Brickyard Fwy Station,by405,5,South
+Weekday,535,25249,85044,17:25,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25249,85044,17:32,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25249,85044,17:44,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25249,85044,17:52,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,512,25122,85036,13:18,Everett Station,evtst,1,South
+Weekday,512,25122,85036,13:27,South Everett Freeway Station,sefs,2,South
+Weekday,512,25122,85036,13:35,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25122,85036,13:42,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25122,85036,13:46,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25122,85036,13:49,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25122,85036,13:57,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25122,85036,14:06,Northgate Station,nortc,8,South
+Weekday,512,25106,85005, 9:16   ,Everett Station,evtst,1,South
+Weekday,512,25106,85005, 9:25   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25106,85005, 9:33   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25106,85005, 9:41   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25106,85005, 9:45   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25106,85005, 9:48   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25106,85005, 9:55   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25106,85005,10:06,Northgate Station,nortc,8,South
+Weekday,512,25120,85035,12:48,Everett Station,evtst,1,South
+Weekday,512,25120,85035,12:57,South Everett Freeway Station,sefs,2,South
+Weekday,512,25120,85035,13:05,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25120,85035,13:12,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25120,85035,13:16,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25120,85035,13:19,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25120,85035,13:27,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25120,85035,13:36,Northgate Station,nortc,8,South
+Weekday,512,25105,85002, 9:00   ,Everett Station,evtst,1,South
+Weekday,512,25105,85002, 9:09   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25105,85002, 9:17   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25105,85002, 9:25   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25105,85002, 9:30   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25105,85002, 9:33   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25105,85002, 9:40   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25105,85002, 9:51   ,Northgate Station,nortc,8,South
+Weekday,512,25150,85063,20:36,Everett Station,evtst,1,South
+Weekday,512,25150,85063,20:44,South Everett Freeway Station,sefs,2,South
+Weekday,512,25150,85063,20:52,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25150,85063,20:59,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25150,85063,21:04,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25150,85063,21:07,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25150,85063,21:13,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25150,85063,21:21,Northgate Station,nortc,8,South
+Weekday,512,25144,85039,19:04,Everett Station,evtst,1,South
+Weekday,512,25144,85039,19:12,South Everett Freeway Station,sefs,2,South
+Weekday,512,25144,85039,19:20,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25144,85039,19:27,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25144,85039,19:32,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25144,85039,19:35,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25144,85039,19:42,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25144,85039,19:51,Northgate Station,nortc,8,South
+Weekday,512,25121,85040,13:03,Everett Station,evtst,1,South
+Weekday,512,25121,85040,13:12,South Everett Freeway Station,sefs,2,South
+Weekday,512,25121,85040,13:20,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25121,85040,13:27,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25121,85040,13:31,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25121,85040,13:34,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25121,85040,13:42,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25121,85040,13:51,Northgate Station,nortc,8,South
+Weekday,512,25151,85066,21:09,Everett Station,evtst,1,South
+Weekday,512,25151,85066,21:17,South Everett Freeway Station,sefs,2,South
+Weekday,512,25151,85066,21:25,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25151,85066,21:32,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25151,85066,21:36,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25151,85066,21:39,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25151,85066,21:45,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25151,85066,21:51,Northgate Station,nortc,8,South
+Weekday,512,25107,85009, 9:31   ,Everett Station,evtst,1,South
+Weekday,512,25107,85009, 9:40   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25107,85009, 9:48   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25107,85009, 9:56   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25107,85009,10:00,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25107,85009,10:03,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25107,85009,10:10,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25107,85009,10:21,Northgate Station,nortc,8,South
+Weekday,512,25097,85016, 5:38   ,Everett Station,evtst,1,South
+Weekday,512,25097,85016, 5:47   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25097,85016, 5:54   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25097,85016, 6:02   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25097,85016, 6:06   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25097,85016, 6:09   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25097,85016, 6:14   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25097,85016, 6:21   ,Northgate Station,nortc,8,South
+Weekday,512,25108,85030, 9:47   ,Everett Station,evtst,1,South
+Weekday,512,25108,85030, 9:56   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25108,85030,10:04,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25108,85030,10:12,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25108,85030,10:16,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25108,85030,10:19,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25108,85030,10:26,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25108,85030,10:36,Northgate Station,nortc,8,South
+Weekday,512,25110,85031,10:19,Everett Station,evtst,1,South
+Weekday,512,25110,85031,10:28,South Everett Freeway Station,sefs,2,South
+Weekday,512,25110,85031,10:36,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25110,85031,10:43,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25110,85031,10:47,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25110,85031,10:50,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25110,85031,10:57,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25110,85031,11:06,Northgate Station,nortc,8,South
+Weekday,512,25113,85035,11:04,Everett Station,evtst,1,South
+Weekday,512,25113,85035,11:13,South Everett Freeway Station,sefs,2,South
+Weekday,512,25113,85035,11:21,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25113,85035,11:28,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25113,85035,11:32,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25113,85035,11:35,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25113,85035,11:42,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25113,85035,11:51,Northgate Station,nortc,8,South
+Weekday,512,25116,85033,11:49,Everett Station,evtst,1,South
+Weekday,512,25116,85033,11:58,South Everett Freeway Station,sefs,2,South
+Weekday,512,25116,85033,12:06,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25116,85033,12:13,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25116,85033,12:17,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25116,85033,12:20,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25116,85033,12:27,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25116,85033,12:36,Northgate Station,nortc,8,South
+Weekday,512,25081,85066,20:19,Northgate Station,nortc,1,North
+Weekday,512,25081,85066,20:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25081,85066,20:26,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25081,85066,20:27,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25081,85066,20:32,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25081,85066,20:39,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25081,85066,20:47,South Everett Freeway Station,sefs,7,North
+Weekday,512,25081,85066,21:00,Everett Station,evtst,8,North
+Weekday,512,25079,85063,19:49,Northgate Station,nortc,1,North
+Weekday,512,25079,85063,19:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25079,85063,19:56,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25079,85063,19:57,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25079,85063,20:03,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25079,85063,20:10,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25079,85063,20:18,South Everett Freeway Station,sefs,7,North
+Weekday,512,25079,85063,20:31,Everett Station,evtst,8,North
+Weekday,512,25109,85029,10:03,Everett Station,evtst,1,South
+Weekday,512,25109,85029,10:12,South Everett Freeway Station,sefs,2,South
+Weekday,512,25109,85029,10:20,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25109,85029,10:28,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25109,85029,10:32,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25109,85029,10:35,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25109,85029,10:42,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25109,85029,10:51,Northgate Station,nortc,8,South
+Weekday,512,25060,85033,12:49,Northgate Station,nortc,1,North
+Weekday,512,25060,85033,12:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25060,85033,12:56,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25060,85033,12:57,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25060,85033,13:02,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25060,85033,13:09,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25060,85033,13:17,South Everett Freeway Station,sefs,7,North
+Weekday,512,25060,85033,13:32,Everett Station,evtst,8,North
+Weekday,512,25080,85039,20:04,Northgate Station,nortc,1,North
+Weekday,512,25080,85039,20:07,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25080,85039,20:11,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25080,85039,20:12,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25080,85039,20:17,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25080,85039,20:24,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25080,85039,20:32,South Everett Freeway Station,sefs,7,North
+Weekday,512,25080,85039,20:45,Everett Station,evtst,8,North
+Weekday,512,25059,85036,12:34,Northgate Station,nortc,1,North
+Weekday,512,25059,85036,12:37,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25059,85036,12:41,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25059,85036,12:42,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25059,85036,12:47,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25059,85036,12:54,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25059,85036,13:02,South Everett Freeway Station,sefs,7,North
+Weekday,512,25059,85036,13:16,Everett Station,evtst,8,North
+Weekday,512,25111,85011,10:34,Everett Station,evtst,1,South
+Weekday,512,25111,85011,10:43,South Everett Freeway Station,sefs,2,South
+Weekday,512,25111,85011,10:51,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25111,85011,10:58,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25111,85011,11:02,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25111,85011,11:05,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25111,85011,11:12,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25111,85011,11:21,Northgate Station,nortc,8,South
+Weekday,512,25115,85036,11:34,Everett Station,evtst,1,South
+Weekday,512,25115,85036,11:43,South Everett Freeway Station,sefs,2,South
+Weekday,512,25115,85036,11:51,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25115,85036,11:58,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25115,85036,12:02,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25115,85036,12:05,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25115,85036,12:12,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25115,85036,12:21,Northgate Station,nortc,8,South
+Weekday,512,25055,85011,11:34,Northgate Station,nortc,1,North
+Weekday,512,25055,85011,11:37,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25055,85011,11:41,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25055,85011,11:42,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25055,85011,11:47,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25055,85011,11:54,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25055,85011,12:02,South Everett Freeway Station,sefs,7,North
+Weekday,512,25055,85011,12:14,Everett Station,evtst,8,North
+Weekday,510,25019,85020, 6:00   ,Everett Station,evtst,1,South
+Weekday,510,25019,85020, 6:10   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25019,85020, 6:22   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25019,85020, 6:25   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25019,85020, 6:29   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25019,85020, 6:43   ,Stewart/9th,9stew,6,South
+Weekday,510,25019,85020, 6:49   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25019,85020, 6:59   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,535,25210,85042,13:50,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25210,85042,13:55,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25210,85042,14:03,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25210,85042,14:06,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25210,85042,14:10,Brickyard Fwy Station,by405,5,North
+Weekday,535,25210,85042,14:19,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25210,85042,14:21,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25210,85042,14:25,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25210,85042,14:36,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25210,85042,14:52,Lynnwood Transit Center,lynntc,10,North
+Weekday,512,25061,85030,13:04,Northgate Station,nortc,1,North
+Weekday,512,25061,85030,13:07,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25061,85030,13:11,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25061,85030,13:12,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25061,85030,13:17,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25061,85030,13:24,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25061,85030,13:33,South Everett Freeway Station,sefs,7,North
+Weekday,512,25061,85030,13:49,Everett Station,evtst,8,North
+Weekday,535,25205,85006,11:20,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,535,25205,85006,11:25,Bellevue Transit Center,blvtc,2,North
+Weekday,535,25205,85006,11:33,I-405 & NE 70th Pl,40570,3,North
+Weekday,535,25205,85006,11:36,Totem Lake Freeway Station,405tl,4,North
+Weekday,535,25205,85006,11:39,Brickyard Fwy Station,by405,5,North
+Weekday,535,25205,85006,11:46,UW Bothell & Cascadia College,uwb1,6,North
+Weekday,535,25205,85006,11:48,I-405 & NE 195th St Flyer Stop,405195,7,North
+Weekday,535,25205,85006,11:51,Canyon Park Park & Ride,cpkpr,8,North
+Weekday,535,25205,85006,12:00,Alderwood Mall Pkwy & 184th St SW,ald184,9,North
+Weekday,535,25205,85006,12:15,Lynnwood Transit Center,lynntc,10,North
+Weekday,512,25084,85058,21:04,Northgate Station,nortc,1,North
+Weekday,512,25084,85058,21:07,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25084,85058,21:11,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25084,85058,21:12,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25084,85058,21:17,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25084,85058,21:24,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25084,85058,21:32,South Everett Freeway Station,sefs,7,North
+Weekday,512,25084,85058,21:44,Everett Station,evtst,8,North
+Weekday,512,25112,85004,10:49,Everett Station,evtst,1,South
+Weekday,512,25112,85004,10:58,South Everett Freeway Station,sefs,2,South
+Weekday,512,25112,85004,11:06,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25112,85004,11:13,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25112,85004,11:17,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25112,85004,11:20,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25112,85004,11:27,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25112,85004,11:36,Northgate Station,nortc,8,South
+Weekday,512,25070,85061,15:49,Northgate Station,nortc,1,North
+Weekday,512,25070,85061,15:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25070,85061,16:00,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25070,85061,16:01,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25070,85061,16:07,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25070,85061,16:16,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25070,85061,16:29,South Everett Freeway Station,sefs,7,North
+Weekday,512,25070,85061,16:50,Everett Station,evtst,8,North
+Weekday,512,25085,85047,21:19,Northgate Station,nortc,1,North
+Weekday,512,25085,85047,21:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25085,85047,21:26,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25085,85047,21:27,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25085,85047,21:32,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25085,85047,21:39,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25085,85047,21:47,South Everett Freeway Station,sefs,7,North
+Weekday,512,25085,85047,21:59,Everett Station,evtst,8,North
+Weekday,512,25056,85003,11:49,Northgate Station,nortc,1,North
+Weekday,512,25056,85003,11:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25056,85003,11:56,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25056,85003,11:57,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25056,85003,12:02,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25056,85003,12:09,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25056,85003,12:17,South Everett Freeway Station,sefs,7,North
+Weekday,512,25056,85003,12:30,Everett Station,evtst,8,North
+Weekday,512,25057,85009,12:04,Northgate Station,nortc,1,North
+Weekday,512,25057,85009,12:07,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25057,85009,12:11,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25057,85009,12:12,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25057,85009,12:17,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25057,85009,12:24,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25057,85009,12:32,South Everett Freeway Station,sefs,7,North
+Weekday,512,25057,85009,12:45,Everett Station,evtst,8,North
+Weekday,512,25082,85065,20:34,Northgate Station,nortc,1,North
+Weekday,512,25082,85065,20:37,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25082,85065,20:41,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25082,85065,20:42,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25082,85065,20:47,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25082,85065,20:54,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25082,85065,21:02,South Everett Freeway Station,sefs,7,North
+Weekday,512,25082,85065,21:15,Everett Station,evtst,8,North
+Weekday,512,25045,85013, 9:04   ,Northgate Station,nortc,1,North
+Weekday,512,25045,85013, 9:07   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25045,85013, 9:11   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25045,85013, 9:12   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25045,85013, 9:17   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25045,85013, 9:24   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25045,85013, 9:33   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25045,85013, 9:45   ,Everett Station,evtst,8,North
+Weekday,512,25117,85030,12:04,Everett Station,evtst,1,South
+Weekday,512,25117,85030,12:13,South Everett Freeway Station,sefs,2,South
+Weekday,512,25117,85030,12:21,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25117,85030,12:28,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25117,85030,12:32,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25117,85030,12:35,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25117,85030,12:42,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25117,85030,12:51,Northgate Station,nortc,8,South
+Weekday,512,25072,85040,16:49,Northgate Station,nortc,1,North
+Weekday,512,25072,85040,16:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25072,85040,17:01,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25072,85040,17:02,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25072,85040,17:08,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25072,85040,17:17,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25072,85040,17:30,South Everett Freeway Station,sefs,7,North
+Weekday,512,25072,85040,17:50,Everett Station,evtst,8,North
+Weekday,512,25052,85033,10:49,Northgate Station,nortc,1,North
+Weekday,512,25052,85033,10:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25052,85033,10:56,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25052,85033,10:57,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25052,85033,11:02,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25052,85033,11:09,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25052,85033,11:17,South Everett Freeway Station,sefs,7,North
+Weekday,512,25052,85033,11:29,Everett Station,evtst,8,North
+Weekday,512,25074,85033,17:49,Northgate Station,nortc,1,North
+Weekday,512,25074,85033,17:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25074,85033,18:00,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25074,85033,18:01,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25074,85033,18:07,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25074,85033,18:14,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25074,85033,18:25,South Everett Freeway Station,sefs,7,North
+Weekday,512,25074,85033,18:41,Everett Station,evtst,8,North
+Weekday,512,25034,85009, 6:01   ,Northgate Station,nortc,1,North
+Weekday,512,25034,85009, 6:04   ,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25034,85009, 6:08   ,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25034,85009, 6:09   ,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25034,85009, 6:14   ,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25034,85009, 6:21   ,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25034,85009, 6:29   ,South Everett Freeway Station,sefs,7,North
+Weekday,512,25034,85009, 6:42   ,Everett Station,evtst,8,North
+Weekday,512,25062,85037,13:19,Northgate Station,nortc,1,North
+Weekday,512,25062,85037,13:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25062,85037,13:26,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25062,85037,13:27,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25062,85037,13:32,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25062,85037,13:39,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25062,85037,13:48,South Everett Freeway Station,sefs,7,North
+Weekday,512,25062,85037,14:04,Everett Station,evtst,8,North
+Weekday,512,25078,85047,19:34,Northgate Station,nortc,1,North
+Weekday,512,25078,85047,19:37,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25078,85047,19:41,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25078,85047,19:42,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25078,85047,19:48,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25078,85047,19:55,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25078,85047,20:03,South Everett Freeway Station,sefs,7,North
+Weekday,512,25078,85047,20:16,Everett Station,evtst,8,North
+Weekday,512,25114,85005,11:19,Everett Station,evtst,1,South
+Weekday,512,25114,85005,11:28,South Everett Freeway Station,sefs,2,South
+Weekday,512,25114,85005,11:36,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25114,85005,11:43,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25114,85005,11:47,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25114,85005,11:50,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25114,85005,11:57,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25114,85005,12:06,Northgate Station,nortc,8,South
+Weekday,512,25066,85040,14:19,Northgate Station,nortc,1,North
+Weekday,512,25066,85040,14:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25066,85040,14:26,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25066,85040,14:27,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25066,85040,14:33,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25066,85040,14:40,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25066,85040,14:50,South Everett Freeway Station,sefs,7,North
+Weekday,512,25066,85040,15:10,Everett Station,evtst,8,North
+Weekday,512,25058,85005,12:19,Northgate Station,nortc,1,North
+Weekday,512,25058,85005,12:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25058,85005,12:26,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25058,85005,12:27,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25058,85005,12:32,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25058,85005,12:39,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25058,85005,12:47,South Everett Freeway Station,sefs,7,North
+Weekday,512,25058,85005,13:01,Everett Station,evtst,8,North
+Weekday,512,25067,85043,14:34,Northgate Station,nortc,1,North
+Weekday,512,25067,85043,14:37,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25067,85043,14:41,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25067,85043,14:42,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25067,85043,14:48,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25067,85043,14:55,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25067,85043,15:05,South Everett Freeway Station,sefs,7,North
+Weekday,512,25067,85043,15:26,Everett Station,evtst,8,North
+Weekday,512,25054,85001,11:19,Northgate Station,nortc,1,North
+Weekday,512,25054,85001,11:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25054,85001,11:26,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25054,85001,11:27,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25054,85001,11:32,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25054,85001,11:39,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25054,85001,11:47,South Everett Freeway Station,sefs,7,North
+Weekday,512,25054,85001,11:59,Everett Station,evtst,8,North
+Weekday,512,25065,85031,14:04,Northgate Station,nortc,1,North
+Weekday,512,25065,85031,14:07,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25065,85031,14:11,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25065,85031,14:12,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25065,85031,14:17,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25065,85031,14:24,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25065,85031,14:34,South Everett Freeway Station,sefs,7,North
+Weekday,512,25065,85031,14:53,Everett Station,evtst,8,North
+Weekday,512,25104,85004, 8:45   ,Everett Station,evtst,1,South
+Weekday,512,25104,85004, 8:54   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25104,85004, 9:02   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25104,85004, 9:10   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25104,85004, 9:15   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25104,85004, 9:18   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25104,85004, 9:25   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25104,85004, 9:36   ,Northgate Station,nortc,8,South
+Weekday,512,25063,85038,13:34,Northgate Station,nortc,1,North
+Weekday,512,25063,85038,13:37,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25063,85038,13:41,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25063,85038,13:42,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25063,85038,13:47,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25063,85038,13:54,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25063,85038,14:03,South Everett Freeway Station,sefs,7,North
+Weekday,512,25063,85038,14:19,Everett Station,evtst,8,North
+Weekday,512,25053,85030,11:04,Northgate Station,nortc,1,North
+Weekday,512,25053,85030,11:07,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25053,85030,11:11,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25053,85030,11:12,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25053,85030,11:17,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25053,85030,11:24,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25053,85030,11:32,South Everett Freeway Station,sefs,7,North
+Weekday,512,25053,85030,11:44,Everett Station,evtst,8,North
+Weekday,512,25083,85050,20:49,Northgate Station,nortc,1,North
+Weekday,512,25083,85050,20:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25083,85050,20:56,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25083,85050,20:57,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25083,85050,21:02,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25083,85050,21:09,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25083,85050,21:17,South Everett Freeway Station,sefs,7,North
+Weekday,512,25083,85050,21:30,Everett Station,evtst,8,North
+Weekday,512,25076,85040,18:49,Northgate Station,nortc,1,North
+Weekday,512,25076,85040,18:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25076,85040,18:56,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25076,85040,18:57,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25076,85040,19:03,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25076,85040,19:10,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25076,85040,19:18,South Everett Freeway Station,sefs,7,North
+Weekday,512,25076,85040,19:31,Everett Station,evtst,8,North
+Weekday,512,25075,85051,18:19,Northgate Station,nortc,1,North
+Weekday,512,25075,85051,18:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25075,85051,18:27,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25075,85051,18:28,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25075,85051,18:34,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25075,85051,18:41,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25075,85051,18:52,South Everett Freeway Station,sefs,7,North
+Weekday,512,25075,85051,19:07,Everett Station,evtst,8,North
+Weekday,512,25050,85005,10:19,Northgate Station,nortc,1,North
+Weekday,512,25050,85005,10:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25050,85005,10:26,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25050,85005,10:27,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25050,85005,10:32,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25050,85005,10:39,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25050,85005,10:47,South Everett Freeway Station,sefs,7,North
+Weekday,512,25050,85005,10:59,Everett Station,evtst,8,North
+Weekday,512,25064,85035,13:49,Northgate Station,nortc,1,North
+Weekday,512,25064,85035,13:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25064,85035,13:56,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25064,85035,13:57,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25064,85035,14:02,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25064,85035,14:09,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25064,85035,14:19,South Everett Freeway Station,sefs,7,North
+Weekday,512,25064,85035,14:36,Everett Station,evtst,8,North
+Weekday,512,25068,85050,14:49,Northgate Station,nortc,1,North
+Weekday,512,25068,85050,14:52,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25068,85050,14:56,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25068,85050,14:57,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25068,85050,15:03,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25068,85050,15:10,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25068,85050,15:21,South Everett Freeway Station,sefs,7,North
+Weekday,512,25068,85050,15:42,Everett Station,evtst,8,North
+Weekday,512,25073,85043,17:19,Northgate Station,nortc,1,North
+Weekday,512,25073,85043,17:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25073,85043,17:31,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25073,85043,17:32,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25073,85043,17:38,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25073,85043,17:47,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25073,85043,18:00,South Everett Freeway Station,sefs,7,North
+Weekday,512,25073,85043,18:16,Everett Station,evtst,8,North
+Weekday,512,25071,85051,16:19,Northgate Station,nortc,1,North
+Weekday,512,25071,85051,16:22,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25071,85051,16:31,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25071,85051,16:32,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25071,85051,16:38,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25071,85051,16:47,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25071,85051,17:00,South Everett Freeway Station,sefs,7,North
+Weekday,512,25071,85051,17:20,Everett Station,evtst,8,North
+Weekday,512,25051,85009,10:34,Northgate Station,nortc,1,North
+Weekday,512,25051,85009,10:37,I-5 & NE 117th St,117i5,2,North
+Weekday,512,25051,85009,10:41,I-5 & NE 195th St,195i5,3,North
+Weekday,512,25051,85009,10:42,Mountlake Terrace Freeway Station,mltfs,4,North
+Weekday,512,25051,85009,10:47,Lynnwood Transit Center,lynntc,5,North
+Weekday,512,25051,85009,10:54,Ash Way Park & Ride,awypr,6,North
+Weekday,512,25051,85009,11:02,South Everett Freeway Station,sefs,7,North
+Weekday,512,25051,85009,11:14,Everett Station,evtst,8,North
+Weekday,535,25240,85032,12:20,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25240,85032,12:27,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25240,85032,12:35,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25240,85032,12:42,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25240,85032,12:50,Brickyard Fwy Station,by405,5,South
+Weekday,535,25240,85032,12:53,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25240,85032,13:00,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25240,85032,13:10,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25240,85032,13:18,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,532,25177,85057,15:47,NE 10th St & 102nd Ave NE,10102,1,North
+Weekday,532,25177,85057,15:53,Bellevue Transit Center,blvtc,2,North
+Weekday,532,25177,85057,16:02,I-405 & NE 70th Pl,40570,3,North
+Weekday,532,25177,85057,16:06,Totem Lake Freeway Station,405tl,4,North
+Weekday,532,25177,85057,16:16,Canyon Park Park & Ride,cpkpr,5,North
+Weekday,532,25177,85057,16:33,Ash Way Park & Ride,awypr,6,North
+Weekday,532,25177,85057,16:54,South Everett Freeway Station,sefs,7,North
+Weekday,532,25177,85057,17:10,Everett Station,evtst,8,North
+Weekday,532,25191,85026, 6:55   ,Everett Station,evtst,1,South
+Weekday,532,25191,85026, 7:04   ,South Everett Freeway Station,sefs,2,South
+Weekday,532,25191,85026, 7:14   ,Ash Way Park & Ride,awypr,3,South
+Weekday,532,25191,85026, 7:26   ,Canyon Park Park & Ride,cpkpr,4,South
+Weekday,532,25191,85026, 7:36   ,Totem Lake Freeway Station,405tl,5,South
+Weekday,532,25191,85026, 7:45   ,I-405 & NE 70th Pl,40570,6,South
+Weekday,532,25191,85026, 8:00   ,Bellevue Transit Center,blvtc,7,South
+Weekday,532,25191,85026, 8:07   ,NE 10th St & 102nd Ave NE,10102,8,South
+Weekday,512,25094,85001, 4:02   ,Everett Station,evtst,1,South
+Weekday,512,25094,85001, 4:10   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25094,85001, 4:17   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25094,85001, 4:25   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25094,85001, 4:29   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25094,85001, 4:32   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25094,85001, 4:36   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25094,85001, 4:41   ,Northgate Station,nortc,8,South
+Weekday,402,24001,,14:25,4thAv/Jacksn,4jack,1,North
+Weekday,402,24001,,14:31,4th Ave & Pine St,4unio,2,North
+Weekday,402,24001,,14:35,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24001,,14:44,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24001,,14:49,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24001,,14:54,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24001,,15:05,Lynnwood Transit Center,lynntc,7,North
+Weekday,402,24003,,15:20,4thAv/Jacksn,4jack,1,North
+Weekday,402,24003,,15:26,4th Ave & Pine St,4unio,2,North
+Weekday,402,24003,,15:30,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24003,,15:39,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24003,,15:45,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24003,,15:50,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24003,,16:06,Lynnwood Transit Center,lynntc,7,North
+Weekday,402,24004,,15:45,4thAv/Jacksn,4jack,1,North
+Weekday,402,24004,,15:51,4th Ave & Pine St,4unio,2,North
+Weekday,402,24004,,15:55,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24004,,16:04,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24004,,16:10,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24004,,16:15,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24004,,16:34,Lynnwood Transit Center,lynntc,7,North
+Weekday,402,24002,,14:55,4thAv/Jacksn,4jack,1,North
+Weekday,402,24002,,15:01,4th Ave & Pine St,4unio,2,North
+Weekday,402,24002,,15:05,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24002,,15:14,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24002,,15:19,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24002,,15:24,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24002,,15:39,Lynnwood Transit Center,lynntc,7,North
+Weekday,402,24005,,16:05,4thAv/Jacksn,4jack,1,North
+Weekday,402,24005,,16:11,4th Ave & Pine St,4unio,2,North
+Weekday,402,24005,,16:15,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24005,,16:24,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24005,,16:30,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24005,,16:36,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24005,,16:55,Lynnwood Transit Center,lynntc,7,North
+Weekday,512,25095,85005, 4:33   ,Everett Station,evtst,1,South
+Weekday,512,25095,85005, 4:42   ,South Everett Freeway Station,sefs,2,South
+Weekday,512,25095,85005, 4:49   ,Ash Way Park & Ride,awypr,3,South
+Weekday,512,25095,85005, 4:57   ,Lynnwood Transit Center,lynntc,4,South
+Weekday,512,25095,85005, 5:01   ,Mountlake Terrace Freeway Station,mltfs,5,South
+Weekday,512,25095,85005, 5:04   ,I-5 & NE 195th St,195i5,6,South
+Weekday,512,25095,85005, 5:08   ,I-5 & NE 117th St,117i5,7,South
+Weekday,512,25095,85005, 5:13   ,Northgate Station,nortc,8,South
+Weekday,402,24006,,16:25,4thAv/Jacksn,4jack,1,North
+Weekday,402,24006,,16:31,4th Ave & Pine St,4unio,2,North
+Weekday,402,24006,,16:35,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24006,,16:44,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24006,,16:50,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24006,,16:56,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24006,,17:15,Lynnwood Transit Center,lynntc,7,North
+Weekday,402,24007,,16:45,4thAv/Jacksn,4jack,1,North
+Weekday,402,24007,,16:51,4th Ave & Pine St,4unio,2,North
+Weekday,402,24007,,16:55,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24007,,17:04,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24007,,17:10,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24007,,17:16,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24007,,17:35,Lynnwood Transit Center,lynntc,7,North
+Weekday,402,24008,,17:05,4thAv/Jacksn,4jack,1,North
+Weekday,402,24008,,17:11,4th Ave & Pine St,4unio,2,North
+Weekday,402,24008,,17:15,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24008,,17:24,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24008,,17:30,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24008,,17:35,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24008,,17:53,Lynnwood Transit Center,lynntc,7,North
+Weekday,402,24009,,17:30,4thAv/Jacksn,4jack,1,North
+Weekday,402,24009,,17:36,4th Ave & Pine St,4unio,2,North
+Weekday,402,24009,,17:40,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24009,,17:49,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24009,,17:54,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24009,,17:59,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24009,,18:16,Lynnwood Transit Center,lynntc,7,North
+Weekday,402,24010,,18:00,4thAv/Jacksn,4jack,1,North
+Weekday,402,24010,,18:06,4th Ave & Pine St,4unio,2,North
+Weekday,402,24010,,18:10,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24010,,18:19,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24010,,18:22,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24010,,18:27,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24010,,18:39,Lynnwood Transit Center,lynntc,7,North
+Weekday,402,24011,,18:35,4thAv/Jacksn,4jack,1,North
+Weekday,402,24011,,18:41,4th Ave & Pine St,4unio,2,North
+Weekday,402,24011,,18:45,Howell St & 9th Ave,hwll9,3,North
+Weekday,402,24011,,18:54,NE 45th Freeway Station,45i5,4,North
+Weekday,402,24011,,18:57,I-5 & NE 117th St,117i5,5,North
+Weekday,402,24011,,19:02,I-5 & NE 195th St,195i5,6,North
+Weekday,402,24011,,19:10,Lynnwood Transit Center,lynntc,7,North
+Weekday,402,24016,, 6:35   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24016,, 6:41   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24016,, 6:46   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24016,, 6:50   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24016,, 6:58   ,Stewart/9th,9stew,5,South
+Weekday,402,24016,, 7:06   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24016,, 7:12   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,402,24014,, 6:05   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24014,, 6:10   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24014,, 6:14   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24014,, 6:18   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24014,, 6:24   ,Stewart/9th,9stew,5,South
+Weekday,402,24014,, 6:32   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24014,, 6:38   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,402,24019,, 7:20   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24019,, 7:28   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24019,, 7:33   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24019,, 7:37   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24019,, 7:48   ,Stewart/9th,9stew,5,South
+Weekday,402,24019,, 7:56   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24019,, 8:02   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,402,24020,, 7:35   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24020,, 7:43   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24020,, 7:48   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24020,, 7:52   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24020,, 8:04   ,Stewart/9th,9stew,5,South
+Weekday,402,24020,, 8:17   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24020,, 8:23   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,402,24021,, 8:00   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24021,, 8:08   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24021,, 8:13   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24021,, 8:17   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24021,, 8:33   ,Stewart/9th,9stew,5,South
+Weekday,402,24021,, 8:46   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24021,, 8:52   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,402,24022,, 8:25   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24022,, 8:33   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24022,, 8:38   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24022,, 8:42   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24022,, 8:59   ,Stewart/9th,9stew,5,South
+Weekday,402,24022,, 9:12   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24022,, 9:21   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,402,24012,, 5:15   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24012,, 5:20   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24012,, 5:24   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24012,, 5:28   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24012,, 5:34   ,Stewart/9th,9stew,5,South
+Weekday,402,24012,, 5:41   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24012,, 5:46   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,402,24018,, 7:05   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24018,, 7:11   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24018,, 7:16   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24018,, 7:20   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24018,, 7:28   ,Stewart/9th,9stew,5,South
+Weekday,402,24018,, 7:36   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24018,, 7:42   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,402,24017,, 6:50   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24017,, 6:56   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24017,, 7:01   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24017,, 7:05   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24017,, 7:13   ,Stewart/9th,9stew,5,South
+Weekday,402,24017,, 7:21   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24017,, 7:27   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,402,24013,, 5:45   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24013,, 5:50   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24013,, 5:54   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24013,, 5:58   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24013,, 6:04   ,Stewart/9th,9stew,5,South
+Weekday,402,24013,, 6:12   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24013,, 6:18   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,402,24015,, 6:20   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,402,24015,, 6:26   ,I-5 & NE 195th St,195i5,2,South
+Weekday,402,24015,, 6:31   ,I-5 & NE 117th St,117i5,3,South
+Weekday,402,24015,, 6:35   ,NE 45th Freeway Station,45i5,4,South
+Weekday,402,24015,, 6:41   ,Stewart/9th,9stew,5,South
+Weekday,402,24015,, 6:49   ,2nd Ave & Spring St,2spr,6,South
+Weekday,402,24015,, 6:55   ,2nd S/ S. WASHINGTON,2main,7,South
+Weekday,,35083,85058,23:13,,3NG100,1,
+Weekday,,35083,85058,23:14,Northgate Station,nortc,2,
+Weekday,,35221,85062,22:08,Lynnwood Transit Center,lynntc,1,
+Weekday,,35221,85062,22:31,,3NG100,2,
+Weekday,,35077,85058,21:03,,3NG100,1,
+Weekday,,35077,85058,21:04,Northgate Station,nortc,2,
+Weekday,,35285,85058,20:51,Northgate Station,nortc,1,
+Weekday,,35285,85058,20:54,,3NG100,2,
+Weekday,,35287,85063,21:21,Northgate Station,nortc,1,
+Weekday,,35287,85063,21:24,,3NG100,2,
+Weekday,,35281,85039,19:51,Northgate Station,nortc,1,
+Weekday,,35281,85039,19:54,,3NG100,2,
+Weekday,,35081,85066,22:28,,3NG100,1,
+Weekday,,35081,85066,22:29,Northgate Station,nortc,2,
+Weekday,,35057,85037,16:02,,3NG100,1,
+Weekday,,35057,85037,16:04,Northgate Station,nortc,2,
+Weekday,,35262,85037,15:03,Northgate Station,nortc,1,
+Weekday,,35262,85037,15:07,,3NG100,2,
+Weekday,,35046,85037,13:18,,3NG100,1,
+Weekday,,35046,85037,13:19,Northgate Station,nortc,2,
+Weekday,,35079,85063,21:38,,3NG100,1,
+Weekday,,35079,85063,21:39,Northgate Station,nortc,2,
+Weekday,,35043,85036,12:33,,3NG100,1,
+Weekday,,35043,85036,12:34,Northgate Station,nortc,2,
+Weekday,510,25026,85028, 8:00   ,Everett Station,evtst,1,South
+Weekday,510,25026,85028, 8:10   ,South Everett Freeway Station,sefs,2,South
+Weekday,510,25026,85028, 8:23   ,Mountlake Terrace Freeway Station,mltfs,3,South
+Weekday,510,25026,85028, 8:30   ,I-5 & NE 195th St,195i5,4,South
+Weekday,510,25026,85028, 8:36   ,I-5 & NE 117th St,117i5,5,South
+Weekday,510,25026,85028, 8:52   ,Stewart/9th,9stew,6,South
+Weekday,510,25026,85028, 8:58   ,5th Ave & Pine St,5pine,7,South
+Weekday,510,25026,85028, 9:17   ,5th Ave S & S Jackson St,5jack,8,South
+Weekday,,35084,85063,23:43,,3NG100,1,
+Weekday,,35084,85063,23:44,Northgate Station,nortc,2,
+Weekday,,35282,85066,20:06,Northgate Station,nortc,1,
+Weekday,,35282,85066,20:09,,3NG100,2,
+Weekday,,35278,85063,19:06,Northgate Station,nortc,1,
+Weekday,,35278,85063,19:09,,3NG100,2,
+Weekday,,35075,85065,20:33,,3NG100,1,
+Weekday,,35075,85065,20:34,Northgate Station,nortc,2,
+Weekday,,35286,85047,21:06,Northgate Station,nortc,1,
+Weekday,,35286,85047,21:09,,3NG100,2,
+Weekday,,35296,85037,17:14,Seaway Transit Center,seaway,1,
+Weekday,,35296,85037,17:54,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35069,85036,19:03,,3NG100,1,
+Weekday,,35069,85036,19:04,Northgate Station,nortc,2,
+Weekday,,35283,85065,20:21,Northgate Station,nortc,1,
+Weekday,,35283,85065,20:24,,3NG100,2,
+Weekday,,35277,85036,18:51,Northgate Station,nortc,1,
+Weekday,,35277,85036,18:54,,3NG100,2,
+Weekday,,35292,85065,23:51,Northgate Station,nortc,1,
+Weekday,,35292,85065,23:54,,3NG100,2,
+Weekday,535,25226,85011, 5:20   ,Lynnwood Transit Center,lynntc,1,South
+Weekday,535,25226,85011, 5:25   ,Alderwood Mall Pkwy & 184th St SW,ald184,2,South
+Weekday,535,25226,85011, 5:32   ,Canyon Park Park & Ride,cpkpr,3,South
+Weekday,535,25226,85011, 5:38   ,UW Bothell & Cascadia College,uwb1,4,South
+Weekday,535,25226,85011, 5:45   ,Brickyard Fwy Station,by405,5,South
+Weekday,535,25226,85011, 5:48   ,Totem Lake Freeway Station,405tl,6,South
+Weekday,535,25226,85011, 5:53   ,I-405 & NE 70th Pl,40570,7,South
+Weekday,535,25226,85011, 6:00   ,Bellevue Transit Center,blvtc,8,South
+Weekday,535,25226,85011, 6:07   ,NE 10th St & 102nd Ave NE,10102,9,South
+Weekday,,35290,85058,22:51,Northgate Station,nortc,1,
+Weekday,,35290,85058,22:54,,3NG100,2,
+Weekday,,35074,85066,20:18,,3NG100,1,
+Weekday,,35074,85066,20:19,Northgate Station,nortc,2,
+Weekday,,35071,85047,19:33,,3NG100,1,
+Weekday,,35071,85047,19:34,Northgate Station,nortc,2,
+Weekday,,35255,85037,13:06,Northgate Station,nortc,1,
+Weekday,,35255,85037,13:09,,3NG100,2,
+Weekday,,35082,85062,22:48,,3NG100,1,
+Weekday,,35082,85062,22:49,Northgate Station,nortc,2,
+Weekday,,35073,85039,20:03,,3NG100,1,
+Weekday,,35073,85039,20:04,Northgate Station,nortc,2,
+Weekday,,35086,85066,24:47:00,,3NG100,1,
+Weekday,,35086,85066,24:48:00,Northgate Station,nortc,2,
+Weekday,,35293,85066,24:13:00,Northgate Station,nortc,1,
+Weekday,,35293,85066,24:16:00,,3NG100,2,
+Weekday,,35279,85047,19:21,Northgate Station,nortc,1,
+Weekday,,35279,85047,19:24,,3NG100,2,
+Weekday,,35291,85063,23:21,Northgate Station,nortc,1,
+Weekday,,35291,85063,23:24,,3NG100,2,
+Weekday,,35252,85036,12:21,Northgate Station,nortc,1,
+Weekday,,35252,85036,12:24,,3NG100,2,
+Weekday,,35288,85066,21:51,Northgate Station,nortc,1,
+Weekday,,35288,85066,21:54,,3NG100,2,
+Weekday,,35085,85065,24:13:00,,3NG100,1,
+Weekday,,35085,85065,24:14:00,Northgate Station,nortc,2,
+Weekday,,35078,85047,21:18,,3NG100,1,
+Weekday,,35078,85047,21:19,Northgate Station,nortc,2,
+Weekday,,35259,85036,14:06,Northgate Station,nortc,1,
+Weekday,,35259,85036,14:39,Lynnwood Transit Center,lynntc,2,
+Weekday,,35072,85063,19:48,,3NG100,1,
+Weekday,,35072,85063,19:49,Northgate Station,nortc,2,
+Weekday,,35297,85050,17:43,Seaway Transit Center,seaway,1,
+Weekday,,35297,85050,18:23,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35276,85058,18:36,Northgate Station,nortc,1,
+Weekday,,35276,85058,18:39,,3NG100,2,
+Weekday,,35203,85065,21:15,Everett Station,evtst,1,
+Weekday,,35203,85065,21:49,,3NG100,2,
+Weekday,,35018,85002, 5:42   ,,3NG100,1,
+Weekday,,35018,85002, 5:43   ,Northgate Station,nortc,2,
+Weekday,,35014,85044,17:52,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35014,85044,18:17,4thAv/Jacksn,4jack,2,
+Weekday,,35088,85003, 5:22   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35088,85003, 6:07   ,Everett Station,evtst,2,
+Weekday,,35080,85065,21:58,,3NG100,1,
+Weekday,,35080,85065,21:59,Northgate Station,nortc,2,
+Weekday,,35270,85034,17:06,Northgate Station,nortc,1,
+Weekday,,35270,85034,17:10,,3NG100,2,
+Weekday,,35215,85034,13:18,Lynnwood Transit Center,lynntc,1,
+Weekday,,35215,85034,13:53,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35263,85047,15:19,Northgate Station,nortc,1,
+Weekday,,35263,85047,15:52,4thAv/Jacksn,4jack,2,
+Weekday,,35064,85033,17:47,,3NG100,1,
+Weekday,,35064,85033,17:49,Northgate Station,nortc,2,
+Weekday,,35253,85033,12:36,Northgate Station,nortc,1,
+Weekday,,35253,85033,12:39,,3NG100,2,
+Weekday,,35044,85033,12:48,,3NG100,1,
+Weekday,,35044,85033,12:49,Northgate Station,nortc,2,
+Weekday,,35087,85002, 5:00   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35087,85002, 5:25   ,,3NG100,2,
+Weekday,,35242,85002, 9:51   ,Northgate Station,nortc,1,
+Weekday,,35242,85002, 9:54   ,,3NG100,2,
+Weekday,,35034,85002,10:03,,3NG100,1,
+Weekday,,35034,85002,10:04,Northgate Station,nortc,2,
+Weekday,,35070,85058,19:18,,3NG100,1,
+Weekday,,35070,85058,19:19,Northgate Station,nortc,2,
+Weekday,,35063,85034,17:32,,3NG100,1,
+Weekday,,35063,85034,17:34,Northgate Station,nortc,2,
+Weekday,,35232,85002, 7:21   ,Northgate Station,nortc,1,
+Weekday,,35232,85002, 7:25   ,,3NG100,2,
+Weekday,,35026,85002, 8:02   ,,3NG100,1,
+Weekday,,35026,85002, 8:04   ,Northgate Station,nortc,2,
+Weekday,,35212,85003,11:15,Lynnwood Transit Center,lynntc,1,
+Weekday,,35212,85003,11:38,,3NG100,2,
+Weekday,,35040,85003,11:48,,3NG100,1,
+Weekday,,35040,85003,11:49,Northgate Station,nortc,2,
+Weekday,,35001,85004, 5:18   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35001,85004, 5:58   ,Seaway Transit Center,seaway,2,
+Weekday,,35271,85033,17:21,Northgate Station,nortc,1,
+Weekday,,35271,85033,17:25,,3NG100,2,
+Weekday,,35023,85021, 7:11   ,,3NG100,1,
+Weekday,,35023,85021, 7:13   ,Northgate Station,nortc,2,
+Weekday,,35017,85005, 5:24   ,,3NG100,1,
+Weekday,,35017,85005, 5:25   ,Northgate Station,nortc,2,
+Weekday,,35248,85011,11:21,Northgate Station,nortc,1,
+Weekday,,35248,85011,11:24,,3NG100,2,
+Weekday,,35039,85011,11:33,,3NG100,1,
+Weekday,,35039,85011,11:34,Northgate Station,nortc,2,
+Weekday,,35235,85027, 8:06   ,Northgate Station,nortc,1,
+Weekday,,35235,85027, 8:10   ,,3NG100,2,
+Weekday,,35245,85030,10:36,Northgate Station,nortc,1,
+Weekday,,35245,85030,10:39,,3NG100,2,
+Weekday,,35025,85004, 7:47   ,,3NG100,1,
+Weekday,,35025,85004, 7:49   ,Northgate Station,nortc,2,
+Weekday,,35024,85020, 7:29   ,,3NG100,1,
+Weekday,,35024,85020, 7:31   ,Northgate Station,nortc,2,
+Weekday,,35037,85030,11:03,,3NG100,1,
+Weekday,,35037,85030,11:04,Northgate Station,nortc,2,
+Weekday,,35093,85020, 6:59   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35093,85020, 7:24   ,,3NG100,2,
+Weekday,,35224,85005, 5:13   ,Northgate Station,nortc,1,
+Weekday,,35224,85005, 5:16   ,,3NG100,2,
+Weekday,,35092,85017, 6:44   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35092,85017, 7:29   ,Everett Station,evtst,2,
+Weekday,,35234,85009, 7:51   ,Northgate Station,nortc,1,
+Weekday,,35234,85009, 7:55   ,,3NG100,2,
+Weekday,,35256,85038,13:21,Northgate Station,nortc,1,
+Weekday,,35256,85038,13:24,,3NG100,2,
+Weekday,,35028,85009, 8:32   ,,3NG100,1,
+Weekday,,35028,85009, 8:34   ,Northgate Station,nortc,2,
+Weekday,,35250,85035,11:51,Northgate Station,nortc,1,
+Weekday,,35250,85035,12:21,Everett Station,evtst,2,
+Weekday,,35027,85005, 8:17   ,,3NG100,1,
+Weekday,,35027,85005, 8:19   ,Northgate Station,nortc,2,
+Weekday,,35021,85016, 6:35   ,,3NG100,1,
+Weekday,,35021,85016, 6:37   ,Northgate Station,nortc,2,
+Weekday,,35029,85027, 8:47   ,,3NG100,1,
+Weekday,,35029,85027, 8:49   ,Northgate Station,nortc,2,
+Weekday,,35264,85051,15:35,Northgate Station,nortc,1,
+Weekday,,35264,85051,15:39,,3NG100,2,
+Weekday,,35243,85005,10:06,Northgate Station,nortc,1,
+Weekday,,35243,85005,10:09,,3NG100,2,
+Weekday,,35229,85019, 6:36   ,Northgate Station,nortc,1,
+Weekday,,35229,85019, 7:04   ,Everett Station,evtst,2,
+Weekday,,35233,85025, 7:36   ,Northgate Station,nortc,1,
+Weekday,,35233,85025, 8:04   ,Everett Station,evtst,2,
+Weekday,,35244,85009,10:21,Northgate Station,nortc,1,
+Weekday,,35244,85009,10:24,,3NG100,2,
+Weekday,,35033,85004, 9:48   ,,3NG100,1,
+Weekday,,35033,85004, 9:49   ,Northgate Station,nortc,2,
+Weekday,,35042,85005,12:18,,3NG100,1,
+Weekday,,35042,85005,12:19,Northgate Station,nortc,2,
+Weekday,,35172,85009,11:14,Everett Station,evtst,1,
+Weekday,,35172,85009,11:51,,3NG100,2,
+Weekday,,35241,85004, 9:36   ,Northgate Station,nortc,1,
+Weekday,,35241,85004, 9:39   ,,3NG100,2,
+Weekday,,35035,85005,10:18,,3NG100,1,
+Weekday,,35035,85005,10:19,Northgate Station,nortc,2,
+Weekday,,35247,85031,11:06,Northgate Station,nortc,1,
+Weekday,,35247,85031,11:24,Lynnwood Transit Center,lynntc,2,
+Weekday,,35254,85030,12:51,Northgate Station,nortc,1,
+Weekday,,35254,85030,12:54,,3NG100,2,
+Weekday,,35045,85030,13:03,,3NG100,1,
+Weekday,,35045,85030,13:04,Northgate Station,nortc,2,
+Weekday,,35094,85005, 7:17   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35094,85005, 7:42   ,,3NG100,2,
+Weekday,,35230,85021, 6:51   ,Northgate Station,nortc,1,
+Weekday,,35230,85021, 6:55   ,,3NG100,2,
+Weekday,,35089,85007, 5:49   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35089,85007, 6:34   ,Everett Station,evtst,2,
+Weekday,,35019,85009, 6:00   ,,3NG100,1,
+Weekday,,35019,85009, 6:01   ,Northgate Station,nortc,2,
+Weekday,,35231,85004, 7:06   ,Northgate Station,nortc,1,
+Weekday,,35231,85004, 7:10   ,,3NG100,2,
+Weekday,,35251,85005,12:06,Northgate Station,nortc,1,
+Weekday,,35251,85005,12:09,,3NG100,2,
+Weekday,,35225,85009, 5:37   ,Northgate Station,nortc,1,
+Weekday,,35225,85009, 5:40   ,,3NG100,2,
+Weekday,,35041,85009,12:03,,3NG100,1,
+Weekday,,35041,85009,12:04,Northgate Station,nortc,2,
+Weekday,,35090,85012, 6:08   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35090,85012, 6:33   ,,3NG100,2,
+Weekday,,35020,85013, 6:18   ,,3NG100,1,
+Weekday,,35020,85013, 6:19   ,Northgate Station,nortc,2,
+Weekday,,35007,85011, 8:26   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35007,85011, 8:53   ,,3NG100,2,
+Weekday,,35032,85011, 9:33   ,,3NG100,1,
+Weekday,,35032,85011, 9:34   ,Northgate Station,nortc,2,
+Weekday,,35022,85012, 6:53   ,,3NG100,1,
+Weekday,,35022,85012, 6:55   ,Northgate Station,nortc,2,
+Weekday,,35096,85007, 7:53   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35096,85007, 8:31   ,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35036,85009,10:33,,3NG100,1,
+Weekday,,35036,85009,10:34,Northgate Station,nortc,2,
+Weekday,,35091,85014, 6:25   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35091,85014, 7:10   ,Everett Station,evtst,2,
+Weekday,,35226,85010, 5:51   ,Northgate Station,nortc,1,
+Weekday,,35226,85010, 6:07   ,Lynnwood Transit Center,lynntc,2,
+Weekday,,35227,85013, 6:06   ,Northgate Station,nortc,1,
+Weekday,,35227,85013, 6:09   ,,3NG100,2,
+Weekday,,35003,85015, 6:25   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35003,85015, 7:05   ,Seaway Transit Center,seaway,2,
+Weekday,,35047,85038,13:33,,3NG100,1,
+Weekday,,35047,85038,13:34,Northgate Station,nortc,2,
+Weekday,,35228,85016, 6:21   ,Northgate Station,nortc,1,
+Weekday,,35228,85016, 6:24   ,,3NG100,2,
+Weekday,,35257,85035,13:36,Northgate Station,nortc,1,
+Weekday,,35257,85035,13:39,,3NG100,2,
+Weekday,,35048,85035,13:48,,3NG100,1,
+Weekday,,35048,85035,13:49,Northgate Station,nortc,2,
+Weekday,,35066,85051,18:17,,3NG100,1,
+Weekday,,35066,85051,18:19,Northgate Station,nortc,2,
+Weekday,,35058,85051,16:17,,3NG100,1,
+Weekday,,35058,85051,16:19,Northgate Station,nortc,2,
+Weekday,,35189,85051,17:20,Everett Station,evtst,1,
+Weekday,,35189,85051,17:56,,3NG100,2,
+Weekday,,35266,85055,16:06,Northgate Station,nortc,1,
+Weekday,,35266,85055,16:39,4thAv/Jacksn,4jack,2,
+Weekday,,35217,85042,14:52,Lynnwood Transit Center,lynntc,1,
+Weekday,,35217,85042,15:14,,3NG100,2,
+Weekday,,35055,85042,15:32,,3NG100,1,
+Weekday,,35055,85042,15:34,Northgate Station,nortc,2,
+Weekday,,35062,85043,17:17,,3NG100,1,
+Weekday,,35062,85043,17:19,Northgate Station,nortc,2,
+Weekday,,35191,85040,17:50,Everett Station,evtst,1,
+Weekday,,35191,85040,18:26,,3NG100,2,
+Weekday,,35065,85032,18:02,,3NG100,1,
+Weekday,,35065,85032,18:04,Northgate Station,nortc,2,
+Weekday,,35272,85032,17:36,Northgate Station,nortc,1,
+Weekday,,35272,85032,17:40,,3NG100,2,
+Weekday,,35188,85054,17:12,Everett Station,evtst,1,
+Weekday,,35188,85054,18:07,4thAv/Jacksn,4jack,2,
+Weekday,,35068,85040,18:48,,3NG100,1,
+Weekday,,35068,85040,18:49,Northgate Station,nortc,2,
+Weekday,,35274,85061,18:06,Northgate Station,nortc,1,
+Weekday,,35274,85061,18:10,,3NG100,2,
+Weekday,,35269,85043,16:51,Northgate Station,nortc,1,
+Weekday,,35269,85043,16:55,,3NG100,2,
+Weekday,,35067,85061,18:33,,3NG100,1,
+Weekday,,35067,85061,18:34,Northgate Station,nortc,2,
+Weekday,,35076,85050,20:48,,3NG100,1,
+Weekday,,35076,85050,20:49,Northgate Station,nortc,2,
+Weekday,,35220,85050,19:41,Lynnwood Transit Center,lynntc,1,
+Weekday,,35220,85050,20:04,,3NG100,2,
+Weekday,,35054,85032,15:17,,3NG100,1,
+Weekday,,35054,85032,15:19,Northgate Station,nortc,2,
+Weekday,,35216,85032,14:20,Lynnwood Transit Center,lynntc,1,
+Weekday,,35216,85032,14:42,,3NG100,2,
+Weekday,,35268,85040,16:36,Northgate Station,nortc,1,
+Weekday,,35268,85040,16:40,,3NG100,2,
+Weekday,,35192,85055,18:06,Everett Station,evtst,1,
+Weekday,,35192,85055,18:21,Kasch Park Base,base2,2,
+Weekday,,35164,85062,15:35,Kasch Park Base,base2,1,
+Weekday,,35164,85062,16:20,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35174,85011,12:14,Everett Station,evtst,1,
+Weekday,,35174,85011,12:29,Kasch Park Base,base2,2,
+Weekday,,35239,85029, 9:06   ,Northgate Station,nortc,1,
+Weekday,,35239,85029, 9:09   ,,3NG100,2,
+Weekday,,35267,85060,16:21,Northgate Station,nortc,1,
+Weekday,,35267,85060,16:54,4thAv/Jacksn,4jack,2,
+Weekday,,35206,85058,24:04:00,Hewitt Ave & Virginia Ave,hwvg,1,
+Weekday,,35206,85058,24:19:00,Kasch Park Base,base2,2,
+Weekday,,35049,85031,14:02,,3NG100,1,
+Weekday,,35049,85031,14:04,Northgate Station,nortc,2,
+Weekday,,35260,85043,14:21,Northgate Station,nortc,1,
+Weekday,,35260,85043,14:25,,3NG100,2,
+Weekday,,35265,85053,15:51,Northgate Station,nortc,1,
+Weekday,,35265,85053,16:18,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35050,85040,14:17,,3NG100,1,
+Weekday,,35050,85040,14:19,Northgate Station,nortc,2,
+Weekday,,35258,85040,13:51,Northgate Station,nortc,1,
+Weekday,,35258,85040,13:54,,3NG100,2,
+Weekday,,35051,85043,14:32,,3NG100,1,
+Weekday,,35051,85043,14:34,Northgate Station,nortc,2,
+Weekday,,35183,85050,15:42,Everett Station,evtst,1,
+Weekday,,35183,85050,16:18,,3NG100,2,
+Weekday,,35060,85040,16:47,,3NG100,1,
+Weekday,,35060,85040,16:49,Northgate Station,nortc,2,
+Weekday,,35246,85029,10:51,Northgate Station,nortc,1,
+Weekday,,35246,85029,11:09,Lynnwood Transit Center,lynntc,2,
+Weekday,,35061,85052,17:02,,3NG100,1,
+Weekday,,35061,85052,17:04,Northgate Station,nortc,2,
+Weekday,,35185,85049,16:13,Everett Station,evtst,1,
+Weekday,,35185,85049,17:08,4thAv/Jacksn,4jack,2,
+Weekday,,35261,85045,14:45,Northgate Station,nortc,1,
+Weekday,,35261,85045,15:18,4thAv/Jacksn,4jack,2,
+Weekday,,35178,85033,13:32,Everett Station,evtst,1,
+Weekday,,35178,85033,14:17,4thAv/Jacksn,4jack,2,
+Weekday,,35059,85050,16:32,,3NG100,1,
+Weekday,,35059,85050,16:34,Northgate Station,nortc,2,
+Weekday,,35184,85046,16:03,Everett Station,evtst,1,
+Weekday,,35184,85046,16:58,4thAv/Jacksn,4jack,2,
+Weekday,,35002,85008, 5:52   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35002,85008, 6:42   ,Everett Station,evtst,2,
+Weekday,,35207,85063,24:34:00,Hewitt Ave & Virginia Ave,hwvg,1,
+Weekday,,35207,85063,24:49:00,Kasch Park Base,base2,2,
+Weekday,,35102,85001, 3:45   ,Kasch Park Base,base2,1,
+Weekday,,35102,85001, 4:02   ,Everett Station,evtst,2,
+Weekday,,35222,85056,23:07,Lynnwood Transit Center,lynntc,1,
+Weekday,,35222,85056,23:27,Kasch Park Base,base2,2,
+Weekday,,35213,85006,12:15,Lynnwood Transit Center,lynntc,1,
+Weekday,,35213,85006,12:35,Kasch Park Base,base2,2,
+Weekday,,35122,85021, 5:44   ,Kasch Park Base,base2,1,
+Weekday,,35122,85021, 6:01   ,Everett Station,evtst,2,
+Weekday,,35031,85029, 9:18   ,,3NG100,1,
+Weekday,,35031,85029, 9:19   ,Northgate Station,nortc,2,
+Weekday,,35013,85031,12:47,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35013,85031,13:12,,3NG100,2,
+Weekday,,35236,85013, 8:21   ,Northgate Station,nortc,1,
+Weekday,,35236,85013, 8:25   ,,3NG100,2,
+Weekday,,35294,85052,16:06,Seaway Transit Center,seaway,1,
+Weekday,,35294,85052,16:41,,3NG100,2,
+Weekday,,35030,85013, 9:03   ,,3NG100,1,
+Weekday,,35030,85013, 9:04   ,Northgate Station,nortc,2,
+Weekday,,35171,85002,10:44,Everett Station,evtst,1,
+Weekday,,35171,85002,11:34,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35295,85042,16:40,Seaway Transit Center,seaway,1,
+Weekday,,35295,85042,16:50,Kasch Park Base,base2,2,
+Weekday,,35182,85031,14:53,Everett Station,evtst,1,
+Weekday,,35182,85031,15:43,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35151,85050,14:14,Kasch Park Base,base2,1,
+Weekday,,35151,85050,14:47,,3NG100,2,
+Weekday,,35163,85063,15:35,Kasch Park Base,base2,1,
+Weekday,,35163,85063,16:35,4thAv/Jacksn,4jack,2,
+Weekday,,35107,85006, 4:28   ,Kasch Park Base,base2,1,
+Weekday,,35107,85006, 4:50   ,Lynnwood Transit Center,lynntc,2,
+Weekday,,35112,85011, 4:58   ,Kasch Park Base,base2,1,
+Weekday,,35112,85011, 5:20   ,Lynnwood Transit Center,lynntc,2,
+Weekday,,35159,85058,15:05,Kasch Park Base,base2,1,
+Weekday,,35159,85058,16:05,4thAv/Jacksn,4jack,2,
+Weekday,,35205,85062,23:39,Hewitt Ave & Virginia Ave,hwvg,1,
+Weekday,,35205,85062,23:54,Kasch Park Base,base2,2,
+Weekday,,35289,85050,22:21,Northgate Station,nortc,1,
+Weekday,,35289,85050,22:51,Kasch Park Base,base2,2,
+Weekday,,35166,85065,16:52,Kasch Park Base,base2,1,
+Weekday,,35166,85065,17:37,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35249,85004,11:36,Northgate Station,nortc,1,
+Weekday,,35249,85004,12:06,Kasch Park Base,base2,2,
+Weekday,,35141,85040,12:46,Kasch Park Base,base2,1,
+Weekday,,35141,85040,13:03,Everett Station,evtst,2,
+Weekday,,35298,85052,18:13,Seaway Transit Center,seaway,1,
+Weekday,,35298,85052,18:23,Kasch Park Base,base2,2,
+Weekday,,35193,85053,18:10,Everett Station,evtst,1,
+Weekday,,35193,85053,18:25,Kasch Park Base,base2,2,
+Weekday,,35301,85061,19:29,Seaway Transit Center,seaway,1,
+Weekday,,35301,85061,19:39,Kasch Park Base,base2,2,
+Weekday,,35138,85037,12:02,Kasch Park Base,base2,1,
+Weekday,,35138,85037,12:19,Everett Station,evtst,2,
+Weekday,,35202,85039,20:45,Everett Station,evtst,1,
+Weekday,,35202,85039,21:00,Kasch Park Base,base2,2,
+Weekday,,35158,85057,15:02,Kasch Park Base,base2,1,
+Weekday,,35158,85057,15:47,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35302,85036,19:55,Seaway Transit Center,seaway,1,
+Weekday,,35302,85036,20:05,Kasch Park Base,base2,2,
+Weekday,,35008,85019, 8:35   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35008,85019, 9:15   ,Kasch Park Base,base2,2,
+Weekday,,35104,85003, 4:11   ,Kasch Park Base,base2,1,
+Weekday,,35104,85003, 4:28   ,Hewitt Ave & Fulton St,hwful,2,
+Weekday,,35176,85009,12:45,Everett Station,evtst,1,
+Weekday,,35176,85009,13:00,Kasch Park Base,base2,2,
+Weekday,,35157,85056,14:58,Kasch Park Base,base2,1,
+Weekday,,35157,85056,15:20,Lynnwood Transit Center,lynntc,2,
+Weekday,,35208,85065,25:03:00,Hewitt Ave & Virginia Ave,hwvg,1,
+Weekday,,35208,85065,25:18:00,Kasch Park Base,base2,2,
+Weekday,,35167,85066,17:00,Kasch Park Base,base2,1,
+Weekday,,35167,85066,18:00,4thAv/Jacksn,4jack,2,
+Weekday,,35124,85023, 6:13   ,Kasch Park Base,base2,1,
+Weekday,,35124,85023, 6:30   ,Everett Station,evtst,2,
+Weekday,,35280,85043,19:36,Northgate Station,nortc,1,
+Weekday,,35280,85043,20:06,Kasch Park Base,base2,2,
+Weekday,,35299,85034,18:40,Seaway Transit Center,seaway,1,
+Weekday,,35299,85034,18:50,Kasch Park Base,base2,2,
+Weekday,,35165,85064,16:35,Kasch Park Base,base2,1,
+Weekday,,35165,85064,17:20,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35177,85005,13:01,Everett Station,evtst,1,
+Weekday,,35177,85005,13:16,Kasch Park Base,base2,2,
+Weekday,,35173,85001,11:59,Everett Station,evtst,1,
+Weekday,,35173,85001,12:14,Kasch Park Base,base2,2,
+Weekday,,35196,85046,18:40,Everett Station,evtst,1,
+Weekday,,35196,85046,18:55,Kasch Park Base,base2,2,
+Weekday,,35130,85029, 8:03   ,Kasch Park Base,base2,1,
+Weekday,,35130,85029, 8:09   ,Seaway Transit Center,seaway,2,
+Weekday,,35240,85020, 9:21   ,Northgate Station,nortc,1,
+Weekday,,35240,85020, 9:51   ,Kasch Park Base,base2,2,
+Weekday,,35135,85034,10:28,Kasch Park Base,base2,1,
+Weekday,,35135,85034,10:50,Lynnwood Transit Center,lynntc,2,
+Weekday,,35114,85013, 5:12   ,Kasch Park Base,base2,1,
+Weekday,,35114,85013, 5:18   ,Seaway Transit Center,seaway,2,
+Weekday,,35010,85016, 9:09   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35010,85016, 9:49   ,Kasch Park Base,base2,2,
+Weekday,,35116,85015, 5:13   ,Kasch Park Base,base2,1,
+Weekday,,35116,85015, 5:30   ,Everett Station,evtst,2,
+Weekday,,35148,85047,14:06,Kasch Park Base,base2,1,
+Weekday,,35148,85047,14:28,Everett Station,evtst,2,
+Weekday,,35132,85031,10:02,Kasch Park Base,base2,1,
+Weekday,,35132,85031,10:19,Everett Station,evtst,2,
+Weekday,,35121,85020, 5:43   ,Kasch Park Base,base2,1,
+Weekday,,35121,85020, 6:00   ,Everett Station,evtst,2,
+Weekday,,35190,85031,17:30,Everett Station,evtst,1,
+Weekday,,35190,85031,17:45,Kasch Park Base,base2,2,
+Weekday,,35147,85046,13:50,Kasch Park Base,base2,1,
+Weekday,,35147,85046,14:50,4thAv/Jacksn,4jack,2,
+Weekday,,35214,85002,12:47,Lynnwood Transit Center,lynntc,1,
+Weekday,,35214,85002,13:07,Kasch Park Base,base2,2,
+Weekday,,35150,85049,14:12,Kasch Park Base,base2,1,
+Weekday,,35150,85049,14:57,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35200,85040,19:31,Everett Station,evtst,1,
+Weekday,,35200,85040,19:46,Kasch Park Base,base2,2,
+Weekday,,35199,85054,19:13,Everett Station,evtst,1,
+Weekday,,35199,85054,19:28,Kasch Park Base,base2,2,
+Weekday,,35175,85003,12:30,Everett Station,evtst,1,
+Weekday,,35175,85003,12:45,Kasch Park Base,base2,2,
+Weekday,,35170,85013, 9:45   ,Everett Station,evtst,1,
+Weekday,,35170,85013,10:00,Kasch Park Base,base2,2,
+Weekday,,35115,85014, 5:13   ,Kasch Park Base,base2,1,
+Weekday,,35115,85014, 5:30   ,Everett Station,evtst,2,
+Weekday,,35009,85018, 8:56   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35009,85018, 9:36   ,Kasch Park Base,base2,2,
+Weekday,,35099,85017, 8:59   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35099,85017, 9:45   ,Kasch Park Base,base2,2,
+Weekday,,35143,85042,13:05,Kasch Park Base,base2,1,
+Weekday,,35143,85042,13:50,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35118,85017, 5:28   ,Kasch Park Base,base2,1,
+Weekday,,35118,85017, 5:45   ,Everett Station,evtst,2,
+Weekday,,35129,85028, 7:43   ,Kasch Park Base,base2,1,
+Weekday,,35129,85028, 8:00   ,Everett Station,evtst,2,
+Weekday,,35108,85007, 4:32   ,Kasch Park Base,base2,1,
+Weekday,,35108,85007, 4:49   ,Hewitt Ave & Fulton St,hwful,2,
+Weekday,,35168,85021, 7:57   ,Everett Station,evtst,1,
+Weekday,,35168,85021, 8:14   ,Kasch Park Base,base2,2,
+Weekday,,35195,85049,18:30,Everett Station,evtst,1,
+Weekday,,35195,85049,18:45,Kasch Park Base,base2,2,
+Weekday,,35012,85026,11:17,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35012,85026,11:57,Kasch Park Base,base2,2,
+Weekday,,35142,85041,12:58,Kasch Park Base,base2,1,
+Weekday,,35142,85041,13:20,Lynnwood Transit Center,lynntc,2,
+Weekday,,35095,85023, 7:33   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35095,85023, 8:19   ,Kasch Park Base,base2,2,
+Weekday,,35209,85066,25:37:00,Hewitt Ave & Virginia Ave,hwvg,1,
+Weekday,,35209,85066,25:52:00,Kasch Park Base,base2,2,
+Weekday,,35098,85014, 8:38   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35098,85014, 9:24   ,Kasch Park Base,base2,2,
+Weekday,,35125,85024, 6:18   ,Kasch Park Base,base2,1,
+Weekday,,35125,85024, 6:35   ,Everett Station,evtst,2,
+Weekday,,35119,85018, 5:28   ,Kasch Park Base,base2,1,
+Weekday,,35119,85018, 5:50   ,Lynnwood Transit Center,lynntc,2,
+Weekday,,35218,85064,18:31,Lynnwood Transit Center,lynntc,1,
+Weekday,,35218,85064,18:51,Kasch Park Base,base2,2,
+Weekday,,35006,85024, 7:45   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35006,85024, 8:25   ,Kasch Park Base,base2,2,
+Weekday,,35275,85057,18:21,Northgate Station,nortc,1,
+Weekday,,35275,85057,18:51,Kasch Park Base,base2,2,
+Weekday,,35169,85027, 9:30   ,Everett Station,evtst,1,
+Weekday,,35169,85027, 9:45   ,Kasch Park Base,base2,2,
+Weekday,,35133,85032,10:05,Kasch Park Base,base2,1,
+Weekday,,35133,85032,10:50,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35004,85022, 7:12   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35004,85022, 7:52   ,Kasch Park Base,base2,2,
+Weekday,,35052,85050,14:47,,3NG100,1,
+Weekday,,35052,85050,14:49,Northgate Station,nortc,2,
+Weekday,,35210,85007,10:14,Lynnwood Transit Center,lynntc,1,
+Weekday,,35210,85007,10:34,Kasch Park Base,base2,2,
+Weekday,,35103,85002, 3:49   ,Kasch Park Base,base2,1,
+Weekday,,35103,85002, 4:06   ,Hewitt Ave & Fulton St,hwful,2,
+Weekday,,35106,85005, 4:16   ,Kasch Park Base,base2,1,
+Weekday,,35106,85005, 4:33   ,Everett Station,evtst,2,
+Weekday,,35161,85060,15:07,Kasch Park Base,base2,1,
+Weekday,,35161,85060,15:29,Everett Station,evtst,2,
+Weekday,,35154,85053,14:38,Kasch Park Base,base2,1,
+Weekday,,35154,85053,15:00,Everett Station,evtst,2,
+Weekday,,35105,85004, 4:13   ,Kasch Park Base,base2,1,
+Weekday,,35105,85004, 4:30   ,Everett Station,evtst,2,
+Weekday,,35100,85028, 9:17   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35100,85028,10:03,Kasch Park Base,base2,2,
+Weekday,,35126,85025, 6:30   ,Kasch Park Base,base2,1,
+Weekday,,35126,85025, 6:36   ,Seaway Transit Center,seaway,2,
+Weekday,,35113,85012, 4:58   ,Kasch Park Base,base2,1,
+Weekday,,35113,85012, 5:15   ,Everett Station,evtst,2,
+Weekday,,35197,85033,18:41,Everett Station,evtst,1,
+Weekday,,35197,85033,18:56,Kasch Park Base,base2,2,
+Weekday,,35053,85052,15:02,,3NG100,1,
+Weekday,,35053,85052,15:04,Northgate Station,nortc,2,
+Weekday,,35186,85029,16:48,Everett Station,evtst,1,
+Weekday,,35186,85029,17:03,Kasch Park Base,base2,2,
+Weekday,,35123,85022, 5:48   ,Kasch Park Base,base2,1,
+Weekday,,35123,85022, 6:05   ,Everett Station,evtst,2,
+Weekday,,35156,85055,14:52,Kasch Park Base,base2,1,
+Weekday,,35156,85055,15:14,Everett Station,evtst,2,
+Weekday,,35120,85019, 5:36   ,Kasch Park Base,base2,1,
+Weekday,,35120,85019, 5:42   ,Seaway Transit Center,seaway,2,
+Weekday,,35109,85009, 4:43   ,Kasch Park Base,base2,1,
+Weekday,,35109,85009, 4:49   ,Seaway Transit Center,seaway,2,
+Weekday,,35238,85012, 8:51   ,Northgate Station,nortc,1,
+Weekday,,35238,85012, 9:21   ,Kasch Park Base,base2,2,
+Weekday,,35101,85025, 9:35   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35101,85025,10:21,Kasch Park Base,base2,2,
+Weekday,,35117,85016, 5:21   ,Kasch Park Base,base2,1,
+Weekday,,35117,85016, 5:38   ,Everett Station,evtst,2,
+Weekday,,35128,85027, 6:57   ,Kasch Park Base,base2,1,
+Weekday,,35128,85027, 7:03   ,Seaway Transit Center,seaway,2,
+Weekday,,35237,85015, 8:36   ,Northgate Station,nortc,1,
+Weekday,,35237,85015, 9:06   ,Kasch Park Base,base2,2,
+Weekday,,35284,85044,20:36,Northgate Station,nortc,1,
+Weekday,,35284,85044,21:06,Kasch Park Base,base2,2,
+Weekday,,35056,85061,15:47,,3NG100,1,
+Weekday,,35056,85061,15:49,Northgate Station,nortc,2,
+Weekday,,35134,85033,10:14,Kasch Park Base,base2,1,
+Weekday,,35134,85033,10:49,Northgate Station,nortc,2,
+Weekday,,35146,85045,13:39,Kasch Park Base,base2,1,
+Weekday,,35146,85045,13:56,Everett Station,evtst,2,
+Weekday,,35153,85052,14:29,Kasch Park Base,base2,1,
+Weekday,,35153,85052,15:02,,3NG100,2,
+Weekday,,35144,85043,13:15,Kasch Park Base,base2,1,
+Weekday,,35144,85043,13:32,Everett Station,evtst,2,
+Weekday,,35137,85036,11:17,Kasch Park Base,base2,1,
+Weekday,,35137,85036,11:34,Everett Station,evtst,2,
+Weekday,,35155,85054,14:50,Kasch Park Base,base2,1,
+Weekday,,35155,85054,15:50,4thAv/Jacksn,4jack,2,
+Weekday,,35300,85032,19:05,Seaway Transit Center,seaway,1,
+Weekday,,35300,85032,19:15,Kasch Park Base,base2,2,
+Weekday,,35204,85047,21:59,Everett Station,evtst,1,
+Weekday,,35204,85047,22:14,Kasch Park Base,base2,2,
+Weekday,,35162,85061,15:14,Kasch Park Base,base2,1,
+Weekday,,35162,85061,15:47,,3NG100,2,
+Weekday,,35015,85037,20:14,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35015,85037,20:54,Kasch Park Base,base2,2,
+Weekday,,35194,85060,18:16,Everett Station,evtst,1,
+Weekday,,35194,85060,18:31,Kasch Park Base,base2,2,
+Weekday,,35219,85041,18:54,Lynnwood Transit Center,lynntc,1,
+Weekday,,35219,85041,19:14,Kasch Park Base,base2,2,
+Weekday,,35140,85039,12:28,Kasch Park Base,base2,1,
+Weekday,,35140,85039,12:50,Lynnwood Transit Center,lynntc,2,
+Weekday,,35187,85045,16:49,Everett Station,evtst,1,
+Weekday,,35187,85045,17:04,Kasch Park Base,base2,2,
+Weekday,,35145,85044,13:28,Kasch Park Base,base2,1,
+Weekday,,35145,85044,13:50,Lynnwood Transit Center,lynntc,2,
+Weekday,,35127,85026, 6:38   ,Kasch Park Base,base2,1,
+Weekday,,35127,85026, 6:55   ,Everett Station,evtst,2,
+Weekday,,35097,85008, 8:13   ,5th Ave S & S Jackson St,5jack,1,
+Weekday,,35097,85008, 8:59   ,Kasch Park Base,base2,2,
+Weekday,,35111,85010, 4:51   ,Kasch Park Base,base2,1,
+Weekday,,35111,85010, 5:08   ,Everett Station,evtst,2,
+Weekday,,35005,85010, 7:15   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35005,85010, 7:55   ,Lynnwood Transit Center,lynntc,2,
+Weekday,,35110,85008, 4:43   ,Kasch Park Base,base2,1,
+Weekday,,35110,85008, 5:00   ,Everett Station,evtst,2,
+Weekday,,35011,85010, 9:54   ,NE 10th St & 102nd Ave NE,10102,1,
+Weekday,,35011,85010,10:34,Kasch Park Base,base2,2,
+Weekday,,35273,85048,17:51,Northgate Station,nortc,1,
+Weekday,,35273,85048,18:21,Kasch Park Base,base2,2,
+Weekday,,35160,85059,15:05,Kasch Park Base,base2,1,
+Weekday,,35160,85059,15:50,NE 10th St & 102nd Ave NE,10102,2,
+Weekday,,35179,85030,13:49,Everett Station,evtst,1,
+Weekday,,35179,85030,14:04,Kasch Park Base,base2,2,
+Weekday,,35180,85038,14:19,Everett Station,evtst,1,
+Weekday,,35180,85038,14:34,Kasch Park Base,base2,2,
+Weekday,,35223,85001, 4:41   ,Northgate Station,nortc,1,
+Weekday,,35223,85001, 4:44   ,,3NG100,2,
+Weekday,,35131,85030, 9:30   ,Kasch Park Base,base2,1,
+Weekday,,35131,85030, 9:47   ,Everett Station,evtst,2,
+Weekday,,35038,85001,11:18,,3NG100,1,
+Weekday,,35038,85001,11:19,Northgate Station,nortc,2,
+Weekday,,35149,85048,14:10,Kasch Park Base,base2,1,
+Weekday,,35149,85048,15:10,4thAv/Jacksn,4jack,2,
+Weekday,,35016,85001, 5:06   ,,3NG100,1,
+Weekday,,35016,85001, 5:07   ,Northgate Station,nortc,2,
+Weekday,,35181,85035,14:36,Everett Station,evtst,1,
+Weekday,,35181,85035,14:51,Kasch Park Base,base2,2,
+Weekday,,35152,85051,14:22,Kasch Park Base,base2,1,
+Weekday,,35152,85051,14:44,Everett Station,evtst,2,
+Weekday,,35211,85001,10:44,Lynnwood Transit Center,lynntc,1,
+Weekday,,35211,85001,11:07,,3NG100,2,
+Weekday,,35198,85051,19:07,Everett Station,evtst,1,
+Weekday,,35198,85051,19:22,Kasch Park Base,base2,2,
+Weekday,,35201,85059,19:37,Everett Station,evtst,1,
+Weekday,,35201,85059,19:52,Kasch Park Base,base2,2,
+Weekday,,35139,85038,12:16,Kasch Park Base,base2,1,
+Weekday,,35139,85038,12:33,Everett Station,evtst,2,
+Weekday,,35136,85035,10:47,Kasch Park Base,base2,1,
+Weekday,,35136,85035,11:04,Everett Station,evtst,2,
