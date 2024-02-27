@@ -32,3 +32,6 @@ service_change,url_endpoint,description
 2024-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_WKD_MAR24_SV_scada_schedule_viewer.csv,Link March 2024
 2024-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_SAT_MAR24_SV_scada_schedule_viewer.csv,Link March 2024
 2024-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/PT_SUN_MAR24_SV_scada_schedule_viewer.csv,Link March 2024
+2024-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_Mar24_Wkdy_scada.csv,CT March 2024
+2024-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_Mar24_Sat_scada.csv,CT March 2024
+2024-03,https://raw.githubusercontent.com/alexanderlew-soundtransit/alexanderlew-soundtransit.github.io/main/data/CT_Mar24_Sun_scada.csv,CT March 2024
